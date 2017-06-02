@@ -1,0 +1,883 @@
+1818	03	02	Times	0002	1818	03	02	MorningChronicle	0002
+1818	03	02	Times	0003	1818	03	02	MorningChronicle	0003
+1818	03	03		0001	1818	03	02	HampshirePortsmouthTelegraph	0001
+1818	03	03		0001	1818	03	02	HampshirePortsmouthTelegraph	0002
+1818	03	03		0002	1818	03	02	CaledonianMercury	0002
+1818	03	03		0003	1818	03	02	CaledonianMercury	0002
+1818	03	03		0004	1818	03	01	Examiner	0016
+1818	03	03	MorningChronicle	0003	1818	03	02	Times	0002
+1818	03	03	Times	0002	1818	03	03	MorningChronicle	0002
+1818	03	03	Times	0002	1818	03	03	MorningChronicle	0003
+1818	03	03	Times	0003	1818	03	03		0003
+1818	03	03	Times	0003	1818	03	03	MorningChronicle	0003
+1818	03	04	AberdeenJournal	0003	1818	03	02	HampshirePortsmouthTelegraph	0002
+1818	03	04	MorningChronicle	0004	1818	03	02	Times	0003
+1818	03	04	Times	0004	1818	03	03	MorningChronicle	0001
+1818	03	04	Times	0004	1818	03	04	MorningChronicle	0004
+1818	03	05	CaledonianMercury	0001	1818	03	03		0001
+1818	03	05	CaledonianMercury	0002	1818	03	02	MorningChronicle	0003
+1818	03	05	CaledonianMercury	0002	1818	03	02	Times	0003
+1818	03	05	CaledonianMercury	0003	1818	03	03	Times	0003
+1818	03	05	MorningChronicle	0003	1818	03	03		0003
+1818	03	05	MorningChronicle	0003	1818	03	03	Times	0003
+1818	03	05	Times	0002	1818	03	04	MorningChronicle	0001
+1818	03	05	Trewman'sExeterFlyingPost	0001	1818	03	02	MorningChronicle	0003
+1818	03	05	Trewman'sExeterFlyingPost	0001	1818	03	02	Times	0003
+1818	03	05	Trewman'sExeterFlyingPost	0001	1818	03	05	CaledonianMercury	0002
+1818	03	05	Trewman'sExeterFlyingPost	0002	1818	03	03		0001
+1818	03	05	Trewman'sExeterFlyingPost	0002	1818	03	03	MorningChronicle	0001
+1818	03	05	Trewman'sExeterFlyingPost	0003	1818	03	03		0001
+1818	03	05	Trewman'sExeterFlyingPost	0003	1818	03	05	CaledonianMercury	0001
+1818	03	05	Trewman'sExeterFlyingPost	0004	1818	03	03	MorningChronicle	0002
+1818	03	06	LiverpoolMercury	0002	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	06	LiverpoolMercury	0003	1818	03	01	Examiner	0014
+1818	03	06	LiverpoolMercury	0003	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	06	LiverpoolMercury	0005	1818	03	03		0002
+1818	03	06	LiverpoolMercury	0006	1818	03	02	MorningChronicle	0003
+1818	03	06	LiverpoolMercury	0006	1818	03	02	Times	0003
+1818	03	06	LiverpoolMercury	0006	1818	03	05	CaledonianMercury	0002
+1818	03	06	LiverpoolMercury	0006	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	06	LiverpoolMercury	0008	1818	03	03	MorningChronicle	0002
+1818	03	06	LiverpoolMercury	0008	1818	03	03	Times	0002
+1818	03	06	MorningChronicle	0004	1818	03	04	Times	0004
+1818	03	06	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	07	CaledonianMercury	0002	1818	03	03	Times	0002
+1818	03	07	Jackson'sOxfordJournal	0002	1818	03	03		0003
+1818	03	07	Jackson'sOxfordJournal	0002	1818	03	03	Times	0003
+1818	03	07	Jackson'sOxfordJournal	0002	1818	03	05	MorningChronicle	0003
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	02	MorningChronicle	0003
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	02	Times	0003
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	03	MorningChronicle	0003
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	05	CaledonianMercury	0002
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	05	Trewman'sExeterFlyingPost	0003
+1818	03	07	Jackson'sOxfordJournal	0004	1818	03	06	LiverpoolMercury	0006
+1818	03	07	IpswichJournal	0001	1818	03	05	Trewman'sExeterFlyingPost	0003
+1818	03	07	IpswichJournal	0001	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	07	IpswichJournal	0002	1818	03	07	Jackson'sOxfordJournal	0002
+1818	03	07	IpswichJournal	0003	1818	03	06	MorningChronicle	0001
+1818	03	07	IpswichJournal	0004	1818	03	02	MorningChronicle	0003
+1818	03	07	IpswichJournal	0004	1818	03	02	Times	0003
+1818	03	07	IpswichJournal	0004	1818	03	05	CaledonianMercury	0002
+1818	03	07	IpswichJournal	0004	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	07	IpswichJournal	0004	1818	03	06	LiverpoolMercury	0006
+1818	03	07	IpswichJournal	0004	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	07	LeedsMercury	0001	1818	03	03		0002
+1818	03	07	LeedsMercury	0001	1818	03	06	LiverpoolMercury	0005
+1818	03	07	LeedsMercury	0002	1818	03	02	MorningChronicle	0002
+1818	03	07	LeedsMercury	0002	1818	03	02	MorningChronicle	0003
+1818	03	07	LeedsMercury	0002	1818	03	02	Times	0002
+1818	03	07	LeedsMercury	0002	1818	03	02	Times	0003
+1818	03	07	LeedsMercury	0002	1818	03	03		0003
+1818	03	07	LeedsMercury	0002	1818	03	04	MorningChronicle	0002
+1818	03	07	LeedsMercury	0002	1818	03	05	CaledonianMercury	0002
+1818	03	07	LeedsMercury	0002	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	07	LeedsMercury	0002	1818	03	06	LiverpoolMercury	0005
+1818	03	07	LeedsMercury	0002	1818	03	06	LiverpoolMercury	0006
+1818	03	07	LeedsMercury	0002	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	07	LeedsMercury	0002	1818	03	07	IpswichJournal	0004
+1818	03	07	LeedsMercury	0003	1818	03	05	Times	0002
+1818	03	07	LeedsMercury	0003	1818	03	05	Times	0003
+1818	03	07	LeedsMercury	0004	1818	03	03		0001
+1818	03	07	LeedsMercury	0004	1818	03	05	Trewman'sExeterFlyingPost	0003
+1818	03	07	LeedsMercury	0004	1818	03	06	LiverpoolMercury	0005
+1818	03	07	LeedsMercury	0004	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	07	LeedsMercury	0004	1818	03	07	IpswichJournal	0001
+1818	03	07	MorningChronicle	0002	1818	03	04	Times	0001
+1818	03	07	MorningChronicle	0003	1818	03	06	Times	0004
+1818	03	07	Times	0001	1818	03	06	MorningChronicle	0001
+1818	03	07	Times	0002	1818	03	07	MorningChronicle	0003
+1818	03	07	Times	0003	1818	03	07	MorningChronicle	0003
+1818	03	07	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	08	Examiner	0009	1818	03	03	MorningChronicle	0003
+1818	03	08	Examiner	0010	1818	03	05	Times	0003
+1818	03	09	CaledonianMercury	0002	1818	03	05	Times	0002
+1818	03	09	CaledonianMercury	0002	1818	03	06	Times	0004
+1818	03	09	CaledonianMercury	0002	1818	03	07	Jackson'sOxfordJournal	0002
+1818	03	09	CaledonianMercury	0002	1818	03	07	MorningChronicle	0003
+1818	03	09	CaledonianMercury	0002	1818	03	07	Times	0003
+1818	03	09	HampshirePortsmouthTelegraph	0001	1818	03	07	IpswichJournal	0001
+1818	03	09	HampshirePortsmouthTelegraph	0002	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	09	MorningChronicle	0004	1818	03	03	Times	0004
+1818	03	09	MorningChronicle	0004	1818	03	07	Times	0004
+1818	03	09	Times	0002	1818	03	07	LeedsMercury	0002
+1818	03	09	Times	0002	1818	03	09	MorningChronicle	0001
+1818	03	09	Times	0002	1818	03	09	MorningChronicle	0002
+1818	03	09	Times	0003	1818	03	07	MorningChronicle	0003
+1818	03	09	Times	0003	1818	03	09	HampshirePortsmouthTelegraph	0004
+1818	03	09	Times	0003	1818	03	09	MorningChronicle	0003
+1818	03	09	Times	0004	1818	03	04	MorningChronicle	0004
+1818	03	09	Times	0004	1818	03	07	MorningChronicle	0004
+1818	03	09	Times	0004	1818	03	09	MorningChronicle	0003
+1818	03	10		0001	1818	03	02	MorningChronicle	0002
+1818	03	10		0001	1818	03	02	MorningChronicle	0003
+1818	03	10		0001	1818	03	02	Times	0003
+1818	03	10		0001	1818	03	05	CaledonianMercury	0002
+1818	03	10		0001	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	10		0001	1818	03	06	LiverpoolMercury	0006
+1818	03	10		0001	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	10		0001	1818	03	07	IpswichJournal	0004
+1818	03	10		0001	1818	03	07	LeedsMercury	0002
+1818	03	10		0002	1818	03	07	LeedsMercury	0002
+1818	03	10		0002	1818	03	09	Times	0002
+1818	03	10		0003	1818	03	07	LeedsMercury	0003
+1818	03	10		0004	1818	03	05	Trewman'sExeterFlyingPost	0003
+1818	03	10		0004	1818	03	07	IpswichJournal	0001
+1818	03	10		0004	1818	03	07	IpswichJournal	0004
+1818	03	10	MorningChronicle	0003	1818	03	09	HampshirePortsmouthTelegraph	0004
+1818	03	10	MorningChronicle	0003	1818	03	09	Times	0002
+1818	03	10	MorningChronicle	0003	1818	03	09	Times	0003
+1818	03	10	MorningChronicle	0004	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	10	MorningChronicle	0004	1818	03	07	IpswichJournal	0003
+1818	03	10	Times	0002	1818	03	10	MorningChronicle	0001
+1818	03	10	Times	0003	1818	03	07	MorningChronicle	0003
+1818	03	10	Times	0003	1818	03	10	MorningChronicle	0003
+1818	03	10	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	10	Times	0004	1818	03	04	MorningChronicle	0004
+1818	03	10	Times	0004	1818	03	07	MorningChronicle	0004
+1818	03	10	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	11	AberdeenJournal	0004	1818	03	07	CaledonianMercury	0004
+1818	03	11	MorningChronicle	0003	1818	03	10	Times	0003
+1818	03	11	Times	0001	1818	03	04	MorningChronicle	0001
+1818	03	11	Times	0001	1818	03	09	MorningChronicle	0001
+1818	03	11	Times	0001	1818	03	10	MorningChronicle	0001
+1818	03	11	Times	0003	1818	03	07	LeedsMercury	0003
+1818	03	11	Times	0004	1818	03	07	IpswichJournal	0003
+1818	03	11	Times	0004	1818	03	07	MorningChronicle	0004
+1818	03	11	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	11	Times	0004	1818	03	10	MorningChronicle	0004
+1818	03	12	CaledonianMercury	0002	1818	03	07	Times	0002
+1818	03	12	CaledonianMercury	0002	1818	03	07	Times	0003
+1818	03	12	CaledonianMercury	0002	1818	03	09	MorningChronicle	0002
+1818	03	12	CaledonianMercury	0002	1818	03	09	Times	0002
+1818	03	12	CaledonianMercury	0002	1818	03	09	Times	0003
+1818	03	12	CaledonianMercury	0003	1818	03	10		0002
+1818	03	12	MorningChronicle	0001	1818	03	07	Times	0003
+1818	03	12	Times	0001	1818	03	12	MorningChronicle	0001
+1818	03	12	Times	0004	1818	03	11	MorningChronicle	0003
+1818	03	12	Times	0004	1818	03	12	MorningChronicle	0001
+1818	03	12	Trewman'sExeterFlyingPost	0001	1818	03	07	MorningChronicle	0003
+1818	03	12	Trewman'sExeterFlyingPost	0001	1818	03	09	Times	0002
+1818	03	12	Trewman'sExeterFlyingPost	0001	1818	03	10	MorningChronicle	0003
+1818	03	12	Trewman'sExeterFlyingPost	0001	1818	03	12	CaledonianMercury	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	03	MorningChronicle	0001
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	05	Times	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	07	Jackson'sOxfordJournal	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	07	IpswichJournal	0001
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	07	LeedsMercury	0004
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	07	MorningChronicle	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	07	Times	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	09	CaledonianMercury	0002
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	10		0004
+1818	03	12	Trewman'sExeterFlyingPost	0002	1818	03	10	MorningChronicle	0004
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	03		0004
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	05	MorningChronicle	0003
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	06	MorningChronicle	0004
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	06	Times	0004
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	10		0001
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	10		0002
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	10		0004
+1818	03	12	Trewman'sExeterFlyingPost	0003	1818	03	12	CaledonianMercury	0003
+1818	03	12	Trewman'sExeterFlyingPost	0004	1818	03	10	MorningChronicle	0003
+1818	03	13	LiverpoolMercury	0001	1818	03	10		0002
+1818	03	13	LiverpoolMercury	0001	1818	03	12	CaledonianMercury	0003
+1818	03	13	LiverpoolMercury	0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	13	LiverpoolMercury	0002	1818	03	05	MorningChronicle	0002
+1818	03	13	LiverpoolMercury	0002	1818	03	06	MorningChronicle	0002
+1818	03	13	LiverpoolMercury	0003	1818	03	12	Trewman'sExeterFlyingPost	0001
+1818	03	13	LiverpoolMercury	0005	1818	03	03		0002
+1818	03	13	LiverpoolMercury	0005	1818	03	07	LeedsMercury	0002
+1818	03	13	LiverpoolMercury	0005	1818	03	07	LeedsMercury	0004
+1818	03	13	LiverpoolMercury	0006	1818	03	06	Times	0004
+1818	03	13	LiverpoolMercury	0006	1818	03	07	LeedsMercury	0003
+1818	03	13	LiverpoolMercury	0006	1818	03	07	MorningChronicle	0003
+1818	03	13	LiverpoolMercury	0006	1818	03	09	CaledonianMercury	0002
+1818	03	13	LiverpoolMercury	0006	1818	03	11	Times	0003
+1818	03	13	LiverpoolMercury	0008	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	13	LiverpoolMercury	0008	1818	03	10		0001
+1818	03	13	LiverpoolMercury	0008	1818	03	10	Times	0003
+1818	03	13	MorningChronicle	0001	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	13	MorningChronicle	0001	1818	03	05	Trewman'sExeterFlyingPost	0004
+1818	03	13	MorningChronicle	0001	1818	03	07	Jackson'sOxfordJournal	0002
+1818	03	13	MorningChronicle	0001	1818	03	07	IpswichJournal	0003
+1818	03	13	MorningChronicle	0001	1818	03	07	Times	0001
+1818	03	13	MorningChronicle	0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	13	MorningChronicle	0002	1818	03	12	Times	0004
+1818	03	13	MorningChronicle	0004	1818	03	09	Times	0004
+1818	03	13	MorningChronicle	0004	1818	03	10	Times	0004
+1818	03	13	MorningChronicle	0004	1818	03	11	Times	0004
+1818	03	13	Times	0002	1818	03	12	MorningChronicle	0001
+1818	03	13	Times	0002	1818	03	13	MorningChronicle	0002
+1818	03	13	Times	0003	1818	03	13	MorningChronicle	0003
+1818	03	13	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	13	Times	0004	1818	03	07	MorningChronicle	0004
+1818	03	13	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	13	Times	0004	1818	03	10	MorningChronicle	0004
+1818	03	13	Times	0004	1818	03	13	MorningChronicle	0004
+1818	03	14	CaledonianMercury	0002	1818	03	10	Times	0002
+1818	03	14	Jackson'sOxfordJournal	0001	1818	03	04	Times	0001
+1818	03	14	Jackson'sOxfordJournal	0001	1818	03	07	MorningChronicle	0002
+1818	03	14	Jackson'sOxfordJournal	0002	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	14	Jackson'sOxfordJournal	0004	1818	03	06	MorningChronicle	0001
+1818	03	14	Jackson'sOxfordJournal	0004	1818	03	09	Times	0003
+1818	03	14	Jackson'sOxfordJournal	0004	1818	03	10	MorningChronicle	0003
+1818	03	14	Jackson'sOxfordJournal	0004	1818	03	10	MorningChronicle	0004
+1818	03	14	Jackson'sOxfordJournal	0004	1818	03	13	MorningChronicle	0001
+1818	03	14	IpswichJournal	0001	1818	03	03		0001
+1818	03	14	IpswichJournal	0001	1818	03	06	MorningChronicle	0001
+1818	03	14	IpswichJournal	0001	1818	03	07	LeedsMercury	0004
+1818	03	14	IpswichJournal	0001	1818	03	10		0004
+1818	03	14	IpswichJournal	0001	1818	03	10	MorningChronicle	0004
+1818	03	14	IpswichJournal	0001	1818	03	11	Times	0004
+1818	03	14	IpswichJournal	0001	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	14	IpswichJournal	0001	1818	03	13	MorningChronicle	0001
+1818	03	14	IpswichJournal	0004	1818	03	09	MorningChronicle	0003
+1818	03	14	IpswichJournal	0004	1818	03	09	Times	0003
+1818	03	14	IpswichJournal	0004	1818	03	10		0002
+1818	03	14	IpswichJournal	0004	1818	03	10	Times	0003
+1818	03	14	IpswichJournal	0004	1818	03	11	Times	0003
+1818	03	14	IpswichJournal	0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	14	IpswichJournal	0004	1818	03	13	LiverpoolMercury	0001
+1818	03	14	MorningChronicle	0004	1818	03	13	Times	0004
+1818	03	14	Times	0001	1818	03	10	MorningChronicle	0001
+1818	03	14	Times	0001	1818	03	13	MorningChronicle	0001
+1818	03	14	Times	0001	1818	03	14	MorningChronicle	0001
+1818	03	14	Times	0002	1818	03	14	MorningChronicle	0003
+1818	03	14	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	14	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	14	Times	0004	1818	03	12	MorningChronicle	0004
+1818	03	14	Times	0004	1818	03	14	MorningChronicle	0004
+1818	03	15	Examiner	0003	1818	03	10	Times	0002
+1818	03	15	Examiner	0003	1818	03	11	Times	0003
+1818	03	15	Examiner	0003	1818	03	13	Times	0002
+1818	03	15	Examiner	0004	1818	03	10	Times	0002
+1818	03	15	Examiner	0004	1818	03	14	CaledonianMercury	0002
+1818	03	15	Examiner	0005	1818	03	11	Times	0002
+1818	03	15	Examiner	0006	1818	03	12	Times	0002
+1818	03	15	Examiner	0007	1818	03	12	Times	0002
+1818	03	15	Examiner	0008	1818	03	12	Times	0002
+1818	03	15	Examiner	0009	1818	03	12	Times	0002
+1818	03	15	Examiner	0009	1818	03	13	Times	0002
+1818	03	15	Examiner	0010	1818	03	13	Times	0002
+1818	03	15	Examiner	0012	1818	03	11	Times	0003
+1818	03	15	Examiner	0015	1818	03	13	MorningChronicle	0003
+1818	03	15	Examiner	0015	1818	03	13	Times	0003
+1818	03	15	Examiner	0016	1818	03	10	Times	0003
+1818	03	16	CaledonianMercury	0002	1818	03	12	Times	0002
+1818	03	16	HampshirePortsmouthTelegraph	0002	1818	03	05	Times	0003
+1818	03	16	MorningChronicle	0003	1818	03	07	CaledonianMercury	0003
+1818	03	16	MorningChronicle	0004	1818	03	07	Times	0004
+1818	03	16	MorningChronicle	0004	1818	03	10	Times	0004
+1818	03	16	MorningChronicle	0004	1818	03	14	Times	0004
+1818	03	16	Times	0001	1818	03	09	MorningChronicle	0001
+1818	03	16	Times	0001	1818	03	14	MorningChronicle	0001
+1818	03	16	Times	0001	1818	03	16	MorningChronicle	0001
+1818	03	16	Times	0002	1818	03	16	HampshirePortsmouthTelegraph	0003
+1818	03	16	Times	0003	1818	03	16	HampshirePortsmouthTelegraph	0004
+1818	03	16	Times	0003	1818	03	16	MorningChronicle	0003
+1818	03	16	Times	0004	1818	03	03		0002
+1818	03	16	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	16	Times	0004	1818	03	10		0002
+1818	03	16	Times	0004	1818	03	13	MorningChronicle	0004
+1818	03	16	Times	0004	1818	03	14	MorningChronicle	0004
+1818	03	16	Times	0004	1818	03	16	MorningChronicle	0004
+1818	03	17		0001	1818	03	05	Trewman'sExeterFlyingPost	0001
+1818	03	17		0001	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	17		0001	1818	03	09	MorningChronicle	0003
+1818	03	17		0001	1818	03	09	Times	0003
+1818	03	17		0001	1818	03	12	CaledonianMercury	0002
+1818	03	17		0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	17		0001	1818	03	13	LiverpoolMercury	0006
+1818	03	17		0001	1818	03	14	IpswichJournal	0001
+1818	03	17		0004	1818	03	11	Times	0003
+1818	03	17		0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	17	MorningChronicle	0001	1818	03	12	CaledonianMercury	0004
+1818	03	17	MorningChronicle	0001	1818	03	14	Times	0001
+1818	03	17	MorningChronicle	0003	1818	03	16	HampshirePortsmouthTelegraph	0004
+1818	03	17	MorningChronicle	0003	1818	03	16	Times	0002
+1818	03	17	MorningChronicle	0004	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	17	MorningChronicle	0004	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	17	MorningChronicle	0004	1818	03	14	Times	0004
+1818	03	17	Times	0002	1818	03	17	MorningChronicle	0003
+1818	03	17	Times	0003	1818	03	16	MorningChronicle	0003
+1818	03	17	Times	0003	1818	03	17	MorningChronicle	0002
+1818	03	17	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	03	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	13	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	14	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	16	MorningChronicle	0004
+1818	03	17	Times	0004	1818	03	17	MorningChronicle	0004
+1818	03	18	MorningChronicle	0001	1818	03	05	Times	0001
+1818	03	18	MorningChronicle	0001	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	18	MorningChronicle	0001	1818	03	14	Times	0001
+1818	03	18	MorningChronicle	0001	1818	03	16	Times	0001
+1818	03	18	MorningChronicle	0001	1818	03	17	Times	0002
+1818	03	18	MorningChronicle	0003	1818	03	14	CaledonianMercury	0003
+1818	03	18	MorningChronicle	0003	1818	03	17	Times	0003
+1818	03	18	MorningChronicle	0004	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	18	MorningChronicle	0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	18	MorningChronicle	0004	1818	03	13	Times	0004
+1818	03	18	MorningChronicle	0004	1818	03	17		0001
+1818	03	18	MorningChronicle	0004	1818	03	17	Times	0004
+1818	03	18	Times	0001	1818	03	18	MorningChronicle	0001
+1818	03	18	Times	0002	1818	03	18	MorningChronicle	0001
+1818	03	18	Times	0002	1818	03	18	MorningChronicle	0003
+1818	03	18	Times	0003	1818	03	14	CaledonianMercury	0003
+1818	03	18	Times	0003	1818	03	18	MorningChronicle	0001
+1818	03	18	Times	0003	1818	03	18	MorningChronicle	0003
+1818	03	18	Times	0004	1818	03	13	MorningChronicle	0004
+1818	03	19	CaledonianMercury	0001	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	19	CaledonianMercury	0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	19	CaledonianMercury	0001	1818	03	17		0001
+1818	03	19	CaledonianMercury	0002	1818	03	14	Times	0002
+1818	03	19	CaledonianMercury	0004	1818	03	13	LiverpoolMercury	0003
+1818	03	19	MorningChronicle	0001	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	19	MorningChronicle	0001	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	19	MorningChronicle	0001	1818	03	16	Times	0002
+1818	03	19	MorningChronicle	0001	1818	03	17	Times	0001
+1818	03	19	Times	0003	1818	03	18	MorningChronicle	0003
+1818	03	19	Times	0003	1818	03	19	MorningChronicle	0003
+1818	03	19	Trewman'sExeterFlyingPost	0001	1818	03	03	MorningChronicle	0001
+1818	03	19	Trewman'sExeterFlyingPost	0001	1818	03	13	LiverpoolMercury	0001
+1818	03	19	Trewman'sExeterFlyingPost	0001	1818	03	14	IpswichJournal	0004
+1818	03	19	Trewman'sExeterFlyingPost	0001	1818	03	19	CaledonianMercury	0001
+1818	03	19	Trewman'sExeterFlyingPost	0001	1818	03	19	MorningChronicle	0001
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	03		0004
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	10		0004
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	12	Times	0002
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	13	MorningChronicle	0002
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	14	MorningChronicle	0002
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	15	Examiner	0009
+1818	03	19	Trewman'sExeterFlyingPost	0002	1818	03	17		0004
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	07	IpswichJournal	0001
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	07	LeedsMercury	0004
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	13	MorningChronicle	0003
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	14	IpswichJournal	0001
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	14	MorningChronicle	0003
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	14	Times	0002
+1818	03	19	Trewman'sExeterFlyingPost	0003	1818	03	16	Times	0003
+1818	03	20	LiverpoolMercury	0002	1818	03	02	CaledonianMercury	0002
+1818	03	20	LiverpoolMercury	0002	1818	03	04	AberdeenJournal	0002
+1818	03	20	LiverpoolMercury	0002	1818	03	09	Times	0003
+1818	03	20	LiverpoolMercury	0002	1818	03	11	MorningChronicle	0003
+1818	03	20	LiverpoolMercury	0002	1818	03	11	Times	0003
+1818	03	20	LiverpoolMercury	0002	1818	03	12	CaledonianMercury	0001
+1818	03	20	LiverpoolMercury	0002	1818	03	13	Times	0002
+1818	03	20	LiverpoolMercury	0002	1818	03	17		0001
+1818	03	20	LiverpoolMercury	0002	1818	03	17		0004
+1818	03	20	LiverpoolMercury	0003	1818	03	12	Times	0002
+1818	03	20	LiverpoolMercury	0003	1818	03	14	MorningChronicle	0003
+1818	03	20	LiverpoolMercury	0003	1818	03	14	Times	0002
+1818	03	20	LiverpoolMercury	0003	1818	03	15	Examiner	0008
+1818	03	20	LiverpoolMercury	0003	1818	03	19	Trewman'sExeterFlyingPost	0002
+1818	03	20	LiverpoolMercury	0005	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	20	LiverpoolMercury	0008	1818	03	16	MorningChronicle	0003
+1818	03	20	LiverpoolMercury	0008	1818	03	17	Times	0003
+1818	03	20	MorningChronicle	0002	1818	03	10	Times	0002
+1818	03	20	MorningChronicle	0003	1818	03	19	Times	0002
+1818	03	20	Times	0001	1818	03	18	MorningChronicle	0001
+1818	03	20	Times	0002	1818	03	18	MorningChronicle	0003
+1818	03	20	Times	0002	1818	03	19	MorningChronicle	0003
+1818	03	20	Times	0002	1818	03	20	MorningChronicle	0003
+1818	03	20	Times	0003	1818	03	20	MorningChronicle	0003
+1818	03	21	CaledonianMercury	0002	1818	03	17	MorningChronicle	0003
+1818	03	21	CaledonianMercury	0002	1818	03	17	Times	0002
+1818	03	21	CaledonianMercury	0003	1818	03	04	AberdeenJournal	0002
+1818	03	21	CaledonianMercury	0003	1818	03	06	LiverpoolMercury	0007
+1818	03	21	CaledonianMercury	0003	1818	03	06	MorningChronicle	0001
+1818	03	21	CaledonianMercury	0003	1818	03	07	Jackson'sOxfordJournal	0002
+1818	03	21	CaledonianMercury	0003	1818	03	07	IpswichJournal	0003
+1818	03	21	CaledonianMercury	0003	1818	03	07	Times	0001
+1818	03	21	CaledonianMercury	0003	1818	03	13	MorningChronicle	0001
+1818	03	21	CaledonianMercury	0003	1818	03	14	Jackson'sOxfordJournal	0004
+1818	03	21	CaledonianMercury	0003	1818	03	14	IpswichJournal	0001
+1818	03	21	CaledonianMercury	0003	1818	03	20	LiverpoolMercury	0002
+1818	03	21	Jackson'sOxfordJournal	0001	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	21	Jackson'sOxfordJournal	0002	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	16	MorningChronicle	0003
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	16	Times	0003
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	17	MorningChronicle	0002
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	17	MorningChronicle	0003
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	17	Times	0003
+1818	03	21	Jackson'sOxfordJournal	0004	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	21	IpswichJournal	0002	1818	03	17	Times	0003
+1818	03	21	IpswichJournal	0002	1818	03	20	Times	0003
+1818	03	21	IpswichJournal	0004	1818	03	03		0001
+1818	03	21	IpswichJournal	0004	1818	03	05	Trewman'sExeterFlyingPost	0003
+1818	03	21	IpswichJournal	0004	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	21	IpswichJournal	0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	21	IpswichJournal	0004	1818	03	13	LiverpoolMercury	0001
+1818	03	21	IpswichJournal	0004	1818	03	17		0001
+1818	03	21	IpswichJournal	0004	1818	03	18	MorningChronicle	0004
+1818	03	21	IpswichJournal	0004	1818	03	19	CaledonianMercury	0001
+1818	03	21	IpswichJournal	0004	1818	03	19	Trewman'sExeterFlyingPost	0001
+1818	03	21	IpswichJournal	0004	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	21	IpswichJournal	0004	1818	03	21	Jackson'sOxfordJournal	0001
+1818	03	21	IpswichJournal	0004	1818	03	21	Jackson'sOxfordJournal	0002
+1818	03	21	MorningChronicle	0001	1818	03	19	Trewman'sExeterFlyingPost	0002
+1818	03	21	Times	0002	1818	03	21	MorningChronicle	0003
+1818	03	21	Times	0003	1818	03	20	MorningChronicle	0003
+1818	03	21	Times	0003	1818	03	21	MorningChronicle	0003
+1818	03	21	Times	0004	1818	03	02	MorningChronicle	0004
+1818	03	21	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	21	Times	0004	1818	03	16	MorningChronicle	0004
+1818	03	22	Examiner	0004	1818	03	20	Times	0003
+1818	03	22	Examiner	0004	1818	03	21	Times	0003
+1818	03	22	Examiner	0005	1818	03	17	Times	0002
+1818	03	22	Examiner	0006	1818	03	18	Times	0002
+1818	03	22	Examiner	0007	1818	03	18	Times	0002
+1818	03	22	Examiner	0008	1818	03	19	Times	0002
+1818	03	22	Examiner	0010	1818	03	20	Times	0002
+1818	03	22	Examiner	0014	1818	03	20	Times	0003
+1818	03	22	Examiner	0015	1818	03	17	Times	0003
+1818	03	23	CaledonianMercury	0001	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	23	CaledonianMercury	0001	1818	03	21	IpswichJournal	0004
+1818	03	23	CaledonianMercury	0002	1818	03	14	MorningChronicle	0003
+1818	03	23	CaledonianMercury	0002	1818	03	19	MorningChronicle	0003
+1818	03	23	CaledonianMercury	0002	1818	03	19	Times	0002
+1818	03	23	CaledonianMercury	0002	1818	03	20	MorningChronicle	0002
+1818	03	23	CaledonianMercury	0002	1818	03	20	MorningChronicle	0003
+1818	03	23	CaledonianMercury	0002	1818	03	20	Times	0002
+1818	03	23	CaledonianMercury	0004	1818	03	07	LeedsMercury	0002
+1818	03	23	CaledonianMercury	0004	1818	03	09	Times	0002
+1818	03	23	CaledonianMercury	0004	1818	03	10		0002
+1818	03	23	MorningChronicle	0001	1818	03	07	CaledonianMercury	0003
+1818	03	23	MorningChronicle	0001	1818	03	19	Trewman'sExeterFlyingPost	0004
+1818	03	23	MorningChronicle	0001	1818	03	20	Times	0001
+1818	03	23	MorningChronicle	0003	1818	03	22	Examiner	0011
+1818	03	23	MorningChronicle	0004	1818	03	07	Times	0004
+1818	03	23	MorningChronicle	0004	1818	03	14	Times	0004
+1818	03	23	MorningChronicle	0004	1818	03	17	Times	0004
+1818	03	23	MorningChronicle	0004	1818	03	21	Times	0004
+1818	03	23	Times	0002	1818	03	18	MorningChronicle	0001
+1818	03	23	Times	0002	1818	03	23	MorningChronicle	0001
+1818	03	23	Times	0002	1818	03	23	MorningChronicle	0002
+1818	03	23	Times	0002	1818	03	23	MorningChronicle	0003
+1818	03	23	Times	0003	1818	03	21	IpswichJournal	0002
+1818	03	23	Times	0003	1818	03	22	Examiner	0011
+1818	03	23	Times	0003	1818	03	23	MorningChronicle	0003
+1818	03	24		0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	24		0001	1818	03	13	LiverpoolMercury	0001
+1818	03	24		0001	1818	03	16	MorningChronicle	0002
+1818	03	24		0001	1818	03	19	CaledonianMercury	0001
+1818	03	24		0001	1818	03	19	Trewman'sExeterFlyingPost	0001
+1818	03	24		0001	1818	03	21	IpswichJournal	0004
+1818	03	24		0002	1818	03	17	Times	0002
+1818	03	24		0002	1818	03	21	CaledonianMercury	0002
+1818	03	24		0004	1818	03	05	Trewman'sExeterFlyingPost	0002
+1818	03	24		0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	24		0004	1818	03	16	MorningChronicle	0003
+1818	03	24		0004	1818	03	19	Trewman'sExeterFlyingPost	0002
+1818	03	24	MorningChronicle	0002	1818	03	23	Times	0002
+1818	03	24	MorningChronicle	0003	1818	03	21	IpswichJournal	0002
+1818	03	24	MorningChronicle	0003	1818	03	23	Times	0003
+1818	03	24	Times	0002	1818	03	23	MorningChronicle	0003
+1818	03	24	Times	0002	1818	03	24	MorningChronicle	0002
+1818	03	24	Times	0003	1818	03	23	MorningChronicle	0002
+1818	03	24	Times	0003	1818	03	24	MorningChronicle	0003
+1818	03	25	MorningChronicle	0003	1818	03	21	CaledonianMercury	0003
+1818	03	25	Times	0002	1818	03	23	MorningChronicle	0003
+1818	03	25	Times	0003	1818	03	19	CaledonianMercury	0003
+1818	03	25	Times	0003	1818	03	19	MorningChronicle	0004
+1818	03	25	Times	0003	1818	03	24	MorningChronicle	0002
+1818	03	25	Times	0003	1818	03	25	MorningChronicle	0003
+1818	03	26	CaledonianMercury	0002	1818	03	23	MorningChronicle	0002
+1818	03	26	CaledonianMercury	0002	1818	03	23	MorningChronicle	0003
+1818	03	26	CaledonianMercury	0002	1818	03	23	Times	0002
+1818	03	26	CaledonianMercury	0002	1818	03	24	MorningChronicle	0002
+1818	03	26	CaledonianMercury	0002	1818	03	24	Times	0002
+1818	03	26	CaledonianMercury	0003	1818	03	17	MorningChronicle	0001
+1818	03	26	CaledonianMercury	0004	1818	03	06	LiverpoolMercury	0003
+1818	03	26	CaledonianMercury	0004	1818	03	13	LiverpoolMercury	0003
+1818	03	26	CaledonianMercury	0004	1818	03	20	LiverpoolMercury	0002
+1818	03	26	DerbyMercury	0004	1818	03	23	Times	0003
+1818	03	26	MorningChronicle	0001	1818	03	07	CaledonianMercury	0003
+1818	03	26	MorningChronicle	0004	1818	03	07	Times	0004
+1818	03	26	MorningChronicle	0004	1818	03	13	Times	0004
+1818	03	26	MorningChronicle	0004	1818	03	14	Times	0004
+1818	03	26	MorningChronicle	0004	1818	03	21	Jackson'sOxfordJournal	0001
+1818	03	26	Times	0002	1818	03	26	MorningChronicle	0003
+1818	03	26	Times	0003	1818	03	25	MorningChronicle	0003
+1818	03	26	Times	0003	1818	03	26	MorningChronicle	0003
+1818	03	26	Trewman'sExeterFlyingPost	0001	1818	03	20	Times	0002
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	14	IpswichJournal	0001
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	19	Times	0002
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	20	MorningChronicle	0002
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	21	IpswichJournal	0004
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	22	Examiner	0010
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	23	CaledonianMercury	0002
+1818	03	26	Trewman'sExeterFlyingPost	0002	1818	03	23	Times	0003
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	07	Jackson'sOxfordJournal	0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	14	IpswichJournal	0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	17		0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	18	MorningChronicle	0004
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	19	CaledonianMercury	0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	20	LiverpoolMercury	0002
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	20	LiverpoolMercury	0005
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	Jackson'sOxfordJournal	0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	Jackson'sOxfordJournal	0002
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	Jackson'sOxfordJournal	0004
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	IpswichJournal	0001
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	IpswichJournal	0002
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	21	IpswichJournal	0004
+1818	03	26	Trewman'sExeterFlyingPost	0003	1818	03	24		0001
+1818	03	26	Trewman'sExeterFlyingPost	0004	1818	03	24	MorningChronicle	0002
+1818	03	26	Trewman'sExeterFlyingPost	0004	1818	03	24	Times	0002
+1818	03	26	Trewman'sExeterFlyingPost	0004	1818	03	24	Times	0003
+1818	03	26	Trewman'sExeterFlyingPost	0004	1818	03	26	CaledonianMercury	0002
+1818	03	27	LiverpoolMercury	0002	1818	03	07	MorningChronicle	0003
+1818	03	27	LiverpoolMercury	0002	1818	03	09	Times	0003
+1818	03	27	LiverpoolMercury	0002	1818	03	16	Times	0002
+1818	03	27	LiverpoolMercury	0002	1818	03	17	MorningChronicle	0003
+1818	03	27	LiverpoolMercury	0002	1818	03	17	Times	0002
+1818	03	27	LiverpoolMercury	0002	1818	03	22	Examiner	0005
+1818	03	27	LiverpoolMercury	0003	1818	03	11	MorningChronicle	0003
+1818	03	27	LiverpoolMercury	0003	1818	03	12	Times	0004
+1818	03	27	LiverpoolMercury	0003	1818	03	13	MorningChronicle	0002
+1818	03	27	LiverpoolMercury	0003	1818	03	22	Examiner	0003
+1818	03	27	LiverpoolMercury	0005	1818	03	12	CaledonianMercury	0001
+1818	03	27	LiverpoolMercury	0005	1818	03	21	CaledonianMercury	0003
+1818	03	27	LiverpoolMercury	0006	1818	03	09	Times	0003
+1818	03	27	LiverpoolMercury	0006	1818	03	20	MorningChronicle	0003
+1818	03	27	LiverpoolMercury	0006	1818	03	20	Times	0002
+1818	03	27	LiverpoolMercury	0006	1818	03	23	Times	0002
+1818	03	27	LiverpoolMercury	0006	1818	03	26	Trewman'sExeterFlyingPost	0001
+1818	03	27	MorningChronicle	0002	1818	03	10	Times	0002
+1818	03	27	MorningChronicle	0003	1818	03	20	LiverpoolMercury	0006
+1818	03	27	MorningChronicle	0003	1818	03	23	Times	0002
+1818	03	27	MorningChronicle	0003	1818	03	24	Times	0002
+1818	03	27	Times	0002	1818	03	27	MorningChronicle	0003
+1818	03	27	Times	0003	1818	03	27	MorningChronicle	0003
+1818	03	27	Times	0004	1818	03	09	MorningChronicle	0004
+1818	03	27	Times	0004	1818	03	16	MorningChronicle	0004
+1818	03	27	Times	0004	1818	03	23	MorningChronicle	0004
+1818	03	28	CaledonianMercury	0002	1818	03	11	AberdeenJournal	0004
+1818	03	28	CaledonianMercury	0002	1818	03	20	LiverpoolMercury	0002
+1818	03	28	CaledonianMercury	0002	1818	03	25	MorningChronicle	0002
+1818	03	28	CaledonianMercury	0002	1818	03	25	Times	0003
+1818	03	28	CaledonianMercury	0002	1818	03	26	Times	0002
+1818	03	28	CaledonianMercury	0002	1818	03	26	Times	0003
+1818	03	28	CaledonianMercury	0002	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	03	28	CaledonianMercury	0002	1818	03	27	LiverpoolMercury	0005
+1818	03	28	Jackson'sOxfordJournal	0001	1818	03	24	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0001	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	03	28	Jackson'sOxfordJournal	0001	1818	03	27	LiverpoolMercury	0001
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	25	MorningChronicle	0003
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	26	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	27	MorningChronicle	0003
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	27	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0002	1818	03	28	CaledonianMercury	0002
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	21	IpswichJournal	0002
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	21	IpswichJournal	0004
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	21	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	23	MorningChronicle	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	23	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	24	MorningChronicle	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	24	Times	0003
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	26	Trewman'sExeterFlyingPost	0001
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	03	28	Jackson'sOxfordJournal	0004	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	28	IpswichJournal	0001	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	28	IpswichJournal	0001	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	03	28	IpswichJournal	0001	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	28	IpswichJournal	0002	1818	03	24	Times	0003
+1818	03	28	IpswichJournal	0002	1818	03	28	Jackson'sOxfordJournal	0002
+1818	03	28	IpswichJournal	0004	1818	03	07	Jackson'sOxfordJournal	0004
+1818	03	28	IpswichJournal	0004	1818	03	10		0001
+1818	03	28	IpswichJournal	0004	1818	03	21	Times	0003
+1818	03	28	IpswichJournal	0004	1818	03	22	Examiner	0011
+1818	03	28	IpswichJournal	0004	1818	03	23	CaledonianMercury	0001
+1818	03	28	IpswichJournal	0004	1818	03	23	MorningChronicle	0003
+1818	03	28	IpswichJournal	0004	1818	03	23	Times	0003
+1818	03	28	IpswichJournal	0004	1818	03	24	Times	0003
+1818	03	28	IpswichJournal	0004	1818	03	26	Times	0003
+1818	03	28	IpswichJournal	0004	1818	03	28	Jackson'sOxfordJournal	0001
+1818	03	28	IpswichJournal	0004	1818	03	28	Jackson'sOxfordJournal	0004
+1818	03	28	LeedsMercury	0001	1818	03	21	IpswichJournal	0004
+1818	03	28	LeedsMercury	0001	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	28	LeedsMercury	0002	1818	03	23	Times	0003
+1818	03	28	LeedsMercury	0002	1818	03	24	MorningChronicle	0002
+1818	03	28	LeedsMercury	0002	1818	03	26	CaledonianMercury	0002
+1818	03	28	LeedsMercury	0002	1818	03	26	Times	0002
+1818	03	28	LeedsMercury	0002	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	03	28	LeedsMercury	0002	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	03	28	LeedsMercury	0002	1818	03	28	Jackson'sOxfordJournal	0004
+1818	03	28	LeedsMercury	0004	1818	03	07	IpswichJournal	0001
+1818	03	28	LeedsMercury	0004	1818	03	10		0004
+1818	03	28	LeedsMercury	0004	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	28	LeedsMercury	0004	1818	03	13	LiverpoolMercury	0005
+1818	03	28	LeedsMercury	0004	1818	03	14	IpswichJournal	0001
+1818	03	28	LeedsMercury	0004	1818	03	19	Trewman'sExeterFlyingPost	0002
+1818	03	28	LeedsMercury	0004	1818	03	20	LiverpoolMercury	0001
+1818	03	28	LeedsMercury	0004	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	28	MorningChronicle	0003	1818	03	27	Times	0003
+1818	03	28	Times	0002	1818	03	27	MorningChronicle	0003
+1818	03	28	Times	0002	1818	03	28	LeedsMercury	0003
+1818	03	28	Times	0003	1818	03	28	MorningChronicle	0003
+1818	03	29	Examiner	0004	1818	03	25	Times	0002
+1818	03	29	Examiner	0004	1818	03	26	Times	0002
+1818	03	29	Examiner	0005	1818	03	23	MorningChronicle	0003
+1818	03	29	Examiner	0007	1818	03	18	Times	0002
+1818	03	29	Examiner	0009	1818	03	24	Times	0003
+1818	03	29	Examiner	0009	1818	03	26	Times	0003
+1818	03	29	Examiner	0012	1818	03	20	LiverpoolMercury	0006
+1818	03	29	Examiner	0012	1818	03	27	MorningChronicle	0003
+1818	03	29	Examiner	0013	1818	03	24	MorningChronicle	0003
+1818	03	29	Examiner	0013	1818	03	24	Times	0003
+1818	03	29	Examiner	0016	1818	03	25	MorningChronicle	0003
+1818	03	29	Examiner	0016	1818	03	26	Times	0003
+1818	03	30	CaledonianMercury	0001	1818	03	23	MorningChronicle	0001
+1818	03	30	CaledonianMercury	0001	1818	03	26	MorningChronicle	0001
+1818	03	30	CaledonianMercury	0002	1818	03	27	MorningChronicle	0002
+1818	03	30	CaledonianMercury	0002	1818	03	27	MorningChronicle	0003
+1818	03	30	CaledonianMercury	0002	1818	03	27	Times	0002
+1818	03	30	CaledonianMercury	0002	1818	03	27	Times	0003
+1818	03	30	CaledonianMercury	0002	1818	03	28	Jackson'sOxfordJournal	0002
+1818	03	30	CaledonianMercury	0002	1818	03	28	Times	0002
+1818	03	30	CaledonianMercury	0002	1818	03	28	Times	0003
+1818	03	30	CaledonianMercury	0004	1818	03	21	IpswichJournal	0002
+1818	03	30	CaledonianMercury	0004	1818	03	23	Times	0003
+1818	03	30	CaledonianMercury	0004	1818	03	24	MorningChronicle	0003
+1818	03	30	CaledonianMercury	0004	1818	03	24	Times	0003
+1818	03	30	CaledonianMercury	0004	1818	03	27	LiverpoolMercury	0006
+1818	03	30	CaledonianMercury	0004	1818	03	28	Jackson'sOxfordJournal	0004
+1818	03	30	CaledonianMercury	0004	1818	03	28	IpswichJournal	0004
+1818	03	30	HampshirePortsmouthTelegraph	0002	1818	03	24	Times	0003
+1818	03	30	HampshirePortsmouthTelegraph	0002	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	03	30	MorningChronicle	0002	1818	03	14	Jackson'sOxfordJournal	0001
+1818	03	30	MorningChronicle	0003	1818	03	23	Times	0002
+1818	03	30	MorningChronicle	0003	1818	03	24	Times	0002
+1818	03	30	Times	0002	1818	03	24	MorningChronicle	0002
+1818	03	30	Times	0002	1818	03	30	MorningChronicle	0003
+1818	03	30	Times	0003	1818	03	27	MorningChronicle	0003
+1818	03	30	Times	0003	1818	03	28	MorningChronicle	0004
+1818	03	30	Times	0003	1818	03	30	MorningChronicle	0003
+1818	03	31		0001	1818	03	12	Trewman'sExeterFlyingPost	0003
+1818	03	31		0001	1818	03	19	CaledonianMercury	0001
+1818	03	31		0001	1818	03	19	Trewman'sExeterFlyingPost	0002
+1818	03	31		0001	1818	03	21	IpswichJournal	0004
+1818	03	31		0001	1818	03	24	MorningChronicle	0002
+1818	03	31		0001	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	31		0002	1818	03	18	MorningChronicle	0004
+1818	03	31		0002	1818	03	22	Examiner	0010
+1818	03	31		0002	1818	03	22	Examiner	0011
+1818	03	31		0002	1818	03	23	MorningChronicle	0003
+1818	03	31		0002	1818	03	23	Times	0003
+1818	03	31		0002	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	03	31		0002	1818	03	27	MorningChronicle	0003
+1818	03	31		0002	1818	03	27	Times	0002
+1818	03	31		0002	1818	03	28	IpswichJournal	0001
+1818	03	31		0002	1818	03	28	IpswichJournal	0004
+1818	03	31		0002	1818	03	28	LeedsMercury	0002
+1818	03	31		0002	1818	03	30	CaledonianMercury	0002
+1818	03	31		0003	1818	03	21	MorningChronicle	0003
+1818	03	31		0003	1818	03	21	Times	0003
+1818	03	31		0003	1818	03	22	Examiner	0004
+1818	03	31		0003	1818	03	23	MorningChronicle	0003
+1818	03	31		0003	1818	03	24	Times	0003
+1818	03	31		0003	1818	03	27	Times	0002
+1818	03	31		0003	1818	03	28	Jackson'sOxfordJournal	0004
+1818	03	31		0003	1818	03	28	IpswichJournal	0004
+1818	03	31		0003	1818	03	28	LeedsMercury	0003
+1818	03	31		0003	1818	03	30	CaledonianMercury	0004
+1818	03	31		0004	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	31		0004	1818	03	24	Times	0003
+1818	03	31		0004	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	03	31		0004	1818	03	27	LiverpoolMercury	0006
+1818	03	31	MorningChronicle	0002	1818	03	21	IpswichJournal	0004
+1818	03	31	MorningChronicle	0002	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	03	31	MorningChronicle	0002	1818	03	28	LeedsMercury	0001
+1818	03	31	MorningChronicle	0003	1818	03	21	Times	0002
+1818	03	31	MorningChronicle	0003	1818	03	30	Times	0003
+1818	03	31	MorningChronicle	0004	1818	03	12	Trewman'sExeterFlyingPost	0002
+1818	03	31	MorningChronicle	0004	1818	03	21	Times	0004
+1818	03	31	Times	0002	1818	03	24	MorningChronicle	0002
+1818	03	31	Times	0002	1818	03	27	MorningChronicle	0003
+1818	03	31	Times	0002	1818	03	28	MorningChronicle	0003
+1818	03	31	Times	0002	1818	03	31	MorningChronicle	0003
+1818	03	31	Times	0003	1818	03	28	LeedsMercury	0002
+1818	03	31	Times	0003	1818	03	31	MorningChronicle	0003
+1818	03	31	Times	0004	1818	03	14	MorningChronicle	0004
+1818	03	31	Times	0004	1818	03	20	MorningChronicle	0004
+1818	03	31	Times	0004	1818	03	23	MorningChronicle	0004
+1818	03	31	Times	0004	1818	03	27	MorningChronicle	0001
+1818	03	31	Times	0004	1818	03	31	MorningChronicle	0004
+1818	04	01	MorningChronicle	0003	1818	03	31	Times	0003
+1818	04	01	MorningChronicle	0004	1818	03	17	Times	0004
+1818	04	01	MorningChronicle	0004	1818	03	31	Times	0004
+1818	04	01	Times	0003	1818	03	31		0003
+1818	04	02	CaledonianMercury	0002	1818	03	28	MorningChronicle	0003
+1818	04	02	CaledonianMercury	0002	1818	03	30	Times	0002
+1818	04	02	CaledonianMercury	0002	1818	03	30	Times	0003
+1818	04	02	CaledonianMercury	0004	1818	03	13	LiverpoolMercury	0003
+1818	04	02	CaledonianMercury	0004	1818	03	16	Times	0003
+1818	04	02	CaledonianMercury	0004	1818	03	20	LiverpoolMercury	0002
+1818	04	02	CaledonianMercury	0004	1818	03	21	Times	0002
+1818	04	02	CaledonianMercury	0004	1818	03	31	MorningChronicle	0003
+1818	04	02	DerbyMercury	0001	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	04	02	DerbyMercury	0002	1818	03	30	Times	0003
+1818	04	02	MorningChronicle	0002	1818	03	31	Times	0004
+1818	04	02	Times	0003	1818	03	27	MorningChronicle	0003
+1818	04	02	Times	0003	1818	03	28	MorningChronicle	0004
+1818	04	02	Times	0003	1818	03	31	MorningChronicle	0003
+1818	04	02	Trewman'sExeterFlyingPost	0001	1818	03	13	LiverpoolMercury	0008
+1818	04	02	Trewman'sExeterFlyingPost	0001	1818	03	20	LiverpoolMercury	0005
+1818	04	02	Trewman'sExeterFlyingPost	0001	1818	03	30	Times	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	25	Times	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	26	Times	0003
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	27	MorningChronicle	0003
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	27	Times	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	27	Times	0003
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	28	CaledonianMercury	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	28	Times	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	28	Times	0003
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	30	CaledonianMercury	0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	31		0002
+1818	04	02	Trewman'sExeterFlyingPost	0002	1818	03	31	MorningChronicle	0002
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	14	Jackson'sOxfordJournal	0004
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	23	CaledonianMercury	0001
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	27	MorningChronicle	0003
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	27	Times	0003
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	28	IpswichJournal	0002
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	28	LeedsMercury	0003
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	28	LeedsMercury	0004
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	28	Times	0002
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	30	CaledonianMercury	0002
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	30	Times	0003
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	31		0001
+1818	04	02	Trewman'sExeterFlyingPost	0003	1818	03	31		0003
+1818	04	03	LiverpoolMercury	0001	1818	03	28	LeedsMercury	0004
+1818	04	03	LiverpoolMercury	0003	1818	03	19	Times	0002
+1818	04	03	LiverpoolMercury	0003	1818	03	23	CaledonianMercury	0004
+1818	04	03	LiverpoolMercury	0003	1818	03	24	Times	0003
+1818	04	03	LiverpoolMercury	0003	1818	03	26	CaledonianMercury	0004
+1818	04	03	LiverpoolMercury	0003	1818	03	26	Trewman'sExeterFlyingPost	0004
+1818	04	03	LiverpoolMercury	0003	1818	03	29	Examiner	0009
+1818	04	03	LiverpoolMercury	0003	1818	03	30	CaledonianMercury	0004
+1818	04	03	LiverpoolMercury	0003	1818	03	31		0004
+1818	04	03	LiverpoolMercury	0003	1818	03	31	Times	0003
+1818	04	03	LiverpoolMercury	0005	1818	03	18	MorningChronicle	0004
+1818	04	03	LiverpoolMercury	0005	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	04	03	LiverpoolMercury	0005	1818	03	21	Jackson'sOxfordJournal	0002
+1818	04	03	LiverpoolMercury	0005	1818	03	24		0001
+1818	04	03	LiverpoolMercury	0005	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	04	03	LiverpoolMercury	0005	1818	03	31		0001
+1818	04	03	LiverpoolMercury	0005	1818	03	31		0002
+1818	04	03	LiverpoolMercury	0006	1818	03	21	MorningChronicle	0003
+1818	04	03	LiverpoolMercury	0006	1818	03	23	MorningChronicle	0003
+1818	04	03	LiverpoolMercury	0006	1818	03	24	MorningChronicle	0002
+1818	04	03	LiverpoolMercury	0008	1818	03	28	MorningChronicle	0004
+1818	04	03	LiverpoolMercury	0008	1818	03	30	Times	0003
+1818	04	03	LiverpoolMercury	0008	1818	03	31	MorningChronicle	0003
+1818	04	03	MorningChronicle	0001	1818	03	21	CaledonianMercury	0003
+1818	04	03	MorningChronicle	0003	1818	03	23	Times	0002
+1818	04	03	MorningChronicle	0003	1818	03	31	Times	0002
+1818	04	03	MorningChronicle	0004	1818	03	31	Times	0004
+1818	04	03	Times	0002	1818	03	24	MorningChronicle	0002
+1818	04	03	Times	0004	1818	03	28	MorningChronicle	0004
+1818	04	04	CaledonianMercury	0002	1818	03	31	MorningChronicle	0003
+1818	04	04	Jackson'sOxfordJournal	0002	1818	03	30	Times	0003
+1818	04	04	IpswichJournal	0001	1818	03	14	Jackson'sOxfordJournal	0004
+1818	04	04	IpswichJournal	0001	1818	03	17		0001
+1818	04	04	IpswichJournal	0001	1818	03	18	MorningChronicle	0004
+1818	04	04	IpswichJournal	0001	1818	03	19	CaledonianMercury	0001
+1818	04	04	IpswichJournal	0001	1818	03	19	Trewman'sExeterFlyingPost	0003
+1818	04	04	IpswichJournal	0001	1818	03	21	Jackson'sOxfordJournal	0004
+1818	04	04	IpswichJournal	0001	1818	03	24		0001
+1818	04	04	IpswichJournal	0001	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	04	04	IpswichJournal	0001	1818	03	27	LiverpoolMercury	0001
+1818	04	04	IpswichJournal	0001	1818	03	28	Jackson'sOxfordJournal	0001
+1818	04	04	IpswichJournal	0001	1818	03	31		0001
+1818	04	04	IpswichJournal	0003	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	04	04	IpswichJournal	0004	1818	03	27	MorningChronicle	0003
+1818	04	04	IpswichJournal	0004	1818	03	27	Times	0003
+1818	04	04	IpswichJournal	0004	1818	03	28	MorningChronicle	0003
+1818	04	04	IpswichJournal	0004	1818	03	28	MorningChronicle	0004
+1818	04	04	IpswichJournal	0004	1818	03	30	Times	0003
+1818	04	04	IpswichJournal	0004	1818	03	31	MorningChronicle	0003
+1818	04	04	IpswichJournal	0004	1818	03	31	Times	0003
+1818	04	04	MorningChronicle	0001	1818	03	27	LiverpoolMercury	0003
+1818	04	04	Times	0002	1818	03	30	CaledonianMercury	0003
+1818	04	04	Times	0004	1818	03	23	MorningChronicle	0004
+1818	04	05	Examiner	0006	1818	03	31	Times	0003
+1818	04	06	CaledonianMercury	0001	1818	03	23	MorningChronicle	0001
+1818	04	06	CaledonianMercury	0001	1818	03	26	MorningChronicle	0001
+1818	04	06	CaledonianMercury	0003	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	04	06	CaledonianMercury	0003	1818	03	27	MorningChronicle	0003
+1818	04	06	CaledonianMercury	0003	1818	03	28	MorningChronicle	0004
+1818	04	06	CaledonianMercury	0003	1818	03	30	Times	0003
+1818	04	06	CaledonianMercury	0003	1818	03	31	MorningChronicle	0003
+1818	04	06	HampshirePortsmouthTelegraph	0002	1818	03	27	Times	0003
+1818	04	06	HampshirePortsmouthTelegraph	0003	1818	03	28	MorningChronicle	0004
+1818	04	06	HampshirePortsmouthTelegraph	0003	1818	03	30	Times	0003
+1818	04	06	Times	0004	1818	03	31	MorningChronicle	0004
+1818	04	07		0001	1818	03	30	Times	0003
+1818	04	07		0004	1818	03	28	MorningChronicle	0003
+1818	04	07	MorningChronicle	0001	1818	03	21	CaledonianMercury	0003
+1818	04	07	Times	0001	1818	03	21	CaledonianMercury	0003
+1818	04	08	MorningChronicle	0004	1818	03	31		0002
+1818	04	09	CaledonianMercury	0004	1818	03	20	LiverpoolMercury	0002
+1818	04	09	CaledonianMercury	0004	1818	03	22	Examiner	0010
+1818	04	09	CaledonianMercury	0004	1818	03	23	Times	0003
+1818	04	09	CaledonianMercury	0004	1818	03	26	Trewman'sExeterFlyingPost	0001
+1818	04	09	CaledonianMercury	0004	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	04	09	CaledonianMercury	0004	1818	03	28	Jackson'sOxfordJournal	0004
+1818	04	09	CaledonianMercury	0004	1818	03	28	IpswichJournal	0004
+1818	04	09	CaledonianMercury	0004	1818	03	28	LeedsMercury	0002
+1818	04	09	CaledonianMercury	0004	1818	03	31		0002
+1818	04	09	Times	0001	1818	03	30	MorningChronicle	0002
+1818	04	09	Times	0004	1818	03	21	MorningChronicle	0002
+1818	04	09	Times	0004	1818	03	28	MorningChronicle	0002
+1818	04	09	Times	0004	1818	03	31	MorningChronicle	0004
+1818	04	09	Trewman'sExeterFlyingPost	0002	1818	03	21	IpswichJournal	0004
+1818	04	09	Trewman'sExeterFlyingPost	0002	1818	03	24		0004
+1818	04	09	Trewman'sExeterFlyingPost	0002	1818	03	28	Jackson'sOxfordJournal	0002
+1818	04	09	Trewman'sExeterFlyingPost	0002	1818	03	28	LeedsMercury	0004
+1818	04	09	Trewman'sExeterFlyingPost	0002	1818	03	31		0001
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	24		0004
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	28	Jackson'sOxfordJournal	0002
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	28	Jackson'sOxfordJournal	0004
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	28	IpswichJournal	0001
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	28	LeedsMercury	0004
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	30	HampshirePortsmouthTelegraph	0002
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	31		0001
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	31		0002
+1818	04	09	Trewman'sExeterFlyingPost	0003	1818	03	31		0004
+1818	04	10	LiverpoolMercury	0002	1818	03	26	CaledonianMercury	0004
+1818	04	10	LiverpoolMercury	0002	1818	03	29	Examiner	0012
+1818	04	10	LiverpoolMercury	0003	1818	03	20	MorningChronicle	0004
+1818	04	10	LiverpoolMercury	0005	1818	03	28	LeedsMercury	0004
+1818	04	10	LiverpoolMercury	0005	1818	03	31		0002
+1818	04	10	LiverpoolMercury	0006	1818	03	28	MorningChronicle	0003
+1818	04	10	LiverpoolMercury	0006	1818	03	30	MorningChronicle	0003
+1818	04	10	MorningChronicle	0001	1818	03	23	Times	0002
+1818	04	11	CaledonianMercury	0004	1818	03	28	Times	0002
+1818	04	11	Jackson'sOxfordJournal	0004	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	04	11	IpswichJournal	0001	1818	03	26	Trewman'sExeterFlyingPost	0002
+1818	04	11	IpswichJournal	0001	1818	03	31		0002
+1818	04	11	Times	0004	1818	03	23	MorningChronicle	0003
+1818	04	11	Times	0004	1818	03	23	MorningChronicle	0004
+1818	04	11	Times	0004	1818	03	26	MorningChronicle	0004
+1818	04	11	Times	0004	1818	03	31	MorningChronicle	0004
+1818	04	13	CaledonianMercury	0004	1818	03	25	Times	0003
+1818	04	13	CaledonianMercury	0004	1818	03	26	MorningChronicle	0003
+1818	04	13	CaledonianMercury	0004	1818	03	26	Times	0002
+1818	04	13	CaledonianMercury	0004	1818	03	27	Times	0003
+1818	04	13	CaledonianMercury	0004	1818	03	28	MorningChronicle	0003
+1818	04	13	HampshirePortsmouthTelegraph	0003	1818	03	27	Times	0003
+1818	04	14		0001	1818	03	26	Trewman'sExeterFlyingPost	0003
+1818	04	14		0001	1818	03	27	LiverpoolMercury	0003
+1818	04	14		0004	1818	03	26	Times	0003
+1818	04	15	AberdeenJournal	0001	1818	03	28	CaledonianMercury	0002
+1818	04	16	CaledonianMercury	0004	1818	03	27	LiverpoolMercury	0002
+1818	04	16	Trewman'sExeterFlyingPost	0001	1818	03	26	CaledonianMercury	0004
+1818	04	16	Trewman'sExeterFlyingPost	0001	1818	03	28	Jackson'sOxfordJournal	0004
+1818	04	16	Trewman'sExeterFlyingPost	0003	1818	03	28	IpswichJournal	0004
+1818	04	17	LiverpoolMercury	0001	1818	03	28	LeedsMercury	0004
+1818	04	18	IpswichJournal	0001	1818	03	31		0001

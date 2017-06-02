@@ -1,0 +1,33 @@
+Documents,50000
+ReportFolder,e:\Reports\18251830
+Document,1,I:\BL_TXTS\1820s\1825
+Document,2,I:\BL_TXTS\1820s\1826
+Document,3,I:\BL_TXTS\1820s\1827
+Document,4,I:\BL_TXTS\1820s\1828
+Document,5,I:\BL_TXTS\1820s\1829
+Document,6,I:\BL_TXTS\1830s\1830
+PhraseLength,10,,// default 6
+WordThreshold,200,// default 100
+SkipLength,20,,// default 20
+MismatchTolerance,5,// default 2
+MismatchPercentage,50,// default 80
+BriefReport,0,,// default 0 = No/False (note that: 1 = Yes/True)
+IgnoreCase,1,,// default 0 = No/False (note that: 1 = Yes/True)
+IgnoreNumbers,1,,// default 0 = No/False (note that: 1 = Yes/True)
+IgnoreOuterPunctuation,1,// default 0 = No/False (note that: 1 = Yes/True)
+IgnorePunctuation,1,// default 0 = No/False (note that: 1 = Yes/True)
+SkipLongWords,0,,// default 0 = No/False (note that: 1 = Yes/True)
+SkipNonwords,0,,// default 0 = No/False (note that: 1 = Yes/True)
+Locale,English,,// default English
+PrepareForComparisons,// loads the documents and gets ready to run comparisons
+Compare,1,2
+Compare,2,2
+Compare,2,3
+Compare,3,3
+Compare,3,4
+Compare,4,4
+Compare,4,5
+Compare,5,5
+Compare,5,6
+Compare,6,6
+Done,// Finish everything and deallocates the entire document collection so that Copyfind can start again fresh
