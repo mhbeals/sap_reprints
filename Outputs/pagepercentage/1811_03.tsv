@@ -1,6 +1,6 @@
 1811.03.03_Examiner_0008	0.236322
 1811.03.04_CaledonianMercury_0002	0.063515
-1811.03.05__0004	0.034441
+1811.03.05_HullPacket_0004	0.034441
 1811.03.06_AberdeenJournal_0002	0.030788
 1811.03.06_AberdeenJournal_0003	0.015924
 1811.03.06_AberdeenJournal_0004	0.026469
@@ -76,8 +76,8 @@
 1811.03.18_CaledonianMercury_0003	0.037025
 1811.03.18_CaledonianMercury_0004	0.084255
 1811.03.18_HampshirePortsmouthTelegraph_0004	0.017296
-1811.03.19__0001	0.112028
-1811.03.19__0004	0.155835
+1811.03.19_HullPacket_0001	0.112028
+1811.03.19_HullPacket_0004	0.155835
 1811.03.20_Cobbet'sWeeklyPoliticalRegister_0007	0.442953
 1811.03.20_Cobbet'sWeeklyPoliticalRegister_0008	0.349045
 1811.03.20_Cobbet'sWeeklyPoliticalRegister_0009	0.339576
@@ -112,10 +112,10 @@
 1811.03.25_CaledonianMercury_0004	0.070535
 1811.03.25_HampshirePortsmouthTelegraph_0002	0.024447
 1811.03.25_HampshirePortsmouthTelegraph_0004	0.020440
-1811.03.26__0001	0.035483
-1811.03.26__0002	0.040827
-1811.03.26__0003	0.031449
-1811.03.26__0004	0.021343
+1811.03.26_HullPacket_0001	0.035483
+1811.03.26_HullPacket_0002	0.040827
+1811.03.26_HullPacket_0003	0.031449
+1811.03.26_HullPacket_0004	0.021343
 1811.03.27_Cobbet'sWeeklyPoliticalRegister_0003	0.379469
 1811.03.27_Cobbet'sWeeklyPoliticalRegister_0007	0.407589
 1811.03.27_Cobbet'sWeeklyPoliticalRegister_0013	0.270449
@@ -130,7 +130,7 @@
 1811.03.28_CaledonianMercury_0004	0.051683
 1811.03.28_DerbyMercury_0002	0.210582
 1811.03.28_MorningChronicle_0004	0.034993
-1811.03.29_Times_0002	0.020312
+1811.03.29_TheTimes_0002	0.020312
 1811.03.30_CaledonianMercury_0001	0.098403
 1811.03.30_CaledonianMercury_0002	0.065499
 1811.03.30_CaledonianMercury_0003	0.029974
@@ -159,8 +159,8 @@
 1811.04.01_HampshirePortsmouthTelegraph_0002	0.037303
 1811.04.01_HampshirePortsmouthTelegraph_0003	0.027857
 1811.04.01_HampshirePortsmouthTelegraph_0004	0.156567
-1811.04.02__0002	0.156738
-1811.04.02__0004	0.263266
+1811.04.02_HullPacket_0002	0.156738
+1811.04.02_HullPacket_0004	0.263266
 1811.04.03_Cobbet'sWeeklyPoliticalRegister_0009	0.203907
 1811.04.03_Cobbet'sWeeklyPoliticalRegister_0012	0.200495
 1811.04.03_AberdeenJournal_0001	0.214732
@@ -183,7 +183,7 @@
 1811.04.06_LeedsMercury_0004	0.058442
 1811.04.08_CaledonianMercury_0001	0.026684
 1811.04.08_CaledonianMercury_0004	0.084980
-1811.04.09__0004	0.043081
+1811.04.09_HullPacket_0004	0.043081
 1811.04.10_Cobbet'sWeeklyPoliticalRegister_0016	0.510533
 1811.04.10_AberdeenJournal_0001	0.106351
 1811.04.10_AberdeenJournal_0002	0.136126

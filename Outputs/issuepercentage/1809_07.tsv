@@ -1,74 +1,103 @@
-1809.07.02_TheExaminer	0.007881
-1809.07.03_CaledonianMercury	0.184686
-1809.07.03_CaledonianMercury	0.184686
-1809.07.03_HampshireTelegraphandSussexChronicleetc	0.014529
-1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.301812
-1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.301812
-1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.301812
-1809.07.05_TheAberdeenJournal	0.273999
-1809.07.05_TheAberdeenJournal	0.273999
-1809.07.05_TheAberdeenJournal	0.273999
-1809.07.06_CaledonianMercury	0.197552
-1809.07.06_TheDerbyMercury	0.132718
-1809.07.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0.190502
-1809.07.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0.190502
-1809.07.08_CaledonianMercury	0.258444
-1809.07.08_CaledonianMercury	0.258444
-1809.07.08_CaledonianMercury	0.258444
-1809.07.08_Jackson'sOxfordJournal	0.821706
-1809.07.09_TheExaminer	0.068309
-1809.07.09_TheExaminer	0.068309
-1809.07.10_CaledonianMercury	0.307974
-1809.07.10_CaledonianMercury	0.307974
-1809.07.10_TheMorningChronicle	0.035346
-1809.07.10_Times	0.053818
-1809.07.11_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.387721
-1809.07.13_CaledonianMercury	0.440035
-1809.07.13_CaledonianMercury	0.440035
-1809.07.13_TheDerbyMercury	0.233048
-1809.07.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0.780642
-1809.07.15_TheIpswichJournal	0.582904
-1809.07.15_TheLeedsMercury	0.106797
-1809.07.16_TheExaminer	0.246546
-1809.07.17_CaledonianMercury	0.546533
-1809.07.17_CaledonianMercury	0.546533
-1809.07.18_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.822622
-1809.07.18_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.822622
-1809.07.18_Times	0.053502
-1809.07.20_CaledonianMercury	0.719290
-1809.07.20_CaledonianMercury	0.719290
-1809.07.20_CaledonianMercury	0.719290
-1809.07.20_TheDerbyMercury	0.352296
-1809.07.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	0.752179
-1809.07.21_TheMorningChronicle	0.011765
-1809.07.22_CaledonianMercury	0.690686
-1809.07.22_TheIpswichJournal	0.197205
-1809.07.22_TheLeedsMercury	0.386349
-1809.07.23_TheExaminer	0.178271
-1809.07.23_TheExaminer	0.178271
-1809.07.24_HampshireTelegraphandSussexChronicleetc	0.022116
-1809.07.24_TheMorningChronicle	0.044688
-1809.07.25_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.210471
-1809.07.27_TheDerbyMercury	0.312560
-1809.07.29_TheIpswichJournal	0.242205
-1809.07.30_TheExaminer	0.060806
-1809.07.30_TheExaminer	0.060806
-1809.07.31_TheMorningChronicle	0.108718
-1809.08.01_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.874031
-1809.08.03_CaledonianMercury	0.946098
-1809.08.03_TheDerbyMercury	0.629274
-1809.08.03_TheDerbyMercury	0.629274
-1809.08.03_TheMorningChronicle	0.018626
-1809.08.04_TheMorningChronicle	0.091476
-1809.08.05_Jackson'sOxfordJournal	0.819005
-1809.08.05_TheIpswichJournal	0.017333
-1809.08.05_TheMorningChronicle	0.059482
-1809.08.07_CaledonianMercury	0.740463
-1809.08.07_HampshireTelegraphandSussexChronicleetc	0.070065
-1809.08.08_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.105751
-1809.08.09_TheAberdeenJournal	0.902155
-1809.08.09_TheAberdeenJournal	0.902155
-1809.08.10_TheMorningChronicle	0.012918
-1809.08.12_TheMorningChronicle	0.078231
-1809.08.15_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	0.212395
-1809.08.16_TheMorningChronicle	0.006808
+1809.07.02_TheExaminer	168.000000	21317.000000	0.007881
+1809.07.03_CaledonianMercury	1317.000000	24095.000000	0.054659
+1809.07.03_CaledonianMercury	1317.000000	24095.000000	0.054659
+1809.07.03_HampshireTelegraphandSussexChronicleetc	382.000000	26292.000000	0.014529
+1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	1477.000000	22958.000000	0.064335
+1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	1477.000000	22958.000000	0.064335
+1809.07.04_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	1477.000000	22958.000000	0.064335
+1809.07.05_TheAberdeenJournal	1375.000000	28460.000000	0.048313
+1809.07.05_TheAberdeenJournal	1375.000000	28460.000000	0.048313
+1809.07.05_TheAberdeenJournal	1375.000000	28460.000000	0.048313
+1809.07.06_CaledonianMercury	1539.000000	24677.000000	0.062366
+1809.07.06_TheDerbyMercury	998.000000	24036.000000	0.041521
+1809.07.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	1033.000000	29333.000000	0.035216
+1809.07.06_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	1033.000000	29333.000000	0.035216
+1809.07.08_CaledonianMercury	1894.000000	24752.000000	0.076519
+1809.07.08_CaledonianMercury	1894.000000	24752.000000	0.076519
+1809.07.08_CaledonianMercury	1894.000000	24752.000000	0.076519
+1809.07.08_Jackson'sOxfordJournal	2911.000000	28195.000000	0.103245
+1809.07.09_TheExaminer	942.000000	21066.000000	0.044717
+1809.07.09_TheExaminer	942.000000	21066.000000	0.044717
+1809.07.10_CaledonianMercury	1239.000000	24619.000000	0.050327
+1809.07.10_CaledonianMercury	1239.000000	24619.000000	0.050327
+1809.07.10_TheMorningChronicle	234.000000	22096.000000	0.010590
+1809.07.10_Times	555.000000	20625.000000	0.026909
+1809.07.11_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	1514.000000	23731.000000	0.063798
+1809.07.12_TheAberdeenJournal	3773.000000	29935.000000	0.126040
+1809.07.12_TheAberdeenJournal	3773.000000	29935.000000	0.126040
+1809.07.13_CaledonianMercury	2302.000000	26032.000000	0.088430
+1809.07.13_CaledonianMercury	2302.000000	26032.000000	0.088430
+1809.07.13_TheDerbyMercury	749.000000	22313.000000	0.033568
+1809.07.13_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	3506.000000	29951.000000	0.117058
+1809.07.15_CaledonianMercury	5001.000000	24734.000000	0.202191
+1809.07.15_CaledonianMercury	5001.000000	24734.000000	0.202191
+1809.07.15_CaledonianMercury	5001.000000	24734.000000	0.202191
+1809.07.15_Jackson'sOxfordJournal	3377.000000	27238.000000	0.123981
+1809.07.15_TheIpswichJournal	1903.000000	25644.000000	0.074208
+1809.07.15_TheLeedsMercury	601.000000	30235.000000	0.019878
+1809.07.16_TheExaminer	2614.000000	21205.000000	0.123273
+1809.07.17_CaledonianMercury	1735.000000	25466.000000	0.068130
+1809.07.17_CaledonianMercury	1735.000000	25466.000000	0.068130
+1809.07.18_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	2045.000000	24631.000000	0.083025
+1809.07.18_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	2045.000000	24631.000000	0.083025
+1809.07.18_Times	768.000000	21158.000000	0.036298
+1809.07.19_TheAberdeenJournal	4278.000000	28689.000000	0.149116
+1809.07.19_TheAberdeenJournal	4278.000000	28689.000000	0.149116
+1809.07.19_TheAberdeenJournal	4278.000000	28689.000000	0.149116
+1809.07.20_CaledonianMercury	2558.000000	26180.000000	0.097708
+1809.07.20_CaledonianMercury	2558.000000	26180.000000	0.097708
+1809.07.20_CaledonianMercury	2558.000000	26180.000000	0.097708
+1809.07.20_TheDerbyMercury	1380.000000	23415.000000	0.058937
+1809.07.20_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	3217.000000	29251.000000	0.109979
+1809.07.21_TheMorningChronicle	241.000000	20485.000000	0.011765
+1809.07.22_CaledonianMercury	1276.000000	26465.000000	0.048215
+1809.07.22_Jackson'sOxfordJournal	1588.000000	27342.000000	0.058079
+1809.07.22_Jackson'sOxfordJournal	1588.000000	27342.000000	0.058079
+1809.07.22_TheIpswichJournal	978.000000	26830.000000	0.036452
+1809.07.22_TheLeedsMercury	2117.000000	30167.000000	0.070176
+1809.07.23_TheExaminer	2016.000000	21400.000000	0.094206
+1809.07.23_TheExaminer	2016.000000	21400.000000	0.094206
+1809.07.24_CaledonianMercury	3573.000000	25324.000000	0.141091
+1809.07.24_HampshireTelegraphandSussexChronicleetc	440.000000	29391.000000	0.014971
+1809.07.24_TheMorningChronicle	803.000000	17969.000000	0.044688
+1809.07.25_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	951.000000	23780.000000	0.039992
+1809.07.26_TheAberdeenJournal	4721.000000	28882.000000	0.163458
+1809.07.26_TheAberdeenJournal	4721.000000	28882.000000	0.163458
+1809.07.26_TheAberdeenJournal	4721.000000	28882.000000	0.163458
+1809.07.27_CaledonianMercury	3982.000000	26508.000000	0.150219
+1809.07.27_CaledonianMercury	3982.000000	26508.000000	0.150219
+1809.07.27_TheDerbyMercury	1231.000000	23845.000000	0.051625
+1809.07.27_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	3145.000000	29590.000000	0.106286
+1809.07.29_CaledonianMercury	2043.000000	25878.000000	0.078947
+1809.07.29_CaledonianMercury	2043.000000	25878.000000	0.078947
+1809.07.29_Jackson'sOxfordJournal	1981.000000	26870.000000	0.073725
+1809.07.29_Jackson'sOxfordJournal	1981.000000	26870.000000	0.073725
+1809.07.29_TheIpswichJournal	861.000000	25945.000000	0.033186
+1809.07.30_TheExaminer	722.000000	21182.000000	0.034086
+1809.07.30_TheExaminer	722.000000	21182.000000	0.034086
+1809.07.31_CaledonianMercury	2573.000000	25481.000000	0.100977
+1809.07.31_CaledonianMercury	2573.000000	25481.000000	0.100977
+1809.07.31_TheMorningChronicle	659.000000	22940.000000	0.028727
+1809.08.01_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	3257.000000	24133.000000	0.134960
+1809.08.02_TheAberdeenJournal	5314.000000	28801.000000	0.184507
+1809.08.02_TheAberdeenJournal	5314.000000	28801.000000	0.184507
+1809.08.03_CaledonianMercury	2318.000000	26214.000000	0.088426
+1809.08.03_TheDerbyMercury	2633.000000	24978.000000	0.105413
+1809.08.03_TheDerbyMercury	2633.000000	24978.000000	0.105413
+1809.08.03_TheMorningChronicle	146.000000	23730.000000	0.006153
+1809.08.03_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	4709.000000	28964.000000	0.162581
+1809.08.04_TheMorningChronicle	334.000000	24039.000000	0.013894
+1809.08.05_Jackson'sOxfordJournal	420.000000	28034.000000	0.014982
+1809.08.05_TheIpswichJournal	435.000000	25097.000000	0.017333
+1809.08.05_TheMorningChronicle	218.000000	21990.000000	0.009914
+1809.08.07_CaledonianMercury	336.000000	26162.000000	0.012843
+1809.08.07_HampshireTelegraphandSussexChronicleetc	232.000000	29801.000000	0.007785
+1809.08.08_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	251.000000	23735.000000	0.010575
+1809.08.09_TheAberdeenJournal	1891.000000	28075.000000	0.067355
+1809.08.09_TheAberdeenJournal	1891.000000	28075.000000	0.067355
+1809.08.10_TheMorningChronicle	139.000000	21521.000000	0.006459
+1809.08.10_Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	3603.000000	29545.000000	0.121950
+1809.08.12_TheMorningChronicle	259.000000	23175.000000	0.011176
+1809.08.15_TheHullPacketandOriginalWeeklyCommercial,LiteraryandGeneralAdvertiser	406.000000	24252.000000	0.016741
+1809.08.16_TheAberdeenJournal	2432.000000	27445.000000	0.088614
+1809.08.16_TheMorningChronicle	142.000000	20858.000000	0.006808
