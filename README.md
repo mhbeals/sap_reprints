@@ -1,17 +1,26 @@
-# Reprints and Re-use within the Anglophone Newspaper Press
+# Scissors and Paste Database
+## A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.0.1
 
-Currently maps reprinting and re-use in the following collections:
+Version 1.0.1 currently maps reprinting and re-use in the following collections:
 
 1. British Library 19th Century Newspapers, Part 1 (JISC)
 2. Times Digital Archive (GALE CENGAGE)
 
-Forthcoming collectons
+Forthcoming collectons:
 
 1. London Gazette
 2. British Library 19th Century Newspapers, Part 2 (JISC)
 3. Trove (National Library of Australia)
 4. Papers Past (New Zealand)
 5. Welsh Newspapers Online (National Library of Wales)
+
+## Citation
+
+Bibliometric data is time consuming to produce but benefits us all. Please remember to cite or acknowledge this and any other bibliometric data you use in your research. All data is hereby released CC-BY 4.0.
+
+Beals. M. H. *Scissors and Paste Database: A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.0.1*. 2 June 2017. Available at https://github.com/mhbeals/sap_reprints/.
+
+## File Structure
 
 ### Inputs
 
