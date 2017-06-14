@@ -14,6 +14,8 @@ Forthcoming collectons:
 4. Papers Past (New Zealand)
 5. Welsh Newspapers Online (National Library of Wales)
 
+It was created using the [Scissors and Paste Console v.0.2.0](https://github.com/mhbeals/sap_console)
+
 ## Citation
 
 Bibliometric data is time consuming to produce but benefits us all. Please remember to cite or acknowledge this and any other bibliometric data you use in your research. All data is hereby released CC-BY 4.0.
