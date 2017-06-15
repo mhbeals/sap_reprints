@@ -982,6 +982,7 @@
 87	165	164	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.24_TheIpswichJournal_0002.txt
 95	161	162	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.27_Times_0003.txt
 126	209	206	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.28_TheMorningChronicle_0001.txt
+82	134	128	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 152	221	225	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0003.txt
 125	207	209	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0001.txt
 186	285	298	E:\Texts\1800s\1803\10\1803.10.01_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0003.txt
@@ -991,6 +992,7 @@
 89	166	166	E:\Texts\1800s\1803\10\1803.10.01_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
 89	147	148	E:\Texts\1800s\1803\10\1803.10.01_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.14_TheMorningChronicle_0004.txt
 169	276	261	E:\Texts\1800s\1803\10\1803.10.01_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+220	387	385	E:\Texts\1800s\1803\10\1803.10.01_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 142	247	245	E:\Texts\1800s\1803\10\1803.10.01_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0001.txt
 149	248	246	E:\Texts\1800s\1803\10\1803.10.01_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 196	337	341	E:\Texts\1800s\1803\10\1803.10.01_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0001.txt
@@ -1116,6 +1118,7 @@
 235	377	380	E:\Texts\1800s\1803\10\1803.10.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
 118	210	211	E:\Texts\1800s\1803\10\1803.10.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheMorningChronicle_0004.txt
 88	167	166	E:\Texts\1800s\1803\10\1803.10.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
+243	390	403	E:\Texts\1800s\1803\10\1803.10.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 94	152	145	E:\Texts\1800s\1803\10\1803.10.06_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0001.txt
 81	131	130	E:\Texts\1800s\1803\10\1803.10.06_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 87	140	143	E:\Texts\1800s\1803\10\1803.10.06_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0001.txt
@@ -1168,6 +1171,7 @@
 112	169	167	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 295	483	487	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 240	402	402	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+112	162	165	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 393	675	673	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 341	588	582	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 216	379	386	E:\Texts\1800s\1803\10\1803.10.06_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.15_TheMorningChronicle_0004.txt
@@ -1228,6 +1232,7 @@
 185	266	256	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0003.txt
 180	257	244	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0003.txt
 219	353	341	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0003.txt
+87	142	140	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 91	173	169	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.02_TheMorningChronicle_0001.txt
 117	220	217	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 127	214	217	E:\Texts\1800s\1803\10\1803.10.08_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0004.txt
@@ -1267,7 +1272,9 @@
 361	594	587	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
 99	159	166	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
 113	188	189	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
+94	163	165	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 138	241	241	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+293	465	474	E:\Texts\1800s\1803\10\1803.10.08_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 84	128	131	E:\Texts\1800s\1803\10\1803.10.08_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0001.txt
 116	207	208	E:\Texts\1800s\1803\10\1803.10.08_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.30_Times_0001.txt
 157	268	263	E:\Texts\1800s\1803\10\1803.10.08_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
@@ -1322,6 +1329,7 @@
 113	168	168	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 116	191	193	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 182	280	281	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+111	166	170	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 91	150	153	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.12_TheMorningChronicle_0004.txt
 93	153	153	E:\Texts\1800s\1803\10\1803.10.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0004.txt
 152	276	273	E:\Texts\1800s\1803\10\1803.10.11_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1348,6 +1356,7 @@
 94	156	156	E:\Texts\1800s\1803\10\1803.10.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 91	141	141	E:\Texts\1800s\1803\10\1803.10.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheMorningChronicle_0004.txt
 96	160	160	E:\Texts\1800s\1803\10\1803.10.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0004.txt
+88	140	141	E:\Texts\1800s\1803\10\1803.10.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 155	242	236	E:\Texts\1800s\1803\10\1803.10.13_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0001.txt
 96	147	142	E:\Texts\1800s\1803\10\1803.10.13_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 120	206	202	E:\Texts\1800s\1803\10\1803.10.13_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1448,6 +1457,7 @@
 82	143	142	E:\Texts\1800s\1803\10\1803.10.15_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0004.txt
 253	456	472	E:\Texts\1800s\1803\10\1803.10.15_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
 328	586	581	E:\Texts\1800s\1803\10\1803.10.15_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0002.txt
+133	211	208	E:\Texts\1800s\1803\10\1803.10.15_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 84	146	138	E:\Texts\1800s\1803\10\1803.10.15_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
 219	361	348	E:\Texts\1800s\1803\10\1803.10.15_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
 478	733	724	E:\Texts\1800s\1803\10\1803.10.15_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1493,6 +1503,7 @@
 81	124	126	E:\Texts\1800s\1803\10\1803.10.17_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 123	222	217	E:\Texts\1800s\1803\10\1803.10.17_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.20_TheMorningChronicle_0001.txt
 126	187	188	E:\Texts\1800s\1803\10\1803.10.17_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+94	153	155	E:\Texts\1800s\1803\10\1803.10.17_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 104	183	173	E:\Texts\1800s\1803\10\1803.10.17_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
 88	143	141	E:\Texts\1800s\1803\10\1803.10.18_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 128	196	196	E:\Texts\1800s\1803\10\1803.10.18_TheHullPacket_0002.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
@@ -1522,7 +1533,9 @@
 96	169	163	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.14_TheMorningChronicle_0001.txt
 193	317	318	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 85	148	146	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.28_TheMorningChronicle_0001.txt
+87	137	137	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 191	327	323	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+297	514	512	E:\Texts\1800s\1803\10\1803.10.19_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 80	132	136	E:\Texts\1800s\1803\10\1803.10.20_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0003.txt
 98	158	153	E:\Texts\1800s\1803\10\1803.10.20_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0003.txt
 175	305	304	E:\Texts\1800s\1803\10\1803.10.20_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0001.txt
@@ -1550,6 +1563,8 @@
 95	161	155	E:\Texts\1800s\1803\10\1803.10.20_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_TheMorningChronicle_0001.txt
 112	195	195	E:\Texts\1800s\1803\10\1803.10.20_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 93	143	133	E:\Texts\1800s\1803\10\1803.10.20_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+111	180	170	E:\Texts\1800s\1803\10\1803.10.20_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+115	187	183	E:\Texts\1800s\1803\10\1803.10.20_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 102	145	154	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_Trewman'sExeterFlyingPost_0001.txt
 127	200	198	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 82	134	134	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
@@ -1568,6 +1583,7 @@
 240	378	374	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0003.txt
 229	304	303	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 357	545	520	E:\Texts\1800s\1803\10\1803.10.20_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+103	179	172	E:\Texts\1800s\1803\10\1803.10.21_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 80	143	146	E:\Texts\1800s\1803\10\1803.10.22_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 114	164	166	E:\Texts\1800s\1803\10\1803.10.22_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0004.txt
 82	145	146	E:\Texts\1800s\1803\10\1803.10.22_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0004.txt
@@ -1591,6 +1607,7 @@
 95	139	143	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0004.txt
 91	168	165	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0002.txt
 91	154	168	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheAberdeenJournal_0002.txt
+148	265	254	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 81	127	130	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.28_TheAberdeenJournal_0003.txt
 185	264	265	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0004.txt
 136	221	222	E:\Texts\1800s\1803\10\1803.10.22_TheIpswichJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0002.txt
@@ -1603,9 +1620,11 @@
 102	172	176	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 159	282	264	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 203	300	301	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+146	225	229	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 125	192	196	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0004.txt
 126	212	207	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_TheMorningChronicle_0004.txt
 195	311	301	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+295	498	507	E:\Texts\1800s\1803\10\1803.10.22_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 152	269	270	E:\Texts\1800s\1803\10\1803.10.22_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0001.txt
 171	294	295	E:\Texts\1800s\1803\10\1803.10.22_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 83	138	140	E:\Texts\1800s\1803\10\1803.10.22_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
@@ -1675,8 +1694,10 @@
 301	470	504	E:\Texts\1800s\1803\10\1803.10.26_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheAberdeenJournal_0002.txt
 178	263	251	E:\Texts\1800s\1803\10\1803.10.26_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0003.txt
 170	266	262	E:\Texts\1800s\1803\10\1803.10.26_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+102	165	171	E:\Texts\1800s\1803\10\1803.10.26_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 141	246	242	E:\Texts\1800s\1803\10\1803.10.26_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 132	225	219	E:\Texts\1800s\1803\10\1803.10.26_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.30_TheMorningChronicle_0004.txt
+281	524	510	E:\Texts\1800s\1803\10\1803.10.26_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 100	152	160	E:\Texts\1800s\1803\10\1803.10.27_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0003.txt
 215	379	377	E:\Texts\1800s\1803\10\1803.10.27_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 84	141	136	E:\Texts\1800s\1803\10\1803.10.27_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
@@ -1687,6 +1708,7 @@
 292	498	488	E:\Texts\1800s\1803\10\1803.10.27_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 114	208	206	E:\Texts\1800s\1803\10\1803.10.27_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 92	129	129	E:\Texts\1800s\1803\10\1803.10.27_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+95	142	143	E:\Texts\1800s\1803\10\1803.10.27_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 89	164	156	E:\Texts\1800s\1803\10\1803.10.27_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
 133	221	227	E:\Texts\1800s\1803\10\1803.10.27_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_Trewman'sExeterFlyingPost_0001.txt
 124	198	195	E:\Texts\1800s\1803\10\1803.10.27_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0002.txt
@@ -1730,8 +1752,11 @@
 101	153	155	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 92	128	127	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
 87	153	146	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
+173	277	269	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 97	167	163	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0004.txt
 117	176	173	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0004.txt
+164	253	260	E:\Texts\1800s\1803\10\1803.10.29_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0003.txt
+129	233	222	E:\Texts\1800s\1803\10\1803.10.29_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 175	249	254	E:\Texts\1800s\1803\10\1803.10.29_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 82	138	135	E:\Texts\1800s\1803\10\1803.10.29_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
 113	206	195	E:\Texts\1800s\1803\10\1803.10.29_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
@@ -1753,6 +1778,7 @@
 282	466	478	E:\Texts\1800s\1803\10\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 366	605	611	E:\Texts\1800s\1803\10\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 258	411	421	E:\Texts\1800s\1803\10\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
+474	771	772	E:\Texts\1800s\1803\10\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 118	154	161	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_Trewman'sExeterFlyingPost_0001.txt
 131	198	198	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 85	134	136	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
@@ -1778,6 +1804,7 @@
 179	284	294	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 464	647	647	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 311	459	447	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+161	230	232	E:\Texts\1800s\1803\10\1803.11.10_Trewman'sExeterFlyingPost_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 108	196	187	E:\Texts\1800s\1803\10\1803.12.10_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0004.txt
 136	234	228	E:\Texts\1800s\1803\10\1803.12.10_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
 92	182	173	E:\Texts\1800s\1803\10\1803.12.10_TheNewcastleCourantetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0002.txt
@@ -1792,13 +1819,18 @@
 82	136	135	E:\Texts\1800s\1803\11\1803.11.01_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 168	266	265	E:\Texts\1800s\1803\11\1803.11.01_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 87	133	141	E:\Texts\1800s\1803\11\1803.11.01_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+155	237	246	E:\Texts\1800s\1803\11\1803.11.01_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0003.txt
 269	408	406	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.07_TheAberdeenJournal_0001.txt
 152	221	220	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.14_TheAberdeenJournal_0001.txt
 150	245	250	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.21_TheAberdeenJournal_0001.txt
+236	364	388	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 117	198	201	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 186	264	268	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
 172	285	280	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.26_HampshireTelegraphandSussexChronicleetc_0004.txt
+176	306	315	E:\Texts\1800s\1803\11\1803.11.02_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 117	212	213	E:\Texts\1800s\1803\11\1803.11.02_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+683	1211	1203	E:\Texts\1800s\1803\11\1803.11.02_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
+197	301	310	E:\Texts\1800s\1803\11\1803.11.02_Times_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0002.txt
 92	150	141	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 93	142	142	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheIpswichJournal_0004.txt
 87	163	149	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
@@ -1827,6 +1859,7 @@
 483	766	785	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 95	133	125	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 234	345	341	E:\Texts\1800s\1803\11\1803.11.03_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+183	306	311	E:\Texts\1800s\1803\11\1803.11.03_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 97	175	180	E:\Texts\1800s\1803\11\1803.11.03_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 86	129	128	E:\Texts\1800s\1803\11\1803.11.03_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.02_TheMorningChronicle_0001.txt
 119	168	179	E:\Texts\1800s\1803\11\1803.11.03_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
@@ -1847,6 +1880,7 @@
 254	356	355	E:\Texts\1800s\1803\11\1803.11.03_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 359	536	537	E:\Texts\1800s\1803\11\1803.11.03_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
 84	133	132	E:\Texts\1800s\1803\11\1803.11.04_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+210	334	327	E:\Texts\1800s\1803\11\1803.11.04_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 93	160	156	E:\Texts\1800s\1803\11\1803.11.05_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 92	146	149	E:\Texts\1800s\1803\11\1803.11.05_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 127	244	245	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
@@ -1856,8 +1890,11 @@
 86	144	147	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 183	283	285	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
 101	156	167	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+201	329	341	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+104	174	174	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0002.txt
 90	145	143	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheMorningChronicle_0004.txt
 85	147	149	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
+609	1028	1010	E:\Texts\1800s\1803\11\1803.11.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 114	182	179	E:\Texts\1800s\1803\11\1803.11.05_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 91	150	152	E:\Texts\1800s\1803\11\1803.11.05_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 705	1059	1060	E:\Texts\1800s\1803\11\1803.11.05_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1883,9 +1920,12 @@
 155	268	273	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 133	212	217	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.20_TheMorningChronicle_0001.txt
 114	176	177	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+549	883	909	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+137	227	231	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0002.txt
 234	390	390	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 230	378	370	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 218	355	344	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
+129	195	202	E:\Texts\1800s\1803\11\1803.11.07_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 133	204	202	E:\Texts\1800s\1803\11\1803.11.08_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 94	144	136	E:\Texts\1800s\1803\11\1803.11.08_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheIpswichJournal_0004.txt
 84	131	122	E:\Texts\1800s\1803\11\1803.11.08_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1893,11 +1933,24 @@
 88	138	136	E:\Texts\1800s\1803\11\1803.11.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_TheMorningChronicle_0001.txt
 103	167	170	E:\Texts\1800s\1803\11\1803.11.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.20_TheMorningChronicle_0001.txt
 102	178	184	E:\Texts\1800s\1803\11\1803.11.08_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
+131	194	196	E:\Texts\1800s\1803\11\1803.11.08_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0002.txt
+5765	5765	5765	E:\Texts\1800s\1803\11\1803.11.09_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
+6618	6618	6618	E:\Texts\1800s\1803\11\1803.11.09_TheAberdeenJournal_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0002.txt
+6453	6453	6453	E:\Texts\1800s\1803\11\1803.11.09_TheAberdeenJournal_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0003.txt
+6203	6203	6203	E:\Texts\1800s\1803\11\1803.11.09_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0004.txt
 90	142	140	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 112	172	168	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+5328	5328	5328	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+4261	4261	4261	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0002.txt
+4691	4691	4691	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0003.txt
 103	186	183	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
 86	156	158	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.30_TheMorningChronicle_0004.txt
+5953	5953	5953	E:\Texts\1800s\1803\11\1803.11.09_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
+118	184	193	E:\Texts\1800s\1803\11\1803.11.09_Times_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+80	122	126	E:\Texts\1800s\1803\11\1803.11.09_Times_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0002.txt
+101	159	163	E:\Texts\1800s\1803\11\1803.11.09_Times_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0003.txt
 125	209	200	E:\Texts\1800s\1803\11\1803.11.10_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0001.txt
+219	341	322	E:\Texts\1800s\1803\11\1803.11.10_TheDerbyMercury_0003.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 339	543	539	E:\Texts\1800s\1803\11\1803.11.10_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 90	152	151	E:\Texts\1800s\1803\11\1803.11.10_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
 199	303	299	E:\Texts\1800s\1803\11\1803.11.10_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1916,6 +1969,7 @@
 282	466	478	E:\Texts\1800s\1803\11\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 366	605	611	E:\Texts\1800s\1803\11\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 258	411	421	E:\Texts\1800s\1803\11\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
+474	771	772	E:\Texts\1800s\1803\11\1803.11.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 118	154	161	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_Trewman'sExeterFlyingPost_0001.txt
 131	198	198	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 85	134	136	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
@@ -1941,6 +1995,8 @@
 179	284	294	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 464	647	647	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 311	459	447	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+161	230	232	E:\Texts\1800s\1803\11\1803.11.10_Trewman'sExeterFlyingPost_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+96	181	185	E:\Texts\1800s\1803\11\1803.11.11_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 115	191	191	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.02_TheMorningChronicle_0001.txt
 95	158	154	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 89	147	145	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -1952,9 +2008,11 @@
 102	174	175	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0001.txt
 95	154	161	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0004.txt
 98	147	155	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+93	158	150	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 89	130	132	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 83	142	154	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0001.txt
 95	132	132	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
+327	462	466	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 87	135	134	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 196	298	295	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 174	289	284	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0003.txt
@@ -1963,11 +2021,14 @@
 130	188	195	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0003.txt
 86	138	137	E:\Texts\1800s\1803\11\1803.11.12_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0004.txt
 90	150	149	E:\Texts\1800s\1803\11\1803.11.12_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
+113	201	197	E:\Texts\1800s\1803\11\1803.11.12_TheIpswichJournal_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0003.txt
 80	123	124	E:\Texts\1800s\1803\11\1803.11.12_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheIpswichJournal_0004.txt
 93	180	184	E:\Texts\1800s\1803\11\1803.11.12_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0001.txt
 87	147	145	E:\Texts\1800s\1803\11\1803.11.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+118	196	196	E:\Texts\1800s\1803\11\1803.11.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 174	309	311	E:\Texts\1800s\1803\11\1803.11.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
 162	280	285	E:\Texts\1800s\1803\11\1803.11.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
+372	660	653	E:\Texts\1800s\1803\11\1803.11.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 82	140	142	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0003.txt
 97	158	155	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
 95	157	152	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
@@ -1975,11 +2036,14 @@
 83	151	147	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0002.txt
 90	147	139	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0002.txt
 92	158	155	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0004.txt
+281	473	469	E:\Texts\1800s\1803\11\1803.11.12_TheNewcastleCourantetc_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 81	145	138	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
 92	172	173	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0002.txt
 121	201	194	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.19_HampshireTelegraphandSussexChronicleetc_0002.txt
 82	135	132	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 160	255	269	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0004.txt
+219	349	339	E:\Texts\1800s\1803\11\1803.11.14_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+111	189	199	E:\Texts\1800s\1803\11\1803.11.14_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 171	283	294	E:\Texts\1800s\1803\11\1803.11.14_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 240	403	409	E:\Texts\1800s\1803\11\1803.11.14_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheMorningChronicle_0004.txt
 89	176	181	E:\Texts\1800s\1803\11\1803.11.14_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0004.txt
@@ -1991,7 +2055,11 @@
 107	199	193	E:\Texts\1800s\1803\11\1803.11.15_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
 133	208	198	E:\Texts\1800s\1803\11\1803.11.15_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 114	189	190	E:\Texts\1800s\1803\11\1803.11.15_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
+304	473	482	E:\Texts\1800s\1803\11\1803.11.15_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+80	133	137	E:\Texts\1800s\1803\11\1803.11.15_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+187	324	330	E:\Texts\1800s\1803\11\1803.11.15_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 82	129	133	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.14_TheAberdeenJournal_0001.txt
+293	426	453	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 109	172	165	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0001.txt
 126	222	214	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
 95	153	144	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.13_TheHullPacket_0004.txt
@@ -1999,6 +2067,7 @@
 97	168	166	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.21_TheAberdeenJournal_0002.txt
 101	172	157	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0003.txt
 107	193	184	E:\Texts\1800s\1803\11\1803.11.16_TheAberdeenJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+84	146	156	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 91	130	135	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0004.txt
 120	200	205	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
 81	135	135	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.07_TheMorningChronicle_0001.txt
@@ -2006,6 +2075,7 @@
 102	174	174	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 113	163	167	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
 80	139	141	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
+173	296	305	E:\Texts\1800s\1803\11\1803.11.16_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 108	172	170	E:\Texts\1800s\1803\11\1803.11.17_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0002.txt
 138	228	229	E:\Texts\1800s\1803\11\1803.11.17_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
 177	280	268	E:\Texts\1800s\1803\11\1803.11.17_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
@@ -2019,6 +2089,7 @@
 231	385	372	E:\Texts\1800s\1803\11\1803.11.17_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheMorningChronicle_0004.txt
 96	141	147	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0004.txt
 100	143	151	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0003.txt
+123	186	188	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0003.txt
 83	122	123	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0001.txt
 115	184	186	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0002.txt
 130	204	201	E:\Texts\1800s\1803\11\1803.11.17_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0003.txt
@@ -2074,6 +2145,8 @@
 83	128	138	E:\Texts\1800s\1803\11\1803.11.22_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0004.txt
 83	148	147	E:\Texts\1800s\1803\11\1803.11.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.02_TheMorningChronicle_0001.txt
 110	201	210	E:\Texts\1800s\1803\11\1803.11.23_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.14_TheAberdeenJournal_0004.txt
+203	331	337	E:\Texts\1800s\1803\11\1803.11.23_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
+121	194	197	E:\Texts\1800s\1803\11\1803.11.23_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 99	149	149	E:\Texts\1800s\1803\11\1803.11.24_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 103	153	150	E:\Texts\1800s\1803\11\1803.11.24_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 623	958	984	E:\Texts\1800s\1803\11\1803.11.24_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
@@ -2093,6 +2166,7 @@
 105	145	146	E:\Texts\1800s\1803\11\1803.11.24_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 84	128	128	E:\Texts\1800s\1803\11\1803.11.24_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 109	168	167	E:\Texts\1800s\1803\11\1803.11.24_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+136	214	220	E:\Texts\1800s\1803\11\1803.11.24_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 152	266	259	E:\Texts\1800s\1803\11\1803.11.24_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0004.txt
 122	159	163	E:\Texts\1800s\1803\11\1803.11.24_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0004.txt
 100	167	166	E:\Texts\1800s\1803\11\1803.11.24_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
@@ -2210,6 +2284,7 @@
 99	132	136	E:\Texts\1800s\1803\12\1803.12.03_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 103	157	154	E:\Texts\1800s\1803\12\1803.12.03_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0001.txt
 120	178	175	E:\Texts\1800s\1803\12\1803.12.03_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0003.txt
+144	255	256	E:\Texts\1800s\1803\12\1803.12.03_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0001.txt
 80	137	138	E:\Texts\1800s\1803\12\1803.12.03_TheNewcastleCourantetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 297	469	485	E:\Texts\1800s\1803\12\1803.12.03_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 113	193	197	E:\Texts\1800s\1803\12\1803.12.03_TheNewcastleCourantetc_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0003.txt
@@ -2227,6 +2302,8 @@
 222	350	337	E:\Texts\1800s\1803\12\1803.12.05_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 173	288	284	E:\Texts\1800s\1803\12\1803.12.05_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0004.txt
 87	120	118	E:\Texts\1800s\1803\12\1803.12.05_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
+94	164	166	E:\Texts\1800s\1803\12\1803.12.05_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+82	142	138	E:\Texts\1800s\1803\12\1803.12.05_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0004.txt
 118	212	206	E:\Texts\1800s\1803\12\1803.12.06_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 82	131	137	E:\Texts\1800s\1803\12\1803.12.06_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
 93	149	144	E:\Texts\1800s\1803\12\1803.12.07_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0002.txt
@@ -2247,6 +2324,7 @@
 144	248	246	E:\Texts\1800s\1803\12\1803.12.08_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0002.txt
 99	185	181	E:\Texts\1800s\1803\12\1803.12.08_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0002.txt
 217	372	365	E:\Texts\1800s\1803\12\1803.12.08_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
+112	194	190	E:\Texts\1800s\1803\12\1803.12.08_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0004.txt
 195	334	343	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0003.txt
 246	405	395	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 83	135	133	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0004.txt
@@ -2272,8 +2350,13 @@
 121	183	188	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 133	205	201	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 142	217	213	E:\Texts\1800s\1803\12\1803.12.08_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+5373	5373	5373	E:\Texts\1800s\1803\12\1803.12.09_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0001.txt
+4530	4530	4530	E:\Texts\1800s\1803\12\1803.12.09_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0002.txt
+4600	4600	4600	E:\Texts\1800s\1803\12\1803.12.09_TheMorningChronicle_0003.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0003.txt
+5555	5555	5555	E:\Texts\1800s\1803\12\1803.12.09_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0004.txt
 97	180	177	E:\Texts\1800s\1803\12\1803.12.10_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 87	157	153	E:\Texts\1800s\1803\12\1803.12.10_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
+91	159	150	E:\Texts\1800s\1803\12\1803.12.10_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0003.txt
 90	145	144	E:\Texts\1800s\1803\12\1803.12.10_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 124	187	185	E:\Texts\1800s\1803\12\1803.12.10_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0003.txt
 108	196	187	E:\Texts\1800s\1803\12\1803.12.10_TheIpswichJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0004.txt
@@ -2289,6 +2372,9 @@
 88	159	156	E:\Texts\1800s\1803\12\1803.12.12_HampshireTelegraphandSussexChronicleetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0002.txt
 80	144	136	E:\Texts\1800s\1803\12\1803.12.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
 90	132	130	E:\Texts\1800s\1803\12\1803.12.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+93	136	139	E:\Texts\1800s\1803\12\1803.12.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+88	162	161	E:\Texts\1800s\1803\12\1803.12.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0001.txt
+177	309	307	E:\Texts\1800s\1803\12\1803.12.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0004.txt
 99	182	183	E:\Texts\1800s\1803\12\1803.12.13_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 124	204	218	E:\Texts\1800s\1803\12\1803.12.13_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 107	183	182	E:\Texts\1800s\1803\12\1803.12.13_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.06_TheHullPacket_0001.txt
@@ -2312,6 +2398,7 @@
 162	259	256	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0002.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0002.txt
 83	156	161	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0002.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0002.txt
 220	383	386	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0002.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
+100	144	144	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0002.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0003.txt
 323	530	523	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 123	239	223	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0003.txt
 160	254	249	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
@@ -2321,6 +2408,7 @@
 142	241	240	E:\Texts\1800s\1803\12\1803.12.15_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 82	128	124	E:\Texts\1800s\1803\12\1803.12.15_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 113	170	165	E:\Texts\1800s\1803\12\1803.12.15_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+115	193	186	E:\Texts\1800s\1803\12\1803.12.15_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 114	144	152	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.15_Trewman'sExeterFlyingPost_0001.txt
 169	253	251	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 93	140	140	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
@@ -2339,11 +2427,13 @@
 96	149	148	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 296	431	419	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0002.txt
 134	211	199	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+93	128	130	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0002.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0003.txt
 122	215	212	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 82	137	130	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.06_TheHullPacket_0001.txt
 142	242	240	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 89	135	131	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0001.txt
 203	296	295	E:\Texts\1800s\1803\12\1803.12.15_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+119	199	198	E:\Texts\1800s\1803\12\1803.12.16_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 169	281	276	E:\Texts\1800s\1803\12\1803.12.16_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
 132	220	216	E:\Texts\1800s\1803\12\1803.12.16_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 159	261	262	E:\Texts\1800s\1803\12\1803.12.17_Jackson'sOxfordJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
@@ -2378,6 +2468,8 @@
 90	131	132	E:\Texts\1800s\1803\12\1803.12.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_TheMorningChronicle_0001.txt
 107	173	173	E:\Texts\1800s\1803\12\1803.12.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 104	144	145	E:\Texts\1800s\1803\12\1803.12.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+272	432	438	E:\Texts\1800s\1803\12\1803.12.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+100	187	191	E:\Texts\1800s\1803\12\1803.12.19_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0001.txt
 96	161	159	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0001.txt
 93	156	167	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0004.txt
 115	190	184	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.06_TheHullPacket_0004.txt
@@ -2387,6 +2479,8 @@
 134	195	192	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
 298	475	479	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
 149	263	270	E:\Texts\1800s\1803\12\1803.12.20_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0001.txt
+151	250	255	E:\Texts\1800s\1803\12\1803.12.21_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
+87	145	151	E:\Texts\1800s\1803\12\1803.12.21_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0001.txt
 146	263	265	E:\Texts\1800s\1803\12\1803.12.21_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_TheMorningChronicle_0001.txt
 131	237	238	E:\Texts\1800s\1803\12\1803.12.21_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
 179	280	291	E:\Texts\1800s\1803\12\1803.12.22_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0001.txt
@@ -2624,6 +2718,7 @@
 106	174	164	E:\Texts\1800s\1804\01\1804.01.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.26_HampshireTelegraphandSussexChronicleetc_0001.txt
 124	194	183	E:\Texts\1800s\1804\01\1804.01.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0001.txt
 92	162	163	E:\Texts\1800s\1804\01\1804.01.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+149	229	237	E:\Texts\1800s\1804\01\1804.01.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 81	150	147	E:\Texts\1800s\1804\01\1804.01.05_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 127	199	196	E:\Texts\1800s\1804\01\1804.01.05_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0001.txt
 93	151	151	E:\Texts\1800s\1804\01\1804.01.05_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.06_TheHullPacket_0004.txt
@@ -2706,6 +2801,7 @@
 146	235	229	E:\Texts\1800s\1804\01\1804.01.11_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
 107	172	171	E:\Texts\1800s\1804\01\1804.01.11_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 168	225	218	E:\Texts\1800s\1804\01\1804.01.11_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheMorningChronicle_0001.txt
+102	157	154	E:\Texts\1800s\1804\01\1804.01.11_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 188	315	306	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 89	132	126	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0004.txt
 100	177	167	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
@@ -2718,6 +2814,7 @@
 113	209	204	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0002.txt
 339	541	549	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 161	252	245	E:\Texts\1800s\1804\01\1804.01.12_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0001.txt
+104	154	154	E:\Texts\1800s\1804\01\1804.01.12_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 131	217	219	E:\Texts\1800s\1804\01\1804.01.12_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheMorningChronicle_0004.txt
 136	202	223	E:\Texts\1800s\1804\01\1804.01.12_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 101	157	159	E:\Texts\1800s\1804\01\1804.01.12_Trewman'sExeterFlyingPost_0003.txt	E:\Texts\1800s\1803\09\1803.09.01_Trewman'sExeterFlyingPost_0001.txt
@@ -2815,6 +2912,7 @@
 117	198	188	E:\Texts\1800s\1804\01\1804.01.24_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
 108	185	184	E:\Texts\1800s\1804\01\1804.01.24_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 125	195	191	E:\Texts\1800s\1804\01\1804.01.24_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
+136	219	210	E:\Texts\1800s\1804\01\1804.01.25_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 85	118	121	E:\Texts\1800s\1804\01\1804.01.26_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
 144	262	253	E:\Texts\1800s\1804\01\1804.01.26_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
 90	160	162	E:\Texts\1800s\1804\01\1804.01.26_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
@@ -2846,6 +2944,7 @@
 96	153	149	E:\Texts\1800s\1804\01\1804.01.28_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0003.txt
 104	163	155	E:\Texts\1800s\1804\01\1804.01.28_Jackson'sOxfordJournal_0002.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
 94	131	128	E:\Texts\1800s\1804\01\1804.01.28_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0003.txt
+134	209	212	E:\Texts\1800s\1804\01\1804.01.28_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 98	172	170	E:\Texts\1800s\1804\01\1804.01.30_CaledonianMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 80	131	128	E:\Texts\1800s\1804\01\1804.01.30_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 93	159	161	E:\Texts\1800s\1804\01\1804.01.30_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0003.txt
@@ -2879,6 +2978,7 @@
 156	241	252	E:\Texts\1800s\1804\02\1804.02.07_TheHullPacket_0002.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 150	251	256	E:\Texts\1800s\1804\02\1804.02.07_TheHullPacket_0002.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0003.txt
 194	316	317	E:\Texts\1800s\1804\02\1804.02.07_TheHullPacket_0002.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0003.txt
+171	301	302	E:\Texts\1800s\1804\02\1804.02.08_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 112	164	180	E:\Texts\1800s\1804\02\1804.02.09_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.03_TheIpswichJournal_0004.txt
 85	125	131	E:\Texts\1800s\1804\02\1804.02.09_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0001.txt
 142	245	248	E:\Texts\1800s\1804\02\1804.02.09_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
@@ -2913,11 +3013,13 @@
 133	207	215	E:\Texts\1800s\1804\02\1804.02.11_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0003.txt
 81	131	131	E:\Texts\1800s\1804\02\1804.02.11_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0004.txt
 111	174	168	E:\Texts\1800s\1804\02\1804.02.11_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.21_TheMorningChronicle_0001.txt
+81	146	144	E:\Texts\1800s\1804\02\1804.02.11_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.12.09_TheMorningChronicle_0004.txt
 80	136	136	E:\Texts\1800s\1804\02\1804.02.13_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 97	168	159	E:\Texts\1800s\1804\02\1804.02.13_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 89	147	142	E:\Texts\1800s\1804\02\1804.02.13_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0003.txt
 96	159	154	E:\Texts\1800s\1804\02\1804.02.13_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
 89	137	138	E:\Texts\1800s\1804\02\1804.02.13_HampshireTelegraphandSussexChronicleetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_HampshireTelegraphandSussexChronicleetc_0001.txt
+180	297	288	E:\Texts\1800s\1804\02\1804.02.15_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 81	151	142	E:\Texts\1800s\1804\02\1804.02.16_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0001.txt
 208	348	347	E:\Texts\1800s\1804\02\1804.02.16_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
 104	182	178	E:\Texts\1800s\1804\02\1804.02.16_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0004.txt
@@ -2949,6 +3051,8 @@
 102	178	179	E:\Texts\1800s\1804\02\1804.02.18_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0001.txt
 213	294	304	E:\Texts\1800s\1804\02\1804.02.18_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0004.txt
 109	167	167	E:\Texts\1800s\1804\02\1804.02.18_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0004.txt
+162	245	250	E:\Texts\1800s\1804\02\1804.02.18_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
+177	290	283	E:\Texts\1800s\1804\02\1804.02.18_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 81	138	146	E:\Texts\1800s\1804\02\1804.02.20_CaledonianMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 103	176	169	E:\Texts\1800s\1804\02\1804.02.20_CaledonianMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
 106	181	184	E:\Texts\1800s\1804\02\1804.02.20_CaledonianMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0003.txt
@@ -2959,11 +3063,13 @@
 81	137	134	E:\Texts\1800s\1804\02\1804.02.21_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0004.txt
 110	180	173	E:\Texts\1800s\1804\02\1804.02.21_TheHullPacket_0004.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0004.txt
 136	234	235	E:\Texts\1800s\1804\02\1804.02.22_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.20_TheMorningChronicle_0001.txt
+141	234	231	E:\Texts\1800s\1804\02\1804.02.22_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 98	159	161	E:\Texts\1800s\1804\02\1804.02.23_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 258	436	426	E:\Texts\1800s\1804\02\1804.02.23_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
 122	214	214	E:\Texts\1800s\1804\02\1804.02.23_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0004.txt
 96	160	157	E:\Texts\1800s\1804\02\1804.02.23_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0002.txt
 205	359	359	E:\Texts\1800s\1804\02\1804.02.23_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
+86	149	148	E:\Texts\1800s\1804\02\1804.02.23_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0001.txt
 84	149	144	E:\Texts\1800s\1804\02\1804.02.23_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0002.txt
 86	159	159	E:\Texts\1800s\1804\02\1804.02.23_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0002.txt
 89	144	137	E:\Texts\1800s\1804\02\1804.02.23_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
@@ -2989,6 +3095,7 @@
 95	153	154	E:\Texts\1800s\1804\02\1804.02.25_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0003.txt
 89	131	127	E:\Texts\1800s\1804\02\1804.02.25_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0002.txt
 85	116	119	E:\Texts\1800s\1804\02\1804.02.25_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
+176	302	295	E:\Texts\1800s\1804\02\1804.02.25_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 120	200	192	E:\Texts\1800s\1804\02\1804.02.25_TheMorningChronicle_0001.txt	E:\Texts\1800s\1803\09\1803.09.10_TheMorningChronicle_0001.txt
 165	294	290	E:\Texts\1800s\1804\02\1804.02.28_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
 123	222	209	E:\Texts\1800s\1804\02\1804.02.28_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_TheNewcastleCourantetc_0003.txt
@@ -2997,6 +3104,7 @@
 209	360	354	E:\Texts\1800s\1804\02\1804.02.29_HampshireTelegraphandSussexChronicleetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0002.txt
 193	322	323	E:\Texts\1800s\1804\02\1804.02.29_HampshireTelegraphandSussexChronicleetc_0002.txt	E:\Texts\1800s\1803\09\1803.09.19_HampshireTelegraphandSussexChronicleetc_0002.txt
 104	158	170	E:\Texts\1800s\1804\02\1804.02.29_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
+251	390	389	E:\Texts\1800s\1804\02\1804.02.29_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 183	307	297	E:\Texts\1800s\1804\03\1804.03.01_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.01_TheDerbyMercury_0004.txt
 333	550	548	E:\Texts\1800s\1804\03\1804.03.01_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
 416	732	740	E:\Texts\1800s\1804\03\1804.03.01_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0004.txt
@@ -3032,6 +3140,8 @@
 153	231	240	E:\Texts\1800s\1804\03\1804.03.03_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0003.txt
 102	152	149	E:\Texts\1800s\1804\03\1804.03.03_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0003.txt
 201	333	327	E:\Texts\1800s\1804\03\1804.03.03_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0001.txt
+165	257	259	E:\Texts\1800s\1804\03\1804.03.03_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
+80	135	132	E:\Texts\1800s\1804\03\1804.03.03_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 87	123	115	E:\Texts\1800s\1804\03\1804.03.05_HampshireTelegraphandSussexChronicleetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_Trewman'sExeterFlyingPost_0003.txt
 141	224	226	E:\Texts\1800s\1804\03\1804.03.05_HampshireTelegraphandSussexChronicleetc_0004.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0004.txt
 91	148	153	E:\Texts\1800s\1804\03\1804.03.06_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.08_Trewman'sExeterFlyingPost_0003.txt
@@ -3074,6 +3184,8 @@
 176	257	264	E:\Texts\1800s\1804\03\1804.03.10_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0003.txt
 96	139	142	E:\Texts\1800s\1804\03\1804.03.10_Jackson'sOxfordJournal_0003.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0004.txt
 185	277	280	E:\Texts\1800s\1804\03\1804.03.10_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0004.txt
+101	184	188	E:\Texts\1800s\1804\03\1804.03.10_TheIpswichJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
+116	210	205	E:\Texts\1800s\1804\03\1804.03.10_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 84	152	144	E:\Texts\1800s\1804\03\1804.03.12_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.08_TheDerbyMercury_0002.txt
 197	315	307	E:\Texts\1800s\1804\03\1804.03.12_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheIpswichJournal_0004.txt
 207	374	369	E:\Texts\1800s\1804\03\1804.03.12_CaledonianMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_TheNewcastleCourantetc_0002.txt
@@ -3157,7 +3269,9 @@
 124	168	173	E:\Texts\1800s\1804\03\1804.03.17_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.10_Jackson'sOxfordJournal_0004.txt
 211	323	324	E:\Texts\1800s\1804\03\1804.03.17_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.17_Jackson'sOxfordJournal_0001.txt
 114	175	183	E:\Texts\1800s\1804\03\1804.03.17_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0004.txt
+91	167	158	E:\Texts\1800s\1804\03\1804.03.17_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 83	128	130	E:\Texts\1800s\1804\03\1804.03.20_TheHullPacket_0001.txt	E:\Texts\1800s\1803\09\1803.09.17_TheNewcastleCourantetc_0001.txt
+138	232	227	E:\Texts\1800s\1804\03\1804.03.21_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 95	155	163	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.05_HampshireTelegraphandSussexChronicleetc_0001.txt
 133	237	250	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
 104	178	181	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.13_TheHullPacket_0004.txt
@@ -3170,6 +3284,7 @@
 167	302	309	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.15_TheDerbyMercury_0004.txt
 102	170	168	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0002.txt
 133	235	229	E:\Texts\1800s\1804\03\1804.03.22_TheDerbyMercury_0004.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0004.txt
+145	259	252	E:\Texts\1800s\1804\03\1804.03.22_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 130	219	227	E:\Texts\1800s\1804\03\1804.03.22_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_TheDerbyMercury_0001.txt
 188	274	289	E:\Texts\1800s\1804\03\1804.03.22_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0001.txt
 90	168	159	E:\Texts\1800s\1804\03\1804.03.22_Trewman'sExeterFlyingPost_0001.txt	E:\Texts\1800s\1803\09\1803.09.24_Jackson'sOxfordJournal_0001.txt
@@ -3403,6 +3518,7 @@
 98	158	159	E:\Texts\1800s\1804\04\1804.04.03_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.09.20_TheMorningChronicle_0001.txt
 137	223	216	E:\Texts\1800s\1804\04\1804.04.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.12_HampshireTelegraphandSussexChronicleetc_0004.txt
 91	156	144	E:\Texts\1800s\1804\04\1804.04.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.09.29_TheDerbyMercury_0001.txt
+172	250	269	E:\Texts\1800s\1804\04\1804.04.04_TheAberdeenJournal_0001.txt	E:\Texts\1800s\1803\09\1803.11.09_TheAberdeenJournal_0001.txt
 89	152	154	E:\Texts\1800s\1804\04\1804.04.05_TheDerbyMercury_0001.txt	E:\Texts\1800s\1803\09\1803.09.27_TheHullPacket_0001.txt
 103	171	163	E:\Texts\1800s\1804\04\1804.04.05_TheDerbyMercury_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_Jackson'sOxfordJournal_0004.txt
 107	168	169	E:\Texts\1800s\1804\04\1804.04.05_TheDerbyMercury_0003.txt	E:\Texts\1800s\1803\09\1803.09.03_TheNewcastleCourantetc_0003.txt
@@ -3650,5 +3766,6 @@
 286	434	427	E:\Texts\1800s\1804\04\1804.04.28_Jackson'sOxfordJournal_0004.txt	E:\Texts\1800s\1803\09\1803.09.22_Trewman'sExeterFlyingPost_0003.txt
 81	134	132	E:\Texts\1800s\1804\04\1804.04.28_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.09.22_TheMorningChronicle_0001.txt
 93	164	160	E:\Texts\1800s\1804\04\1804.04.28_TheMorningChronicle_0002.txt	E:\Texts\1800s\1803\09\1803.09.27_TheMorningChronicle_0001.txt
+97	146	137	E:\Texts\1800s\1804\04\1804.04.28_TheMorningChronicle_0004.txt	E:\Texts\1800s\1803\09\1803.11.09_TheMorningChronicle_0004.txt
 148	229	231	E:\Texts\1800s\1804\04\1804.04.30_HampshireTelegraphandSussexChronicleetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.19_HampshireTelegraphandSussexChronicleetc_0001.txt
 149	227	229	E:\Texts\1800s\1804\04\1804.04.30_HampshireTelegraphandSussexChronicleetc_0001.txt	E:\Texts\1800s\1803\09\1803.09.26_HampshireTelegraphandSussexChronicleetc_0001.txt
