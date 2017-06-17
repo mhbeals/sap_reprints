@@ -20,7 +20,7 @@
 1827	11	03	IpswichJournal	0002	1827	11	01	MorningChronicle	0003
 1827	11	04	Examiner	0008	1827	11	01	MorningChronicle	0003
 1827	11	05	BristolMercury	0001	1827	11	01	MorningChronicle	0003
-1827	11	06		0002	1827	11	01	MorningChronicle	0003
+1827	11	06	HullPacket	0002	1827	11	01	MorningChronicle	0003
 1827	11	01	TheTimes	0003	1827	11	01	MorningChronicle	0004
 1827	11	03	NewcastleCourant	0004	1827	11	01	NorthWalesChronicle	0002
 1827	11	02	LiverpoolMercury	0007	1827	11	01	NorthWalesChronicle	0003
@@ -46,12 +46,12 @@
 1827	11	09	LiverpoolMercury	0006	1827	11	01	TheTimes	0002
 1827	11	04	Examiner	0008	1827	11	01	TheTimes	0003
 1827	11	04	Examiner	0012	1827	11	01	TheTimes	0003
-1827	11	06		0002	1827	11	01	TheTimes	0003
+1827	11	06	HullPacket	0002	1827	11	01	TheTimes	0003
 1827	11	08	NorthWalesChronicle	0004	1827	11	01	TheTimes	0003
 1827	11	03	IpswichJournal	0004	1827	11	01	Trewman'sExeterFlyingPost	0002
 1827	11	05	CaledonianMercury	0004	1827	11	01	Trewman'sExeterFlyingPost	0002
 1827	11	05	BristolMercury	0004	1827	11	01	Trewman'sExeterFlyingPost	0002
-1827	11	06		0001	1827	11	01	Trewman'sExeterFlyingPost	0002
+1827	11	06	HullPacket	0001	1827	11	01	Trewman'sExeterFlyingPost	0002
 1827	11	07	DerbyMercury	0001	1827	11	01	Trewman'sExeterFlyingPost	0002
 1827	11	08	NorthWalesChronicle	0004	1827	11	01	Trewman'sExeterFlyingPost	0002
 1827	11	03	TheTimes	0002	1827	11	02	LiverpoolMercury	0006
@@ -112,8 +112,8 @@
 1827	11	04	Examiner	0013	1827	11	03	IpswichJournal	0002
 1827	11	05	BristolMercury	0001	1827	11	03	IpswichJournal	0002
 1827	11	05	BristolMercury	0003	1827	11	03	IpswichJournal	0002
-1827	11	06		0002	1827	11	03	IpswichJournal	0002
-1827	11	06		0003	1827	11	03	IpswichJournal	0002
+1827	11	06	HullPacket	0002	1827	11	03	IpswichJournal	0002
+1827	11	06	HullPacket	0003	1827	11	03	IpswichJournal	0002
 1827	11	07	DerbyMercury	0001	1827	11	03	IpswichJournal	0002
 1827	11	07	DerbyMercury	0002	1827	11	03	IpswichJournal	0002
 1827	11	07	DerbyMercury	0003	1827	11	03	IpswichJournal	0002
@@ -127,7 +127,7 @@
 1827	11	03	NewcastleCourant	0004	1827	11	03	IpswichJournal	0004
 1827	11	05	CaledonianMercury	0002	1827	11	03	IpswichJournal	0004
 1827	11	05	BristolMercury	0004	1827	11	03	IpswichJournal	0004
-1827	11	06		0001	1827	11	03	IpswichJournal	0004
+1827	11	06	HullPacket	0001	1827	11	03	IpswichJournal	0004
 1827	11	07	DerbyMercury	0001	1827	11	03	IpswichJournal	0004
 1827	11	08	NorthWalesChronicle	0003	1827	11	03	IpswichJournal	0004
 1827	11	10	Cobbet'sWeeklyPoliticalRegister	0028	1827	11	03	IpswichJournal	0004
@@ -152,11 +152,11 @@
 1827	11	09	LiverpoolMercury	0006	1827	11	03	MorningChronicle	0003
 1827	11	12	CaledonianMercury	0002	1827	11	03	MorningChronicle	0003
 1827	11	08	NorthWalesChronicle	0001	1827	11	03	MorningChronicle	0004
-1827	11	06		0002	1827	11	03	NewcastleCourant	0001
+1827	11	06	HullPacket	0002	1827	11	03	NewcastleCourant	0001
 1827	11	09	TheTimes	0001	1827	11	03	NewcastleCourant	0001
 1827	11	21	AberdeenJournal	0001	1827	11	03	NewcastleCourant	0001
 1827	11	04	Examiner	0013	1827	11	03	NewcastleCourant	0002
-1827	11	06		0001	1827	11	03	NewcastleCourant	0002
+1827	11	06	HullPacket	0001	1827	11	03	NewcastleCourant	0002
 1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	03	NewcastleCourant	0002
 1827	11	13	HullPacket	0001	1827	11	03	NewcastleCourant	0002
 1827	11	13	HullPacket	0004	1827	11	03	NewcastleCourant	0002
@@ -167,7 +167,7 @@
 1827	11	11	Examiner	0015	1827	11	03	TheTimes	0001
 1827	11	19	MorningChronicle	0001	1827	11	03	TheTimes	0001
 1827	11	05	MorningChronicle	0003	1827	11	03	TheTimes	0002
-1827	11	06		0003	1827	11	03	TheTimes	0002
+1827	11	06	HullPacket	0003	1827	11	03	TheTimes	0002
 1827	11	07	DerbyMercury	0002	1827	11	03	TheTimes	0002
 1827	11	07	DerbyMercury	0003	1827	11	03	TheTimes	0002
 1827	11	08	CaledonianMercury	0002	1827	11	03	TheTimes	0002
@@ -184,7 +184,7 @@
 1827	11	19	MorningChronicle	0001	1827	11	03	TheTimes	0004
 1827	11	05	BristolMercury	0001	1827	11	04	Examiner	0007
 1827	11	07	DerbyMercury	0002	1827	11	04	Examiner	0007
-1827	11	06		0002	1827	11	04	Examiner	0008
+1827	11	06	HullPacket	0002	1827	11	04	Examiner	0008
 1827	11	10	IpswichJournal	0004	1827	11	04	Examiner	0008
 1827	11	14	AberdeenJournal	0004	1827	11	04	Examiner	0008
 1827	11	05	BristolMercury	0004	1827	11	04	Examiner	0013
@@ -208,7 +208,7 @@
 1827	11	13	HullPacket	0004	1827	11	05	BristolMercury	0001
 1827	11	14	DerbyMercury	0004	1827	11	05	BristolMercury	0001
 1827	11	21	DerbyMercury	0004	1827	11	05	BristolMercury	0001
-1827	11	06		0003	1827	11	05	BristolMercury	0002
+1827	11	06	HullPacket	0003	1827	11	05	BristolMercury	0002
 1827	11	08	NorthWalesChronicle	0002	1827	11	05	BristolMercury	0002
 1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	05	BristolMercury	0002
 1827	11	16	LiverpoolMercury	0005	1827	11	05	BristolMercury	0002
@@ -225,8 +225,8 @@
 1827	11	17	IpswichJournal	0004	1827	11	05	BristolMercury	0003
 1827	11	22	NorthWalesChronicle	0003	1827	11	05	BristolMercury	0003
 1827	11	23	LiverpoolMercury	0007	1827	11	05	BristolMercury	0003
-1827	11	06		0003	1827	11	05	BristolMercury	0004
-1827	11	06		0004	1827	11	05	BristolMercury	0004
+1827	11	06	HullPacket	0003	1827	11	05	BristolMercury	0004
+1827	11	06	HullPacket	0004	1827	11	05	BristolMercury	0004
 1827	11	07	DerbyMercury	0001	1827	11	05	BristolMercury	0004
 1827	11	08	NorthWalesChronicle	0001	1827	11	05	BristolMercury	0004
 1827	11	08	NorthWalesChronicle	0003	1827	11	05	BristolMercury	0004
@@ -247,7 +247,7 @@
 1827	11	08	Trewman'sExeterFlyingPost	0003	1827	11	05	CaledonianMercury	0002
 1827	11	09	LiverpoolMercury	0007	1827	11	05	CaledonianMercury	0002
 1827	11	09	LiverpoolMercury	0006	1827	11	05	CaledonianMercury	0003
-1827	11	06		0001	1827	11	05	CaledonianMercury	0004
+1827	11	06	HullPacket	0001	1827	11	05	CaledonianMercury	0004
 1827	11	08	NorthWalesChronicle	0004	1827	11	05	CaledonianMercury	0004
 1827	11	13	HullPacket	0004	1827	11	05	HampshirePortsmouthTelegraph	0001
 1827	11	20	HullPacket	0004	1827	11	05	HampshirePortsmouthTelegraph	0001
@@ -255,7 +255,7 @@
 1827	11	08	NorthWalesChronicle	0001	1827	11	05	HampshirePortsmouthTelegraph	0002
 1827	11	21	DerbyMercury	0004	1827	11	05	HampshirePortsmouthTelegraph	0002
 1827	11	05	BristolMercury	0002	1827	11	05	HampshirePortsmouthTelegraph	0003
-1827	11	06		0003	1827	11	05	HampshirePortsmouthTelegraph	0003
+1827	11	06	HullPacket	0003	1827	11	05	HampshirePortsmouthTelegraph	0003
 1827	11	07	DerbyMercury	0001	1827	11	05	HampshirePortsmouthTelegraph	0003
 1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	05	HampshirePortsmouthTelegraph	0003
 1827	11	09	LiverpoolMercury	0002	1827	11	05	HampshirePortsmouthTelegraph	0003
@@ -290,6 +290,16 @@
 1827	11	12	MorningChronicle	0001	1827	11	05	TheTimes	0004
 1827	11	14	MorningChronicle	0001	1827	11	05	TheTimes	0004
 1827	11	18	Examiner	0016	1827	11	05	TheTimes	0004
+1827	11	08	NorthWalesChronicle	0004	1827	11	06	HullPacket	0001
+1827	11	07	DerbyMercury	0001	1827	11	06	HullPacket	0003
+1827	11	08	CaledonianMercury	0002	1827	11	06	HullPacket	0003
+1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	06	HullPacket	0003
+1827	11	09	LiverpoolMercury	0002	1827	11	06	HullPacket	0003
+1827	11	10	IpswichJournal	0001	1827	11	06	HullPacket	0003
+1827	11	15	CaledonianMercury	0004	1827	11	06	HullPacket	0003
+1827	11	17	NewcastleCourant	0003	1827	11	06	HullPacket	0003
+1827	11	07	DerbyMercury	0001	1827	11	06	HullPacket	0004
+1827	11	17	IpswichJournal	0002	1827	11	06	HullPacket	0004
 1827	11	07	TheTimes	0002	1827	11	06	MorningChronicle	0001
 1827	11	07	TheTimes	0004	1827	11	06	MorningChronicle	0001
 1827	11	11	Examiner	0009	1827	11	06	MorningChronicle	0001
@@ -323,19 +333,6 @@
 1827	11	12	BristolMercury	0001	1827	11	06	TheTimes	0003
 1827	11	14	DerbyMercury	0004	1827	11	06	TheTimes	0003
 1827	11	27	HullPacket	0001	1827	11	06	TheTimes	0004
-1827	11	08	NorthWalesChronicle	0004	1827	11	06		0001
-1827	11	13	HullPacket	0002	1827	11	06		0002
-1827	11	20	HullPacket	0002	1827	11	06		0002
-1827	11	27	HullPacket	0001	1827	11	06		0002
-1827	11	07	DerbyMercury	0001	1827	11	06		0003
-1827	11	08	CaledonianMercury	0002	1827	11	06		0003
-1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	06		0003
-1827	11	09	LiverpoolMercury	0002	1827	11	06		0003
-1827	11	10	IpswichJournal	0001	1827	11	06		0003
-1827	11	15	CaledonianMercury	0004	1827	11	06		0003
-1827	11	17	NewcastleCourant	0003	1827	11	06		0003
-1827	11	07	DerbyMercury	0001	1827	11	06		0004
-1827	11	17	IpswichJournal	0002	1827	11	06		0004
 1827	11	08	Trewman'sExeterFlyingPost	0002	1827	11	07	DerbyMercury	0001
 1827	11	08	Trewman'sExeterFlyingPost	0003	1827	11	07	DerbyMercury	0001
 1827	11	09	LiverpoolMercury	0002	1827	11	07	DerbyMercury	0001

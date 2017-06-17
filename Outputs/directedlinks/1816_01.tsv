@@ -50,7 +50,7 @@
 1816	01	13	IpswichJournal	0004	1816	01	08	MorningChronicle	0003
 1816	01	13	Jackson'sOxfordJournal	0002	1816	01	11	Trewman'sExeterFlyingPost	0002
 1816	01	13	Jackson'sOxfordJournal	0004	1816	01	06	LeedsMercury	0004
-1816	01	13	LeedsMercury	0001	1815	12	26	_0002	_0002
+1816	01	13	LeedsMercury	0001	1815	12	26	HullPacket	0002
 1816	01	13	LeedsMercury	0002	1816	01	08	TheTimes	0003
 1816	01	13	LeedsMercury	0004	1816	01	11	Trewman'sExeterFlyingPost	0001
 1816	01	14	Examiner	0004	1816	01	11	CaledonianMercury	0002
@@ -59,7 +59,7 @@
 1816	01	14	Examiner	0010	1816	01	13	CaledonianMercury	0002
 1816	01	15	CaledonianMercury	0002	1816	01	12	TheTimes	0002
 1816	01	15	CaledonianMercury	0004	1816	01	06	IpswichJournal	0002
-1816	01	16	_0002	_0002	1816	01	11	TheTimes	0002
+1816	01	16	HullPacket	0002	1816	01	11	TheTimes	0002
 1816	01	17	AberdeenJournal	0001	1816	01	11	Trewman'sExeterFlyingPost	0002
 1816	01	17	TheTimes	0003	1816	01	11	CaledonianMercury	0003
 1816	01	18	CaledonianMercury	0001	1815	12	29	MorningChronicle	0001
@@ -98,7 +98,7 @@
 1816	01	21	Examiner	0011	1816	01	15	MorningChronicle	0002
 1816	01	22	CaledonianMercury	0002	1816	01	18	Trewman'sExeterFlyingPost	0001
 1816	01	22	CaledonianMercury	0004	1816	01	21	Examiner	0003
-1816	01	23	_0002	_0002	1816	01	20	LeedsMercury	0002
+1816	01	23	HullPacket	0002	1816	01	20	LeedsMercury	0002
 1816	01	24	AberdeenJournal	0001	1816	01	20	LeedsMercury	0001
 1816	01	24	MorningChronicle	0003	1816	01	23	TheTimes	0003
 1816	01	25	CaledonianMercury	0004	1816	01	06	Jackson'sOxfordJournal	0004
@@ -133,8 +133,8 @@
 1816	01	29	CaledonianMercury	0003	1816	01	20	Jackson'sOxfordJournal	0004
 1816	01	29	CaledonianMercury	0004	1816	01	24	TheTimes	0003
 1816	01	29	MorningChronicle	0001	1816	01	18	Trewman'sExeterFlyingPost	0001
-1816	01	30	_0001	_0001	1816	01	18	Trewman'sExeterFlyingPost	0001
-1816	01	30	_0004	_0004	1816	01	22	CaledonianMercury	0002
+1816	01	30	HullPacket	0001	1816	01	18	Trewman'sExeterFlyingPost	0001
+1816	01	30	HullPacket	0004	1816	01	22	CaledonianMercury	0002
 1816	01	31	AberdeenJournal	0002	1816	01	26	LiverpoolMercury	0002
 1816	01	31	AberdeenJournal	0004	1816	01	27	Jackson'sOxfordJournal	0004
 1816	01	31	MorningChronicle	0004	1816	01	25	CaledonianMercury	0003

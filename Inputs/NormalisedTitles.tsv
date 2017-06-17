@@ -1,54 +1,49 @@
-AberdeenWeeklyJournal	Aberdeen Journal
-TheAberdeenJournal	Aberdeen Journal
-TheBelfastNews-Letter	Belfast News-Letter
-BrightonPatriotandLewesFreePressetc	Brighton Patriot
-BrightonPatriotandSouthofEnglandFreePress	Brighton Patriot
-TheBristolMercury	Bristol Mercury
-TheBristolMercuryandDailyPost	Bristol Mercury
-CaledonianMercury	Caledonian Mercury
-TheChampion	Champion
-TheChampionandWeeklyHerald	Champion
-TheCharter	Charter
-TheChartist	Chartist
-Cobbett'sAnnualRegister	Cobbett's Weekly Political Register  
-Cobbett'sWeeklyPoliticalRegister	Cobbett's Weekly Political Register  
-TheDerbyMercury	Derby Mercury
-TheExaminer	Examiner
-Freeman'sJournalandDailyCommercialAdvertiser	Freeman's Journal
-GlasgowHerald	Glasgow Herald
-TheGraphic	Graphic
-HampshireTelegraphandSussexChronicleetc	Hampshire/Portsmouth Telegraph
-Mottley'sTelegraphandPortsmouthGazette	Hampshire/Portsmouth Telegraph
-PortsmouthTelegraphorMottley'sNavalandMilitaryJournal	Hampshire/Portsmouth Telegraph
-HampshireTelegraph&PortsmouthGazette	Hampshire/Portsmouth Telegraph
-HullPacket	Hull Packet
-TheHullPacket	Hull Packet
-TheHullPacketandEastRidingTimes	Hull Packet
-TheHullPacketandHumberMercury	Hull Packet
-TheHullPacketandOriginalWeeklyCommercialLiteraryandGeneralAdvertiser	Hull Packet
-TheIllustratedPoliceNewsetc	Illustrated Police News
-TheIpswichJournal	Ipswich Journal
-Jackson'sOxfordJournal	Jackson's Oxford Journal
-TheLeedsMercury	Leeds Mercury
-LiverpoolMercuryetc	Liverpool Mercury
-Lloyd'sWeeklyNewspaper	Lloyd's Illustrated Newspaper
-TheManchesterTimes	Manchester Times
-TheManchesterTimesandGazette	Manchester Times
-MorningChronicle	Morning Chronicle
-TheMorningChronicle	Morning Chronicle
-TheNewcastleCourantetc	Newcastle Courant
-NorthWalesChronicle	North Wales Chronicle
-NorthernEcho	Northern Echo
-TheNorthernStarandLeedsGeneralAdvertiser	Northern Star
-TheOddFellow	Odd Fellow
-TheOperative	Operative
-ThePallMallGazette	Pall Mall Gazette
-ThePoorMan'sGuardian	Poor Man's Guardian
-PrestonChronicle	Preston Chronicle
-ThePrestonGuardianetc	Preston Chronicle
-Reynolds'sNewspaper	Reynold's Newspaper
-TheEra	The Era
-Times	TheTimes
-Trewman'sExeterFlyingPost	Trewman's Exeter Flying Post
-Trewman'sExeterFlyingPostorPlymouthandCornishAdvertiser	Trewman's Exeter Flying Post
-WesternMail	Western Mail
+AberdeenJournal	Aberdeen_Journal	Aberdeen-Journal
+Baner	Baner	Baner
+BelfastNews-Letter	Belfast_News-Letter	Belfast-News-Letter
+BirminghamDailyPost	Birmingham_Daily_Post	Birmingham-Daily-Post
+BrightonPatriot	Brighton_Patriot	Brighton-Patriot
+BristolMercury	Bristol_Mercury	Bristol-Mercury
+CaledonianMercury	Caledonian_Mercury	Caledonian-Mercury
+Champion	Champion	Champion
+ChartistCircular	Chartist_Circular	Chartist-Circular
+Cobbet'sWeeklyPoliticalRegister	Cobbet's_Weekly_Political_Register	Cobbet's-Weekly-Political-Register
+DailyNews	Daily_News	Daily-News
+DerbyMercury	Derby_Mercury	Derby-Mercury
+Examiner	Examiner	Examiner
+Freeman'sJournal	Freeman's_Journal	Freeman's-Journal
+Genedl	Genedl	Genedl
+GlasgowHerald	Glasgow_Herald	Glasgow-Herald
+Goleuad	Goleuad	Goleuad
+Graphic	Graphic	Graphic
+HampshirePortsmouthTelegraph	Hampshire_Portsmouth_Telegraph	Hampshire-Portsmouth-Telegraph
+HullPacket	Hull_Packet	Hull-Packet
+IllustratedPoliceNews	Illustrated_PoliceNews	Illustrated-PoliceNews
+IpswichJournal	Ipswich_Journal	Ipswich-Journal
+Jackson'sOxfordJournal	Jackson's_Oxford_Journal	Jackson's-Oxford-Journal
+LeedsMercury	Leeds_Mercury	Leeds-Mercury
+LiverpoolMercury	Liverpool_Mercury	Liverpool-Mercury
+Lloyd'sIllustratedNewspaper	Lloyd's_Illustrated_Newspaper	Lloyd's-Illustrated-Newspaper
+LondonDispatch	London_Dispatch	London-Dispatch
+ManchesterTimes	Manchester_Times	Manchester-Times
+MorningChronicle	Morning_Chronicle	Morning-Chronicle
+NewcastleCourant	Newcastle_Courant	Newcastle-Courant
+NorthWalesChronicle	NorthWales_Chronicle	NorthWales-Chronicle
+NorthernEcho	Northern_Echo	Northern-Echo
+NorthernLiberator	Northern_Liberator	Northern-Liberator
+NorthernStar	Northern_Star	Northern-Star
+OddFellow	Odd_Fellow	Odd-Fellow
+Operative	Operative	Operative
+PallMallGazette	Pall_Mall_Gazette	Pall-Mall-Gazette
+PoorMan'sGuardian	Poor_Man's_Guardian	Poor-Man's-Guardian
+PrestonChronicle	Preston_Chronicle	Preston-Chronicle
+Reynold'sNewspaper	Reynold's_Newspaper	Reynold's-Newspaper
+SouthernStar	Southern_Star	Southern-Star
+TheCharter	The_Charter	The-Charter
+Chartist	Chartist	Chartist
+TheEra	The_Era	The-Era
+ThePennyIllustratedPaper	The_Penny_Illustrated_Paper	The-Penny-Illustrated-Paper
+TheTimes	The_Times	The-Times
+Trewman'sExeterFlyingPost	Trewman's_Exeter_Flying_Post	Trewman's-Exeter-Flying-Post
+Trewman'sExeterFlyingPost	Trewman's_ExeterFlying_Post	Trewman's-ExeterFlying-Post
+WesternMail	Western_Mail	Western-Mail

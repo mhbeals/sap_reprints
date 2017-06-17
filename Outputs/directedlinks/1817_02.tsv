@@ -1,8 +1,8 @@
 1817	02	03	TheTimes	0004	1817	02	01	LeedsMercury	0004
+1817	02	04	HullPacket	0001	1817	02	01	CaledonianMercury	0002
+1817	02	04	HullPacket	0002	1817	02	01	Jackson'sOxfordJournal	0002
 1817	02	04	MorningChronicle	0002	1817	02	03	CaledonianMercury	0001
 1817	02	04	MorningChronicle	0003	1817	02	01	LeedsMercury	0003
-1817	02	04	_0001	_0001	1817	02	01	CaledonianMercury	0002
-1817	02	04	_0002	_0002	1817	02	01	Jackson'sOxfordJournal	0002
 1817	02	05	MorningChronicle	0001	1817	02	03	TheTimes	0002
 1817	02	05	MorningChronicle	0002	1817	02	01	TheTimes	0004
 1817	02	05	MorningChronicle	0004	1817	02	03	TheTimes	0004

@@ -4,8 +4,8 @@
 1826.10.02_GlasgowHerald	0.017457
 1826.10.02_HampshirePortsmouthTelegraph	0.023149
 1826.10.02_TheTimes	0.082018
+1826.10.03_HullPacket	0.029315
 1826.10.03_TheTimes	0.056610
-1826.10.03_	0.029315
 1826.10.04_AberdeenJournal	0.004672
 1826.10.04_DerbyMercury	0.024268
 1826.10.04_TheTimes	0.043367
@@ -31,9 +31,9 @@
 1826.10.09_HampshirePortsmouthTelegraph	0.013385
 1826.10.09_MorningChronicle	0.033865
 1826.10.09_TheTimes	0.083477
+1826.10.10_HullPacket	0.033117
 1826.10.10_MorningChronicle	0.012749
 1826.10.10_TheTimes	0.022475
-1826.10.10_	0.033117
 1826.10.11_AberdeenJournal	0.042467
 1826.10.11_DerbyMercury	0.094967
 1826.10.11_MorningChronicle	0.004136
@@ -60,10 +60,11 @@
 1826.10.16_HampshirePortsmouthTelegraph	0.004256
 1826.10.16_MorningChronicle	0.033532
 1826.10.16_TheTimes	0.047930
+1826.10.17_HullPacket	0.053980
 1826.10.17_TheTimes	0.037605
-1826.10.17_	0.053980
 1826.10.18_AberdeenJournal	0.023243
 1826.10.18_DerbyMercury	0.115081
+1826.10.18_MorningChronicle	0.019635
 1826.10.18_TheTimes	0.035742
 1826.10.19_CaledonianMercury	0.035745
 1826.10.19_MorningChronicle	0.005472
@@ -87,12 +88,12 @@
 1826.10.23_HampshirePortsmouthTelegraph	0.020548
 1826.10.23_MorningChronicle	0.026091
 1826.10.23_TheTimes	0.037671
+1826.10.24_HullPacket	0.074378
 1826.10.24_MorningChronicle	0.008231
 1826.10.24_TheTimes	0.031385
-1826.10.24_	0.074378
 1826.10.25_AberdeenJournal	0.013638
 1826.10.25_DerbyMercury	0.026856
-1826.10.25_MorningChronicle	0.007942
+1826.10.25_MorningChronicle	0.015523
 1826.10.25_TheTimes	0.060917
 1826.10.26_CaledonianMercury	0.044783
 1826.10.26_MorningChronicle	0.047556
@@ -115,6 +116,6 @@
 1826.10.30_HampshirePortsmouthTelegraph	0.013693
 1826.10.30_MorningChronicle	0.049224
 1826.10.30_TheTimes	0.100542
+1826.10.31_HullPacket	0.064547
 1826.10.31_MorningChronicle	0.030294
 1826.10.31_TheTimes	0.042976
-1826.10.31_	0.064547

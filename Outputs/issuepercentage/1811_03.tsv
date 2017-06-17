@@ -2,7 +2,7 @@
 1811.03.02_LeedsMercury	0.007355
 1811.03.03_Examiner	0.015276
 1811.03.04_CaledonianMercury	0.015774
-1811.03.05_	0.010481
+1811.03.05_HullPacket	0.010481
 1811.03.06_AberdeenJournal	0.008483
 1811.03.07_CaledonianMercury	0.023773
 1811.03.07_DerbyMercury	0.016556
@@ -32,7 +32,7 @@
 1811.03.18_CaledonianMercury	0.043294
 1811.03.18_HampshirePortsmouthTelegraph	0.004949
 1811.03.18_TheTimes	0.034440
-1811.03.19_	0.070115
+1811.03.19_HullPacket	0.070115
 1811.03.20_AberdeenJournal	0.112243
 1811.03.20_Cobbet'sWeeklyPoliticalRegister	0.067692
 1811.03.20_MorningChronicle	0.007887
@@ -48,8 +48,8 @@
 1811.03.24_Examiner	0.007554
 1811.03.25_CaledonianMercury	0.041479
 1811.03.25_HampshirePortsmouthTelegraph	0.017375
+1811.03.26_HullPacket	0.030865
 1811.03.26_TheTimes	0.051605
-1811.03.26_	0.030865
 1811.03.27_AberdeenJournal	0.081064
 1811.03.27_Cobbet'sWeeklyPoliticalRegister	0.191364
 1811.03.27_TheTimes	0.007349

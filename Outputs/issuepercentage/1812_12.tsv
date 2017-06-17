@@ -1,7 +1,5 @@
 1812.12.01_TheTimes	0.010045
-1812.12.02_AberdeenJournal	0.007475
 1812.12.02_TheTimes	0.016178
-1812.12.03_CaledonianMercury	0.023423
 1812.12.03_DerbyMercury	0.100539
 1812.12.03_TheTimes	0.077387
 1812.12.03_Trewman'sExeterFlyingPost	0.016764
@@ -17,8 +15,8 @@
 1812.12.07_CaledonianMercury	0.120535
 1812.12.07_HampshirePortsmouthTelegraph	0.013068
 1812.12.07_TheTimes	0.007330
+1812.12.08_HullPacket	0.102709
 1812.12.08_TheTimes	0.024682
-1812.12.08_	0.102709
 1812.12.09_AberdeenJournal	0.108728
 1812.12.09_TheTimes	0.038682
 1812.12.10_CaledonianMercury	0.049569
@@ -38,9 +36,9 @@
 1812.12.14_HampshirePortsmouthTelegraph	0.009309
 1812.12.14_MorningChronicle	0.006501
 1812.12.14_TheTimes	0.030037
+1812.12.15_HullPacket	0.133776
 1812.12.15_MorningChronicle	0.006040
 1812.12.15_TheTimes	0.042251
-1812.12.15_	0.133776
 1812.12.16_AberdeenJournal	0.178070
 1812.12.16_MorningChronicle	0.096185
 1812.12.17_CaledonianMercury	0.074931
@@ -80,9 +78,9 @@
 1812.12.28_HampshirePortsmouthTelegraph	0.005629
 1812.12.28_MorningChronicle	0.011309
 1812.12.28_TheTimes	0.016186
+1812.12.29_HullPacket	0.045788
 1812.12.29_MorningChronicle	0.005178
 1812.12.29_TheTimes	0.028466
-1812.12.29_	0.045788
 1812.12.30_AberdeenJournal	0.143964
 1812.12.30_MorningChronicle	0.030216
 1812.12.30_TheTimes	0.052961

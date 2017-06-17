@@ -27,10 +27,10 @@
 1817	06	09	MorningChronicle	0002	1817	06	06	TheTimes	0003
 1817	06	09	MorningChronicle	0003	1817	06	07	TheTimes	0004
 1817	06	09	TheTimes	0002	1817	06	07	MorningChronicle	0001
+1817	06	10	HullPacket	0003	1817	06	07	CaledonianMercury	0002
+1817	06	10	HullPacket	0004	1817	06	05	Trewman'sExeterFlyingPost	0001
 1817	06	10	MorningChronicle	0004	1817	06	07	TheTimes	0004
 1817	06	10	TheTimes	0003	1817	06	07	MorningChronicle	0004
-1817	06	10	_0003	_0003	1817	06	07	CaledonianMercury	0002
-1817	06	10	_0004	_0004	1817	06	05	Trewman'sExeterFlyingPost	0001
 1817	06	11	MorningChronicle	0003	1817	06	10	TheTimes	0003
 1817	06	11	TheTimes	0004	1817	06	05	CaledonianMercury	0004
 1817	06	12	CaledonianMercury	0001	1817	06	11	TheTimes	0004
@@ -67,8 +67,8 @@
 1817	06	16	MorningChronicle	0004	1817	06	13	TheTimes	0004
 1817	06	16	TheTimes	0002	1817	06	12	Trewman'sExeterFlyingPost	0001
 1817	06	16	TheTimes	0003	1817	06	14	MorningChronicle	0003
+1817	06	17	HullPacket	0001	1817	06	14	LeedsMercury	0002
 1817	06	17	TheTimes	0004	1817	06	14	LeedsMercury	0003
-1817	06	17	_0001	_0001	1817	06	14	LeedsMercury	0002
 1817	06	19	CaledonianMercury	0001	1817	06	07	IpswichJournal	0003
 1817	06	19	CaledonianMercury	0002	1817	06	14	TheTimes	0002
 1817	06	19	CaledonianMercury	0004	1817	06	17	TheTimes	0004
@@ -96,11 +96,11 @@
 1817	06	22	Examiner	0015	1817	06	18	TheTimes	0003
 1817	06	23	CaledonianMercury	0001	1817	06	18	MorningChronicle	0002
 1817	06	23	CaledonianMercury	0002	1817	06	19	TheTimes	0003
+1817	06	24	HullPacket	0001	1817	06	16	CaledonianMercury	0002
+1817	06	24	HullPacket	0002	1817	06	05	Trewman'sExeterFlyingPost	0003
 1817	06	24	MorningChronicle	0003	1817	06	23	TheTimes	0002
 1817	06	24	MorningChronicle	0004	1817	06	16	TheTimes	0004
 1817	06	24	TheTimes	0004	1817	06	21	LeedsMercury	0003
-1817	06	24	_0001	_0001	1817	06	16	CaledonianMercury	0002
-1817	06	24	_0002	_0002	1817	06	05	Trewman'sExeterFlyingPost	0003
 1817	06	25	MorningChronicle	0003	1817	06	24	TheTimes	0003
 1817	06	25	MorningChronicle	0004	1817	06	23	TheTimes	0004
 1817	06	25	TheTimes	0003	1817	06	23	MorningChronicle	0003

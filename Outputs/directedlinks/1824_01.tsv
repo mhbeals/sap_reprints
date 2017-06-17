@@ -1,11 +1,11 @@
-1824	01	01	CaledonianMercury	0001	1823	12	15	_0001	_0001
+1824	01	01	CaledonianMercury	0001	1823	12	15	HullPacket	0001
 1824	01	01	CaledonianMercury	0002	1823	12	27	TheTimes	0002
 1824	01	01	CaledonianMercury	0003	1823	12	30	TheTimes	0002
 1824	01	01	CaledonianMercury	0004	1823	12	29	MorningChronicle	0002
 1824	01	01	MorningChronicle	0003	1823	12	26	LiverpoolMercury	0006
 1824	01	01	MorningChronicle	0004	1823	12	31	TheTimes	0003
 1824	01	01	TheTimes	0002	1823	12	29	CaledonianMercury	0004
-1824	01	01	TheTimes	0003	1823	12	15	_0001	_0001
+1824	01	01	TheTimes	0003	1823	12	15	HullPacket	0001
 1824	01	01	TheTimes	0004	1823	12	23	MorningChronicle	0001
 1824	01	01	Trewman'sExeterFlyingPost	0001	1823	12	29	MorningChronicle	0002
 1824	01	01	Trewman'sExeterFlyingPost	0002	1823	12	29	MorningChronicle	0004

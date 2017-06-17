@@ -391,7 +391,7 @@
 1816	11	21	TheTimes	0002	1816	11	21	MorningChronicle	0002
 1816	11	29	LiverpoolMercury	0002	1816	11	21	MorningChronicle	0002
 1816	11	28	Trewman'sExeterFlyingPost	0003	1816	11	21	MorningChronicle	0003
-1816	12	03		0004	1816	11	21	MorningChronicle	0003
+1816	12	03	HullPacket	0004	1816	11	21	MorningChronicle	0003
 1816	11	22	MorningChronicle	0002	1816	11	21	TheTimes	0002
 1816	11	23	CaledonianMercury	0003	1816	11	21	TheTimes	0003
 1816	11	29	LiverpoolMercury	0005	1816	11	21	Trewman'sExeterFlyingPost	0001
@@ -409,7 +409,7 @@
 1816	12	07	MorningChronicle	0001	1816	11	21	Trewman'sExeterFlyingPost	0003
 1816	11	30	CaledonianMercury	0004	1816	11	21	Trewman'sExeterFlyingPost	0004
 1816	12	02	TheTimes	0002	1816	11	22	LiverpoolMercury	0001
-1816	12	10		0002	1816	11	22	LiverpoolMercury	0001
+1816	12	10	HullPacket	0002	1816	11	22	LiverpoolMercury	0001
 1816	11	23	IpswichJournal	0001	1816	11	22	LiverpoolMercury	0004
 1816	11	23	LeedsMercury	0001	1816	11	22	LiverpoolMercury	0004
 1816	11	29	MorningChronicle	0001	1816	11	22	LiverpoolMercury	0004

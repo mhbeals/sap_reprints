@@ -2,8 +2,8 @@
 1823.03.02_Examiner	0.023907
 1823.03.03_BristolMercury	0.015952
 1823.03.03_HampshirePortsmouthTelegraph	0.018701
+1823.03.03_HullPacket	0.048536
 1823.03.03_TheTimes	0.034387
-1823.03.03_	0.048536
 1823.03.04_MorningChronicle	0.075882
 1823.03.04_TheTimes	0.068848
 1823.03.05_DerbyMercury	0.051855
@@ -26,9 +26,9 @@
 1823.03.10_BristolMercury	0.097484
 1823.03.10_CaledonianMercury	0.072457
 1823.03.10_HampshirePortsmouthTelegraph	0.026465
+1823.03.10_HullPacket	0.058667
 1823.03.10_MorningChronicle	0.068171
 1823.03.10_TheTimes	0.069497
-1823.03.10_	0.058667
 1823.03.11_MorningChronicle	0.092212
 1823.03.11_TheTimes	0.083659
 1823.03.12_DerbyMercury	0.117755
@@ -50,9 +50,9 @@
 1823.03.17_BristolMercury	0.072520
 1823.03.17_CaledonianMercury	0.054729
 1823.03.17_HampshirePortsmouthTelegraph	0.039582
+1823.03.17_HullPacket	0.046256
 1823.03.17_MorningChronicle	0.071785
 1823.03.17_TheTimes	0.041700
-1823.03.17_	0.046256
 1823.03.18_MorningChronicle	0.191689
 1823.03.18_TheTimes	0.068271
 1823.03.19_DerbyMercury	0.100093
@@ -74,9 +74,9 @@
 1823.03.24_BristolMercury	0.091368
 1823.03.24_CaledonianMercury	0.030965
 1823.03.24_HampshirePortsmouthTelegraph	0.038348
+1823.03.24_HullPacket	0.018322
 1823.03.24_MorningChronicle	0.116250
 1823.03.24_TheTimes	0.061697
-1823.03.24_	0.018322
 1823.03.25_MorningChronicle	0.046047
 1823.03.25_TheTimes	0.050621
 1823.03.26_DerbyMercury	0.090213
@@ -98,6 +98,6 @@
 1823.03.31_BristolMercury	0.043123
 1823.03.31_CaledonianMercury	0.024435
 1823.03.31_HampshirePortsmouthTelegraph	0.086053
+1823.03.31_HullPacket	0.028682
 1823.03.31_MorningChronicle	0.149704
 1823.03.31_TheTimes	0.071000
-1823.03.31_	0.028682

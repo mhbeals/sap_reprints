@@ -1,9 +1,9 @@
 1827.07.02_BristolMercury	0.006030
 1827.07.02_MorningChronicle	0.011354
 1827.07.02_TheTimes	0.048421
+1827.07.03_HullPacket	0.016949
 1827.07.03_MorningChronicle	0.003292
 1827.07.03_TheTimes	0.047202
-1827.07.03_	0.016949
 1827.07.04_DerbyMercury	0.037166
 1827.07.04_MorningChronicle	0.003829
 1827.07.04_TheTimes	0.056440
@@ -25,9 +25,9 @@
 1827.07.09_HampshirePortsmouthTelegraph	0.049065
 1827.07.09_MorningChronicle	0.034156
 1827.07.09_TheTimes	0.098255
+1827.07.10_HullPacket	0.050964
 1827.07.10_MorningChronicle	0.010394
 1827.07.10_TheTimes	0.056313
-1827.07.10_	0.050964
 1827.07.11_AberdeenJournal	0.007462
 1827.07.11_DerbyMercury	0.107687
 1827.07.11_MorningChronicle	0.020384
@@ -51,9 +51,9 @@
 1827.07.16_HampshirePortsmouthTelegraph	0.079581
 1827.07.16_MorningChronicle	0.026883
 1827.07.16_TheTimes	0.071166
+1827.07.17_HullPacket	0.036245
 1827.07.17_MorningChronicle	0.004621
 1827.07.17_TheTimes	0.077786
-1827.07.17_	0.036245
 1827.07.18_AberdeenJournal	0.003838
 1827.07.18_DerbyMercury	0.121539
 1827.07.18_MorningChronicle	0.018769
@@ -78,12 +78,12 @@
 1827.07.23_HampshirePortsmouthTelegraph	0.008541
 1827.07.23_MorningChronicle	0.048278
 1827.07.23_TheTimes	0.057749
+1827.07.24_HullPacket	0.097560
 1827.07.24_MorningChronicle	0.015768
 1827.07.24_TheTimes	0.064880
-1827.07.24_	0.097560
 1827.07.25_AberdeenJournal	0.025006
 1827.07.25_DerbyMercury	0.121846
-1827.07.25_MorningChronicle	0.026677
+1827.07.25_MorningChronicle	0.029472
 1827.07.25_TheTimes	0.041694
 1827.07.26_CaledonianMercury	0.079158
 1827.07.26_MorningChronicle	0.021272
@@ -105,6 +105,6 @@
 1827.07.30_HampshirePortsmouthTelegraph	0.027206
 1827.07.30_MorningChronicle	0.040930
 1827.07.30_TheTimes	0.070119
+1827.07.31_HullPacket	0.053968
 1827.07.31_MorningChronicle	0.040862
 1827.07.31_TheTimes	0.030776
-1827.07.31_	0.053968

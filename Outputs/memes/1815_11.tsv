@@ -6,7 +6,7 @@
 1815	11	04	IpswichJournal	0002	1815	11	01	MorningChronicle	0002
 1815	11	04	LeedsMercury	0002	1815	11	01	MorningChronicle	0002
 1815	11	06	CaledonianMercury	0004	1815	11	01	MorningChronicle	0002
-1815	11	07		0001	1815	11	01	MorningChronicle	0002
+1815	11	07	HullPacket	0001	1815	11	01	MorningChronicle	0002
 1815	11	05	Examiner	0014	1815	11	01	MorningChronicle	0003
 1815	11	02	Trewman'sExeterFlyingPost	0004	1815	11	01	TheTimes	0002
 1815	11	04	CaledonianMercury	0002	1815	11	01	TheTimes	0002
@@ -14,12 +14,12 @@
 1815	11	02	MorningChronicle	0001	1815	11	01	TheTimes	0003
 1815	11	04	LeedsMercury	0002	1815	11	01	TheTimes	0003
 1815	11	06	CaledonianMercury	0004	1815	11	01	TheTimes	0003
-1815	11	07		0001	1815	11	01	TheTimes	0003
+1815	11	07	HullPacket	0001	1815	11	01	TheTimes	0003
 1815	11	10	LiverpoolMercury	0003	1815	11	01	TheTimes	0003
 1815	11	02	MorningChronicle	0004	1815	11	01	TheTimes	0004
 1815	11	02	Trewman'sExeterFlyingPost	0001	1815	11	02	CaledonianMercury	0002
 1815	11	04	IpswichJournal	0004	1815	11	02	CaledonianMercury	0002
-1815	11	07		0001	1815	11	02	CaledonianMercury	0002
+1815	11	07	HullPacket	0001	1815	11	02	CaledonianMercury	0002
 1815	11	09	MorningChronicle	0003	1815	11	02	CaledonianMercury	0003
 1815	11	04	LeedsMercury	0002	1815	11	02	DerbyMercury	0004
 1815	11	04	LeedsMercury	0003	1815	11	02	DerbyMercury	0004
@@ -46,7 +46,7 @@
 1815	11	04	IpswichJournal	0004	1815	11	02	Trewman'sExeterFlyingPost	0001
 1815	11	04	LeedsMercury	0001	1815	11	02	Trewman'sExeterFlyingPost	0001
 1815	11	06	CaledonianMercury	0001	1815	11	02	Trewman'sExeterFlyingPost	0001
-1815	11	07		0002	1815	11	02	Trewman'sExeterFlyingPost	0001
+1815	11	07	HullPacket	0002	1815	11	02	Trewman'sExeterFlyingPost	0001
 1815	11	18	CaledonianMercury	0004	1815	11	02	Trewman'sExeterFlyingPost	0001
 1815	11	04	LeedsMercury	0002	1815	11	02	Trewman'sExeterFlyingPost	0002
 1815	11	18	LeedsMercury	0004	1815	11	02	Trewman'sExeterFlyingPost	0002
@@ -55,13 +55,13 @@
 1815	11	04	LeedsMercury	0004	1815	11	02	Trewman'sExeterFlyingPost	0003
 1815	11	09	DerbyMercury	0001	1815	11	02	Trewman'sExeterFlyingPost	0003
 1815	11	11	Jackson'sOxfordJournal	0004	1815	11	02	Trewman'sExeterFlyingPost	0003
-1815	11	14		0001	1815	11	02	Trewman'sExeterFlyingPost	0003
-1815	11	07		0001	1815	11	02	Trewman'sExeterFlyingPost	0004
-1815	11	14		0001	1815	11	03	LiverpoolMercury	0005
+1815	11	14	HullPacket	0001	1815	11	02	Trewman'sExeterFlyingPost	0003
+1815	11	07	HullPacket	0001	1815	11	02	Trewman'sExeterFlyingPost	0004
+1815	11	14	HullPacket	0001	1815	11	03	LiverpoolMercury	0005
 1815	11	04	LeedsMercury	0002	1815	11	03	LiverpoolMercury	0006
 1815	11	04	LeedsMercury	0001	1815	11	03	LiverpoolMercury	0008
 1815	11	06	CaledonianMercury	0001	1815	11	03	LiverpoolMercury	0008
-1815	11	07		0002	1815	11	03	LiverpoolMercury	0008
+1815	11	07	HullPacket	0002	1815	11	03	LiverpoolMercury	0008
 1815	11	03	TheTimes	0002	1815	11	03	MorningChronicle	0002
 1815	11	05	Examiner	0003	1815	11	03	MorningChronicle	0002
 1815	11	06	CaledonianMercury	0002	1815	11	03	MorningChronicle	0002
@@ -71,11 +71,11 @@
 1815	11	10	LiverpoolMercury	0003	1815	11	03	TheTimes	0004
 1815	11	09	Trewman'sExeterFlyingPost	0003	1815	11	04	CaledonianMercury	0002
 1815	11	10	TheTimes	0004	1815	11	04	CaledonianMercury	0003
-1815	11	14		0004	1815	11	04	CaledonianMercury	0003
+1815	11	14	HullPacket	0004	1815	11	04	CaledonianMercury	0003
 1815	11	06	CaledonianMercury	0002	1815	11	04	Cobbet'sWeeklyPoliticalRegister	0009
 1815	11	06	CaledonianMercury	0004	1815	11	04	IpswichJournal	0001
 1815	11	11	CaledonianMercury	0004	1815	11	04	IpswichJournal	0001
-1815	11	14		0001	1815	11	04	IpswichJournal	0001
+1815	11	14	HullPacket	0001	1815	11	04	IpswichJournal	0001
 1815	11	09	Trewman'sExeterFlyingPost	0003	1815	11	04	IpswichJournal	0002
 1815	11	18	CaledonianMercury	0004	1815	11	04	IpswichJournal	0004
 1815	11	04	IpswichJournal	0004	1815	11	04	Jackson'sOxfordJournal	0004
@@ -84,9 +84,9 @@
 1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	04	Jackson'sOxfordJournal	0004
 1815	11	11	CaledonianMercury	0004	1815	11	04	Jackson'sOxfordJournal	0004
 1815	11	06	CaledonianMercury	0001	1815	11	04	LeedsMercury	0001
-1815	11	07		0001	1815	11	04	LeedsMercury	0002
-1815	11	07		0002	1815	11	04	LeedsMercury	0002
-1815	11	07		0003	1815	11	04	LeedsMercury	0003
+1815	11	07	HullPacket	0001	1815	11	04	LeedsMercury	0002
+1815	11	07	HullPacket	0002	1815	11	04	LeedsMercury	0002
+1815	11	07	HullPacket	0003	1815	11	04	LeedsMercury	0003
 1815	11	04	TheTimes	0002	1815	11	04	MorningChronicle	0002
 1815	11	05	Examiner	0007	1815	11	04	MorningChronicle	0002
 1815	11	09	CaledonianMercury	0002	1815	11	04	MorningChronicle	0002
@@ -113,7 +113,7 @@
 1815	11	13	MorningChronicle	0004	1815	11	04	TheTimes	0004
 1815	11	23	MorningChronicle	0004	1815	11	04	TheTimes	0004
 1815	11	06	CaledonianMercury	0002	1815	11	05	Examiner	0003
-1815	11	07		0003	1815	11	05	Examiner	0007
+1815	11	07	HullPacket	0003	1815	11	05	Examiner	0007
 1815	11	09	CaledonianMercury	0002	1815	11	05	Examiner	0007
 1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	05	Examiner	0007
 1815	11	10	LiverpoolMercury	0002	1815	11	05	Examiner	0007
@@ -122,7 +122,7 @@
 1815	11	10	LiverpoolMercury	0003	1815	11	06	CaledonianMercury	0002
 1815	11	12	Examiner	0001	1815	11	06	CaledonianMercury	0002
 1815	11	10	LiverpoolMercury	0008	1815	11	06	CaledonianMercury	0003
-1815	11	14		0002	1815	11	06	CaledonianMercury	0003
+1815	11	14	HullPacket	0002	1815	11	06	CaledonianMercury	0003
 1815	11	25	LeedsMercury	0004	1815	11	06	CaledonianMercury	0004
 1815	11	06	TheTimes	0002	1815	11	06	MorningChronicle	0002
 1815	11	09	CaledonianMercury	0002	1815	11	06	MorningChronicle	0002
@@ -135,11 +135,20 @@
 1815	11	09	CaledonianMercury	0002	1815	11	06	TheTimes	0002
 1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	06	TheTimes	0002
 1815	11	10	LiverpoolMercury	0002	1815	11	06	TheTimes	0002
-1815	11	14		0004	1815	11	06	TheTimes	0002
+1815	11	14	HullPacket	0004	1815	11	06	TheTimes	0002
 1815	11	09	Trewman'sExeterFlyingPost	0001	1815	11	06	TheTimes	0003
 1815	11	11	IpswichJournal	0002	1815	11	06	TheTimes	0003
 1815	11	12	Examiner	0005	1815	11	06	TheTimes	0003
 1815	11	17	LiverpoolMercury	0003	1815	11	06	TheTimes	0003
+1815	11	10	LiverpoolMercury	0003	1815	11	07	HullPacket	0001
+1815	11	17	LiverpoolMercury	0005	1815	11	07	HullPacket	0001
+1815	11	18	LeedsMercury	0001	1815	11	07	HullPacket	0001
+1815	11	24	LiverpoolMercury	0005	1815	11	07	HullPacket	0001
+1815	11	25	LeedsMercury	0004	1815	11	07	HullPacket	0001
+1815	11	09	CaledonianMercury	0002	1815	11	07	HullPacket	0003
+1815	11	09	MorningChronicle	0002	1815	11	07	HullPacket	0003
+1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	07	HullPacket	0003
+1815	11	11	LeedsMercury	0002	1815	11	07	HullPacket	0003
 1815	11	07	TheTimes	0002	1815	11	07	MorningChronicle	0002
 1815	11	09	CaledonianMercury	0003	1815	11	07	MorningChronicle	0002
 1815	11	09	TheTimes	0004	1815	11	07	MorningChronicle	0002
@@ -159,29 +168,21 @@
 1815	11	18	LeedsMercury	0002	1815	11	07	TheTimes	0002
 1815	11	09	Trewman'sExeterFlyingPost	0004	1815	11	07	TheTimes	0003
 1815	11	11	LeedsMercury	0002	1815	11	07	TheTimes	0003
-1815	11	14		0004	1815	11	07	TheTimes	0003
+1815	11	14	HullPacket	0004	1815	11	07	TheTimes	0003
 1815	11	13	CaledonianMercury	0004	1815	11	07	TheTimes	0004
 1815	11	19	Examiner	0007	1815	11	07	TheTimes	0004
-1815	11	10	LiverpoolMercury	0003	1815	11	07		0001
-1815	11	17	LiverpoolMercury	0005	1815	11	07		0001
-1815	11	18	LeedsMercury	0001	1815	11	07		0001
-1815	11	24	LiverpoolMercury	0005	1815	11	07		0001
-1815	11	25	LeedsMercury	0004	1815	11	07		0001
-1815	11	09	MorningChronicle	0002	1815	11	07		0003
-1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	07		0003
-1815	11	11	LeedsMercury	0002	1815	11	07		0003
 1815	11	08	TheTimes	0002	1815	11	08	MorningChronicle	0002
 1815	11	11	CaledonianMercury	0002	1815	11	08	MorningChronicle	0002
 1815	11	11	LeedsMercury	0002	1815	11	08	MorningChronicle	0002
 1815	11	13	CaledonianMercury	0004	1815	11	08	MorningChronicle	0002
-1815	11	14		0001	1815	11	08	MorningChronicle	0002
+1815	11	14	HullPacket	0001	1815	11	08	MorningChronicle	0002
 1815	11	11	CaledonianMercury	0002	1815	11	08	MorningChronicle	0003
 1815	11	11	CaledonianMercury	0002	1815	11	08	TheTimes	0002
 1815	11	11	LeedsMercury	0002	1815	11	08	TheTimes	0002
 1815	11	13	CaledonianMercury	0004	1815	11	08	TheTimes	0002
 1815	11	12	Examiner	0015	1815	11	08	TheTimes	0003
 1815	11	12	Examiner	0016	1815	11	08	TheTimes	0003
-1815	11	21		0004	1815	11	08	TheTimes	0004
+1815	11	21	HullPacket	0004	1815	11	08	TheTimes	0004
 1815	11	23	DerbyMercury	0004	1815	11	08	TheTimes	0004
 1815	11	09	Trewman'sExeterFlyingPost	0002	1815	11	09	CaledonianMercury	0002
 1815	11	10	LiverpoolMercury	0002	1815	11	09	CaledonianMercury	0002
@@ -193,11 +194,11 @@
 1815	11	11	LeedsMercury	0002	1815	11	09	CaledonianMercury	0003
 1815	11	12	Examiner	0013	1815	11	09	CaledonianMercury	0003
 1815	11	12	Examiner	0014	1815	11	09	CaledonianMercury	0003
-1815	11	14		0001	1815	11	09	CaledonianMercury	0003
+1815	11	14	HullPacket	0001	1815	11	09	CaledonianMercury	0003
 1815	11	17	LiverpoolMercury	0002	1815	11	09	CaledonianMercury	0003
 1815	11	25	LeedsMercury	0004	1815	11	09	CaledonianMercury	0004
 1815	11	11	LeedsMercury	0002	1815	11	09	DerbyMercury	0001
-1815	11	14		0004	1815	11	09	DerbyMercury	0001
+1815	11	14	HullPacket	0004	1815	11	09	DerbyMercury	0001
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	09	DerbyMercury	0001
 1815	11	11	Jackson'sOxfordJournal	0004	1815	11	09	DerbyMercury	0004
 1815	11	13	CaledonianMercury	0004	1815	11	09	MorningChronicle	0002
@@ -209,43 +210,43 @@
 1815	11	12	Examiner	0014	1815	11	09	TheTimes	0003
 1815	11	17	LiverpoolMercury	0006	1815	11	09	TheTimes	0003
 1815	11	18	CaledonianMercury	0004	1815	11	09	TheTimes	0003
-1815	11	21		0004	1815	11	09	TheTimes	0003
+1815	11	21	HullPacket	0004	1815	11	09	TheTimes	0003
 1815	11	12	Examiner	0013	1815	11	09	TheTimes	0004
 1815	11	11	CaledonianMercury	0004	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	11	IpswichJournal	0002	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	11	IpswichJournal	0004	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	11	LeedsMercury	0003	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	12	Examiner	0005	1815	11	09	Trewman'sExeterFlyingPost	0001
-1815	11	14		0001	1815	11	09	Trewman'sExeterFlyingPost	0001
+1815	11	14	HullPacket	0001	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	17	LiverpoolMercury	0003	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	18	LeedsMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0001
 1815	11	10	LiverpoolMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0002
 1815	11	11	LeedsMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0002
-1815	11	14		0004	1815	11	09	Trewman'sExeterFlyingPost	0002
+1815	11	14	HullPacket	0004	1815	11	09	Trewman'sExeterFlyingPost	0002
 1815	11	20	CaledonianMercury	0001	1815	11	09	Trewman'sExeterFlyingPost	0002
 1815	11	25	LeedsMercury	0004	1815	11	09	Trewman'sExeterFlyingPost	0002
 1815	11	30	CaledonianMercury	0001	1815	11	09	Trewman'sExeterFlyingPost	0002
 1815	11	11	LeedsMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0003
-1815	11	14		0004	1815	11	09	Trewman'sExeterFlyingPost	0003
+1815	11	14	HullPacket	0004	1815	11	09	Trewman'sExeterFlyingPost	0003
 1815	11	16	DerbyMercury	0004	1815	11	09	Trewman'sExeterFlyingPost	0003
 1815	11	11	CaledonianMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0004
 1815	11	11	LeedsMercury	0002	1815	11	09	Trewman'sExeterFlyingPost	0004
 1815	11	11	LeedsMercury	0002	1815	11	10	LiverpoolMercury	0002
 1815	11	13	CaledonianMercury	0002	1815	11	10	MorningChronicle	0002
-1815	11	14		0002	1815	11	10	MorningChronicle	0002
+1815	11	14	HullPacket	0002	1815	11	10	MorningChronicle	0002
 1815	11	16	DerbyMercury	0001	1815	11	10	MorningChronicle	0002
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	10	MorningChronicle	0002
 1815	11	12	Examiner	0014	1815	11	10	MorningChronicle	0004
 1815	11	17	LiverpoolMercury	0006	1815	11	10	MorningChronicle	0004
 1815	11	12	Examiner	0007	1815	11	10	TheTimes	0002
 1815	11	13	CaledonianMercury	0002	1815	11	10	TheTimes	0002
-1815	11	14		0002	1815	11	10	TheTimes	0002
+1815	11	14	HullPacket	0002	1815	11	10	TheTimes	0002
 1815	11	24	LiverpoolMercury	0004	1815	11	10	TheTimes	0002
 1815	11	13	CaledonianMercury	0002	1815	11	10	TheTimes	0004
 1815	11	11	LeedsMercury	0002	1815	11	11	CaledonianMercury	0002
 1815	11	19	Examiner	0001	1815	11	11	CaledonianMercury	0002
 1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	11	CaledonianMercury	0002
-1815	11	14		0001	1815	11	11	CaledonianMercury	0003
+1815	11	14	HullPacket	0001	1815	11	11	CaledonianMercury	0003
 1815	11	16	Trewman'sExeterFlyingPost	0001	1815	11	11	CaledonianMercury	0003
 1815	11	24	LiverpoolMercury	0007	1815	11	11	CaledonianMercury	0003
 1815	11	11	Jackson'sOxfordJournal	0001	1815	11	11	CaledonianMercury	0004
@@ -257,23 +258,23 @@
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	11	IpswichJournal	0002
 1815	11	17	LiverpoolMercury	0003	1815	11	11	IpswichJournal	0002
 1815	11	11	LeedsMercury	0003	1815	11	11	IpswichJournal	0004
-1815	11	14		0001	1815	11	11	IpswichJournal	0004
+1815	11	14	HullPacket	0001	1815	11	11	IpswichJournal	0004
 1815	11	18	LeedsMercury	0004	1815	11	11	IpswichJournal	0004
 1815	11	11	IpswichJournal	0004	1815	11	11	Jackson'sOxfordJournal	0001
-1815	11	14		0001	1815	11	11	Jackson'sOxfordJournal	0001
-1815	11	14		0004	1815	11	11	Jackson'sOxfordJournal	0002
+1815	11	14	HullPacket	0001	1815	11	11	Jackson'sOxfordJournal	0001
+1815	11	14	HullPacket	0004	1815	11	11	Jackson'sOxfordJournal	0002
 1815	11	16	DerbyMercury	0001	1815	11	11	Jackson'sOxfordJournal	0002
 1815	11	18	IpswichJournal	0001	1815	11	11	Jackson'sOxfordJournal	0002
 1815	12	02	LeedsMercury	0001	1815	11	11	Jackson'sOxfordJournal	0002
 1815	11	11	IpswichJournal	0004	1815	11	11	Jackson'sOxfordJournal	0004
-1815	11	14		0003	1815	11	11	Jackson'sOxfordJournal	0004
+1815	11	14	HullPacket	0003	1815	11	11	Jackson'sOxfordJournal	0004
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	11	Jackson'sOxfordJournal	0004
 1815	11	18	IpswichJournal	0001	1815	11	11	Jackson'sOxfordJournal	0004
 1815	11	18	LeedsMercury	0004	1815	11	11	Jackson'sOxfordJournal	0004
 1815	12	02	LeedsMercury	0004	1815	11	11	Jackson'sOxfordJournal	0004
 1815	11	12	Examiner	0004	1815	11	11	LeedsMercury	0002
 1815	11	13	CaledonianMercury	0004	1815	11	11	LeedsMercury	0002
-1815	11	14		0004	1815	11	11	LeedsMercury	0002
+1815	11	14	HullPacket	0004	1815	11	11	LeedsMercury	0002
 1815	11	19	Examiner	0001	1815	11	11	LeedsMercury	0002
 1815	11	30	Trewman'sExeterFlyingPost	0003	1815	11	11	MorningChronicle	0001
 1815	11	11	TheTimes	0002	1815	11	11	MorningChronicle	0002
@@ -297,38 +298,43 @@
 1815	11	17	LiverpoolMercury	0002	1815	11	12	Examiner	0013
 1815	11	17	LiverpoolMercury	0006	1815	11	12	Examiner	0014
 1815	11	18	CaledonianMercury	0004	1815	11	12	Examiner	0014
-1815	11	28		0001	1815	11	13	CaledonianMercury	0001
+1815	11	28	HullPacket	0001	1815	11	13	CaledonianMercury	0001
 1815	12	01	LiverpoolMercury	0005	1815	11	13	CaledonianMercury	0001
-1815	11	14		0002	1815	11	13	CaledonianMercury	0002
+1815	11	14	HullPacket	0002	1815	11	13	CaledonianMercury	0002
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	13	CaledonianMercury	0002
+1815	11	16	CaledonianMercury	0002	1815	11	13	MorningChronicle	0001
 1815	11	16	Trewman'sExeterFlyingPost	0002	1815	11	13	MorningChronicle	0001
 1815	11	18	Jackson'sOxfordJournal	0004	1815	11	13	MorningChronicle	0002
 1815	11	18	LeedsMercury	0004	1815	11	13	MorningChronicle	0003
+1815	11	14	TheTimes	0004	1815	11	13	MorningChronicle	0004
 1815	11	18	TheTimes	0004	1815	11	13	MorningChronicle	0004
 1815	12	02	TheTimes	0004	1815	11	13	MorningChronicle	0004
+1815	11	16	Trewman'sExeterFlyingPost	0001	1815	11	14	HullPacket	0001
+1815	12	01	LiverpoolMercury	0001	1815	11	14	HullPacket	0001
+1815	11	14	MorningChronicle	0003	1815	11	14	HullPacket	0002
+1815	11	16	CaledonianMercury	0004	1815	11	14	HullPacket	0002
+1815	11	16	DerbyMercury	0001	1815	11	14	HullPacket	0002
+1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	14	HullPacket	0002
+1815	11	18	LeedsMercury	0001	1815	11	14	HullPacket	0002
+1815	11	18	LeedsMercury	0004	1815	11	14	HullPacket	0003
+1815	11	14	TheTimes	0002	1815	11	14	MorningChronicle	0002
+1815	11	16	CaledonianMercury	0003	1815	11	14	MorningChronicle	0002
 1815	11	18	LeedsMercury	0002	1815	11	14	MorningChronicle	0002
 1815	11	19	Examiner	0004	1815	11	14	MorningChronicle	0002
 1815	11	19	Examiner	0005	1815	11	14	MorningChronicle	0002
-1815	11	21		0001	1815	11	14	MorningChronicle	0002
-1815	11	16	CaledonianMercury	0004	1815	11	14	MorningChronicle	0003
+1815	11	21	HullPacket	0001	1815	11	14	MorningChronicle	0002
+1815	11	14	TheTimes	0002	1815	11	14	MorningChronicle	0003
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	14	MorningChronicle	0003
 1815	11	16	Trewman'sExeterFlyingPost	0004	1815	11	14	MorningChronicle	0003
 1815	11	18	IpswichJournal	0004	1815	11	14	MorningChronicle	0003
 1815	11	20	CaledonianMercury	0004	1815	11	14	MorningChronicle	0003
+1815	11	16	CaledonianMercury	0002	1815	11	14	TheTimes	0002
 1815	11	18	LeedsMercury	0002	1815	11	14	TheTimes	0002
 1815	11	19	Examiner	0004	1815	11	14	TheTimes	0002
 1815	11	19	Examiner	0005	1815	11	14	TheTimes	0002
-1815	11	21		0001	1815	11	14	TheTimes	0002
+1815	11	21	HullPacket	0001	1815	11	14	TheTimes	0002
 1815	11	18	LeedsMercury	0003	1815	11	14	TheTimes	0003
 1815	12	02	LeedsMercury	0004	1815	11	14	TheTimes	0003
-1815	11	16	Trewman'sExeterFlyingPost	0001	1815	11	14		0001
-1815	12	01	LiverpoolMercury	0001	1815	11	14		0001
-1815	11	14	MorningChronicle	0003	1815	11	14		0002
-1815	11	16	CaledonianMercury	0004	1815	11	14		0002
-1815	11	16	DerbyMercury	0001	1815	11	14		0002
-1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	14		0002
-1815	11	18	LeedsMercury	0001	1815	11	14		0002
-1815	11	18	LeedsMercury	0004	1815	11	14		0003
 1815	11	18	IpswichJournal	0002	1815	11	15	MorningChronicle	0002
 1815	11	18	LeedsMercury	0002	1815	11	15	MorningChronicle	0002
 1815	11	20	CaledonianMercury	0003	1815	11	15	MorningChronicle	0002
@@ -342,7 +348,7 @@
 1815	11	18	LeedsMercury	0002	1815	11	16	CaledonianMercury	0002
 1815	11	19	Examiner	0004	1815	11	16	CaledonianMercury	0002
 1815	11	16	Trewman'sExeterFlyingPost	0003	1815	11	16	CaledonianMercury	0003
-1815	11	21		0001	1815	11	16	CaledonianMercury	0003
+1815	11	21	HullPacket	0001	1815	11	16	CaledonianMercury	0003
 1815	11	16	DerbyMercury	0001	1815	11	16	CaledonianMercury	0004
 1815	11	18	LeedsMercury	0001	1815	11	16	DerbyMercury	0001
 1815	11	24	LiverpoolMercury	0005	1815	11	16	DerbyMercury	0001
@@ -352,7 +358,7 @@
 1815	11	16	TheTimes	0002	1815	11	16	MorningChronicle	0002
 1815	11	18	CaledonianMercury	0002	1815	11	16	MorningChronicle	0002
 1815	11	18	LeedsMercury	0002	1815	11	16	MorningChronicle	0002
-1815	11	21		0002	1815	11	16	MorningChronicle	0002
+1815	11	21	HullPacket	0002	1815	11	16	MorningChronicle	0002
 1815	11	24	LiverpoolMercury	0002	1815	11	16	MorningChronicle	0002
 1815	11	18	CaledonianMercury	0003	1815	11	16	MorningChronicle	0003
 1815	11	18	CaledonianMercury	0002	1815	11	16	TheTimes	0002
@@ -378,13 +384,13 @@
 1815	11	25	IpswichJournal	0004	1815	11	17	MorningChronicle	0003
 1815	11	20	CaledonianMercury	0002	1815	11	17	TheTimes	0003
 1815	11	20	CaledonianMercury	0003	1815	11	17	TheTimes	0003
-1815	11	21		0002	1815	11	17	TheTimes	0003
+1815	11	21	HullPacket	0002	1815	11	17	TheTimes	0003
 1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	17	TheTimes	0003
 1815	11	24	LiverpoolMercury	0002	1815	11	17	TheTimes	0003
 1815	11	23	Trewman'sExeterFlyingPost	0003	1815	11	17	TheTimes	0004
 1815	11	18	Jackson'sOxfordJournal	0001	1815	11	18	CaledonianMercury	0002
 1815	11	18	LeedsMercury	0002	1815	11	18	CaledonianMercury	0002
-1815	11	21		0002	1815	11	18	CaledonianMercury	0002
+1815	11	21	HullPacket	0002	1815	11	18	CaledonianMercury	0002
 1815	11	23	Trewman'sExeterFlyingPost	0003	1815	11	18	CaledonianMercury	0003
 1815	11	18	IpswichJournal	0002	1815	11	18	CaledonianMercury	0004
 1815	11	18	IpswichJournal	0004	1815	11	18	CaledonianMercury	0004
@@ -400,7 +406,7 @@
 1815	12	07	Trewman'sExeterFlyingPost	0001	1815	11	18	LeedsMercury	0001
 1815	12	08	LiverpoolMercury	0005	1815	11	18	LeedsMercury	0001
 1815	12	09	Jackson'sOxfordJournal	0002	1815	11	18	LeedsMercury	0001
-1815	11	21		0001	1815	11	18	LeedsMercury	0002
+1815	11	21	HullPacket	0001	1815	11	18	LeedsMercury	0002
 1815	11	23	Trewman'sExeterFlyingPost	0003	1815	11	18	LeedsMercury	0004
 1815	12	02	Jackson'sOxfordJournal	0004	1815	11	18	LeedsMercury	0004
 1815	11	20	TheTimes	0002	1815	11	18	MorningChronicle	0002
@@ -417,7 +423,7 @@
 1815	11	25	Jackson'sOxfordJournal	0004	1815	11	20	CaledonianMercury	0001
 1815	11	25	LeedsMercury	0004	1815	11	20	CaledonianMercury	0001
 1815	12	07	Trewman'sExeterFlyingPost	0002	1815	11	20	CaledonianMercury	0001
-1815	11	21		0002	1815	11	20	CaledonianMercury	0002
+1815	11	21	HullPacket	0002	1815	11	20	CaledonianMercury	0002
 1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	20	CaledonianMercury	0002
 1815	11	24	LiverpoolMercury	0002	1815	11	20	CaledonianMercury	0002
 1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	20	CaledonianMercury	0003
@@ -440,11 +446,11 @@
 1815	11	23	Trewman'sExeterFlyingPost	0001	1815	11	20	TheTimes	0003
 1815	11	25	CaledonianMercury	0004	1815	11	20	TheTimes	0003
 1815	12	01	LiverpoolMercury	0003	1815	11	20	TheTimes	0003
+1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	21	HullPacket	0002
+1815	11	24	LiverpoolMercury	0002	1815	11	21	HullPacket	0002
+1815	11	23	DerbyMercury	0004	1815	11	21	HullPacket	0004
 1815	11	21	TheTimes	0002	1815	11	21	MorningChronicle	0002
 1815	11	23	Trewman'sExeterFlyingPost	0001	1815	11	21	MorningChronicle	0002
-1815	11	23	Trewman'sExeterFlyingPost	0002	1815	11	21		0002
-1815	11	24	LiverpoolMercury	0002	1815	11	21		0002
-1815	11	23	DerbyMercury	0004	1815	11	21		0004
 1815	11	22	TheTimes	0002	1815	11	22	MorningChronicle	0002
 1815	11	25	CaledonianMercury	0002	1815	11	22	MorningChronicle	0002
 1815	11	25	CaledonianMercury	0004	1815	11	22	MorningChronicle	0002
@@ -498,7 +504,7 @@
 1815	11	25	Cobbet'sWeeklyPoliticalRegister	0008	1815	11	24	LiverpoolMercury	0008
 1815	11	25	Cobbet'sWeeklyPoliticalRegister	0009	1815	11	24	LiverpoolMercury	0008
 1815	11	26	Examiner	0005	1815	11	24	LiverpoolMercury	0008
-1815	11	28		0004	1815	11	24	LiverpoolMercury	0008
+1815	11	28	HullPacket	0004	1815	11	24	LiverpoolMercury	0008
 1815	12	04	TheTimes	0003	1815	11	24	LiverpoolMercury	0008
 1815	12	09	Jackson'sOxfordJournal	0002	1815	11	24	LiverpoolMercury	0008
 1815	12	11	CaledonianMercury	0004	1815	11	24	LiverpoolMercury	0008
@@ -507,10 +513,10 @@
 1815	11	25	Cobbet'sWeeklyPoliticalRegister	0003	1815	11	24	MorningChronicle	0002
 1815	11	26	Examiner	0004	1815	11	24	MorningChronicle	0002
 1815	11	27	CaledonianMercury	0002	1815	11	24	MorningChronicle	0002
-1815	11	28		0002	1815	11	24	MorningChronicle	0002
+1815	11	28	HullPacket	0002	1815	11	24	MorningChronicle	0002
 1815	12	01	LiverpoolMercury	0002	1815	11	24	MorningChronicle	0002
 1815	12	01	LiverpoolMercury	0003	1815	11	24	MorningChronicle	0002
-1815	12	05		0004	1815	11	24	MorningChronicle	0002
+1815	12	05	HullPacket	0004	1815	11	24	MorningChronicle	0002
 1815	11	30	Trewman'sExeterFlyingPost	0001	1815	11	24	MorningChronicle	0003
 1815	12	04	CaledonianMercury	0004	1815	11	24	MorningChronicle	0003
 1815	11	26	Examiner	0004	1815	11	24	TheTimes	0002
@@ -526,7 +532,7 @@
 1815	11	25	Jackson'sOxfordJournal	0002	1815	11	25	CaledonianMercury	0002
 1815	11	26	Examiner	0005	1815	11	25	CaledonianMercury	0002
 1815	11	26	Examiner	0006	1815	11	25	CaledonianMercury	0002
-1815	11	28		0004	1815	11	25	CaledonianMercury	0002
+1815	11	28	HullPacket	0004	1815	11	25	CaledonianMercury	0002
 1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	25	CaledonianMercury	0002
 1815	11	30	Trewman'sExeterFlyingPost	0001	1815	11	25	CaledonianMercury	0003
 1815	11	30	Trewman'sExeterFlyingPost	0003	1815	11	25	CaledonianMercury	0004
@@ -544,7 +550,7 @@
 1815	12	02	LeedsMercury	0004	1815	11	25	IpswichJournal	0001
 1815	11	26	Examiner	0005	1815	11	25	IpswichJournal	0002
 1815	11	30	Trewman'sExeterFlyingPost	0001	1815	11	25	IpswichJournal	0004
-1815	12	12		0001	1815	11	25	IpswichJournal	0004
+1815	12	12	HullPacket	0001	1815	11	25	IpswichJournal	0004
 1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	25	Jackson'sOxfordJournal	0002
 1815	12	02	LeedsMercury	0004	1815	11	25	Jackson'sOxfordJournal	0002
 1815	11	27	CaledonianMercury	0002	1815	11	25	Jackson'sOxfordJournal	0003
@@ -556,7 +562,7 @@
 1815	12	15	LiverpoolMercury	0005	1815	11	25	LeedsMercury	0001
 1815	11	26	Examiner	0005	1815	11	25	LeedsMercury	0002
 1815	11	26	Examiner	0006	1815	11	25	LeedsMercury	0002
-1815	11	28		0001	1815	11	25	LeedsMercury	0002
+1815	11	28	HullPacket	0001	1815	11	25	LeedsMercury	0002
 1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	25	LeedsMercury	0002
 1815	12	01	LiverpoolMercury	0001	1815	11	25	LeedsMercury	0003
 1815	12	04	CaledonianMercury	0003	1815	11	25	LeedsMercury	0004
@@ -578,13 +584,13 @@
 1815	12	01	LiverpoolMercury	0003	1815	11	25	TheTimes	0002
 1815	11	27	MorningChronicle	0003	1815	11	26	Examiner	0003
 1815	11	27	CaledonianMercury	0002	1815	11	26	Examiner	0004
-1815	12	05		0004	1815	11	26	Examiner	0004
+1815	12	05	HullPacket	0004	1815	11	26	Examiner	0004
 1815	11	27	CaledonianMercury	0002	1815	11	26	Examiner	0006
 1815	11	27	CaledonianMercury	0002	1815	11	26	Examiner	0007
 1815	11	30	Trewman'sExeterFlyingPost	0001	1815	11	26	Examiner	0009
 1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	26	Examiner	0009
 1815	12	01	LiverpoolMercury	0002	1815	11	27	CaledonianMercury	0002
-1815	12	05		0004	1815	11	27	CaledonianMercury	0002
+1815	12	05	HullPacket	0004	1815	11	27	CaledonianMercury	0002
 1815	12	02	LeedsMercury	0002	1815	11	27	MorningChronicle	0002
 1815	12	02	LeedsMercury	0004	1815	11	27	MorningChronicle	0002
 1815	12	03	Examiner	0007	1815	11	27	MorningChronicle	0002
@@ -596,8 +602,12 @@
 1815	12	03	Examiner	0010	1815	11	27	TheTimes	0003
 1815	12	03	Examiner	0014	1815	11	27	TheTimes	0003
 1815	12	03	Examiner	0015	1815	11	27	TheTimes	0003
-1815	12	05		0002	1815	11	27	TheTimes	0003
+1815	12	05	HullPacket	0002	1815	11	27	TheTimes	0003
 1815	11	30	CaledonianMercury	0003	1815	11	27	TheTimes	0004
+1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	28	HullPacket	0001
+1815	12	01	LiverpoolMercury	0005	1815	11	28	HullPacket	0001
+1815	12	15	LiverpoolMercury	0008	1815	11	28	HullPacket	0001
+1815	12	01	LiverpoolMercury	0002	1815	11	28	HullPacket	0002
 1815	11	28	TheTimes	0002	1815	11	28	MorningChronicle	0002
 1815	11	30	CaledonianMercury	0002	1815	11	28	MorningChronicle	0002
 1815	11	28	TheTimes	0002	1815	11	28	MorningChronicle	0003
@@ -620,10 +630,6 @@
 1815	12	02	IpswichJournal	0004	1815	11	28	TheTimes	0002
 1815	12	03	Examiner	0010	1815	11	28	TheTimes	0002
 1815	11	29	MorningChronicle	0004	1815	11	28	TheTimes	0004
-1815	11	30	Trewman'sExeterFlyingPost	0002	1815	11	28		0001
-1815	12	01	LiverpoolMercury	0005	1815	11	28		0001
-1815	12	15	LiverpoolMercury	0008	1815	11	28		0001
-1815	12	01	LiverpoolMercury	0002	1815	11	28		0002
 1815	11	30	Trewman'sExeterFlyingPost	0001	1815	11	29	MorningChronicle	0001
 1815	12	06	TheTimes	0004	1815	11	29	MorningChronicle	0001
 1815	12	08	TheTimes	0004	1815	11	29	MorningChronicle	0001
@@ -660,7 +666,7 @@
 1815	11	30	Trewman'sExeterFlyingPost	0003	1815	11	30	CaledonianMercury	0002
 1815	12	01	LiverpoolMercury	0002	1815	11	30	CaledonianMercury	0002
 1815	12	01	LiverpoolMercury	0003	1815	11	30	CaledonianMercury	0002
-1815	12	05		0004	1815	11	30	CaledonianMercury	0002
+1815	12	05	HullPacket	0004	1815	11	30	CaledonianMercury	0002
 1815	11	30	Trewman'sExeterFlyingPost	0003	1815	11	30	CaledonianMercury	0003
 1815	12	01	LiverpoolMercury	0006	1815	11	30	CaledonianMercury	0003
 1815	12	02	Jackson'sOxfordJournal	0004	1815	11	30	CaledonianMercury	0003
@@ -688,18 +694,18 @@
 1815	12	07	Trewman'sExeterFlyingPost	0002	1815	11	30	TheTimes	0003
 1815	12	14	Trewman'sExeterFlyingPost	0002	1815	11	30	TheTimes	0004
 1815	12	02	LeedsMercury	0004	1815	11	30	Trewman'sExeterFlyingPost	0001
-1815	12	05		0002	1815	11	30	Trewman'sExeterFlyingPost	0001
+1815	12	05	HullPacket	0002	1815	11	30	Trewman'sExeterFlyingPost	0001
 1815	12	08	LiverpoolMercury	0005	1815	11	30	Trewman'sExeterFlyingPost	0001
 1815	12	09	Jackson'sOxfordJournal	0002	1815	11	30	Trewman'sExeterFlyingPost	0001
-1815	12	12		0002	1815	11	30	Trewman'sExeterFlyingPost	0001
+1815	12	12	HullPacket	0002	1815	11	30	Trewman'sExeterFlyingPost	0001
 1815	12	15	LiverpoolMercury	0005	1815	11	30	Trewman'sExeterFlyingPost	0001
-1815	12	19		0001	1815	11	30	Trewman'sExeterFlyingPost	0001
+1815	12	19	HullPacket	0001	1815	11	30	Trewman'sExeterFlyingPost	0001
 1815	12	02	CaledonianMercury	0004	1815	11	30	Trewman'sExeterFlyingPost	0002
 1815	12	01	LiverpoolMercury	0003	1815	11	30	Trewman'sExeterFlyingPost	0003
 1815	12	01	LiverpoolMercury	0006	1815	11	30	Trewman'sExeterFlyingPost	0003
 1815	12	02	Jackson'sOxfordJournal	0004	1815	11	30	Trewman'sExeterFlyingPost	0003
 1815	12	02	LeedsMercury	0004	1815	11	30	Trewman'sExeterFlyingPost	0003
-1815	12	05		0002	1815	11	30	Trewman'sExeterFlyingPost	0003
+1815	12	05	HullPacket	0002	1815	11	30	Trewman'sExeterFlyingPost	0003
 1815	12	01	LiverpoolMercury	0007	1815	11	30	Trewman'sExeterFlyingPost	0004
 1815	12	02	Cobbet'sWeeklyPoliticalRegister	0011	1815	11	30	Trewman'sExeterFlyingPost	0004
 1815	12	02	Jackson'sOxfordJournal	0001	1815	11	30	Trewman'sExeterFlyingPost	0004

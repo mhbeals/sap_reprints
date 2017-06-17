@@ -7,8 +7,8 @@
 1814.08.06_LeedsMercury	0.043913
 1814.08.07_Examiner	0.013740
 1814.08.08_CaledonianMercury	0.022990
+1814.08.09_HullPacket	0.078566
 1814.08.09_MorningChronicle	0.010641
-1814.08.09_	0.078566
 1814.08.10_MorningChronicle	0.004903
 1814.08.11_CaledonianMercury	0.055786
 1814.08.11_DerbyMercury	0.009672
@@ -21,7 +21,7 @@
 1814.08.14_Examiner	0.007026
 1814.08.15_CaledonianMercury	0.067308
 1814.08.15_HampshirePortsmouthTelegraph	0.003837
-1814.08.16_	0.111590
+1814.08.16_HullPacket	0.111590
 1814.08.17_MorningChronicle	0.004797
 1814.08.18_CaledonianMercury	0.039499
 1814.08.18_DerbyMercury	0.004857
@@ -36,10 +36,11 @@
 1814.08.20_MorningChronicle	0.027006
 1814.08.21_Examiner	0.036125
 1814.08.22_CaledonianMercury	0.067854
+1814.08.23_HullPacket	0.084958
 1814.08.23_TheTimes	0.011310
-1814.08.23_	0.084958
 1814.08.24_AberdeenJournal	0.011376
-1814.08.25_CaledonianMercury	0.095721
+1814.08.24_MorningChronicle	0.013198
+1814.08.25_CaledonianMercury	0.106016
 1814.08.25_DerbyMercury	0.023586
 1814.08.25_MorningChronicle	0.007554
 1814.08.25_Trewman'sExeterFlyingPost	0.109176
@@ -52,6 +53,6 @@
 1814.08.28_Examiner	0.059391
 1814.08.29_CaledonianMercury	0.057991
 1814.08.29_MorningChronicle	0.005056
-1814.08.30_	0.105985
+1814.08.30_HullPacket	0.105985
 1814.08.31_AberdeenJournal	0.013645
 1814.08.31_TheTimes	0.013310

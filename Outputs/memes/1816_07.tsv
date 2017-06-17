@@ -207,7 +207,7 @@
 1816	07	18	CaledonianMercury	0004	1816	07	12	TheTimes	0003
 1816	07	18	Trewman'sExeterFlyingPost	0002	1816	07	12	TheTimes	0003
 1816	07	18	Trewman'sExeterFlyingPost	0002	1816	07	13	CaledonianMercury	0002
-1816	07	16		0001	1816	07	13	CaledonianMercury	0004
+1816	07	16	HullPacket	0001	1816	07	13	CaledonianMercury	0004
 1816	07	18	Trewman'sExeterFlyingPost	0003	1816	07	13	CaledonianMercury	0004
 1816	07	20	LeedsMercury	0004	1816	07	13	Jackson'sOxfordJournal	0001
 1816	08	02	LiverpoolMercury	0005	1816	07	13	Jackson'sOxfordJournal	0001

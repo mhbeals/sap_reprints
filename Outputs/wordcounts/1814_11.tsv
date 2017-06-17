@@ -15,8 +15,8 @@
 1814.11.06_Examiner_0010	143
 1814.11.07_CaledonianMercury_0002	834
 1814.11.07_CaledonianMercury_0004	210
-1814.11.08__0002	435
-1814.11.08__0004	714
+1814.11.08_HullPacket_0002	435
+1814.11.08_HullPacket_0004	714
 1814.11.10_CaledonianMercury_0002	801
 1814.11.10_CaledonianMercury_0004	317
 1814.11.10_DerbyMercury_0004	154
@@ -35,8 +35,8 @@
 1814.11.13_Examiner_0012	356
 1814.11.13_Examiner_0014	454
 1814.11.14_CaledonianMercury_0003	244
-1814.11.15__0001	452
-1814.11.15__0003	308
+1814.11.15_HullPacket_0001	452
+1814.11.15_HullPacket_0003	308
 1814.11.17_CaledonianMercury_0002	494
 1814.11.17_MorningChronicle_0003	159
 1814.11.17_Trewman'sExeterFlyingPost_0003	1458
@@ -47,7 +47,7 @@
 1814.11.19_LeedsMercury_0002	1116
 1814.11.19_LeedsMercury_0004	2575
 1814.11.21_CaledonianMercury_0002	158
-1814.11.22__0001	378
+1814.11.22_HullPacket_0001	378
 1814.11.23_AberdeenJournal_0003	492
 1814.11.24_Trewman'sExeterFlyingPost_0001	426
 1814.11.24_Trewman'sExeterFlyingPost_0003	335
@@ -58,4 +58,4 @@
 1814.11.27_Examiner_0011	245
 1814.11.28_CaledonianMercury_0002	1556
 1814.11.28_TheTimes_0004	573
-1814.11.29__0002	300
+1814.11.29_HullPacket_0002	300

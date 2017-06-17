@@ -1,9 +1,10 @@
 1823	12	01	BristolMercury	0002
 1823	12	01	HampshirePortsmouthTelegraph	0003
+1823	12	01	HullPacket	0001
+1823	12	01	HullPacket	0004
 1823	12	01	MorningChronicle	0004
-1823	12	01	_0001	_0001
-1823	12	01	_0004	_0004
-1823	12	02	TheTimes	0002
+1823	12	01	TheTimes	0002
+1823	12	01	TheTimes	0003
 1823	12	02	TheTimes	0003
 1823	12	03	TheTimes	0003
 1823	12	04	TheTimes	0002
@@ -30,4 +31,5 @@
 1823	12	25	Trewman'sExeterFlyingPost	0004
 1823	12	27	IpswichJournal	0003
 1823	12	27	TheTimes	0002
+1823	12	29	TheTimes	0002
 1823	12	31	TheTimes	0002

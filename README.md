@@ -1,5 +1,5 @@
 # Scissors and Paste Database
-## A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.0.1
+## A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.1.0
 
 Version 1.0.1 currently maps reprinting and re-use in the following collections:
 
@@ -50,7 +50,7 @@ Each line represents two pages from the collection that contain a substantial am
 
 #### Normalised Titles
 
-Contains a list of XML-derived titles and Normalised titles. Used as part of the SAP Console in order to normalise results across multiple years and collections. There are two versions, one with spaces (NormalisedTitles.tsv) and one without (NormalisedTitlesns.tsv).
+Contains a list of XML-derived titles and Normalised titles. Used as part of the SAP Console in order to normalise results across multiple years and collections. There are two versions, one with underscores and hyphens (NormalisedTitles.tsv) and one without (NormalisedTitlesns.tsv).
 
 ### Outputs
 
@@ -111,3 +111,7 @@ Contains monthly manifests of all pages and issues that contain some duplicated 
 #### Word Counts
 
 Contains monthly manifests of all pages that contain some duplicated or reused material and the word count of the largest instance of reused material found of that issue that has been identified as originally appearing elsewhere. That is, if four matches were found (Memes), the highest score is deemed the minimum level of reuse identified.
+
+### XML Datasets
+
+In order to facilitate online usage, the data here has been converted into XML files, linking each page to its predecessors, contemporaries and successors. These can be downloaded here or viewed at the [Scissors and Paste website](http://scissorsandpaste.net/scissors-and-paste-o-meter/).

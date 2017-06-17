@@ -20,8 +20,8 @@
 1816	04	08	CaledonianMercury	0003	1816	04	05	TheTimes	0003
 1816	04	08	CaledonianMercury	0004	1816	04	02	TheTimes	0003
 1816	04	08	MorningChronicle	0002	1816	04	05	TheTimes	0003
-1816	04	09	_0001	_0001	1816	04	06	CaledonianMercury	0002
-1816	04	09	_0002	_0002	1816	04	05	TheTimes	0003
+1816	04	09	HullPacket	0001	1816	04	06	CaledonianMercury	0002
+1816	04	09	HullPacket	0002	1816	04	05	TheTimes	0003
 1816	04	11	CaledonianMercury	0001	1816	04	06	Jackson'sOxfordJournal	0002
 1816	04	11	CaledonianMercury	0002	1816	04	08	MorningChronicle	0002
 1816	04	11	Trewman'sExeterFlyingPost	0001	1816	04	06	Jackson'sOxfordJournal	0002
@@ -91,7 +91,7 @@
 1816	04	22	CaledonianMercury	0002	1816	04	19	TheTimes	0003
 1816	04	22	CaledonianMercury	0003	1816	04	20	MorningChronicle	0003
 1816	04	22	CaledonianMercury	0004	1816	04	16	TheTimes	0003
-1816	04	23	_0001	_0001	1816	04	17	TheTimes	0003
+1816	04	23	HullPacket	0001	1816	04	17	TheTimes	0003
 1816	04	24	AberdeenJournal	0002	1816	04	20	CaledonianMercury	0002
 1816	04	25	CaledonianMercury	0001	1816	04	11	Trewman'sExeterFlyingPost	0001
 1816	04	25	CaledonianMercury	0002	1816	04	20	MorningChronicle	0003
@@ -120,4 +120,4 @@
 1816	04	28	Examiner	0013	1816	04	13	TheTimes	0003
 1816	04	29	CaledonianMercury	0002	1816	04	27	MorningChronicle	0001
 1816	04	29	CaledonianMercury	0004	1816	04	24	MorningChronicle	0002
-1816	04	30	_0002	_0002	1816	04	22	CaledonianMercury	0002
+1816	04	30	HullPacket	0002	1816	04	22	CaledonianMercury	0002

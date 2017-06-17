@@ -124,11 +124,11 @@
 1817	03	24	MorningChronicle	0002	1817	03	22	IpswichJournal	0001
 1817	03	24	MorningChronicle	0003	1817	03	23	Examiner	0011
 1817	03	24	TheTimes	0004	1817	03	18	MorningChronicle	0004
+1817	03	25	HullPacket	0001	1817	03	17	TheTimes	0003
+1817	03	25	HullPacket	0004	1817	03	13	MorningChronicle	0003
 1817	03	25	MorningChronicle	0004	1817	03	24	TheTimes	0004
 1817	03	25	TheTimes	0001	1817	03	17	MorningChronicle	0002
 1817	03	25	TheTimes	0004	1817	03	18	MorningChronicle	0004
-1817	03	25	_0001	_0001	1817	03	17	TheTimes	0003
-1817	03	25	_0004	_0004	1817	03	13	MorningChronicle	0003
 1817	03	26	MorningChronicle	0001	1817	03	20	Trewman'sExeterFlyingPost	0004
 1817	03	26	MorningChronicle	0004	1817	03	18	TheTimes	0004
 1817	03	26	TheTimes	0004	1817	03	22	CaledonianMercury	0003

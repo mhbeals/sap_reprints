@@ -7,16 +7,16 @@
 1813	02	12	LiverpoolMercury	0005	1813	02	01	MorningChronicle	0002
 1813	02	13	CaledonianMercury	0004	1813	02	01	MorningChronicle	0002
 1813	02	13	IpswichJournal	0001	1813	02	01	MorningChronicle	0002
-1813	02	16		0001	1813	02	01	MorningChronicle	0002
+1813	02	16	HullPacket	0001	1813	02	01	MorningChronicle	0002
 1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	01	MorningChronicle	0002
 1813	02	04	CaledonianMercury	0002	1813	02	01	MorningChronicle	0003
 1813	02	15	CaledonianMercury	0004	1813	02	01	MorningChronicle	0003
+1813	02	06	Cobbet'sWeeklyPoliticalRegister	0014	1813	02	02	HullPacket	0004
 1813	02	08	CaledonianMercury	0002	1813	02	02	MorningChronicle	0002
 1813	02	06	IpswichJournal	0004	1813	02	02	TheTimes	0003
 1813	02	08	CaledonianMercury	0002	1813	02	02	TheTimes	0003
-1813	02	06	Cobbet'sWeeklyPoliticalRegister	0014	1813	02	02		0004
 1813	02	06	CaledonianMercury	0002	1813	02	03	MorningChronicle	0002
-1813	02	09		0004	1813	02	03	MorningChronicle	0002
+1813	02	09	HullPacket	0004	1813	02	03	MorningChronicle	0002
 1813	02	04	DerbyMercury	0002	1813	02	04	CaledonianMercury	0002
 1813	02	04	DerbyMercury	0004	1813	02	04	CaledonianMercury	0002
 1813	02	04	Trewman'sExeterFlyingPost	0001	1813	02	04	CaledonianMercury	0002
@@ -33,7 +33,7 @@
 1813	02	04	TheTimes	0003	1813	02	04	MorningChronicle	0002
 1813	02	06	CaledonianMercury	0002	1813	02	04	MorningChronicle	0002
 1813	02	08	CaledonianMercury	0002	1813	02	04	MorningChronicle	0002
-1813	02	09		0004	1813	02	04	MorningChronicle	0002
+1813	02	09	HullPacket	0004	1813	02	04	MorningChronicle	0002
 1813	02	12	LiverpoolMercury	0002	1813	02	04	MorningChronicle	0002
 1813	02	08	CaledonianMercury	0002	1813	02	04	MorningChronicle	0003
 1813	02	06	CaledonianMercury	0002	1813	02	04	TheTimes	0003
@@ -41,12 +41,12 @@
 1813	02	05	LiverpoolMercury	0003	1813	02	04	Trewman'sExeterFlyingPost	0002
 1813	02	11	CaledonianMercury	0001	1813	02	05	LiverpoolMercury	0005
 1813	02	11	DerbyMercury	0001	1813	02	05	LiverpoolMercury	0005
-1813	02	16		0001	1813	02	05	LiverpoolMercury	0005
+1813	02	16	HullPacket	0001	1813	02	05	LiverpoolMercury	0005
 1813	02	17	AberdeenJournal	0002	1813	02	05	LiverpoolMercury	0005
 1813	02	24	AberdeenJournal	0004	1813	02	05	LiverpoolMercury	0005
 1813	02	05	TheTimes	0002	1813	02	05	MorningChronicle	0002
 1813	02	12	LiverpoolMercury	0003	1813	02	05	MorningChronicle	0003
-1813	02	09		0004	1813	02	06	CaledonianMercury	0002
+1813	02	09	HullPacket	0004	1813	02	06	CaledonianMercury	0002
 1813	02	10	AberdeenJournal	0003	1813	02	06	CaledonianMercury	0002
 1813	02	08	CaledonianMercury	0001	1813	02	06	IpswichJournal	0001
 1813	02	11	CaledonianMercury	0001	1813	02	06	IpswichJournal	0001
@@ -75,8 +75,8 @@
 1813	02	11	CaledonianMercury	0002	1813	02	08	MorningChronicle	0002
 1813	02	08	TheTimes	0003	1813	02	08	MorningChronicle	0003
 1813	02	13	IpswichJournal	0004	1813	02	08	MorningChronicle	0003
+1813	02	12	LiverpoolMercury	0006	1813	02	09	HullPacket	0004
 1813	02	15	CaledonianMercury	0004	1813	02	09	TheTimes	0003
-1813	02	12	LiverpoolMercury	0006	1813	02	09		0004
 1813	02	11	CaledonianMercury	0001	1813	02	10	AberdeenJournal	0002
 1813	02	18	CaledonianMercury	0001	1813	02	10	AberdeenJournal	0002
 1813	02	22	CaledonianMercury	0001	1813	02	10	AberdeenJournal	0002
@@ -86,7 +86,7 @@
 1813	02	11	TheTimes	0002	1813	02	10	MorningChronicle	0002
 1813	02	13	CaledonianMercury	0002	1813	02	10	MorningChronicle	0002
 1813	02	14	Examiner	0010	1813	02	10	MorningChronicle	0002
-1813	02	16		0004	1813	02	10	MorningChronicle	0002
+1813	02	16	HullPacket	0004	1813	02	10	MorningChronicle	0002
 1813	02	17	AberdeenJournal	0003	1813	02	10	MorningChronicle	0002
 1813	02	18	DerbyMercury	0004	1813	02	10	MorningChronicle	0002
 1813	02	18	Trewman'sExeterFlyingPost	0002	1813	02	10	MorningChronicle	0002
@@ -98,7 +98,7 @@
 1813	02	13	IpswichJournal	0004	1813	02	11	CaledonianMercury	0002
 1813	02	17	AberdeenJournal	0002	1813	02	11	CaledonianMercury	0003
 1813	02	17	AberdeenJournal	0003	1813	02	11	CaledonianMercury	0003
-1813	02	16		0001	1813	02	11	DerbyMercury	0001
+1813	02	16	HullPacket	0001	1813	02	11	DerbyMercury	0001
 1813	02	17	AberdeenJournal	0002	1813	02	11	DerbyMercury	0001
 1813	02	11	Trewman'sExeterFlyingPost	0003	1813	02	11	DerbyMercury	0003
 1813	02	13	LeedsMercury	0003	1813	02	11	DerbyMercury	0003
@@ -108,7 +108,7 @@
 1813	02	15	CaledonianMercury	0002	1813	02	11	MorningChronicle	0002
 1813	02	15	CaledonianMercury	0003	1813	02	11	MorningChronicle	0002
 1813	02	13	CaledonianMercury	0002	1813	02	11	TheTimes	0002
-1813	02	16		0004	1813	02	11	TheTimes	0002
+1813	02	16	HullPacket	0004	1813	02	11	TheTimes	0002
 1813	02	17	AberdeenJournal	0003	1813	02	11	TheTimes	0002
 1813	02	18	DerbyMercury	0004	1813	02	11	TheTimes	0002
 1813	02	19	LiverpoolMercury	0002	1813	02	11	TheTimes	0002
@@ -117,7 +117,7 @@
 1813	02	19	LiverpoolMercury	0007	1813	02	11	Trewman'sExeterFlyingPost	0003
 1813	02	13	CaledonianMercury	0004	1813	02	12	LiverpoolMercury	0005
 1813	02	13	IpswichJournal	0001	1813	02	12	LiverpoolMercury	0005
-1813	02	16		0001	1813	02	12	LiverpoolMercury	0005
+1813	02	16	HullPacket	0001	1813	02	12	LiverpoolMercury	0005
 1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	12	LiverpoolMercury	0005
 1813	02	12	TheTimes	0001	1813	02	12	MorningChronicle	0003
 1813	02	12	TheTimes	0004	1813	02	12	MorningChronicle	0003
@@ -125,22 +125,22 @@
 1813	02	14	Examiner	0003	1813	02	12	MorningChronicle	0003
 1813	02	15	CaledonianMercury	0002	1813	02	12	MorningChronicle	0003
 1813	02	15	CaledonianMercury	0003	1813	02	12	MorningChronicle	0003
-1813	02	16		0003	1813	02	12	MorningChronicle	0003
+1813	02	16	HullPacket	0003	1813	02	12	MorningChronicle	0003
 1813	02	13	CaledonianMercury	0003	1813	02	12	TheTimes	0004
-1813	02	16		0004	1813	02	13	CaledonianMercury	0002
+1813	02	16	HullPacket	0004	1813	02	13	CaledonianMercury	0002
 1813	02	17	AberdeenJournal	0003	1813	02	13	CaledonianMercury	0002
 1813	02	18	DerbyMercury	0004	1813	02	13	CaledonianMercury	0002
 1813	02	18	Trewman'sExeterFlyingPost	0002	1813	02	13	CaledonianMercury	0002
 1813	02	19	LiverpoolMercury	0002	1813	02	13	CaledonianMercury	0002
 1813	02	19	LiverpoolMercury	0003	1813	02	13	CaledonianMercury	0002
 1813	02	20	Cobbet'sWeeklyPoliticalRegister	0003	1813	02	13	CaledonianMercury	0002
-1813	02	23		0004	1813	02	13	CaledonianMercury	0002
+1813	02	23	HullPacket	0004	1813	02	13	CaledonianMercury	0002
 1813	02	27	Cobbet'sWeeklyPoliticalRegister	0004	1813	02	13	CaledonianMercury	0002
 1813	02	13	IpswichJournal	0001	1813	02	13	CaledonianMercury	0004
-1813	02	16		0001	1813	02	13	CaledonianMercury	0004
+1813	02	16	HullPacket	0001	1813	02	13	CaledonianMercury	0004
 1813	02	18	DerbyMercury	0004	1813	02	13	CaledonianMercury	0004
 1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	13	CaledonianMercury	0004
-1813	02	16		0001	1813	02	13	IpswichJournal	0001
+1813	02	16	HullPacket	0001	1813	02	13	IpswichJournal	0001
 1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	13	IpswichJournal	0001
 1813	02	26	LiverpoolMercury	0007	1813	02	13	IpswichJournal	0001
 1813	02	15	CaledonianMercury	0004	1813	02	13	IpswichJournal	0004
@@ -149,23 +149,23 @@
 1813	02	20	CaledonianMercury	0003	1813	02	13	LeedsMercury	0003
 1813	02	15	CaledonianMercury	0002	1813	02	14	Examiner	0003
 1813	02	15	CaledonianMercury	0003	1813	02	14	Examiner	0003
-1813	02	16		0003	1813	02	15	CaledonianMercury	0002
-1813	02	16		0004	1813	02	15	CaledonianMercury	0004
+1813	02	16	HullPacket	0003	1813	02	15	CaledonianMercury	0002
+1813	02	16	HullPacket	0004	1813	02	15	CaledonianMercury	0004
 1813	02	19	LiverpoolMercury	0007	1813	02	15	CaledonianMercury	0004
 1813	02	20	CaledonianMercury	0004	1813	02	15	MorningChronicle	0003
 1813	02	26	LiverpoolMercury	0007	1813	02	15	MorningChronicle	0003
+1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	16	HullPacket	0001
+1813	03	03	AberdeenJournal	0004	1813	02	16	HullPacket	0002
+1813	02	17	AberdeenJournal	0003	1813	02	16	HullPacket	0004
+1813	02	18	Trewman'sExeterFlyingPost	0002	1813	02	16	HullPacket	0004
+1813	02	19	LiverpoolMercury	0002	1813	02	16	HullPacket	0004
+1813	02	22	CaledonianMercury	0001	1813	02	16	HullPacket	0004
 1813	02	21	Examiner	0010	1813	02	16	MorningChronicle	0003
 1813	02	20	CaledonianMercury	0002	1813	02	16	TheTimes	0002
-1813	02	18	Trewman'sExeterFlyingPost	0003	1813	02	16		0001
-1813	03	03	AberdeenJournal	0004	1813	02	16		0002
-1813	02	17	AberdeenJournal	0003	1813	02	16		0004
-1813	02	18	Trewman'sExeterFlyingPost	0002	1813	02	16		0004
-1813	02	19	LiverpoolMercury	0002	1813	02	16		0004
-1813	02	22	CaledonianMercury	0001	1813	02	16		0004
 1813	02	20	CaledonianMercury	0004	1813	02	17	AberdeenJournal	0002
 1813	02	19	LiverpoolMercury	0002	1813	02	17	AberdeenJournal	0003
 1813	02	20	CaledonianMercury	0002	1813	02	17	MorningChronicle	0002
-1813	02	23		0004	1813	02	17	MorningChronicle	0002
+1813	02	23	HullPacket	0004	1813	02	17	MorningChronicle	0002
 1813	02	18	CaledonianMercury	0004	1813	02	17	MorningChronicle	0003
 1813	02	26	LiverpoolMercury	0007	1813	02	17	MorningChronicle	0003
 1813	02	20	CaledonianMercury	0002	1813	02	17	TheTimes	0003
@@ -184,19 +184,19 @@
 1813	03	07	Examiner	0014	1813	02	20	Cobbet'sWeeklyPoliticalRegister	0012
 1813	03	07	Examiner	0015	1813	02	20	Cobbet'sWeeklyPoliticalRegister	0013
 1813	02	22	CaledonianMercury	0003	1813	02	20	MorningChronicle	0003
-1813	02	23		0004	1813	02	22	CaledonianMercury	0001
+1813	02	23	HullPacket	0004	1813	02	22	CaledonianMercury	0001
 1813	03	03	AberdeenJournal	0004	1813	02	22	CaledonianMercury	0001
 1813	02	25	Trewman'sExeterFlyingPost	0002	1813	02	22	CaledonianMercury	0002
 1813	02	26	LiverpoolMercury	0006	1813	02	22	MorningChronicle	0002
 1813	02	28	Examiner	0003	1813	02	22	MorningChronicle	0002
-1813	03	02		0004	1813	02	22	MorningChronicle	0002
+1813	03	02	HullPacket	0004	1813	02	22	MorningChronicle	0002
 1813	02	27	IpswichJournal	0004	1813	02	22	MorningChronicle	0003
-1813	03	02		0004	1813	02	22	TheTimes	0002
-1813	03	05	LiverpoolMercury	0004	1813	02	23		0001
-1813	03	06	LeedsMercury	0004	1813	02	23		0001
-1813	03	08	CaledonianMercury	0001	1813	02	23		0001
-1813	03	10	AberdeenJournal	0004	1813	02	23		0001
-1813	03	12	LiverpoolMercury	0004	1813	02	23		0001
+1813	03	02	HullPacket	0004	1813	02	22	TheTimes	0002
+1813	03	05	LiverpoolMercury	0004	1813	02	23	HullPacket	0001
+1813	03	06	LeedsMercury	0004	1813	02	23	HullPacket	0001
+1813	03	08	CaledonianMercury	0001	1813	02	23	HullPacket	0001
+1813	03	10	AberdeenJournal	0004	1813	02	23	HullPacket	0001
+1813	03	12	LiverpoolMercury	0004	1813	02	23	HullPacket	0001
 1813	03	05	LiverpoolMercury	0005	1813	02	24	AberdeenJournal	0004
 1813	03	05	LiverpoolMercury	0002	1813	02	24	MorningChronicle	0002
 1813	02	24	TheTimes	0004	1813	02	24	MorningChronicle	0003
@@ -207,7 +207,7 @@
 1813	02	25	DerbyMercury	0002	1813	02	25	CaledonianMercury	0002
 1813	02	27	Cobbet'sWeeklyPoliticalRegister	0013	1813	02	25	CaledonianMercury	0002
 1813	02	28	Examiner	0003	1813	02	25	CaledonianMercury	0002
-1813	03	02		0004	1813	02	25	CaledonianMercury	0002
+1813	03	02	HullPacket	0004	1813	02	25	CaledonianMercury	0002
 1813	03	03	AberdeenJournal	0004	1813	02	25	CaledonianMercury	0002
 1813	03	17	AberdeenJournal	0004	1813	02	25	CaledonianMercury	0004
 1813	02	25	TheTimes	0002	1813	02	25	MorningChronicle	0002
@@ -219,20 +219,20 @@
 1813	02	27	CaledonianMercury	0002	1813	02	25	TheTimes	0002
 1813	02	27	IpswichJournal	0002	1813	02	25	TheTimes	0002
 1813	03	05	LiverpoolMercury	0003	1813	02	25	TheTimes	0002
-1813	03	02		0004	1813	02	26	LiverpoolMercury	0006
+1813	03	02	HullPacket	0004	1813	02	26	LiverpoolMercury	0006
 1813	03	03	AberdeenJournal	0004	1813	02	26	LiverpoolMercury	0006
 1813	03	06	LeedsMercury	0001	1813	02	26	MorningChronicle	0001
 1813	03	05	LiverpoolMercury	0002	1813	02	26	MorningChronicle	0002
 1813	03	06	LeedsMercury	0001	1813	02	26	MorningChronicle	0002
 1813	03	05	LiverpoolMercury	0003	1813	02	26	MorningChronicle	0003
 1813	03	06	LeedsMercury	0002	1813	02	26	MorningChronicle	0003
-1813	03	02		0003	1813	02	26	TheTimes	0004
+1813	03	02	HullPacket	0003	1813	02	26	TheTimes	0004
 1813	03	04	DerbyMercury	0003	1813	02	26	TheTimes	0004
 1813	03	04	Trewman'sExeterFlyingPost	0001	1813	02	26	TheTimes	0004
 1813	02	27	IpswichJournal	0002	1813	02	27	CaledonianMercury	0002
 1813	03	01	HampshirePortsmouthTelegraph	0002	1813	02	27	CaledonianMercury	0002
-1813	03	02		0001	1813	02	27	CaledonianMercury	0002
-1813	03	09		0004	1813	02	27	CaledonianMercury	0002
+1813	03	02	HullPacket	0001	1813	02	27	CaledonianMercury	0002
+1813	03	09	HullPacket	0004	1813	02	27	CaledonianMercury	0002
 1813	03	03	MorningChronicle	0004	1813	02	27	CaledonianMercury	0003
 1813	03	01	CaledonianMercury	0002	1813	02	27	Cobbet'sWeeklyPoliticalRegister	0015
 1813	03	01	CaledonianMercury	0003	1813	02	27	IpswichJournal	0002
@@ -248,4 +248,4 @@
 1813	03	01	MorningChronicle	0003	1813	02	27	TheTimes	0004
 1813	03	04	CaledonianMercury	0004	1813	02	27	TheTimes	0004
 1813	03	04	Trewman'sExeterFlyingPost	0001	1813	02	27	TheTimes	0004
-1813	03	09		0001	1813	02	27	TheTimes	0004
+1813	03	09	HullPacket	0001	1813	02	27	TheTimes	0004

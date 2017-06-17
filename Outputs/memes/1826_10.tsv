@@ -4,14 +4,14 @@
 1826	10	07	Cobbet'sWeeklyPoliticalRegister	0027	1826	10	01	Examiner	0003
 1826	10	07	Cobbet'sWeeklyPoliticalRegister	0028	1826	10	01	Examiner	0003
 1826	10	02	BristolMercury	0001	1826	10	01	Examiner	0005
-1826	10	03		0002	1826	10	01	Examiner	0005
+1826	10	03	HullPacket	0002	1826	10	01	Examiner	0005
 1826	10	11	AberdeenJournal	0004	1826	10	01	Examiner	0008
 1826	10	06	LiverpoolMercury	0002	1826	10	01	Examiner	0009
 1826	10	02	GlasgowHerald	0002	1826	10	01	Examiner	0010
 1826	10	01	MorningChronicle	0004	1826	10	01	Examiner	0013
-1826	10	03		0001	1826	10	01	Examiner	0013
-1826	10	03		0002	1826	10	01	Examiner	0013
-1826	10	03		0004	1826	10	01	Examiner	0013
+1826	10	03	HullPacket	0001	1826	10	01	Examiner	0013
+1826	10	03	HullPacket	0002	1826	10	01	Examiner	0013
+1826	10	03	HullPacket	0004	1826	10	01	Examiner	0013
 1826	10	04	DerbyMercury	0004	1826	10	01	Examiner	0013
 1826	10	06	GlasgowHerald	0004	1826	10	01	Examiner	0013
 1826	10	06	LiverpoolMercury	0002	1826	10	01	Examiner	0013
@@ -34,12 +34,12 @@
 1826	10	04	AberdeenJournal	0004	1826	10	01	MorningChronicle	0003
 1826	10	05	CaledonianMercury	0002	1826	10	01	MorningChronicle	0003
 1826	10	07	IpswichJournal	0004	1826	10	01	MorningChronicle	0003
-1826	10	10		0001	1826	10	01	MorningChronicle	0003
+1826	10	10	HullPacket	0001	1826	10	01	MorningChronicle	0003
 1826	10	02	CaledonianMercury	0002	1826	10	01	MorningChronicle	0004
 1826	10	02	HampshirePortsmouthTelegraph	0004	1826	10	01	MorningChronicle	0004
 1826	10	02	TheTimes	0002	1826	10	01	MorningChronicle	0004
 1826	10	02	TheTimes	0003	1826	10	01	MorningChronicle	0004
-1826	10	03		0001	1826	10	01	MorningChronicle	0004
+1826	10	03	HullPacket	0001	1826	10	01	MorningChronicle	0004
 1826	10	04	DerbyMercury	0004	1826	10	01	MorningChronicle	0004
 1826	10	06	GlasgowHerald	0004	1826	10	01	MorningChronicle	0004
 1826	10	09	BristolMercury	0002	1826	10	01	MorningChronicle	0004
@@ -66,7 +66,7 @@
 1826	10	05	CaledonianMercury	0004	1826	10	02	HampshirePortsmouthTelegraph	0004
 1826	10	07	IpswichJournal	0004	1826	10	02	HampshirePortsmouthTelegraph	0004
 1826	10	09	BristolMercury	0002	1826	10	02	HampshirePortsmouthTelegraph	0004
-1826	10	10		0001	1826	10	02	HampshirePortsmouthTelegraph	0004
+1826	10	10	HullPacket	0001	1826	10	02	HampshirePortsmouthTelegraph	0004
 1826	10	14	IpswichJournal	0001	1826	10	02	HampshirePortsmouthTelegraph	0004
 1826	10	18	AberdeenJournal	0002	1826	10	02	HampshirePortsmouthTelegraph	0004
 1826	10	05	CaledonianMercury	0002	1826	10	02	TheTimes	0002
@@ -80,6 +80,20 @@
 1826	10	06	MorningChronicle	0001	1826	10	02	TheTimes	0004
 1826	10	11	MorningChronicle	0004	1826	10	02	TheTimes	0004
 1826	10	16	MorningChronicle	0001	1826	10	02	TheTimes	0004
+1826	10	04	DerbyMercury	0004	1826	10	03	HullPacket	0001
+1826	10	06	GlasgowHerald	0004	1826	10	03	HullPacket	0001
+1826	10	07	NewcastleCourant	0003	1826	10	03	HullPacket	0001
+1826	10	20	GlasgowHerald	0002	1826	10	03	HullPacket	0001
+1826	10	06	LiverpoolMercury	0002	1826	10	03	HullPacket	0002
+1826	10	07	IpswichJournal	0004	1826	10	03	HullPacket	0002
+1826	10	07	LeedsMercury	0002	1826	10	03	HullPacket	0002
+1826	10	09	CaledonianMercury	0002	1826	10	03	HullPacket	0002
+1826	10	05	CaledonianMercury	0002	1826	10	03	HullPacket	0004
+1826	10	05	Trewman'sExeterFlyingPost	0003	1826	10	03	HullPacket	0004
+1826	10	06	LiverpoolMercury	0002	1826	10	03	HullPacket	0004
+1826	10	07	IpswichJournal	0004	1826	10	03	HullPacket	0004
+1826	10	09	GlasgowHerald	0004	1826	10	03	HullPacket	0004
+1826	10	09	HampshirePortsmouthTelegraph	0002	1826	10	03	HullPacket	0004
 1826	10	03	TheTimes	0002	1826	10	03	MorningChronicle	0002
 1826	10	06	LiverpoolMercury	0006	1826	10	03	MorningChronicle	0002
 1826	10	09	CaledonianMercury	0002	1826	10	03	MorningChronicle	0002
@@ -98,20 +112,7 @@
 1826	10	08	Examiner	0012	1826	10	03	TheTimes	0003
 1826	10	08	Examiner	0013	1826	10	03	TheTimes	0003
 1826	10	09	CaledonianMercury	0002	1826	10	03	TheTimes	0003
-1826	10	10		0001	1826	10	03	TheTimes	0003
-1826	10	06	GlasgowHerald	0004	1826	10	03		0001
-1826	10	07	NewcastleCourant	0003	1826	10	03		0001
-1826	10	20	GlasgowHerald	0002	1826	10	03		0001
-1826	10	06	LiverpoolMercury	0002	1826	10	03		0002
-1826	10	07	IpswichJournal	0004	1826	10	03		0002
-1826	10	07	LeedsMercury	0002	1826	10	03		0002
-1826	10	09	CaledonianMercury	0002	1826	10	03		0002
-1826	10	05	CaledonianMercury	0002	1826	10	03		0004
-1826	10	05	Trewman'sExeterFlyingPost	0003	1826	10	03		0004
-1826	10	06	LiverpoolMercury	0002	1826	10	03		0004
-1826	10	07	IpswichJournal	0004	1826	10	03		0004
-1826	10	09	GlasgowHerald	0004	1826	10	03		0004
-1826	10	09	HampshirePortsmouthTelegraph	0002	1826	10	03		0004
+1826	10	10	HullPacket	0001	1826	10	03	TheTimes	0003
 1826	10	04	DerbyMercury	0001	1826	10	04	AberdeenJournal	0002
 1826	10	07	IpswichJournal	0001	1826	10	04	AberdeenJournal	0002
 1826	10	14	IpswichJournal	0001	1826	10	04	AberdeenJournal	0002
@@ -131,7 +132,7 @@
 1826	10	07	LeedsMercury	0004	1826	10	04	DerbyMercury	0001
 1826	10	07	NewcastleCourant	0001	1826	10	04	DerbyMercury	0001
 1826	10	07	NewcastleCourant	0003	1826	10	04	DerbyMercury	0001
-1826	10	10		0001	1826	10	04	DerbyMercury	0001
+1826	10	10	HullPacket	0001	1826	10	04	DerbyMercury	0001
 1826	10	13	GlasgowHerald	0001	1826	10	04	DerbyMercury	0001
 1826	10	14	IpswichJournal	0001	1826	10	04	DerbyMercury	0001
 1826	10	14	LeedsMercury	0001	1826	10	04	DerbyMercury	0001
@@ -165,7 +166,7 @@
 1826	10	07	LeedsMercury	0003	1826	10	04	TheTimes	0003
 1826	10	08	Examiner	0011	1826	10	04	TheTimes	0003
 1826	10	09	HampshirePortsmouthTelegraph	0003	1826	10	04	TheTimes	0003
-1826	10	10		0001	1826	10	04	TheTimes	0003
+1826	10	10	HullPacket	0001	1826	10	04	TheTimes	0003
 1826	10	13	LiverpoolMercury	0002	1826	10	04	TheTimes	0003
 1826	10	08	Examiner	0012	1826	10	04	TheTimes	0004
 1826	10	08	Examiner	0013	1826	10	04	TheTimes	0004
@@ -175,10 +176,10 @@
 1826	10	06	GlasgowHerald	0004	1826	10	05	CaledonianMercury	0003
 1826	10	11	AberdeenJournal	0001	1826	10	05	CaledonianMercury	0003
 1826	10	11	AberdeenJournal	0004	1826	10	05	CaledonianMercury	0003
-1826	10	17		0003	1826	10	05	CaledonianMercury	0003
+1826	10	17	HullPacket	0003	1826	10	05	CaledonianMercury	0003
 1826	10	18	AberdeenJournal	0004	1826	10	05	CaledonianMercury	0003
 1826	10	13	TheTimes	0002	1826	10	05	CaledonianMercury	0004
-1826	10	10		0001	1826	10	05	MorningChronicle	0001
+1826	10	10	HullPacket	0001	1826	10	05	MorningChronicle	0001
 1826	10	13	LiverpoolMercury	0002	1826	10	05	MorningChronicle	0001
 1826	10	05	TheTimes	0002	1826	10	05	MorningChronicle	0002
 1826	10	06	LiverpoolMercury	0002	1826	10	05	MorningChronicle	0002
@@ -187,7 +188,7 @@
 1826	10	07	NewcastleCourant	0004	1826	10	05	MorningChronicle	0002
 1826	10	08	Examiner	0012	1826	10	05	MorningChronicle	0002
 1826	10	09	BristolMercury	0001	1826	10	05	MorningChronicle	0002
-1826	10	10		0001	1826	10	05	MorningChronicle	0002
+1826	10	10	HullPacket	0001	1826	10	05	MorningChronicle	0002
 1826	10	13	LiverpoolMercury	0002	1826	10	05	MorningChronicle	0002
 1826	10	05	TheTimes	0002	1826	10	05	MorningChronicle	0003
 1826	10	05	TheTimes	0003	1826	10	05	MorningChronicle	0003
@@ -234,7 +235,7 @@
 1826	10	09	TheTimes	0002	1826	10	06	LiverpoolMercury	0006
 1826	10	12	Trewman'sExeterFlyingPost	0002	1826	10	06	LiverpoolMercury	0006
 1826	10	16	BristolMercury	0004	1826	10	06	LiverpoolMercury	0006
-1826	10	10		0001	1826	10	06	LiverpoolMercury	0007
+1826	10	10	HullPacket	0001	1826	10	06	LiverpoolMercury	0007
 1826	10	06	TheTimes	0002	1826	10	06	MorningChronicle	0001
 1826	10	06	TheTimes	0003	1826	10	06	MorningChronicle	0001
 1826	10	06	TheTimes	0004	1826	10	06	MorningChronicle	0001
@@ -257,7 +258,7 @@
 1826	10	09	CaledonianMercury	0002	1826	10	06	TheTimes	0002
 1826	10	09	HampshirePortsmouthTelegraph	0003	1826	10	06	TheTimes	0002
 1826	10	09	BristolMercury	0001	1826	10	06	TheTimes	0002
-1826	10	10		0002	1826	10	06	TheTimes	0002
+1826	10	10	HullPacket	0002	1826	10	06	TheTimes	0002
 1826	10	11	DerbyMercury	0004	1826	10	06	TheTimes	0002
 1826	10	12	Trewman'sExeterFlyingPost	0002	1826	10	06	TheTimes	0002
 1826	10	14	IpswichJournal	0004	1826	10	06	TheTimes	0002
@@ -296,19 +297,19 @@
 1826	10	13	LiverpoolMercury	0007	1826	10	07	IpswichJournal	0004
 1826	10	21	CaledonianMercury	0004	1826	10	07	IpswichJournal	0004
 1826	10	18	DerbyMercury	0001	1826	10	07	LeedsMercury	0001
-1826	10	10		0001	1826	10	07	LeedsMercury	0002
-1826	10	17		0004	1826	10	07	LeedsMercury	0002
+1826	10	10	HullPacket	0001	1826	10	07	LeedsMercury	0002
+1826	10	17	HullPacket	0004	1826	10	07	LeedsMercury	0002
 1826	10	23	HampshirePortsmouthTelegraph	0002	1826	10	07	LeedsMercury	0002
 1826	10	07	NewcastleCourant	0004	1826	10	07	LeedsMercury	0003
 1826	10	14	IpswichJournal	0001	1826	10	07	LeedsMercury	0003
-1826	10	17		0004	1826	10	07	LeedsMercury	0003
+1826	10	17	HullPacket	0004	1826	10	07	LeedsMercury	0003
 1826	10	13	LiverpoolMercury	0003	1826	10	07	LeedsMercury	0004
 1826	10	20	LiverpoolMercury	0003	1826	10	07	LeedsMercury	0004
 1826	10	27	TheTimes	0004	1826	10	07	LeedsMercury	0004
 1826	10	07	TheTimes	0003	1826	10	07	MorningChronicle	0003
 1826	10	08	Examiner	0014	1826	10	07	MorningChronicle	0003
 1826	10	09	GlasgowHerald	0002	1826	10	07	MorningChronicle	0003
-1826	10	17		0001	1826	10	07	MorningChronicle	0003
+1826	10	17	HullPacket	0001	1826	10	07	MorningChronicle	0003
 1826	10	07	TheTimes	0003	1826	10	07	MorningChronicle	0004
 1826	10	09	HampshirePortsmouthTelegraph	0003	1826	10	07	MorningChronicle	0004
 1826	10	12	Trewman'sExeterFlyingPost	0002	1826	10	07	MorningChronicle	0004
@@ -334,8 +335,8 @@
 1826	10	13	LiverpoolMercury	0006	1826	10	08	Examiner	0012
 1826	10	14	LeedsMercury	0004	1826	10	08	Examiner	0012
 1826	10	20	GlasgowHerald	0004	1826	10	08	Examiner	0012
-1826	10	17		0001	1826	10	08	Examiner	0014
-1826	10	10		0001	1826	10	09	BristolMercury	0001
+1826	10	17	HullPacket	0001	1826	10	08	Examiner	0014
+1826	10	10	HullPacket	0001	1826	10	09	BristolMercury	0001
 1826	10	11	DerbyMercury	0004	1826	10	09	BristolMercury	0001
 1826	10	13	LiverpoolMercury	0003	1826	10	09	BristolMercury	0001
 1826	10	14	IpswichJournal	0001	1826	10	09	BristolMercury	0001
@@ -382,7 +383,7 @@
 1826	10	14	CaledonianMercury	0004	1826	10	09	TheTimes	0002
 1826	10	14	NewcastleCourant	0002	1826	10	09	TheTimes	0002
 1826	10	15	Examiner	0010	1826	10	09	TheTimes	0002
-1826	10	17		0001	1826	10	09	TheTimes	0002
+1826	10	17	HullPacket	0001	1826	10	09	TheTimes	0002
 1826	10	19	CaledonianMercury	0004	1826	10	09	TheTimes	0002
 1826	10	20	GlasgowHerald	0001	1826	10	09	TheTimes	0002
 1826	10	14	IpswichJournal	0004	1826	10	09	TheTimes	0003
@@ -390,6 +391,10 @@
 1826	10	14	IpswichJournal	0003	1826	10	09	TheTimes	0004
 1826	10	24	MorningChronicle	0004	1826	10	09	TheTimes	0004
 1826	10	28	IpswichJournal	0003	1826	10	09	TheTimes	0004
+1826	10	13	LiverpoolMercury	0002	1826	10	10	HullPacket	0001
+1826	10	14	IpswichJournal	0001	1826	10	10	HullPacket	0001
+1826	10	16	BristolMercury	0002	1826	10	10	HullPacket	0001
+1826	10	12	Trewman'sExeterFlyingPost	0001	1826	10	10	HullPacket	0002
 1826	10	11	TheTimes	0004	1826	10	10	MorningChronicle	0001
 1826	10	10	TheTimes	0002	1826	10	10	MorningChronicle	0002
 1826	10	11	TheTimes	0003	1826	10	10	MorningChronicle	0002
@@ -413,13 +418,9 @@
 1826	10	16	CaledonianMercury	0002	1826	10	10	TheTimes	0003
 1826	10	16	HampshirePortsmouthTelegraph	0002	1826	10	10	TheTimes	0003
 1826	10	23	HampshirePortsmouthTelegraph	0002	1826	10	10	TheTimes	0003
-1826	10	24		0004	1826	10	10	TheTimes	0003
+1826	10	24	HullPacket	0004	1826	10	10	TheTimes	0003
 1826	10	27	GlasgowHerald	0001	1826	10	10	TheTimes	0003
 1826	10	29	Examiner	0016	1826	10	10	TheTimes	0004
-1826	10	13	LiverpoolMercury	0002	1826	10	10		0001
-1826	10	14	IpswichJournal	0001	1826	10	10		0001
-1826	10	16	BristolMercury	0002	1826	10	10		0001
-1826	10	12	Trewman'sExeterFlyingPost	0001	1826	10	10		0002
 1826	10	12	CaledonianMercury	0003	1826	10	11	AberdeenJournal	0001
 1826	10	14	LeedsMercury	0002	1826	10	11	AberdeenJournal	0002
 1826	10	16	GlasgowHerald	0004	1826	10	11	AberdeenJournal	0003
@@ -447,7 +448,7 @@
 1826	10	11	TheTimes	0002	1826	10	11	MorningChronicle	0002
 1826	10	11	TheTimes	0002	1826	10	11	MorningChronicle	0003
 1826	10	11	TheTimes	0003	1826	10	11	MorningChronicle	0003
-1826	10	17		0001	1826	10	11	MorningChronicle	0003
+1826	10	17	HullPacket	0001	1826	10	11	MorningChronicle	0003
 1826	10	11	TheTimes	0003	1826	10	11	MorningChronicle	0004
 1826	10	14	CaledonianMercury	0002	1826	10	11	MorningChronicle	0004
 1826	10	15	Examiner	0011	1826	10	11	MorningChronicle	0004
@@ -458,8 +459,8 @@
 1826	10	21	IpswichJournal	0004	1826	10	11	TheTimes	0002
 1826	10	14	IpswichJournal	0004	1826	10	11	TheTimes	0003
 1826	10	15	Examiner	0011	1826	10	11	TheTimes	0003
-1826	10	17		0001	1826	10	11	TheTimes	0003
-1826	10	24		0004	1826	10	11	TheTimes	0003
+1826	10	17	HullPacket	0001	1826	10	11	TheTimes	0003
+1826	10	24	HullPacket	0004	1826	10	11	TheTimes	0003
 1826	10	14	MorningChronicle	0001	1826	10	11	TheTimes	0004
 1826	10	21	MorningChronicle	0001	1826	10	11	TheTimes	0004
 1826	10	31	MorningChronicle	0001	1826	10	11	TheTimes	0004
@@ -471,7 +472,7 @@
 1826	10	18	AberdeenJournal	0004	1826	10	12	CaledonianMercury	0003
 1826	10	13	MorningChronicle	0003	1826	10	12	CaledonianMercury	0004
 1826	10	16	GlasgowHerald	0004	1826	10	12	CaledonianMercury	0004
-1826	10	17		0004	1826	10	12	CaledonianMercury	0004
+1826	10	17	HullPacket	0004	1826	10	12	CaledonianMercury	0004
 1826	10	18	AberdeenJournal	0004	1826	10	12	CaledonianMercury	0004
 1826	10	13	TheTimes	0002	1826	10	12	MorningChronicle	0001
 1826	10	15	Examiner	0015	1826	10	12	MorningChronicle	0001
@@ -486,7 +487,7 @@
 1826	10	15	Examiner	0004	1826	10	12	MorningChronicle	0003
 1826	10	15	Examiner	0012	1826	10	12	MorningChronicle	0003
 1826	10	15	Examiner	0013	1826	10	12	MorningChronicle	0003
-1826	10	17		0002	1826	10	12	MorningChronicle	0003
+1826	10	17	HullPacket	0002	1826	10	12	MorningChronicle	0003
 1826	10	18	DerbyMercury	0004	1826	10	12	MorningChronicle	0003
 1826	10	12	TheTimes	0003	1826	10	12	MorningChronicle	0004
 1826	10	13	TheTimes	0003	1826	10	12	MorningChronicle	0004
@@ -501,7 +502,7 @@
 1826	10	18	DerbyMercury	0002	1826	10	12	TheTimes	0002
 1826	10	20	LiverpoolMercury	0007	1826	10	12	TheTimes	0002
 1826	10	21	IpswichJournal	0004	1826	10	12	TheTimes	0002
-1826	10	31		0004	1826	10	12	TheTimes	0002
+1826	10	31	HullPacket	0004	1826	10	12	TheTimes	0002
 1826	10	15	Examiner	0012	1826	10	12	TheTimes	0003
 1826	10	15	Examiner	0013	1826	10	12	TheTimes	0003
 1826	10	13	GlasgowHerald	0001	1826	10	12	Trewman'sExeterFlyingPost	0001
@@ -514,7 +515,7 @@
 1826	10	13	LiverpoolMercury	0006	1826	10	13	GlasgowHerald	0004
 1826	10	14	CaledonianMercury	0004	1826	10	13	GlasgowHerald	0004
 1826	10	14	NewcastleCourant	0002	1826	10	13	GlasgowHerald	0004
-1826	10	17		0001	1826	10	13	GlasgowHerald	0004
+1826	10	17	HullPacket	0001	1826	10	13	GlasgowHerald	0004
 1826	10	18	AberdeenJournal	0004	1826	10	13	GlasgowHerald	0004
 1826	10	16	GlasgowHerald	0001	1826	10	13	LiverpoolMercury	0001
 1826	10	16	BristolMercury	0002	1826	10	13	LiverpoolMercury	0001
@@ -533,32 +534,32 @@
 1826	10	14	LeedsMercury	0002	1826	10	13	LiverpoolMercury	0006
 1826	10	14	LeedsMercury	0004	1826	10	13	LiverpoolMercury	0006
 1826	10	14	NewcastleCourant	0002	1826	10	13	LiverpoolMercury	0006
-1826	10	17		0001	1826	10	13	LiverpoolMercury	0006
+1826	10	17	HullPacket	0001	1826	10	13	LiverpoolMercury	0006
 1826	10	18	DerbyMercury	0004	1826	10	13	LiverpoolMercury	0006
 1826	10	20	GlasgowHerald	0004	1826	10	13	LiverpoolMercury	0006
-1826	10	31		0004	1826	10	13	LiverpoolMercury	0006
+1826	10	31	HullPacket	0004	1826	10	13	LiverpoolMercury	0006
 1826	10	13	TheTimes	0002	1826	10	13	MorningChronicle	0002
 1826	10	16	GlasgowHerald	0004	1826	10	13	MorningChronicle	0003
 1826	10	16	TheTimes	0004	1826	10	13	MorningChronicle	0003
 1826	10	13	TheTimes	0002	1826	10	13	MorningChronicle	0004
 1826	10	13	TheTimes	0003	1826	10	13	MorningChronicle	0004
 1826	10	15	Examiner	0012	1826	10	13	MorningChronicle	0004
-1826	10	17		0002	1826	10	13	MorningChronicle	0004
+1826	10	17	HullPacket	0002	1826	10	13	MorningChronicle	0004
 1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	13	MorningChronicle	0004
 1826	10	15	Examiner	0009	1826	10	13	TheTimes	0002
 1826	10	15	Examiner	0010	1826	10	13	TheTimes	0002
 1826	10	15	Examiner	0013	1826	10	13	TheTimes	0002
-1826	10	17		0002	1826	10	13	TheTimes	0002
+1826	10	17	HullPacket	0002	1826	10	13	TheTimes	0002
 1826	10	18	DerbyMercury	0002	1826	10	13	TheTimes	0002
 1826	10	20	LiverpoolMercury	0007	1826	10	13	TheTimes	0002
 1826	10	21	LeedsMercury	0004	1826	10	13	TheTimes	0002
 1826	10	23	BristolMercury	0004	1826	10	13	TheTimes	0002
-1826	10	24		0004	1826	10	13	TheTimes	0002
-1826	10	31		0004	1826	10	13	TheTimes	0002
+1826	10	24	HullPacket	0004	1826	10	13	TheTimes	0002
+1826	10	31	HullPacket	0004	1826	10	13	TheTimes	0002
 1826	10	15	Examiner	0010	1826	10	13	TheTimes	0003
 1826	10	15	Examiner	0011	1826	10	13	TheTimes	0003
 1826	10	15	Examiner	0012	1826	10	13	TheTimes	0003
-1826	10	17		0002	1826	10	13	TheTimes	0003
+1826	10	17	HullPacket	0002	1826	10	13	TheTimes	0003
 1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	13	TheTimes	0003
 1826	10	14	MorningChronicle	0001	1826	10	13	TheTimes	0004
 1826	10	15	Examiner	0004	1826	10	13	TheTimes	0004
@@ -574,7 +575,7 @@
 1826	10	23	GlasgowHerald	0002	1826	10	14	CaledonianMercury	0003
 1826	10	14	NewcastleCourant	0002	1826	10	14	CaledonianMercury	0004
 1826	10	16	GlasgowHerald	0004	1826	10	14	CaledonianMercury	0004
-1826	10	17		0001	1826	10	14	CaledonianMercury	0004
+1826	10	17	HullPacket	0001	1826	10	14	CaledonianMercury	0004
 1826	10	20	LiverpoolMercury	0003	1826	10	14	Cobbet'sWeeklyPoliticalRegister	0030
 1826	10	23	BristolMercury	0004	1826	10	14	Cobbet'sWeeklyPoliticalRegister	0030
 1826	10	30	BristolMercury	0004	1826	10	14	Cobbet'sWeeklyPoliticalRegister	0030
@@ -592,7 +593,7 @@
 1826	10	15	Examiner	0015	1826	10	14	IpswichJournal	0003
 1826	10	18	DerbyMercury	0001	1826	10	14	IpswichJournal	0003
 1826	10	16	CaledonianMercury	0002	1826	10	14	IpswichJournal	0004
-1826	10	24		0004	1826	10	14	IpswichJournal	0004
+1826	10	24	HullPacket	0004	1826	10	14	IpswichJournal	0004
 1826	10	27	GlasgowHerald	0001	1826	10	14	IpswichJournal	0004
 1826	10	18	DerbyMercury	0001	1826	10	14	LeedsMercury	0001
 1826	10	15	Examiner	0003	1826	10	14	LeedsMercury	0002
@@ -600,12 +601,12 @@
 1826	10	16	GlasgowHerald	0004	1826	10	14	LeedsMercury	0002
 1826	10	16	MorningChronicle	0004	1826	10	14	LeedsMercury	0002
 1826	10	16	TheTimes	0002	1826	10	14	LeedsMercury	0002
-1826	10	17		0001	1826	10	14	LeedsMercury	0002
-1826	10	17		0003	1826	10	14	LeedsMercury	0002
+1826	10	17	HullPacket	0001	1826	10	14	LeedsMercury	0002
+1826	10	17	HullPacket	0003	1826	10	14	LeedsMercury	0002
 1826	10	18	DerbyMercury	0004	1826	10	14	LeedsMercury	0002
 1826	10	19	Trewman'sExeterFlyingPost	0003	1826	10	14	LeedsMercury	0002
-1826	10	17		0002	1826	10	14	LeedsMercury	0004
-1826	10	17		0004	1826	10	14	LeedsMercury	0004
+1826	10	17	HullPacket	0002	1826	10	14	LeedsMercury	0004
+1826	10	17	HullPacket	0004	1826	10	14	LeedsMercury	0004
 1826	10	18	AberdeenJournal	0004	1826	10	14	LeedsMercury	0004
 1826	10	18	DerbyMercury	0001	1826	10	14	LeedsMercury	0004
 1826	10	20	GlasgowHerald	0004	1826	10	14	LeedsMercury	0004
@@ -621,7 +622,7 @@
 1826	10	20	GlasgowHerald	0001	1826	10	14	MorningChronicle	0002
 1826	10	14	TheTimes	0002	1826	10	14	MorningChronicle	0003
 1826	10	14	TheTimes	0003	1826	10	14	MorningChronicle	0003
-1826	10	17		0001	1826	10	14	MorningChronicle	0003
+1826	10	17	HullPacket	0001	1826	10	14	MorningChronicle	0003
 1826	10	18	DerbyMercury	0003	1826	10	14	MorningChronicle	0003
 1826	10	19	CaledonianMercury	0002	1826	10	14	MorningChronicle	0003
 1826	10	21	IpswichJournal	0004	1826	10	14	MorningChronicle	0003
@@ -638,8 +639,8 @@
 1826	10	22	Examiner	0011	1826	10	14	TheTimes	0002
 1826	10	23	BristolMercury	0001	1826	10	14	TheTimes	0002
 1826	10	23	BristolMercury	0004	1826	10	14	TheTimes	0002
-1826	10	24		0001	1826	10	14	TheTimes	0002
-1826	10	17		0001	1826	10	14	TheTimes	0003
+1826	10	24	HullPacket	0001	1826	10	14	TheTimes	0002
+1826	10	17	HullPacket	0001	1826	10	14	TheTimes	0003
 1826	10	18	DerbyMercury	0002	1826	10	14	TheTimes	0003
 1826	10	19	CaledonianMercury	0002	1826	10	14	TheTimes	0003
 1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	14	TheTimes	0003
@@ -648,13 +649,13 @@
 1826	10	23	GlasgowHerald	0004	1826	10	14	TheTimes	0003
 1826	10	23	BristolMercury	0004	1826	10	14	TheTimes	0003
 1826	10	30	MorningChronicle	0001	1826	10	14	TheTimes	0004
-1826	10	17		0002	1826	10	15	Examiner	0003
+1826	10	17	HullPacket	0002	1826	10	15	Examiner	0003
 1826	10	20	LiverpoolMercury	0007	1826	10	15	Examiner	0007
 1826	10	21	LeedsMercury	0004	1826	10	15	Examiner	0009
 1826	10	23	BristolMercury	0004	1826	10	15	Examiner	0010
-1826	10	17		0002	1826	10	15	Examiner	0012
+1826	10	17	HullPacket	0002	1826	10	15	Examiner	0012
 1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	15	Examiner	0012
-1826	10	17		0002	1826	10	15	Examiner	0013
+1826	10	17	HullPacket	0002	1826	10	15	Examiner	0013
 1826	10	16	TheTimes	0001	1826	10	15	Examiner	0014
 1826	10	25	MorningChronicle	0001	1826	10	15	Examiner	0014
 1826	10	18	DerbyMercury	0001	1826	10	15	Examiner	0015
@@ -666,7 +667,7 @@
 1826	10	23	GlasgowHerald	0001	1826	10	16	CaledonianMercury	0001
 1826	10	27	GlasgowHerald	0001	1826	10	16	CaledonianMercury	0001
 1826	10	30	GlasgowHerald	0003	1826	10	16	CaledonianMercury	0001
-1826	10	24		0004	1826	10	16	CaledonianMercury	0002
+1826	10	24	HullPacket	0004	1826	10	16	CaledonianMercury	0002
 1826	10	27	GlasgowHerald	0001	1826	10	16	CaledonianMercury	0002
 1826	10	16	GlasgowHerald	0002	1826	10	16	CaledonianMercury	0003
 1826	10	20	LiverpoolMercury	0007	1826	10	16	CaledonianMercury	0003
@@ -679,7 +680,7 @@
 1826	11	04	CaledonianMercury	0003	1826	10	16	GlasgowHerald	0002
 1826	10	18	AberdeenJournal	0004	1826	10	16	GlasgowHerald	0004
 1826	10	28	CaledonianMercury	0001	1826	10	16	GlasgowHerald	0004
-1826	10	17		0001	1826	10	16	HampshirePortsmouthTelegraph	0002
+1826	10	17	HullPacket	0001	1826	10	16	HampshirePortsmouthTelegraph	0002
 1826	10	18	DerbyMercury	0002	1826	10	16	HampshirePortsmouthTelegraph	0002
 1826	10	16	MorningChronicle	0004	1826	10	16	HampshirePortsmouthTelegraph	0004
 1826	10	16	TheTimes	0002	1826	10	16	HampshirePortsmouthTelegraph	0004
@@ -697,13 +698,27 @@
 1826	10	21	IpswichJournal	0004	1826	10	16	TheTimes	0002
 1826	10	21	NewcastleCourant	0002	1826	10	16	TheTimes	0002
 1826	10	23	BristolMercury	0004	1826	10	16	TheTimes	0002
-1826	10	24		0002	1826	10	16	TheTimes	0002
+1826	10	24	HullPacket	0002	1826	10	16	TheTimes	0002
 1826	10	31	MorningChronicle	0002	1826	10	16	TheTimes	0002
 1826	11	01	AberdeenJournal	0002	1826	10	16	TheTimes	0002
 1826	10	23	HampshirePortsmouthTelegraph	0001	1826	10	16	TheTimes	0003
+1826	10	18	DerbyMercury	0002	1826	10	17	HullPacket	0001
+1826	10	18	DerbyMercury	0004	1826	10	17	HullPacket	0001
+1826	10	19	CaledonianMercury	0002	1826	10	17	HullPacket	0001
+1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	17	HullPacket	0001
+1826	10	21	IpswichJournal	0004	1826	10	17	HullPacket	0001
+1826	10	23	GlasgowHerald	0004	1826	10	17	HullPacket	0001
+1826	10	23	BristolMercury	0004	1826	10	17	HullPacket	0001
+1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	17	HullPacket	0002
+1826	10	23	BristolMercury	0004	1826	10	17	HullPacket	0003
+1826	10	18	AberdeenJournal	0004	1826	10	17	HullPacket	0004
+1826	10	21	LeedsMercury	0004	1826	10	17	HullPacket	0004
+1826	10	23	HampshirePortsmouthTelegraph	0002	1826	10	17	HullPacket	0004
 1826	10	17	TheTimes	0002	1826	10	17	MorningChronicle	0004
 1826	10	17	TheTimes	0003	1826	10	17	MorningChronicle	0004
 1826	10	23	BristolMercury	0004	1826	10	17	MorningChronicle	0004
+1826	10	18	DerbyMercury	0002	1826	10	17	TheTimes	0002
+1826	10	18	MorningChronicle	0002	1826	10	17	TheTimes	0002
 1826	10	19	CaledonianMercury	0002	1826	10	17	TheTimes	0002
 1826	10	21	CaledonianMercury	0002	1826	10	17	TheTimes	0002
 1826	10	21	IpswichJournal	0001	1826	10	17	TheTimes	0002
@@ -711,20 +726,10 @@
 1826	10	21	NewcastleCourant	0004	1826	10	17	TheTimes	0002
 1826	10	23	CaledonianMercury	0002	1826	10	17	TheTimes	0002
 1826	10	23	BristolMercury	0001	1826	10	17	TheTimes	0002
-1826	10	24		0001	1826	10	17	TheTimes	0002
+1826	10	24	HullPacket	0001	1826	10	17	TheTimes	0002
 1826	10	28	IpswichJournal	0004	1826	10	17	TheTimes	0002
 1826	10	21	IpswichJournal	0002	1826	10	17	TheTimes	0003
 1826	10	23	BristolMercury	0004	1826	10	17	TheTimes	0003
-1826	10	19	CaledonianMercury	0002	1826	10	17		0001
-1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	17		0001
-1826	10	21	IpswichJournal	0004	1826	10	17		0001
-1826	10	23	GlasgowHerald	0004	1826	10	17		0001
-1826	10	23	BristolMercury	0004	1826	10	17		0001
-1826	10	19	Trewman'sExeterFlyingPost	0002	1826	10	17		0002
-1826	10	23	BristolMercury	0004	1826	10	17		0003
-1826	10	18	AberdeenJournal	0004	1826	10	17		0004
-1826	10	21	LeedsMercury	0004	1826	10	17		0004
-1826	10	23	HampshirePortsmouthTelegraph	0002	1826	10	17		0004
 1826	10	21	CaledonianMercury	0003	1826	10	18	AberdeenJournal	0003
 1826	10	23	CaledonianMercury	0004	1826	10	18	DerbyMercury	0001
 1826	10	19	CaledonianMercury	0002	1826	10	18	DerbyMercury	0002
@@ -738,7 +743,7 @@
 1826	10	28	NewcastleCourant	0002	1826	10	18	DerbyMercury	0002
 1826	10	19	CaledonianMercury	0002	1826	10	18	DerbyMercury	0003
 1826	10	20	LiverpoolMercury	0007	1826	10	18	DerbyMercury	0003
-1826	10	24		0001	1826	10	18	DerbyMercury	0003
+1826	10	24	HullPacket	0001	1826	10	18	DerbyMercury	0003
 1826	10	19	CaledonianMercury	0002	1826	10	18	DerbyMercury	0004
 1826	10	18	TheTimes	0002	1826	10	18	MorningChronicle	0001
 1826	10	30	CaledonianMercury	0004	1826	10	18	MorningChronicle	0001
@@ -757,7 +762,7 @@
 1826	10	23	CaledonianMercury	0003	1826	10	18	TheTimes	0002
 1826	10	23	BristolMercury	0001	1826	10	18	TheTimes	0002
 1826	10	23	BristolMercury	0004	1826	10	18	TheTimes	0002
-1826	10	24		0001	1826	10	18	TheTimes	0002
+1826	10	24	HullPacket	0001	1826	10	18	TheTimes	0002
 1826	10	28	NewcastleCourant	0002	1826	10	18	TheTimes	0002
 1826	10	30	CaledonianMercury	0004	1826	10	18	TheTimes	0002
 1826	10	19	MorningChronicle	0001	1826	10	18	TheTimes	0004
@@ -771,19 +776,19 @@
 1826	10	28	NewcastleCourant	0002	1826	10	19	CaledonianMercury	0003
 1826	10	20	GlasgowHerald	0001	1826	10	19	CaledonianMercury	0004
 1826	10	20	GlasgowHerald	0004	1826	10	19	CaledonianMercury	0004
-1826	10	24		0004	1826	10	19	CaledonianMercury	0004
+1826	10	24	HullPacket	0004	1826	10	19	CaledonianMercury	0004
 1826	10	21	CaledonianMercury	0002	1826	10	19	MorningChronicle	0001
 1826	10	23	GlasgowHerald	0004	1826	10	19	MorningChronicle	0001
 1826	10	23	BristolMercury	0001	1826	10	19	MorningChronicle	0001
 1826	10	19	TheTimes	0002	1826	10	19	MorningChronicle	0002
 1826	10	20	TheTimes	0004	1826	10	19	MorningChronicle	0002
 1826	10	23	BristolMercury	0001	1826	10	19	MorningChronicle	0002
-1826	10	24		0001	1826	10	19	MorningChronicle	0002
+1826	10	24	HullPacket	0001	1826	10	19	MorningChronicle	0002
 1826	10	19	TheTimes	0003	1826	10	19	MorningChronicle	0003
 1826	10	19	TheTimes	0003	1826	10	19	MorningChronicle	0004
 1826	10	22	Examiner	0014	1826	10	19	TheTimes	0002
 1826	10	23	BristolMercury	0001	1826	10	19	TheTimes	0002
-1826	10	31		0004	1826	10	19	TheTimes	0002
+1826	10	31	HullPacket	0004	1826	10	19	TheTimes	0002
 1826	10	22	Examiner	0009	1826	10	19	TheTimes	0003
 1826	10	23	CaledonianMercury	0002	1826	10	19	TheTimes	0003
 1826	11	02	CaledonianMercury	0004	1826	10	19	TheTimes	0003
@@ -815,32 +820,32 @@
 1826	10	22	Examiner	0011	1826	10	20	LiverpoolMercury	0006
 1826	10	23	BristolMercury	0004	1826	10	20	LiverpoolMercury	0006
 1826	10	30	BristolMercury	0001	1826	10	20	LiverpoolMercury	0006
-1826	10	31		0004	1826	10	20	LiverpoolMercury	0006
+1826	10	31	HullPacket	0004	1826	10	20	LiverpoolMercury	0006
 1826	10	23	BristolMercury	0004	1826	10	20	LiverpoolMercury	0007
 1826	10	23	BristolMercury	0001	1826	10	20	MorningChronicle	0002
 1826	10	20	TheTimes	0002	1826	10	20	MorningChronicle	0004
 1826	10	20	TheTimes	0003	1826	10	20	MorningChronicle	0004
 1826	10	21	CaledonianMercury	0003	1826	10	20	MorningChronicle	0004
-1826	10	31		0001	1826	10	20	MorningChronicle	0004
+1826	10	31	HullPacket	0001	1826	10	20	MorningChronicle	0004
 1826	10	23	BristolMercury	0004	1826	10	20	TheTimes	0002
-1826	10	24		0001	1826	10	20	TheTimes	0002
+1826	10	24	HullPacket	0001	1826	10	20	TheTimes	0002
 1826	10	27	LiverpoolMercury	0002	1826	10	20	TheTimes	0002
 1826	10	30	BristolMercury	0004	1826	10	20	TheTimes	0002
-1826	10	31		0004	1826	10	20	TheTimes	0002
+1826	10	31	HullPacket	0004	1826	10	20	TheTimes	0002
 1826	10	22	Examiner	0012	1826	10	20	TheTimes	0003
-1826	10	31		0001	1826	10	20	TheTimes	0003
+1826	10	31	HullPacket	0001	1826	10	20	TheTimes	0003
 1826	10	21	MorningChronicle	0001	1826	10	20	TheTimes	0004
 1826	10	21	MorningChronicle	0003	1826	10	20	TheTimes	0004
 1826	10	23	GlasgowHerald	0002	1826	10	20	TheTimes	0004
 1826	10	23	HampshirePortsmouthTelegraph	0002	1826	10	20	TheTimes	0004
-1826	10	24		0001	1826	10	20	TheTimes	0004
+1826	10	24	HullPacket	0001	1826	10	20	TheTimes	0004
 1826	10	25	DerbyMercury	0001	1826	10	20	TheTimes	0004
 1826	10	28	IpswichJournal	0001	1826	10	20	TheTimes	0004
 1826	10	28	NewcastleCourant	0002	1826	10	20	TheTimes	0004
 1826	10	31	MorningChronicle	0001	1826	10	20	TheTimes	0004
 1826	10	23	GlasgowHerald	0004	1826	10	21	CaledonianMercury	0002
 1826	10	23	BristolMercury	0001	1826	10	21	CaledonianMercury	0002
-1826	10	24		0001	1826	10	21	CaledonianMercury	0002
+1826	10	24	HullPacket	0001	1826	10	21	CaledonianMercury	0002
 1826	10	23	GlasgowHerald	0002	1826	10	21	CaledonianMercury	0003
 1826	10	23	GlasgowHerald	0004	1826	10	21	CaledonianMercury	0003
 1826	11	06	GlasgowHerald	0002	1826	10	21	CaledonianMercury	0003
@@ -852,9 +857,9 @@
 1826	10	23	GlasgowHerald	0004	1826	10	21	IpswichJournal	0004
 1826	10	23	BristolMercury	0004	1826	10	21	IpswichJournal	0004
 1826	10	25	AberdeenJournal	0002	1826	10	21	IpswichJournal	0004
-1826	10	31		0004	1826	10	21	IpswichJournal	0004
+1826	10	31	HullPacket	0004	1826	10	21	IpswichJournal	0004
 1826	10	23	BristolMercury	0004	1826	10	21	LeedsMercury	0004
-1826	10	24		0004	1826	10	21	LeedsMercury	0004
+1826	10	24	HullPacket	0004	1826	10	21	LeedsMercury	0004
 1826	10	30	BristolMercury	0004	1826	10	21	LeedsMercury	0004
 1826	11	11	NewcastleCourant	0003	1826	10	21	LeedsMercury	0004
 1826	10	21	TheTimes	0002	1826	10	21	MorningChronicle	0003
@@ -883,17 +888,17 @@
 1826	11	11	IpswichJournal	0001	1826	10	21	TheTimes	0004
 1826	10	23	CaledonianMercury	0002	1826	10	22	Examiner	0009
 1826	10	23	BristolMercury	0002	1826	10	22	Examiner	0010
-1826	10	24		0002	1826	10	22	Examiner	0010
+1826	10	24	HullPacket	0002	1826	10	22	Examiner	0010
 1826	10	30	MorningChronicle	0001	1826	10	22	Examiner	0010
 1826	10	31	TheTimes	0001	1826	10	22	Examiner	0010
 1826	10	23	BristolMercury	0004	1826	10	22	Examiner	0011
-1826	10	31		0004	1826	10	22	Examiner	0014
+1826	10	31	HullPacket	0004	1826	10	22	Examiner	0014
 1826	10	26	CaledonianMercury	0001	1826	10	22	Examiner	0016
 1826	10	27	GlasgowHerald	0001	1826	10	22	Examiner	0016
 1826	10	27	MorningChronicle	0001	1826	10	22	Examiner	0016
 1826	10	30	MorningChronicle	0001	1826	10	22	Examiner	0016
 1826	10	31	TheTimes	0001	1826	10	22	Examiner	0016
-1826	10	24		0001	1826	10	23	BristolMercury	0001
+1826	10	24	HullPacket	0001	1826	10	23	BristolMercury	0001
 1826	11	01	DerbyMercury	0004	1826	10	23	BristolMercury	0001
 1826	10	23	TheTimes	0003	1826	10	23	BristolMercury	0002
 1826	10	27	LiverpoolMercury	0006	1826	10	23	BristolMercury	0002
@@ -912,7 +917,7 @@
 1826	11	11	LeedsMercury	0004	1826	10	23	BristolMercury	0004
 1826	10	28	NewcastleCourant	0001	1826	10	23	CaledonianMercury	0001
 1826	11	03	GlasgowHerald	0001	1826	10	23	CaledonianMercury	0001
-1826	10	24		0001	1826	10	23	CaledonianMercury	0002
+1826	10	24	HullPacket	0001	1826	10	23	CaledonianMercury	0002
 1826	10	28	IpswichJournal	0004	1826	10	23	CaledonianMercury	0002
 1826	10	25	AberdeenJournal	0002	1826	10	23	CaledonianMercury	0003
 1826	10	27	GlasgowHerald	0001	1826	10	23	CaledonianMercury	0003
@@ -955,6 +960,10 @@
 1826	10	28	NewcastleCourant	0002	1826	10	23	TheTimes	0003
 1826	10	30	MorningChronicle	0004	1826	10	23	TheTimes	0003
 1826	11	02	CaledonianMercury	0004	1826	10	23	TheTimes	0003
+1826	10	25	AberdeenJournal	0002	1826	10	24	HullPacket	0001
+1826	10	28	IpswichJournal	0004	1826	10	24	HullPacket	0001
+1826	11	01	AberdeenJournal	0002	1826	10	24	HullPacket	0002
+1826	10	27	GlasgowHerald	0001	1826	10	24	HullPacket	0004
 1826	10	24	TheTimes	0002	1826	10	24	MorningChronicle	0001
 1826	10	25	TheTimes	0002	1826	10	24	MorningChronicle	0001
 1826	10	29	Examiner	0002	1826	10	24	MorningChronicle	0001
@@ -983,6 +992,7 @@
 1826	10	30	HampshirePortsmouthTelegraph	0001	1826	10	24	MorningChronicle	0004
 1826	10	30	BristolMercury	0004	1826	10	24	MorningChronicle	0004
 1826	11	09	Trewman'sExeterFlyingPost	0001	1826	10	24	TheTimes	0001
+1826	10	25	MorningChronicle	0002	1826	10	24	TheTimes	0002
 1826	10	26	CaledonianMercury	0002	1826	10	24	TheTimes	0002
 1826	10	29	Examiner	0002	1826	10	24	TheTimes	0002
 1826	10	29	Examiner	0003	1826	10	24	TheTimes	0002
@@ -995,10 +1005,6 @@
 1826	10	29	Examiner	0010	1826	10	24	TheTimes	0003
 1826	10	30	BristolMercury	0001	1826	10	24	TheTimes	0003
 1826	11	03	GlasgowHerald	0004	1826	10	24	TheTimes	0003
-1826	10	25	AberdeenJournal	0002	1826	10	24		0001
-1826	10	28	IpswichJournal	0004	1826	10	24		0001
-1826	11	01	AberdeenJournal	0002	1826	10	24		0002
-1826	10	27	GlasgowHerald	0001	1826	10	24		0004
 1826	10	28	CaledonianMercury	0003	1826	10	25	AberdeenJournal	0003
 1826	10	28	IpswichJournal	0001	1826	10	25	DerbyMercury	0001
 1826	10	28	NewcastleCourant	0002	1826	10	25	DerbyMercury	0001
@@ -1028,7 +1034,7 @@
 1826	10	29	Examiner	0002	1826	10	25	TheTimes	0002
 1826	10	30	GlasgowHerald	0001	1826	10	25	TheTimes	0002
 1826	10	30	GlasgowHerald	0004	1826	10	25	TheTimes	0002
-1826	10	31		0004	1826	10	25	TheTimes	0002
+1826	10	31	HullPacket	0004	1826	10	25	TheTimes	0002
 1826	10	26	MorningChronicle	0004	1826	10	25	TheTimes	0003
 1826	10	28	CaledonianMercury	0002	1826	10	25	TheTimes	0003
 1826	10	29	Examiner	0006	1826	10	25	TheTimes	0003
@@ -1099,17 +1105,17 @@
 1826	10	29	Examiner	0010	1826	10	27	MorningChronicle	0004
 1826	10	29	Examiner	0013	1826	10	27	MorningChronicle	0004
 1826	10	30	CaledonianMercury	0002	1826	10	27	MorningChronicle	0004
-1826	10	31		0001	1826	10	27	MorningChronicle	0004
+1826	10	31	HullPacket	0001	1826	10	27	MorningChronicle	0004
 1826	10	28	IpswichJournal	0002	1826	10	27	TheTimes	0002
 1826	10	28	MorningChronicle	0001	1826	10	27	TheTimes	0002
 1826	10	28	MorningChronicle	0002	1826	10	27	TheTimes	0002
 1826	10	30	GlasgowHerald	0002	1826	10	27	TheTimes	0002
 1826	10	30	BristolMercury	0002	1826	10	27	TheTimes	0002
-1826	10	31		0001	1826	10	27	TheTimes	0002
+1826	10	31	HullPacket	0001	1826	10	27	TheTimes	0002
 1826	11	01	DerbyMercury	0004	1826	10	27	TheTimes	0002
 1826	11	11	Cobbet'sWeeklyPoliticalRegister	0023	1826	10	27	TheTimes	0002
 1826	10	30	BristolMercury	0001	1826	10	27	TheTimes	0003
-1826	10	31		0001	1826	10	27	TheTimes	0003
+1826	10	31	HullPacket	0001	1826	10	27	TheTimes	0003
 1826	10	29	Examiner	0006	1826	10	28	CaledonianMercury	0002
 1826	10	30	GlasgowHerald	0004	1826	10	28	CaledonianMercury	0002
 1826	11	01	AberdeenJournal	0003	1826	10	28	CaledonianMercury	0002
@@ -1207,14 +1213,14 @@
 1826	11	09	Trewman'sExeterFlyingPost	0003	1826	10	30	BristolMercury	0004
 1826	11	11	LeedsMercury	0004	1826	10	30	BristolMercury	0004
 1826	11	12	Examiner	0011	1826	10	30	BristolMercury	0004
-1826	11	14		0004	1826	10	30	BristolMercury	0004
+1826	11	14	HullPacket	0004	1826	10	30	BristolMercury	0004
 1826	11	03	GlasgowHerald	0001	1826	10	30	CaledonianMercury	0001
 1826	11	17	GlasgowHerald	0001	1826	10	30	CaledonianMercury	0001
 1826	11	03	GlasgowHerald	0001	1826	10	30	CaledonianMercury	0002
 1826	11	04	NewcastleCourant	0002	1826	10	30	CaledonianMercury	0002
 1826	11	06	GlasgowHerald	0001	1826	10	30	CaledonianMercury	0002
 1826	11	06	GlasgowHerald	0004	1826	10	30	CaledonianMercury	0002
-1826	11	07		0002	1826	10	30	CaledonianMercury	0002
+1826	11	07	HullPacket	0002	1826	10	30	CaledonianMercury	0002
 1826	10	30	GlasgowHerald	0004	1826	10	30	CaledonianMercury	0003
 1826	11	03	GlasgowHerald	0001	1826	10	30	CaledonianMercury	0003
 1826	11	08	AberdeenJournal	0004	1826	10	30	CaledonianMercury	0003
@@ -1223,7 +1229,7 @@
 1826	11	03	MorningChronicle	0003	1826	10	30	GlasgowHerald	0002
 1826	11	11	LeedsMercury	0002	1826	10	30	GlasgowHerald	0002
 1826	11	11	NewcastleCourant	0002	1826	10	30	GlasgowHerald	0002
-1826	11	14		0001	1826	10	30	GlasgowHerald	0002
+1826	11	14	HullPacket	0001	1826	10	30	GlasgowHerald	0002
 1826	11	14	TheTimes	0004	1826	10	30	GlasgowHerald	0002
 1826	11	02	CaledonianMercury	0001	1826	10	30	GlasgowHerald	0003
 1826	10	31	MorningChronicle	0004	1826	10	30	GlasgowHerald	0004
@@ -1252,7 +1258,7 @@
 1826	11	06	GlasgowHerald	0001	1826	10	30	MorningChronicle	0002
 1826	11	06	BristolMercury	0001	1826	10	30	MorningChronicle	0002
 1826	11	13	GlasgowHerald	0004	1826	10	30	MorningChronicle	0002
-1826	11	14		0004	1826	10	30	MorningChronicle	0002
+1826	11	14	HullPacket	0004	1826	10	30	MorningChronicle	0002
 1826	10	30	TheTimes	0002	1826	10	30	MorningChronicle	0003
 1826	11	02	CaledonianMercury	0002	1826	10	30	MorningChronicle	0003
 1826	11	05	Examiner	0004	1826	10	30	MorningChronicle	0003
@@ -1263,7 +1269,7 @@
 1826	11	04	NewcastleCourant	0002	1826	10	30	MorningChronicle	0004
 1826	11	06	GlasgowHerald	0004	1826	10	30	MorningChronicle	0004
 1826	11	06	BristolMercury	0001	1826	10	30	MorningChronicle	0004
-1826	11	07		0001	1826	10	30	MorningChronicle	0004
+1826	11	07	HullPacket	0001	1826	10	30	MorningChronicle	0004
 1826	10	31	MorningChronicle	0002	1826	10	30	TheTimes	0002
 1826	10	31	MorningChronicle	0003	1826	10	30	TheTimes	0002
 1826	11	01	MorningChronicle	0001	1826	10	30	TheTimes	0002
@@ -1282,7 +1288,8 @@
 1826	11	05	Examiner	0008	1826	10	30	TheTimes	0003
 1826	11	11	CaledonianMercury	0002	1826	10	30	TheTimes	0003
 1826	11	06	BristolMercury	0001	1826	10	30	TheTimes	0004
-1826	11	07		0001	1826	10	30	TheTimes	0004
+1826	11	07	HullPacket	0001	1826	10	30	TheTimes	0004
+1826	11	01	DerbyMercury	0002	1826	10	31	HullPacket	0002
 1826	10	31	TheTimes	0002	1826	10	31	MorningChronicle	0001
 1826	11	01	TheTimes	0004	1826	10	31	MorningChronicle	0001
 1826	11	04	CaledonianMercury	0004	1826	10	31	MorningChronicle	0001
@@ -1292,6 +1299,26 @@
 1826	11	06	BristolMercury	0001	1826	10	31	MorningChronicle	0002
 1826	11	06	BristolMercury	0002	1826	10	31	MorningChronicle	0002
 1826	11	11	LeedsMercury	0002	1826	10	31	MorningChronicle	0002
-1826	11	14		0001	1826	10	31	MorningChronicle	0002
+1826	11	14	HullPacket	0001	1826	10	31	MorningChronicle	0002
 1826	10	31	TheTimes	0002	1826	10	31	MorningChronicle	0003
-1826	11	01	DerbyMercury	0002	1826	10	31		0002
+1826	11	01	DerbyMercury	0002	1826	10	31	MorningChronicle	0003
+1826	11	02	CaledonianMercury	0004	1826	10	31	MorningChronicle	0003
+1826	11	03	LiverpoolMercury	0002	1826	10	31	MorningChronicle	0003
+1826	11	04	LeedsMercury	0002	1826	10	31	MorningChronicle	0003
+1826	11	06	BristolMercury	0001	1826	10	31	MorningChronicle	0003
+1826	11	06	BristolMercury	0004	1826	10	31	MorningChronicle	0003
+1826	11	07	HullPacket	0004	1826	10	31	MorningChronicle	0003
+1826	11	05	Examiner	0011	1826	10	31	MorningChronicle	0004
+1826	11	05	Examiner	0013	1826	10	31	MorningChronicle	0004
+1826	11	11	LeedsMercury	0002	1826	10	31	MorningChronicle	0004
+1826	11	05	Examiner	0015	1826	10	31	TheTimes	0001
+1826	11	01	MorningChronicle	0002	1826	10	31	TheTimes	0002
+1826	11	02	CaledonianMercury	0002	1826	10	31	TheTimes	0002
+1826	11	03	GlasgowHerald	0002	1826	10	31	TheTimes	0002
+1826	11	04	CaledonianMercury	0004	1826	10	31	TheTimes	0002
+1826	11	04	Cobbet'sWeeklyPoliticalRegister	0028	1826	10	31	TheTimes	0002
+1826	11	06	GlasgowHerald	0001	1826	10	31	TheTimes	0002
+1826	11	06	BristolMercury	0001	1826	10	31	TheTimes	0002
+1826	11	21	HullPacket	0001	1826	10	31	TheTimes	0002
+1826	11	06	MorningChronicle	0001	1826	10	31	TheTimes	0004
+1826	11	17	MorningChronicle	0001	1826	10	31	TheTimes	0004

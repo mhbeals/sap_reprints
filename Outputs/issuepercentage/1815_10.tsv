@@ -1,7 +1,9 @@
 1815.10.02_CaledonianMercury	0.014053
 1815.10.02_TheTimes	0.008756
 1815.10.03_MorningChronicle	0.005000
-1815.10.05_CaledonianMercury	0.030977
+1815.10.03_TheTimes	0.004472
+1815.10.05_CaledonianMercury	0.023834
+1815.10.05_DerbyMercury	0.005368
 1815.10.05_TheTimes	0.033100
 1815.10.05_Trewman'sExeterFlyingPost	0.032269
 1815.10.06_LiverpoolMercury	0.031145
@@ -17,9 +19,9 @@
 1815.10.08_Examiner	0.030028
 1815.10.09_CaledonianMercury	0.120676
 1815.10.09_TheTimes	0.021193
+1815.10.10_HullPacket	0.042207
 1815.10.10_MorningChronicle	0.009184
 1815.10.10_TheTimes	0.026698
-1815.10.10_	0.042207
 1815.10.11_TheTimes	0.018480
 1815.10.12_CaledonianMercury	0.127580
 1815.10.12_DerbyMercury	0.005738
@@ -36,9 +38,9 @@
 1815.10.15_Examiner	0.053903
 1815.10.16_CaledonianMercury	0.103361
 1815.10.16_TheTimes	0.013623
+1815.10.17_HullPacket	0.070623
 1815.10.17_MorningChronicle	0.007820
 1815.10.17_TheTimes	0.043673
-1815.10.17_	0.070623
 1815.10.18_MorningChronicle	0.009101
 1815.10.18_TheTimes	0.057086
 1815.10.19_CaledonianMercury	0.066261
@@ -58,11 +60,12 @@
 1815.10.22_Examiner	0.123850
 1815.10.23_CaledonianMercury	0.109406
 1815.10.23_TheTimes	0.022308
+1815.10.24_HullPacket	0.095361
 1815.10.24_MorningChronicle	0.003935
 1815.10.24_TheTimes	0.046401
-1815.10.24_	0.095361
 1815.10.26_CaledonianMercury	0.054443
 1815.10.26_DerbyMercury	0.008024
+1815.10.26_MorningChronicle	0.006872
 1815.10.26_TheTimes	0.023106
 1815.10.26_Trewman'sExeterFlyingPost	0.112705
 1815.10.27_LiverpoolMercury	0.069636
@@ -77,5 +80,5 @@
 1815.10.30_CaledonianMercury	0.092413
 1815.10.30_MorningChronicle	0.020048
 1815.10.30_TheTimes	0.008847
-1815.10.31_TheTimes	0.024427
-1815.10.31_	0.062089
+1815.10.31_HullPacket	0.062089
+1815.10.31_TheTimes	0.017156

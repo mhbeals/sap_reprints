@@ -8,9 +8,9 @@
 1811	08	03	LeedsMercury	0004	1811	08	02	LiverpoolMercury	0006
 1811	08	05	CaledonianMercury	0002	1811	08	02	TheTimes	0002
 1811	08	05	CaledonianMercury	0004	1811	08	03	LeedsMercury	0004
-1811	08	06	_0001	_0001	1811	08	01	CaledonianMercury	0002
-1811	08	06	_0002	_0002	1811	08	03	CaledonianMercury	0004
-1811	08	06	_0004	_0004	1811	08	03	Jackson'sOxfordJournal	0002
+1811	08	06	HullPacket	0001	1811	08	01	CaledonianMercury	0002
+1811	08	06	HullPacket	0002	1811	08	03	CaledonianMercury	0004
+1811	08	06	HullPacket	0004	1811	08	03	Jackson'sOxfordJournal	0002
 1811	08	07	AberdeenJournal	0001	1811	08	01	DerbyMercury	0001
 1811	08	07	AberdeenJournal	0002	1811	08	03	CaledonianMercury	0001
 1811	08	07	AberdeenJournal	0003	1811	08	01	CaledonianMercury	0003
@@ -42,7 +42,7 @@
 1811	08	12	CaledonianMercury	0004	1811	08	06	TheTimes	0003
 1811	08	12	HampshirePortsmouthTelegraph	0001	1811	08	10	IpswichJournal	0004
 1811	08	12	HampshirePortsmouthTelegraph	0004	1811	08	10	CaledonianMercury	0002
-1811	08	13	_0004	_0004	1811	08	05	CaledonianMercury	0003
+1811	08	13	HullPacket	0004	1811	08	05	CaledonianMercury	0003
 1811	08	14	AberdeenJournal	0001	1811	08	10	CaledonianMercury	0004
 1811	08	14	AberdeenJournal	0002	1811	08	10	CaledonianMercury	0002
 1811	08	14	AberdeenJournal	0003	1811	08	08	CaledonianMercury	0002
@@ -64,7 +64,7 @@
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0006	1811	08	15	MorningChronicle	0002
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0007	1811	08	15	MorningChronicle	0002
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0012	1811	08	05	CaledonianMercury	0003
-1811	08	17	Cobbet'sWeeklyPoliticalRegister	0013	1811	08	13	_0004	_0004
+1811	08	17	Cobbet'sWeeklyPoliticalRegister	0013	1811	08	13	HullPacket	0004
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0014	1811	08	05	CaledonianMercury	0003
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0015	1811	08	15	CaledonianMercury	0003
 1811	08	17	Cobbet'sWeeklyPoliticalRegister	0016	1811	08	07	AberdeenJournal	0002
@@ -81,9 +81,9 @@
 1811	08	19	CaledonianMercury	0004	1811	08	08	Trewman'sExeterFlyingPost	0002
 1811	08	19	HampshirePortsmouthTelegraph	0002	1811	08	17	CaledonianMercury	0002
 1811	08	19	HampshirePortsmouthTelegraph	0004	1811	08	15	CaledonianMercury	0002
-1811	08	20	_0001	_0001	1811	08	15	CaledonianMercury	0002
-1811	08	20	_0002	_0002	1811	08	15	CaledonianMercury	0002
-1811	08	20	_0004	_0004	1811	08	08	Trewman'sExeterFlyingPost	0002
+1811	08	20	HullPacket	0001	1811	08	15	CaledonianMercury	0002
+1811	08	20	HullPacket	0002	1811	08	15	CaledonianMercury	0002
+1811	08	20	HullPacket	0004	1811	08	08	Trewman'sExeterFlyingPost	0002
 1811	08	21	AberdeenJournal	0001	1811	08	03	CaledonianMercury	0001
 1811	08	21	AberdeenJournal	0002	1811	08	15	CaledonianMercury	0002
 1811	08	21	AberdeenJournal	0003	1811	08	15	CaledonianMercury	0003
@@ -120,10 +120,10 @@
 1811	08	26	CaledonianMercury	0002	1811	08	23	TheTimes	0002
 1811	08	26	CaledonianMercury	0004	1811	08	17	IpswichJournal	0004
 1811	08	26	HampshirePortsmouthTelegraph	0004	1811	08	24	IpswichJournal	0004
+1811	08	27	HullPacket	0001	1811	08	20	TheTimes	0002
+1811	08	27	HullPacket	0002	1811	08	24	Cobbet'sWeeklyPoliticalRegister	0010
+1811	08	27	HullPacket	0004	1811	08	19	CaledonianMercury	0002
 1811	08	27	MorningChronicle	0003	1811	08	26	CaledonianMercury	0003
-1811	08	27	_0001	_0001	1811	08	20	TheTimes	0002
-1811	08	27	_0002	_0002	1811	08	24	Cobbet'sWeeklyPoliticalRegister	0010
-1811	08	27	_0004	_0004	1811	08	19	CaledonianMercury	0002
 1811	08	28	AberdeenJournal	0001	1811	08	10	CaledonianMercury	0004
 1811	08	28	AberdeenJournal	0002	1811	08	22	CaledonianMercury	0002
 1811	08	28	AberdeenJournal	0003	1811	08	24	CaledonianMercury	0003

@@ -1,11 +1,11 @@
+1819	11	02	HullPacket	0001	1819	11	01	BristolMercury	0001
+1819	11	02	HullPacket	0002	1819	11	01	BristolMercury	0001
 1819	11	02	MorningChronicle	0001	1819	11	01	TheTimes	0001
 1819	11	02	MorningChronicle	0004	1819	11	01	TheTimes	0004
 1819	11	02	TheTimes	0001	1819	11	01	MorningChronicle	0001
 1819	11	02	TheTimes	0002	1819	11	01	MorningChronicle	0001
 1819	11	02	TheTimes	0003	1819	11	01	MorningChronicle	0003
 1819	11	02	TheTimes	0004	1819	11	01	MorningChronicle	0004
-1819	11	02	_0001	_0001	1819	11	01	BristolMercury	0001
-1819	11	02	_0002	_0002	1819	11	01	BristolMercury	0001
 1819	11	03	DerbyMercury	0001	1819	11	02	TheTimes	0002
 1819	11	03	DerbyMercury	0002	1819	11	01	BristolMercury	0001
 1819	11	03	MorningChronicle	0001	1819	11	01	TheTimes	0001
@@ -79,15 +79,15 @@
 1819	11	08	TheTimes	0001	1819	11	06	MorningChronicle	0001
 1819	11	08	TheTimes	0003	1819	11	06	MorningChronicle	0004
 1819	11	08	TheTimes	0004	1819	11	02	MorningChronicle	0004
+1819	11	09	HullPacket	0001	1819	11	02	MorningChronicle	0003
+1819	11	09	HullPacket	0002	1819	11	08	BristolMercury	0001
+1819	11	09	HullPacket	0004	1819	11	03	TheTimes	0003
 1819	11	09	MorningChronicle	0001	1819	11	08	TheTimes	0002
 1819	11	09	MorningChronicle	0003	1819	11	06	IpswichJournal	0004
 1819	11	09	MorningChronicle	0004	1819	11	04	TheTimes	0004
 1819	11	09	TheTimes	0001	1819	11	08	MorningChronicle	0001
 1819	11	09	TheTimes	0002	1819	11	08	MorningChronicle	0002
 1819	11	09	TheTimes	0004	1819	11	03	MorningChronicle	0004
-1819	11	09	_0001	_0001	1819	11	02	MorningChronicle	0003
-1819	11	09	_0002	_0002	1819	11	08	BristolMercury	0001
-1819	11	09	_0004	_0004	1819	11	03	TheTimes	0003
 1819	11	10	DerbyMercury	0001	1819	11	05	TheTimes	0002
 1819	11	10	MorningChronicle	0001	1819	11	06	TheTimes	0004
 1819	11	10	MorningChronicle	0003	1819	11	06	IpswichJournal	0004
@@ -155,6 +155,7 @@
 1819	11	15	TheTimes	0001	1819	11	13	MorningChronicle	0001
 1819	11	15	TheTimes	0002	1819	11	12	LiverpoolMercury	0001
 1819	11	15	TheTimes	0004	1819	11	09	MorningChronicle	0004
+1819	11	16	HullPacket	0002	1819	11	09	TheTimes	0002
 1819	11	16	MorningChronicle	0001	1819	11	09	TheTimes	0004
 1819	11	16	MorningChronicle	0002	1819	11	15	TheTimes	0002
 1819	11	16	MorningChronicle	0003	1819	11	15	TheTimes	0004
@@ -163,7 +164,6 @@
 1819	11	16	TheTimes	0002	1819	11	15	BristolMercury	0001
 1819	11	16	TheTimes	0003	1819	11	11	CaledonianMercury	0003
 1819	11	16	TheTimes	0004	1819	11	13	MorningChronicle	0004
-1819	11	16	_0002	_0002	1819	11	09	TheTimes	0002
 1819	11	17	DerbyMercury	0003	1819	11	11	MorningChronicle	0004
 1819	11	17	DerbyMercury	0004	1819	11	13	Jackson'sOxfordJournal	0004
 1819	11	17	MorningChronicle	0001	1819	11	05	TheTimes	0004
@@ -231,6 +231,10 @@
 1819	11	22	TheTimes	0002	1819	11	18	MorningChronicle	0001
 1819	11	22	TheTimes	0003	1819	11	20	LeedsMercury	0003
 1819	11	22	TheTimes	0004	1819	11	19	MorningChronicle	0004
+1819	11	23	HullPacket	0001	1819	11	20	NewcastleCourant	0002
+1819	11	23	HullPacket	0002	1819	11	20	NewcastleCourant	0004
+1819	11	23	HullPacket	0003	1819	11	20	LeedsMercury	0002
+1819	11	23	HullPacket	0004	1819	11	15	TheTimes	0002
 1819	11	23	MorningChronicle	0001	1819	11	22	TheTimes	0001
 1819	11	23	MorningChronicle	0002	1819	11	13	TheTimes	0004
 1819	11	23	MorningChronicle	0003	1819	11	18	TheTimes	0004
@@ -239,10 +243,6 @@
 1819	11	23	TheTimes	0002	1819	11	18	MorningChronicle	0001
 1819	11	23	TheTimes	0003	1819	11	22	BristolMercury	0003
 1819	11	23	TheTimes	0004	1819	11	22	MorningChronicle	0004
-1819	11	23	_0001	_0001	1819	11	20	NewcastleCourant	0002
-1819	11	23	_0002	_0002	1819	11	20	NewcastleCourant	0004
-1819	11	23	_0003	_0003	1819	11	20	LeedsMercury	0002
-1819	11	23	_0004	_0004	1819	11	15	TheTimes	0002
 1819	11	24	MorningChronicle	0001	1819	11	22	TheTimes	0001
 1819	11	24	MorningChronicle	0004	1819	11	16	TheTimes	0004
 1819	11	25	CaledonianMercury	0004	1819	11	20	MorningChronicle	0003
@@ -276,7 +276,7 @@
 1819	11	27	MorningChronicle	0001	1819	11	22	TheTimes	0001
 1819	11	27	MorningChronicle	0004	1819	11	23	TheTimes	0004
 1819	11	27	NewcastleCourant	0001	1819	11	06	MorningChronicle	0001
-1819	11	27	NewcastleCourant	0002	1819	11	23	_0003	_0003
+1819	11	27	NewcastleCourant	0002	1819	11	23	HullPacket	0003
 1819	11	27	NewcastleCourant	0004	1819	11	24	TheTimes	0001
 1819	11	27	TheTimes	0001	1819	11	25	MorningChronicle	0001
 1819	11	27	TheTimes	0003	1819	11	26	MorningChronicle	0003
@@ -304,6 +304,9 @@
 1819	11	29	TheTimes	0002	1819	11	23	MorningChronicle	0001
 1819	11	29	TheTimes	0003	1819	11	20	MorningChronicle	0003
 1819	11	29	TheTimes	0004	1819	11	23	MorningChronicle	0004
+1819	11	30	HullPacket	0001	1819	11	29	BristolMercury	0002
+1819	11	30	HullPacket	0002	1819	11	24	TheTimes	0001
+1819	11	30	HullPacket	0004	1819	11	25	Trewman'sExeterFlyingPost	0002
 1819	11	30	MorningChronicle	0001	1819	11	29	TheTimes	0002
 1819	11	30	MorningChronicle	0002	1819	11	24	TheTimes	0001
 1819	11	30	MorningChronicle	0003	1819	11	29	TheTimes	0002
@@ -311,6 +314,3 @@
 1819	11	30	TheTimes	0001	1819	11	23	MorningChronicle	0001
 1819	11	30	TheTimes	0002	1819	11	24	MorningChronicle	0003
 1819	11	30	TheTimes	0004	1819	11	19	MorningChronicle	0004
-1819	11	30	_0001	_0001	1819	11	29	BristolMercury	0002
-1819	11	30	_0002	_0002	1819	11	24	TheTimes	0001
-1819	11	30	_0004	_0004	1819	11	25	Trewman'sExeterFlyingPost	0002

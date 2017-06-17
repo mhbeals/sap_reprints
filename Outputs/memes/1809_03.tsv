@@ -3,18 +3,18 @@
 1809	03	04	Jackson'sOxfordJournal	0001	1809	03	01	AberdeenJournal	0002
 1809	03	04	LeedsMercury	0004	1809	03	01	AberdeenJournal	0002
 1809	03	06	CaledonianMercury	0001	1809	03	01	AberdeenJournal	0002
-1809	03	07		0001	1809	03	01	AberdeenJournal	0002
+1809	03	07	HullPacket	0001	1809	03	01	AberdeenJournal	0002
 1809	03	09	DerbyMercury	0001	1809	03	01	AberdeenJournal	0002
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	01	AberdeenJournal	0002
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	01	AberdeenJournal	0002
 1809	03	13	CaledonianMercury	0001	1809	03	01	AberdeenJournal	0002
-1809	03	14		0001	1809	03	01	AberdeenJournal	0002
+1809	03	14	HullPacket	0001	1809	03	01	AberdeenJournal	0002
 1809	03	16	DerbyMercury	0001	1809	03	01	AberdeenJournal	0002
 1809	03	16	Trewman'sExeterFlyingPost	0003	1809	03	01	AberdeenJournal	0002
 1809	03	18	CaledonianMercury	0001	1809	03	01	AberdeenJournal	0002
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	01	AberdeenJournal	0002
 1809	03	20	CaledonianMercury	0001	1809	03	01	AberdeenJournal	0002
-1809	03	21		0001	1809	03	01	AberdeenJournal	0002
+1809	03	21	HullPacket	0001	1809	03	01	AberdeenJournal	0002
 1809	03	02	Trewman'sExeterFlyingPost	0002	1809	03	01	AberdeenJournal	0004
 1809	03	04	CaledonianMercury	0004	1809	03	01	AberdeenJournal	0004
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	01	AberdeenJournal	0004
@@ -33,12 +33,12 @@
 1809	03	16	DerbyMercury	0001	1809	03	02	CaledonianMercury	0001
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	CaledonianMercury	0002
 1809	03	04	LeedsMercury	0002	1809	03	02	CaledonianMercury	0002
-1809	03	07		0004	1809	03	02	CaledonianMercury	0002
+1809	03	07	HullPacket	0004	1809	03	02	CaledonianMercury	0002
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	CaledonianMercury	0003
-1809	03	07		0001	1809	03	02	CaledonianMercury	0003
+1809	03	07	HullPacket	0001	1809	03	02	CaledonianMercury	0003
 1809	03	08	AberdeenJournal	0003	1809	03	02	CaledonianMercury	0003
 1809	03	04	Jackson'sOxfordJournal	0001	1809	03	02	DerbyMercury	0001
-1809	03	07		0001	1809	03	02	DerbyMercury	0001
+1809	03	07	HullPacket	0001	1809	03	02	DerbyMercury	0001
 1809	03	08	AberdeenJournal	0002	1809	03	02	DerbyMercury	0001
 1809	03	15	AberdeenJournal	0002	1809	03	02	DerbyMercury	0001
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	02	DerbyMercury	0001
@@ -46,7 +46,7 @@
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	DerbyMercury	0003
 1809	03	04	Jackson'sOxfordJournal	0002	1809	03	02	DerbyMercury	0004
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	DerbyMercury	0004
-1809	03	07		0002	1809	03	02	DerbyMercury	0004
+1809	03	07	HullPacket	0002	1809	03	02	DerbyMercury	0004
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	02	DerbyMercury	0004
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	02	DerbyMercury	0004
 1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	02	DerbyMercury	0004
@@ -57,7 +57,7 @@
 1809	03	05	Examiner	0014	1809	03	02	MorningChronicle	0003
 1809	03	05	Examiner	0004	1809	03	02	TheTimes	0002
 1809	03	06	CaledonianMercury	0002	1809	03	02	TheTimes	0002
-1809	03	07		0003	1809	03	02	TheTimes	0002
+1809	03	07	HullPacket	0003	1809	03	02	TheTimes	0002
 1809	03	11	LeedsMercury	0004	1809	03	02	TheTimes	0002
 1809	03	04	Jackson'sOxfordJournal	0002	1809	03	02	TheTimes	0003
 1809	03	04	IpswichJournal	0002	1809	03	02	TheTimes	0003
@@ -70,8 +70,8 @@
 1809	03	04	LeedsMercury	0004	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	06	CaledonianMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	06	HampshirePortsmouthTelegraph	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
-1809	03	07		0001	1809	03	02	Trewman'sExeterFlyingPost	0002
-1809	03	07		0002	1809	03	02	Trewman'sExeterFlyingPost	0002
+1809	03	07	HullPacket	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
+1809	03	07	HullPacket	0002	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	08	AberdeenJournal	0002	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	09	DerbyMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	09	DerbyMercury	0004	1809	03	02	Trewman'sExeterFlyingPost	0002
@@ -82,7 +82,7 @@
 1809	03	16	DerbyMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	18	CaledonianMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	02	Trewman'sExeterFlyingPost	0002
-1809	03	21		0001	1809	03	02	Trewman'sExeterFlyingPost	0002
+1809	03	21	HullPacket	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	23	CaledonianMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	23	DerbyMercury	0004	1809	03	02	Trewman'sExeterFlyingPost	0002
 1809	03	04	Jackson'sOxfordJournal	0004	1809	03	02	Trewman'sExeterFlyingPost	0003
@@ -93,7 +93,7 @@
 1809	03	08	AberdeenJournal	0002	1809	03	02	Trewman'sExeterFlyingPost	0003
 1809	03	09	DerbyMercury	0004	1809	03	02	Trewman'sExeterFlyingPost	0003
 1809	03	11	LeedsMercury	0004	1809	03	02	Trewman'sExeterFlyingPost	0003
-1809	03	14		0004	1809	03	02	Trewman'sExeterFlyingPost	0003
+1809	03	14	HullPacket	0004	1809	03	02	Trewman'sExeterFlyingPost	0003
 1809	03	16	DerbyMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0003
 1809	03	18	CaledonianMercury	0001	1809	03	02	Trewman'sExeterFlyingPost	0003
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	02	Trewman'sExeterFlyingPost	0003
@@ -105,18 +105,18 @@
 1809	03	03	TheTimes	0003	1809	03	03	MorningChronicle	0003
 1809	03	05	Examiner	0016	1809	03	03	MorningChronicle	0003
 1809	03	06	CaledonianMercury	0003	1809	03	03	MorningChronicle	0003
-1809	03	07		0003	1809	03	03	MorningChronicle	0003
+1809	03	07	HullPacket	0003	1809	03	03	MorningChronicle	0003
 1809	03	09	DerbyMercury	0001	1809	03	03	TheTimes	0002
 1809	03	05	Examiner	0015	1809	03	03	TheTimes	0003
 1809	03	06	CaledonianMercury	0003	1809	03	03	TheTimes	0003
 1809	03	15	AberdeenJournal	0003	1809	03	03	TheTimes	0003
 1809	03	04	Jackson'sOxfordJournal	0001	1809	03	04	CaledonianMercury	0001
-1809	03	07		0001	1809	03	04	CaledonianMercury	0001
+1809	03	07	HullPacket	0001	1809	03	04	CaledonianMercury	0001
 1809	03	09	DerbyMercury	0001	1809	03	04	CaledonianMercury	0001
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	04	CaledonianMercury	0001
 1809	03	11	IpswichJournal	0001	1809	03	04	CaledonianMercury	0001
 1809	03	13	HampshirePortsmouthTelegraph	0001	1809	03	04	CaledonianMercury	0001
-1809	03	14		0001	1809	03	04	CaledonianMercury	0001
+1809	03	14	HullPacket	0001	1809	03	04	CaledonianMercury	0001
 1809	03	15	AberdeenJournal	0002	1809	03	04	CaledonianMercury	0001
 1809	03	16	DerbyMercury	0001	1809	03	04	CaledonianMercury	0001
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	04	CaledonianMercury	0001
@@ -131,7 +131,7 @@
 1809	03	06	CaledonianMercury	0001	1809	03	04	IpswichJournal	0001
 1809	03	06	CaledonianMercury	0003	1809	03	04	IpswichJournal	0001
 1809	03	06	HampshirePortsmouthTelegraph	0001	1809	03	04	IpswichJournal	0001
-1809	03	07		0001	1809	03	04	IpswichJournal	0001
+1809	03	07	HullPacket	0001	1809	03	04	IpswichJournal	0001
 1809	03	08	AberdeenJournal	0001	1809	03	04	IpswichJournal	0001
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	04	IpswichJournal	0001
 1809	03	16	DerbyMercury	0001	1809	03	04	IpswichJournal	0001
@@ -140,7 +140,7 @@
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	04	IpswichJournal	0002
 1809	03	04	LeedsMercury	0004	1809	03	04	Jackson'sOxfordJournal	0001
 1809	03	06	CaledonianMercury	0001	1809	03	04	Jackson'sOxfordJournal	0001
-1809	03	07		0001	1809	03	04	Jackson'sOxfordJournal	0001
+1809	03	07	HullPacket	0001	1809	03	04	Jackson'sOxfordJournal	0001
 1809	03	09	DerbyMercury	0001	1809	03	04	Jackson'sOxfordJournal	0001
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	04	Jackson'sOxfordJournal	0001
 1809	03	11	CaledonianMercury	0001	1809	03	04	Jackson'sOxfordJournal	0001
@@ -159,7 +159,7 @@
 1809	03	04	IpswichJournal	0001	1809	03	04	Jackson'sOxfordJournal	0004
 1809	03	04	LeedsMercury	0002	1809	03	04	Jackson'sOxfordJournal	0004
 1809	03	06	HampshirePortsmouthTelegraph	0001	1809	03	04	Jackson'sOxfordJournal	0004
-1809	03	07		0001	1809	03	04	Jackson'sOxfordJournal	0004
+1809	03	07	HullPacket	0001	1809	03	04	Jackson'sOxfordJournal	0004
 1809	03	08	AberdeenJournal	0003	1809	03	04	Jackson'sOxfordJournal	0004
 1809	03	09	DerbyMercury	0004	1809	03	04	Jackson'sOxfordJournal	0004
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	04	Jackson'sOxfordJournal	0004
@@ -172,14 +172,14 @@
 1809	03	08	AberdeenJournal	0001	1809	03	04	LeedsMercury	0002
 1809	03	08	AberdeenJournal	0002	1809	03	04	LeedsMercury	0002
 1809	03	06	HampshirePortsmouthTelegraph	0001	1809	03	04	LeedsMercury	0004
-1809	03	07		0001	1809	03	04	LeedsMercury	0004
+1809	03	07	HullPacket	0001	1809	03	04	LeedsMercury	0004
 1809	03	09	DerbyMercury	0001	1809	03	04	LeedsMercury	0004
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	04	LeedsMercury	0004
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	04	LeedsMercury	0004
 1809	03	11	IpswichJournal	0001	1809	03	04	LeedsMercury	0004
 1809	03	11	IpswichJournal	0004	1809	03	04	LeedsMercury	0004
 1809	03	13	CaledonianMercury	0001	1809	03	04	LeedsMercury	0004
-1809	03	14		0001	1809	03	04	LeedsMercury	0004
+1809	03	14	HullPacket	0001	1809	03	04	LeedsMercury	0004
 1809	03	15	AberdeenJournal	0002	1809	03	04	LeedsMercury	0004
 1809	03	16	CaledonianMercury	0001	1809	03	04	LeedsMercury	0004
 1809	03	16	DerbyMercury	0001	1809	03	04	LeedsMercury	0004
@@ -196,7 +196,7 @@
 1809	03	11	LeedsMercury	0004	1809	03	04	TheTimes	0004
 1809	03	06	CaledonianMercury	0002	1809	03	05	Examiner	0003
 1809	03	06	CaledonianMercury	0002	1809	03	05	Examiner	0004
-1809	03	07		0003	1809	03	05	Examiner	0004
+1809	03	07	HullPacket	0003	1809	03	05	Examiner	0004
 1809	03	11	LeedsMercury	0004	1809	03	05	Examiner	0004
 1809	03	06	CaledonianMercury	0002	1809	03	05	Examiner	0005
 1809	03	06	CaledonianMercury	0002	1809	03	05	Examiner	0006
@@ -213,32 +213,32 @@
 1809	03	22	AberdeenJournal	0001	1809	03	06	CaledonianMercury	0001
 1809	03	22	AberdeenJournal	0002	1809	03	06	CaledonianMercury	0001
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	06	CaledonianMercury	0001
-1809	03	07		0003	1809	03	06	CaledonianMercury	0002
+1809	03	07	HullPacket	0003	1809	03	06	CaledonianMercury	0002
 1809	03	08	AberdeenJournal	0004	1809	03	06	CaledonianMercury	0002
 1809	03	11	LeedsMercury	0004	1809	03	06	CaledonianMercury	0002
 1809	03	06	HampshirePortsmouthTelegraph	0001	1809	03	06	CaledonianMercury	0003
-1809	03	07		0003	1809	03	06	CaledonianMercury	0003
+1809	03	07	HullPacket	0003	1809	03	06	CaledonianMercury	0003
 1809	03	08	AberdeenJournal	0001	1809	03	06	CaledonianMercury	0003
 1809	03	08	AberdeenJournal	0003	1809	03	06	CaledonianMercury	0003
 1809	03	08	AberdeenJournal	0004	1809	03	06	CaledonianMercury	0003
-1809	03	07		0001	1809	03	06	CaledonianMercury	0004
-1809	03	07		0004	1809	03	06	CaledonianMercury	0004
+1809	03	07	HullPacket	0001	1809	03	06	CaledonianMercury	0004
+1809	03	07	HullPacket	0004	1809	03	06	CaledonianMercury	0004
 1809	03	08	AberdeenJournal	0004	1809	03	06	CaledonianMercury	0004
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	06	CaledonianMercury	0004
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	06	CaledonianMercury	0004
 1809	03	22	AberdeenJournal	0002	1809	03	06	CaledonianMercury	0004
-1809	03	07		0001	1809	03	06	HampshirePortsmouthTelegraph	0001
+1809	03	07	HullPacket	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	08	AberdeenJournal	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	11	IpswichJournal	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	11	LeedsMercury	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	13	CaledonianMercury	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
-1809	03	14		0001	1809	03	06	HampshirePortsmouthTelegraph	0001
+1809	03	14	HullPacket	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	16	CaledonianMercury	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	16	DerbyMercury	0001	1809	03	06	HampshirePortsmouthTelegraph	0001
 1809	03	16	Trewman'sExeterFlyingPost	0002	1809	03	06	HampshirePortsmouthTelegraph	0001
-1809	03	07		0003	1809	03	06	HampshirePortsmouthTelegraph	0002
+1809	03	07	HullPacket	0003	1809	03	06	HampshirePortsmouthTelegraph	0002
 1809	03	18	Jackson'sOxfordJournal	0002	1809	03	06	HampshirePortsmouthTelegraph	0002
 1809	03	09	CaledonianMercury	0003	1809	03	06	MorningChronicle	0002
 1809	03	09	DerbyMercury	0001	1809	03	06	MorningChronicle	0002
@@ -251,40 +251,39 @@
 1809	03	15	AberdeenJournal	0002	1809	03	06	TheTimes	0002
 1809	03	09	CaledonianMercury	0003	1809	03	06	TheTimes	0003
 1809	03	11	IpswichJournal	0004	1809	03	06	TheTimes	0003
+1809	03	09	DerbyMercury	0001	1809	03	07	HullPacket	0001
+1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	07	HullPacket	0001
+1809	03	11	CaledonianMercury	0001	1809	03	07	HullPacket	0001
+1809	03	11	Jackson'sOxfordJournal	0002	1809	03	07	HullPacket	0001
+1809	03	11	Jackson'sOxfordJournal	0004	1809	03	07	HullPacket	0001
+1809	03	11	IpswichJournal	0001	1809	03	07	HullPacket	0001
+1809	03	13	CaledonianMercury	0001	1809	03	07	HullPacket	0001
+1809	03	13	HampshirePortsmouthTelegraph	0001	1809	03	07	HullPacket	0001
+1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	07	HullPacket	0001
+1809	03	15	AberdeenJournal	0002	1809	03	07	HullPacket	0001
+1809	03	16	CaledonianMercury	0001	1809	03	07	HullPacket	0001
+1809	03	16	DerbyMercury	0001	1809	03	07	HullPacket	0001
+1809	03	18	Jackson'sOxfordJournal	0004	1809	03	07	HullPacket	0001
+1809	03	20	CaledonianMercury	0001	1809	03	07	HullPacket	0001
+1809	03	22	AberdeenJournal	0002	1809	03	07	HullPacket	0001
+1809	03	23	CaledonianMercury	0001	1809	03	07	HullPacket	0001
+1809	03	23	DerbyMercury	0004	1809	03	07	HullPacket	0001
+1809	03	25	Jackson'sOxfordJournal	0004	1809	03	07	HullPacket	0001
+1809	03	09	DerbyMercury	0004	1809	03	07	HullPacket	0002
+1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	07	HullPacket	0002
+1809	03	11	LeedsMercury	0004	1809	03	07	HullPacket	0003
 1809	03	12	Examiner	0001	1809	03	07	MorningChronicle	0002
 1809	03	07	TheTimes	0004	1809	03	07	MorningChronicle	0004
 1809	03	09	CaledonianMercury	0003	1809	03	07	MorningChronicle	0004
 1809	03	15	AberdeenJournal	0003	1809	03	07	MorningChronicle	0004
 1809	03	09	CaledonianMercury	0003	1809	03	07	TheTimes	0004
 1809	03	15	AberdeenJournal	0003	1809	03	07	TheTimes	0004
-1809	03	08	AberdeenJournal	0003	1809	03	07		0001
-1809	03	09	DerbyMercury	0001	1809	03	07		0001
-1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	07		0001
-1809	03	11	CaledonianMercury	0001	1809	03	07		0001
-1809	03	11	Jackson'sOxfordJournal	0002	1809	03	07		0001
-1809	03	11	Jackson'sOxfordJournal	0004	1809	03	07		0001
-1809	03	11	IpswichJournal	0001	1809	03	07		0001
-1809	03	13	CaledonianMercury	0001	1809	03	07		0001
-1809	03	13	HampshirePortsmouthTelegraph	0001	1809	03	07		0001
-1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	07		0001
-1809	03	15	AberdeenJournal	0002	1809	03	07		0001
-1809	03	16	CaledonianMercury	0001	1809	03	07		0001
-1809	03	16	DerbyMercury	0001	1809	03	07		0001
-1809	03	18	Jackson'sOxfordJournal	0004	1809	03	07		0001
-1809	03	20	CaledonianMercury	0001	1809	03	07		0001
-1809	03	22	AberdeenJournal	0002	1809	03	07		0001
-1809	03	23	CaledonianMercury	0001	1809	03	07		0001
-1809	03	23	DerbyMercury	0004	1809	03	07		0001
-1809	03	25	Jackson'sOxfordJournal	0004	1809	03	07		0001
-1809	03	09	DerbyMercury	0004	1809	03	07		0002
-1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	07		0002
-1809	03	11	LeedsMercury	0004	1809	03	07		0003
 1809	03	18	CaledonianMercury	0001	1809	03	08	AberdeenJournal	0001
 1809	03	23	CaledonianMercury	0004	1809	03	08	AberdeenJournal	0001
 1809	03	09	DerbyMercury	0001	1809	03	08	AberdeenJournal	0002
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	08	AberdeenJournal	0002
 1809	03	13	CaledonianMercury	0001	1809	03	08	AberdeenJournal	0002
-1809	03	14		0001	1809	03	08	AberdeenJournal	0002
+1809	03	14	HullPacket	0001	1809	03	08	AberdeenJournal	0002
 1809	03	16	DerbyMercury	0001	1809	03	08	AberdeenJournal	0002
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	08	AberdeenJournal	0002
 1809	03	25	CaledonianMercury	0001	1809	03	08	AberdeenJournal	0002
@@ -293,7 +292,7 @@
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	08	AberdeenJournal	0004
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	08	AberdeenJournal	0004
 1809	03	16	CaledonianMercury	0001	1809	03	08	AberdeenJournal	0004
-1809	03	28		0001	1809	03	08	AberdeenJournal	0004
+1809	03	28	HullPacket	0001	1809	03	08	AberdeenJournal	0004
 1809	03	08	TheTimes	0002	1809	03	08	MorningChronicle	0002
 1809	03	09	DerbyMercury	0003	1809	03	08	MorningChronicle	0002
 1809	03	09	Trewman'sExeterFlyingPost	0004	1809	03	08	MorningChronicle	0002
@@ -301,7 +300,7 @@
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	08	MorningChronicle	0002
 1809	03	12	Examiner	0011	1809	03	08	MorningChronicle	0002
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	08	MorningChronicle	0002
-1809	03	14		0002	1809	03	08	MorningChronicle	0002
+1809	03	14	HullPacket	0002	1809	03	08	MorningChronicle	0002
 1809	03	08	TheTimes	0002	1809	03	08	MorningChronicle	0003
 1809	03	08	TheTimes	0003	1809	03	08	MorningChronicle	0003
 1809	03	11	CaledonianMercury	0003	1809	03	08	MorningChronicle	0003
@@ -313,7 +312,7 @@
 1809	03	11	IpswichJournal	0004	1809	03	08	TheTimes	0002
 1809	03	12	Examiner	0011	1809	03	08	TheTimes	0002
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	08	TheTimes	0002
-1809	03	14		0002	1809	03	08	TheTimes	0002
+1809	03	14	HullPacket	0002	1809	03	08	TheTimes	0002
 1809	03	11	CaledonianMercury	0003	1809	03	08	TheTimes	0003
 1809	03	09	DerbyMercury	0001	1809	03	09	CaledonianMercury	0003
 1809	03	09	DerbyMercury	0002	1809	03	09	CaledonianMercury	0003
@@ -337,14 +336,14 @@
 1809	03	27	HampshirePortsmouthTelegraph	0001	1809	03	09	DerbyMercury	0001
 1809	03	29	AberdeenJournal	0002	1809	03	09	DerbyMercury	0001
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	09	DerbyMercury	0002
-1809	03	14		0001	1809	03	09	DerbyMercury	0002
+1809	03	14	HullPacket	0001	1809	03	09	DerbyMercury	0002
 1809	03	15	AberdeenJournal	0002	1809	03	09	DerbyMercury	0002
 1809	03	15	AberdeenJournal	0003	1809	03	09	DerbyMercury	0002
 1809	03	23	Trewman'sExeterFlyingPost	0001	1809	03	09	DerbyMercury	0002
 1809	03	09	Trewman'sExeterFlyingPost	0004	1809	03	09	DerbyMercury	0003
 1809	03	11	CaledonianMercury	0002	1809	03	09	DerbyMercury	0003
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	09	DerbyMercury	0003
-1809	03	14		0002	1809	03	09	DerbyMercury	0003
+1809	03	14	HullPacket	0002	1809	03	09	DerbyMercury	0003
 1809	03	09	Trewman'sExeterFlyingPost	0002	1809	03	09	DerbyMercury	0004
 1809	03	09	Trewman'sExeterFlyingPost	0003	1809	03	09	DerbyMercury	0004
 1809	03	11	Jackson'sOxfordJournal	0004	1809	03	09	DerbyMercury	0004
@@ -377,7 +376,7 @@
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	09	Trewman'sExeterFlyingPost	0004
 1809	03	12	Examiner	0011	1809	03	09	Trewman'sExeterFlyingPost	0004
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	09	Trewman'sExeterFlyingPost	0004
-1809	03	14		0002	1809	03	09	Trewman'sExeterFlyingPost	0004
+1809	03	14	HullPacket	0002	1809	03	09	Trewman'sExeterFlyingPost	0004
 1809	03	15	AberdeenJournal	0003	1809	03	09	Trewman'sExeterFlyingPost	0004
 1809	03	12	Examiner	0008	1809	03	10	MorningChronicle	0002
 1809	03	12	Examiner	0009	1809	03	10	MorningChronicle	0003
@@ -385,7 +384,7 @@
 1809	03	12	Examiner	0016	1809	03	10	MorningChronicle	0004
 1809	03	13	CaledonianMercury	0004	1809	03	10	MorningChronicle	0004
 1809	03	22	AberdeenJournal	0002	1809	03	10	MorningChronicle	0004
-1809	03	14		0001	1809	03	11	CaledonianMercury	0001
+1809	03	14	HullPacket	0001	1809	03	11	CaledonianMercury	0001
 1809	03	15	AberdeenJournal	0002	1809	03	11	CaledonianMercury	0001
 1809	03	16	DerbyMercury	0001	1809	03	11	CaledonianMercury	0001
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	11	CaledonianMercury	0001
@@ -394,26 +393,26 @@
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	11	CaledonianMercury	0002
 1809	03	12	Examiner	0011	1809	03	11	CaledonianMercury	0002
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	11	CaledonianMercury	0002
-1809	03	14		0002	1809	03	11	CaledonianMercury	0002
+1809	03	14	HullPacket	0002	1809	03	11	CaledonianMercury	0002
 1809	03	15	AberdeenJournal	0002	1809	03	11	CaledonianMercury	0002
 1809	03	11	Jackson'sOxfordJournal	0002	1809	03	11	CaledonianMercury	0003
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	11	CaledonianMercury	0003
-1809	03	14		0002	1809	03	11	CaledonianMercury	0003
+1809	03	14	HullPacket	0002	1809	03	11	CaledonianMercury	0003
 1809	03	15	AberdeenJournal	0002	1809	03	11	CaledonianMercury	0003
 1809	03	15	AberdeenJournal	0003	1809	03	11	CaledonianMercury	0003
 1809	03	13	CaledonianMercury	0001	1809	03	11	IpswichJournal	0001
 1809	03	15	AberdeenJournal	0002	1809	03	11	IpswichJournal	0001
 1809	03	16	CaledonianMercury	0001	1809	03	11	IpswichJournal	0001
 1809	03	13	HampshirePortsmouthTelegraph	0004	1809	03	11	Jackson'sOxfordJournal	0002
-1809	03	14		0001	1809	03	11	Jackson'sOxfordJournal	0002
-1809	03	14		0002	1809	03	11	Jackson'sOxfordJournal	0002
+1809	03	14	HullPacket	0001	1809	03	11	Jackson'sOxfordJournal	0002
+1809	03	14	HullPacket	0002	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	15	AberdeenJournal	0002	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	16	CaledonianMercury	0001	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	16	DerbyMercury	0004	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	22	AberdeenJournal	0002	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	23	DerbyMercury	0001	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	11	Jackson'sOxfordJournal	0002
-1809	03	28		0001	1809	03	11	Jackson'sOxfordJournal	0002
+1809	03	28	HullPacket	0001	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	11	Jackson'sOxfordJournal	0002
 1809	03	11	LeedsMercury	0004	1809	03	11	Jackson'sOxfordJournal	0004
 1809	03	13	CaledonianMercury	0001	1809	03	11	Jackson'sOxfordJournal	0004
@@ -435,14 +434,14 @@
 1809	03	30	DerbyMercury	0004	1809	03	11	LeedsMercury	0004
 1809	03	30	Trewman'sExeterFlyingPost	0003	1809	03	11	LeedsMercury	0004
 1809	03	16	DerbyMercury	0001	1809	03	11	MorningChronicle	0001
-1809	03	14		0004	1809	03	12	Examiner	0001
+1809	03	14	HullPacket	0004	1809	03	12	Examiner	0001
 1809	03	15	AberdeenJournal	0002	1809	03	12	Examiner	0006
 1809	03	16	Trewman'sExeterFlyingPost	0002	1809	03	12	Examiner	0010
-1809	03	14		0002	1809	03	12	Examiner	0011
+1809	03	14	HullPacket	0002	1809	03	12	Examiner	0011
 1809	03	13	CaledonianMercury	0004	1809	03	12	Examiner	0016
 1809	03	18	LeedsMercury	0004	1809	03	12	Examiner	0016
 1809	03	22	AberdeenJournal	0002	1809	03	12	Examiner	0016
-1809	03	14		0001	1809	03	13	CaledonianMercury	0001
+1809	03	14	HullPacket	0001	1809	03	13	CaledonianMercury	0001
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	13	CaledonianMercury	0001
 1809	03	22	AberdeenJournal	0002	1809	03	13	CaledonianMercury	0001
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	13	CaledonianMercury	0001
@@ -450,15 +449,30 @@
 1809	03	16	DerbyMercury	0004	1809	03	13	CaledonianMercury	0003
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	13	HampshirePortsmouthTelegraph	0001
 1809	03	16	CaledonianMercury	0002	1809	03	13	HampshirePortsmouthTelegraph	0003
-1809	03	14		0002	1809	03	13	HampshirePortsmouthTelegraph	0004
+1809	03	14	HullPacket	0002	1809	03	13	HampshirePortsmouthTelegraph	0004
 1809	03	15	AberdeenJournal	0003	1809	03	13	HampshirePortsmouthTelegraph	0004
 1809	03	16	CaledonianMercury	0001	1809	03	13	HampshirePortsmouthTelegraph	0004
 1809	03	22	AberdeenJournal	0002	1809	03	13	HampshirePortsmouthTelegraph	0004
-1809	03	28		0001	1809	03	13	HampshirePortsmouthTelegraph	0004
+1809	03	28	HullPacket	0001	1809	03	13	HampshirePortsmouthTelegraph	0004
 1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	13	HampshirePortsmouthTelegraph	0004
 1809	03	16	CaledonianMercury	0002	1809	03	13	MorningChronicle	0002
 1809	03	16	CaledonianMercury	0002	1809	03	13	TheTimes	0003
 1809	03	16	DerbyMercury	0002	1809	03	13	TheTimes	0003
+1809	03	15	AberdeenJournal	0002	1809	03	14	HullPacket	0001
+1809	03	16	CaledonianMercury	0001	1809	03	14	HullPacket	0001
+1809	03	16	DerbyMercury	0001	1809	03	14	HullPacket	0001
+1809	03	18	CaledonianMercury	0001	1809	03	14	HullPacket	0001
+1809	03	18	Jackson'sOxfordJournal	0004	1809	03	14	HullPacket	0001
+1809	03	18	LeedsMercury	0004	1809	03	14	HullPacket	0001
+1809	03	20	CaledonianMercury	0001	1809	03	14	HullPacket	0001
+1809	03	23	CaledonianMercury	0001	1809	03	14	HullPacket	0001
+1809	03	23	DerbyMercury	0004	1809	03	14	HullPacket	0001
+1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	14	HullPacket	0001
+1809	03	25	CaledonianMercury	0001	1809	03	14	HullPacket	0001
+1809	03	25	Jackson'sOxfordJournal	0004	1809	03	14	HullPacket	0001
+1809	03	29	AberdeenJournal	0002	1809	03	14	HullPacket	0001
+1809	03	16	DerbyMercury	0001	1809	03	14	HullPacket	0002
+1809	03	15	AberdeenJournal	0002	1809	03	14	HullPacket	0003
 1809	03	22	AberdeenJournal	0003	1809	03	14	MorningChronicle	0001
 1809	03	19	Examiner	0008	1809	03	14	MorningChronicle	0004
 1809	03	19	Examiner	0009	1809	03	14	MorningChronicle	0004
@@ -469,21 +483,6 @@
 1809	03	19	Examiner	0008	1809	03	14	TheTimes	0001
 1809	03	23	DerbyMercury	0004	1809	03	14	TheTimes	0001
 1809	03	16	Trewman'sExeterFlyingPost	0004	1809	03	14	TheTimes	0004
-1809	03	15	AberdeenJournal	0002	1809	03	14		0001
-1809	03	16	CaledonianMercury	0001	1809	03	14		0001
-1809	03	16	DerbyMercury	0001	1809	03	14		0001
-1809	03	18	CaledonianMercury	0001	1809	03	14		0001
-1809	03	18	Jackson'sOxfordJournal	0004	1809	03	14		0001
-1809	03	18	LeedsMercury	0004	1809	03	14		0001
-1809	03	20	CaledonianMercury	0001	1809	03	14		0001
-1809	03	23	CaledonianMercury	0001	1809	03	14		0001
-1809	03	23	DerbyMercury	0004	1809	03	14		0001
-1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	14		0001
-1809	03	25	CaledonianMercury	0001	1809	03	14		0001
-1809	03	25	Jackson'sOxfordJournal	0004	1809	03	14		0001
-1809	03	29	AberdeenJournal	0002	1809	03	14		0001
-1809	03	16	DerbyMercury	0001	1809	03	14		0002
-1809	03	15	AberdeenJournal	0002	1809	03	14		0003
 1809	03	23	CaledonianMercury	0004	1809	03	15	AberdeenJournal	0001
 1809	03	16	DerbyMercury	0004	1809	03	15	AberdeenJournal	0002
 1809	03	16	Trewman'sExeterFlyingPost	0003	1809	03	15	AberdeenJournal	0002
@@ -491,13 +490,13 @@
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	15	AberdeenJournal	0002
 1809	03	18	LeedsMercury	0004	1809	03	15	AberdeenJournal	0002
 1809	03	20	CaledonianMercury	0001	1809	03	15	AberdeenJournal	0002
-1809	03	21		0001	1809	03	15	AberdeenJournal	0002
+1809	03	21	HullPacket	0001	1809	03	15	AberdeenJournal	0002
 1809	03	23	CaledonianMercury	0001	1809	03	15	AberdeenJournal	0002
 1809	03	25	CaledonianMercury	0001	1809	03	15	AberdeenJournal	0002
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	15	AberdeenJournal	0002
 1809	03	30	DerbyMercury	0004	1809	03	15	AberdeenJournal	0002
 1809	04	03	CaledonianMercury	0001	1809	03	15	AberdeenJournal	0002
-1809	04	04		0002	1809	03	15	AberdeenJournal	0002
+1809	04	04	HullPacket	0002	1809	03	15	AberdeenJournal	0002
 1809	03	19	Examiner	0010	1809	03	15	MorningChronicle	0002
 1809	03	18	CaledonianMercury	0003	1809	03	15	MorningChronicle	0003
 1809	03	15	TheTimes	0003	1809	03	15	MorningChronicle	0004
@@ -507,13 +506,13 @@
 1809	03	19	Examiner	0004	1809	03	15	TheTimes	0003
 1809	03	19	Examiner	0005	1809	03	15	TheTimes	0003
 1809	03	19	Examiner	0011	1809	03	15	TheTimes	0003
-1809	03	21		0002	1809	03	15	TheTimes	0003
+1809	03	21	HullPacket	0002	1809	03	15	TheTimes	0003
 1809	03	16	DerbyMercury	0001	1809	03	16	CaledonianMercury	0001
 1809	03	18	Jackson'sOxfordJournal	0004	1809	03	16	CaledonianMercury	0001
 1809	03	22	AberdeenJournal	0002	1809	03	16	CaledonianMercury	0001
 1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	16	CaledonianMercury	0001
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	16	CaledonianMercury	0001
-1809	03	28		0001	1809	03	16	CaledonianMercury	0001
+1809	03	28	HullPacket	0001	1809	03	16	CaledonianMercury	0001
 1809	03	29	AberdeenJournal	0002	1809	03	16	CaledonianMercury	0001
 1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	16	CaledonianMercury	0001
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	16	CaledonianMercury	0001
@@ -535,7 +534,7 @@
 1809	03	19	Examiner	0012	1809	03	16	MorningChronicle	0003
 1809	03	18	CaledonianMercury	0003	1809	03	16	MorningChronicle	0004
 1809	03	19	Examiner	0005	1809	03	16	MorningChronicle	0004
-1809	03	21		0002	1809	03	16	MorningChronicle	0004
+1809	03	21	HullPacket	0002	1809	03	16	MorningChronicle	0004
 1809	03	20	CaledonianMercury	0002	1809	03	16	TheTimes	0001
 1809	03	18	Jackson'sOxfordJournal	0001	1809	03	16	Trewman'sExeterFlyingPost	0001
 1809	03	30	DerbyMercury	0002	1809	03	16	Trewman'sExeterFlyingPost	0002
@@ -552,7 +551,7 @@
 1809	03	19	Examiner	0007	1809	03	18	CaledonianMercury	0002
 1809	03	23	DerbyMercury	0004	1809	03	18	CaledonianMercury	0002
 1809	03	18	Jackson'sOxfordJournal	0002	1809	03	18	CaledonianMercury	0003
-1809	03	21		0002	1809	03	18	CaledonianMercury	0003
+1809	03	21	HullPacket	0002	1809	03	18	CaledonianMercury	0003
 1809	03	22	AberdeenJournal	0002	1809	03	18	Jackson'sOxfordJournal	0002
 1809	03	22	AberdeenJournal	0003	1809	03	18	Jackson'sOxfordJournal	0002
 1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	18	Jackson'sOxfordJournal	0002
@@ -563,7 +562,7 @@
 1809	03	23	Trewman'sExeterFlyingPost	0003	1809	03	18	Jackson'sOxfordJournal	0004
 1809	03	25	CaledonianMercury	0001	1809	03	18	Jackson'sOxfordJournal	0004
 1809	03	27	MorningChronicle	0002	1809	03	18	Jackson'sOxfordJournal	0004
-1809	03	28		0001	1809	03	18	Jackson'sOxfordJournal	0004
+1809	03	28	HullPacket	0001	1809	03	18	Jackson'sOxfordJournal	0004
 1809	03	29	AberdeenJournal	0002	1809	03	18	Jackson'sOxfordJournal	0004
 1809	03	30	DerbyMercury	0004	1809	03	18	Jackson'sOxfordJournal	0004
 1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	18	Jackson'sOxfordJournal	0004
@@ -589,10 +588,14 @@
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	20	HampshirePortsmouthTelegraph	0002
 1809	03	23	CaledonianMercury	0003	1809	03	20	MorningChronicle	0002
 1809	03	29	AberdeenJournal	0003	1809	03	20	MorningChronicle	0002
+1809	03	25	Jackson'sOxfordJournal	0004	1809	03	21	HullPacket	0001
+1809	03	30	DerbyMercury	0004	1809	03	21	HullPacket	0001
+1809	04	01	Jackson'sOxfordJournal	0004	1809	03	21	HullPacket	0001
+1809	04	06	DerbyMercury	0004	1809	03	21	HullPacket	0001
 1809	03	25	CaledonianMercury	0002	1809	03	21	MorningChronicle	0001
 1809	03	26	Examiner	0005	1809	03	21	MorningChronicle	0001
 1809	03	26	Examiner	0006	1809	03	21	MorningChronicle	0001
-1809	03	28		0004	1809	03	21	MorningChronicle	0001
+1809	03	28	HullPacket	0004	1809	03	21	MorningChronicle	0001
 1809	03	29	AberdeenJournal	0002	1809	03	21	MorningChronicle	0001
 1809	03	26	Examiner	0006	1809	03	21	MorningChronicle	0002
 1809	03	26	Examiner	0007	1809	03	21	MorningChronicle	0002
@@ -607,13 +610,9 @@
 1809	03	23	CaledonianMercury	0003	1809	03	21	TheTimes	0003
 1809	03	23	Trewman'sExeterFlyingPost	0004	1809	03	21	TheTimes	0004
 1809	03	26	Examiner	0014	1809	03	21	TheTimes	0004
-1809	03	25	Jackson'sOxfordJournal	0004	1809	03	21		0001
-1809	03	30	DerbyMercury	0004	1809	03	21		0001
-1809	04	01	Jackson'sOxfordJournal	0004	1809	03	21		0001
-1809	04	06	DerbyMercury	0004	1809	03	21		0001
 1809	03	23	DerbyMercury	0004	1809	03	22	AberdeenJournal	0002
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	22	AberdeenJournal	0002
-1809	03	28		0001	1809	03	22	AberdeenJournal	0002
+1809	03	28	HullPacket	0001	1809	03	22	AberdeenJournal	0002
 1809	04	08	CaledonianMercury	0001	1809	03	22	AberdeenJournal	0002
 1809	04	08	CaledonianMercury	0003	1809	03	22	AberdeenJournal	0002
 1809	04	10	CaledonianMercury	0001	1809	03	22	AberdeenJournal	0002
@@ -640,7 +639,7 @@
 1809	03	27	CaledonianMercury	0001	1809	03	23	DerbyMercury	0001
 1809	03	27	HampshirePortsmouthTelegraph	0001	1809	03	23	DerbyMercury	0001
 1809	03	27	HampshirePortsmouthTelegraph	0004	1809	03	23	DerbyMercury	0001
-1809	03	28		0001	1809	03	23	DerbyMercury	0001
+1809	03	28	HullPacket	0001	1809	03	23	DerbyMercury	0001
 1809	03	29	AberdeenJournal	0001	1809	03	23	DerbyMercury	0001
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	23	DerbyMercury	0001
 1809	04	05	AberdeenJournal	0002	1809	03	23	DerbyMercury	0001
@@ -658,8 +657,8 @@
 1809	03	25	Jackson'sOxfordJournal	0002	1809	03	23	MorningChronicle	0002
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	23	MorningChronicle	0002
 1809	03	27	HampshirePortsmouthTelegraph	0004	1809	03	23	MorningChronicle	0002
-1809	03	28		0001	1809	03	23	MorningChronicle	0002
-1809	03	28		0002	1809	03	23	MorningChronicle	0002
+1809	03	28	HullPacket	0001	1809	03	23	MorningChronicle	0002
+1809	03	28	HullPacket	0002	1809	03	23	MorningChronicle	0002
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	23	MorningChronicle	0002
 1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	23	MorningChronicle	0002
 1809	04	05	AberdeenJournal	0001	1809	03	23	MorningChronicle	0002
@@ -677,7 +676,7 @@
 1809	03	25	Jackson'sOxfordJournal	0002	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	03	25	Jackson'sOxfordJournal	0004	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	03	27	CaledonianMercury	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
-1809	03	28		0001	1809	03	23	Trewman'sExeterFlyingPost	0003
+1809	03	28	HullPacket	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	03	29	AberdeenJournal	0002	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	03	30	DerbyMercury	0004	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	04	01	Jackson'sOxfordJournal	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
@@ -686,7 +685,7 @@
 1809	04	06	DerbyMercury	0004	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	04	08	Jackson'sOxfordJournal	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	04	08	Jackson'sOxfordJournal	0004	1809	03	23	Trewman'sExeterFlyingPost	0003
-1809	04	11		0001	1809	03	23	Trewman'sExeterFlyingPost	0003
+1809	04	11	HullPacket	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	04	12	AberdeenJournal	0001	1809	03	23	Trewman'sExeterFlyingPost	0003
 1809	03	26	Examiner	0014	1809	03	23	Trewman'sExeterFlyingPost	0004
 1809	03	26	Examiner	0009	1809	03	24	MorningChronicle	0002
@@ -703,13 +702,13 @@
 1809	04	05	AberdeenJournal	0002	1809	03	25	CaledonianMercury	0001
 1809	04	12	AberdeenJournal	0001	1809	03	25	CaledonianMercury	0001
 1809	03	25	Jackson'sOxfordJournal	0001	1809	03	25	CaledonianMercury	0002
-1809	03	28		0004	1809	03	25	CaledonianMercury	0002
+1809	03	28	HullPacket	0004	1809	03	25	CaledonianMercury	0002
 1809	03	29	AberdeenJournal	0002	1809	03	25	CaledonianMercury	0002
 1809	03	25	Jackson'sOxfordJournal	0001	1809	03	25	CaledonianMercury	0003
 1809	04	05	AberdeenJournal	0003	1809	03	25	CaledonianMercury	0003
 1809	03	27	HampshirePortsmouthTelegraph	0001	1809	03	25	Jackson'sOxfordJournal	0001
 1809	03	27	HampshirePortsmouthTelegraph	0004	1809	03	25	Jackson'sOxfordJournal	0001
-1809	03	28		0001	1809	03	25	Jackson'sOxfordJournal	0001
+1809	03	28	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0001
 1809	03	29	AberdeenJournal	0001	1809	03	25	Jackson'sOxfordJournal	0001
 1809	03	30	DerbyMercury	0001	1809	03	25	Jackson'sOxfordJournal	0001
 1809	03	30	DerbyMercury	0004	1809	03	25	Jackson'sOxfordJournal	0001
@@ -717,31 +716,31 @@
 1809	04	06	Trewman'sExeterFlyingPost	0002	1809	03	25	Jackson'sOxfordJournal	0001
 1809	04	08	MorningChronicle	0002	1809	03	25	Jackson'sOxfordJournal	0001
 1809	04	13	Trewman'sExeterFlyingPost	0001	1809	03	25	Jackson'sOxfordJournal	0001
-1809	03	28		0001	1809	03	25	Jackson'sOxfordJournal	0002
-1809	03	28		0002	1809	03	25	Jackson'sOxfordJournal	0002
+1809	03	28	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0002
+1809	03	28	HullPacket	0002	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	29	AberdeenJournal	0002	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	30	DerbyMercury	0004	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	30	Trewman'sExeterFlyingPost	0002	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	30	Trewman'sExeterFlyingPost	0003	1809	03	25	Jackson'sOxfordJournal	0002
-1809	04	04		0001	1809	03	25	Jackson'sOxfordJournal	0002
+1809	04	04	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0002
 1809	04	06	DerbyMercury	0004	1809	03	25	Jackson'sOxfordJournal	0002
 1809	04	10	CaledonianMercury	0001	1809	03	25	Jackson'sOxfordJournal	0002
 1809	04	10	HampshirePortsmouthTelegraph	0001	1809	03	25	Jackson'sOxfordJournal	0002
-1809	04	11		0001	1809	03	25	Jackson'sOxfordJournal	0002
+1809	04	11	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0002
 1809	03	27	HampshirePortsmouthTelegraph	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	03	27	HampshirePortsmouthTelegraph	0004	1809	03	25	Jackson'sOxfordJournal	0004
-1809	03	28		0001	1809	03	25	Jackson'sOxfordJournal	0004
+1809	03	28	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	03	29	AberdeenJournal	0002	1809	03	25	Jackson'sOxfordJournal	0004
 1809	03	30	DerbyMercury	0004	1809	03	25	Jackson'sOxfordJournal	0004
 1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	01	IpswichJournal	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	25	Jackson'sOxfordJournal	0004
-1809	04	04		0004	1809	03	25	Jackson'sOxfordJournal	0004
+1809	04	04	HullPacket	0004	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	05	AberdeenJournal	0002	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	06	DerbyMercury	0004	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	06	Trewman'sExeterFlyingPost	0003	1809	03	25	Jackson'sOxfordJournal	0004
-1809	04	11		0001	1809	03	25	Jackson'sOxfordJournal	0004
+1809	04	11	HullPacket	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	04	12	AberdeenJournal	0001	1809	03	25	Jackson'sOxfordJournal	0004
 1809	03	29	AberdeenJournal	0001	1809	03	25	LeedsMercury	0004
 1809	03	25	TheTimes	0004	1809	03	25	MorningChronicle	0003
@@ -759,43 +758,40 @@
 1809	04	05	AberdeenJournal	0003	1809	03	27	HampshirePortsmouthTelegraph	0004
 1809	04	12	AberdeenJournal	0001	1809	03	27	HampshirePortsmouthTelegraph	0004
 1809	03	27	TheTimes	0003	1809	03	27	MorningChronicle	0002
-1809	03	30	CaledonianMercury	0002	1809	03	27	MorningChronicle	0002
-1809	04	04		0001	1809	03	27	MorningChronicle	0002
+1809	04	04	HullPacket	0001	1809	03	27	MorningChronicle	0002
 1809	04	05	AberdeenJournal	0003	1809	03	27	MorningChronicle	0002
-1809	03	30	CaledonianMercury	0002	1809	03	27	MorningChronicle	0003
 1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	27	MorningChronicle	0003
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	27	MorningChronicle	0003
 1809	04	02	Examiner	0015	1809	03	27	MorningChronicle	0003
-1809	03	30	CaledonianMercury	0002	1809	03	27	TheTimes	0003
+1809	03	30	DerbyMercury	0004	1809	03	28	HullPacket	0001
+1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	28	HullPacket	0001
+1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	28	HullPacket	0001
+1809	04	01	Jackson'sOxfordJournal	0001	1809	03	28	HullPacket	0001
+1809	04	01	Jackson'sOxfordJournal	0004	1809	03	28	HullPacket	0001
+1809	04	01	IpswichJournal	0001	1809	03	28	HullPacket	0001
+1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	28	HullPacket	0001
+1809	04	06	CaledonianMercury	0001	1809	03	28	HullPacket	0001
+1809	04	06	DerbyMercury	0004	1809	03	28	HullPacket	0001
+1809	04	06	Trewman'sExeterFlyingPost	0003	1809	03	28	HullPacket	0001
+1809	04	08	Jackson'sOxfordJournal	0001	1809	03	28	HullPacket	0001
+1809	04	10	CaledonianMercury	0001	1809	03	28	HullPacket	0001
+1809	04	10	HampshirePortsmouthTelegraph	0001	1809	03	28	HullPacket	0001
+1809	04	12	AberdeenJournal	0002	1809	03	28	HullPacket	0001
+1809	04	01	Jackson'sOxfordJournal	0002	1809	03	28	HullPacket	0002
+1809	04	10	CaledonianMercury	0001	1809	03	28	HullPacket	0002
+1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	28	HullPacket	0003
 1809	04	08	Jackson'sOxfordJournal	0001	1809	03	28	MorningChronicle	0001
-1809	03	30	CaledonianMercury	0002	1809	03	28	MorningChronicle	0002
 1809	03	28	TheTimes	0003	1809	03	28	MorningChronicle	0003
 1809	04	01	CaledonianMercury	0004	1809	03	28	MorningChronicle	0003
 1809	04	01	Jackson'sOxfordJournal	0002	1809	03	28	MorningChronicle	0003
 1809	04	02	Examiner	0004	1809	03	28	MorningChronicle	0003
-1809	04	04		0004	1809	03	28	MorningChronicle	0003
+1809	04	04	HullPacket	0004	1809	03	28	MorningChronicle	0003
 1809	04	01	CaledonianMercury	0002	1809	03	28	TheTimes	0002
 1809	04	01	Jackson'sOxfordJournal	0001	1809	03	28	TheTimes	0002
 1809	04	05	AberdeenJournal	0003	1809	03	28	TheTimes	0002
 1809	04	01	CaledonianMercury	0004	1809	03	28	TheTimes	0003
-1809	03	29	AberdeenJournal	0002	1809	03	28		0001
-1809	03	30	DerbyMercury	0004	1809	03	28		0001
-1809	03	30	Trewman'sExeterFlyingPost	0001	1809	03	28		0001
-1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	28		0001
-1809	04	01	Jackson'sOxfordJournal	0001	1809	03	28		0001
-1809	04	01	Jackson'sOxfordJournal	0004	1809	03	28		0001
-1809	04	01	IpswichJournal	0001	1809	03	28		0001
-1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	28		0001
-1809	04	06	CaledonianMercury	0001	1809	03	28		0001
-1809	04	06	DerbyMercury	0004	1809	03	28		0001
-1809	04	06	Trewman'sExeterFlyingPost	0003	1809	03	28		0001
-1809	04	08	Jackson'sOxfordJournal	0001	1809	03	28		0001
-1809	04	10	CaledonianMercury	0001	1809	03	28		0001
-1809	04	10	HampshirePortsmouthTelegraph	0001	1809	03	28		0001
-1809	04	12	AberdeenJournal	0002	1809	03	28		0001
-1809	04	01	Jackson'sOxfordJournal	0002	1809	03	28		0002
-1809	04	10	CaledonianMercury	0001	1809	03	28		0002
-1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	28		0003
+1809	03	30	CaledonianMercury	0002	1809	03	28	TheTimes	0004
+1809	03	30	CaledonianMercury	0003	1809	03	28	TheTimes	0004
 1809	03	30	DerbyMercury	0001	1809	03	29	AberdeenJournal	0001
 1809	04	13	Trewman'sExeterFlyingPost	0001	1809	03	29	AberdeenJournal	0001
 1809	04	03	CaledonianMercury	0001	1809	03	29	AberdeenJournal	0002
@@ -811,10 +807,10 @@
 1809	04	12	AberdeenJournal	0003	1809	03	30	CaledonianMercury	0001
 1809	03	30	DerbyMercury	0002	1809	03	30	CaledonianMercury	0002
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	30	CaledonianMercury	0002
-1809	04	04		0001	1809	03	30	CaledonianMercury	0002
+1809	04	04	HullPacket	0001	1809	03	30	CaledonianMercury	0002
 1809	04	05	AberdeenJournal	0003	1809	03	30	CaledonianMercury	0002
 1809	03	30	Trewman'sExeterFlyingPost	0004	1809	03	30	CaledonianMercury	0004
-1809	04	04		0003	1809	03	30	CaledonianMercury	0004
+1809	04	04	HullPacket	0003	1809	03	30	CaledonianMercury	0004
 1809	04	05	AberdeenJournal	0003	1809	03	30	CaledonianMercury	0004
 1809	03	30	Trewman'sExeterFlyingPost	0003	1809	03	30	DerbyMercury	0001
 1809	04	01	Jackson'sOxfordJournal	0002	1809	03	30	DerbyMercury	0001
@@ -832,16 +828,16 @@
 1809	04	01	Jackson'sOxfordJournal	0002	1809	03	30	DerbyMercury	0004
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	30	DerbyMercury	0004
 1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	30	DerbyMercury	0004
-1809	04	04		0004	1809	03	30	DerbyMercury	0004
+1809	04	04	HullPacket	0004	1809	03	30	DerbyMercury	0004
 1809	04	05	AberdeenJournal	0002	1809	03	30	DerbyMercury	0004
 1809	04	06	Trewman'sExeterFlyingPost	0003	1809	03	30	DerbyMercury	0004
 1809	04	08	Jackson'sOxfordJournal	0001	1809	03	30	DerbyMercury	0004
 1809	04	08	Jackson'sOxfordJournal	0004	1809	03	30	DerbyMercury	0004
-1809	04	11		0001	1809	03	30	DerbyMercury	0004
+1809	04	11	HullPacket	0001	1809	03	30	DerbyMercury	0004
 1809	04	13	Trewman'sExeterFlyingPost	0003	1809	03	30	DerbyMercury	0004
 1809	03	30	TheTimes	0001	1809	03	30	MorningChronicle	0002
 1809	04	02	Examiner	0010	1809	03	30	MorningChronicle	0002
-1809	04	04		0002	1809	03	30	MorningChronicle	0002
+1809	04	04	HullPacket	0002	1809	03	30	MorningChronicle	0002
 1809	04	02	Examiner	0012	1809	03	30	MorningChronicle	0003
 1809	04	03	CaledonianMercury	0002	1809	03	30	MorningChronicle	0003
 1809	03	30	TheTimes	0003	1809	03	30	MorningChronicle	0004
@@ -850,22 +846,22 @@
 1809	04	01	IpswichJournal	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	01	LeedsMercury	0004	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	30	Trewman'sExeterFlyingPost	0001
-1809	04	04		0004	1809	03	30	Trewman'sExeterFlyingPost	0001
+1809	04	04	HullPacket	0004	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	06	CaledonianMercury	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	06	DerbyMercury	0004	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	08	Jackson'sOxfordJournal	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	10	CaledonianMercury	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	10	HampshirePortsmouthTelegraph	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
-1809	04	11		0001	1809	03	30	Trewman'sExeterFlyingPost	0001
+1809	04	11	HullPacket	0001	1809	03	30	Trewman'sExeterFlyingPost	0001
 1809	04	01	Jackson'sOxfordJournal	0004	1809	03	30	Trewman'sExeterFlyingPost	0002
 1809	04	08	Jackson'sOxfordJournal	0004	1809	03	30	Trewman'sExeterFlyingPost	0002
 1809	04	01	CaledonianMercury	0002	1809	03	30	Trewman'sExeterFlyingPost	0004
 1809	04	01	Jackson'sOxfordJournal	0002	1809	03	30	Trewman'sExeterFlyingPost	0004
 1809	04	02	Examiner	0007	1809	03	30	Trewman'sExeterFlyingPost	0004
 1809	04	03	HampshirePortsmouthTelegraph	0004	1809	03	30	Trewman'sExeterFlyingPost	0004
-1809	04	04		0003	1809	03	30	Trewman'sExeterFlyingPost	0004
+1809	04	04	HullPacket	0003	1809	03	30	Trewman'sExeterFlyingPost	0004
 1809	04	08	Jackson'sOxfordJournal	0001	1809	03	30	Trewman'sExeterFlyingPost	0004
-1809	04	11		0001	1809	03	30	Trewman'sExeterFlyingPost	0004
+1809	04	11	HullPacket	0001	1809	03	30	Trewman'sExeterFlyingPost	0004
 1809	04	06	CaledonianMercury	0002	1809	03	31	MorningChronicle	0002
 1809	04	01	Jackson'sOxfordJournal	0003	1809	03	31	MorningChronicle	0003
 1809	04	02	Examiner	0005	1809	03	31	MorningChronicle	0003

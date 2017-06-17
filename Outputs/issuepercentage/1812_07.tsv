@@ -9,7 +9,7 @@
 1812.07.04_TheTimes	0.019002
 1812.07.06_CaledonianMercury	0.027789
 1812.07.06_TheTimes	0.023368
-1812.07.07_	0.102439
+1812.07.07_HullPacket	0.102439
 1812.07.08_AberdeenJournal	0.048842
 1812.07.08_TheTimes	0.011458
 1812.07.09_CaledonianMercury	0.093137
@@ -30,8 +30,8 @@
 1812.07.13_HampshirePortsmouthTelegraph	0.020581
 1812.07.13_MorningChronicle	0.025676
 1812.07.13_TheTimes	0.046363
+1812.07.14_HullPacket	0.076336
 1812.07.14_TheTimes	0.017840
-1812.07.14_	0.076336
 1812.07.15_AberdeenJournal	0.128368
 1812.07.15_TheTimes	0.017466
 1812.07.16_CaledonianMercury	0.098089
@@ -50,13 +50,13 @@
 1812.07.20_HampshirePortsmouthTelegraph	0.025992
 1812.07.20_MorningChronicle	0.051826
 1812.07.20_TheTimes	0.007921
+1812.07.21_HullPacket	0.090358
 1812.07.21_TheTimes	0.024596
-1812.07.21_	0.090358
 1812.07.22_AberdeenJournal	0.080638
 1812.07.22_MorningChronicle	0.025700
 1812.07.22_TheTimes	0.044602
 1812.07.23_CaledonianMercury	0.116581
-1812.07.23_DerbyMercury	0.087889
+1812.07.23_DerbyMercury	0.069732
 1812.07.23_TheTimes	0.022372
 1812.07.23_Trewman'sExeterFlyingPost	0.157867
 1812.07.24_LiverpoolMercury	0.014710
@@ -73,8 +73,8 @@
 1812.07.27_HampshirePortsmouthTelegraph	0.014065
 1812.07.27_MorningChronicle	0.082996
 1812.07.27_TheTimes	0.028935
+1812.07.28_HullPacket	0.072613
 1812.07.28_TheTimes	0.008311
-1812.07.28_	0.072613
 1812.07.29_AberdeenJournal	0.087301
 1812.07.29_MorningChronicle	0.037397
 1812.07.29_TheTimes	0.035234

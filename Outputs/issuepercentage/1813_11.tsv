@@ -1,6 +1,6 @@
 1813.11.01_HampshirePortsmouthTelegraph	0.006605
+1813.11.02_HullPacket	0.027031
 1813.11.02_TheTimes	0.023446
-1813.11.02_	0.027031
 1813.11.03_AberdeenJournal	0.008662
 1813.11.03_TheTimes	0.052202
 1813.11.04_CaledonianMercury	0.032298
@@ -16,7 +16,7 @@
 1813.11.08_CaledonianMercury	0.042555
 1813.11.08_HampshirePortsmouthTelegraph	0.015350
 1813.11.08_TheTimes	0.027610
-1813.11.09_	0.107668
+1813.11.09_HullPacket	0.107668
 1813.11.10_AberdeenJournal	0.007507
 1813.11.11_CaledonianMercury	0.049350
 1813.11.11_DerbyMercury	0.008695
@@ -44,7 +44,7 @@
 1813.11.21_Examiner	0.010078
 1813.11.22_CaledonianMercury	0.011012
 1813.11.22_HampshirePortsmouthTelegraph	0.007429
-1813.11.23_	0.064843
+1813.11.23_HullPacket	0.064843
 1813.11.25_CaledonianMercury	0.016295
 1813.11.25_DerbyMercury	0.005092
 1813.11.25_Trewman'sExeterFlyingPost	0.082199
@@ -59,4 +59,4 @@
 1813.11.29_CaledonianMercury	0.159810
 1813.11.29_HampshirePortsmouthTelegraph	0.027088
 1813.11.29_MorningChronicle	0.004864
-1813.11.30_	0.135107
+1813.11.30_HullPacket	0.135107

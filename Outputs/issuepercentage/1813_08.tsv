@@ -1,11 +1,11 @@
 1813.08.02_MorningChronicle	0.005182
 1813.08.02_TheTimes	0.010246
+1813.08.03_HullPacket	0.025744
 1813.08.03_TheTimes	0.025075
-1813.08.03_	0.025744
 1813.08.05_CaledonianMercury	0.036444
 1813.08.05_DerbyMercury	0.010398
 1813.08.05_TheTimes	0.017162
-1813.08.05_Trewman'sExeterFlyingPost	0.034693
+1813.08.05_Trewman'sExeterFlyingPost	0.013726
 1813.08.06_LiverpoolMercury	0.018640
 1813.08.06_MorningChronicle	0.007294
 1813.08.07_CaledonianMercury	0.038343
@@ -17,8 +17,8 @@
 1813.08.09_CaledonianMercury	0.049695
 1813.08.09_MorningChronicle	0.010826
 1813.08.09_TheTimes	0.008172
+1813.08.10_HullPacket	0.091620
 1813.08.10_TheTimes	0.025657
-1813.08.10_	0.091620
 1813.08.11_AberdeenJournal	0.005440
 1813.08.11_TheTimes	0.013353
 1813.08.12_CaledonianMercury	0.039428
@@ -32,8 +32,8 @@
 1813.08.14_LeedsMercury	0.066498
 1813.08.16_CaledonianMercury	0.065575
 1813.08.16_TheTimes	0.026362
+1813.08.17_HullPacket	0.101001
 1813.08.17_TheTimes	0.062087
-1813.08.17_	0.101001
 1813.08.19_CaledonianMercury	0.094065
 1813.08.19_TheTimes	0.015592
 1813.08.19_Trewman'sExeterFlyingPost	0.120851
@@ -46,7 +46,7 @@
 1813.08.22_Examiner	0.046450
 1813.08.23_CaledonianMercury	0.026060
 1813.08.23_TheTimes	0.023888
-1813.08.24_	0.234462
+1813.08.24_HullPacket	0.234462
 1813.08.25_AberdeenJournal	0.105088
 1813.08.25_TheTimes	0.007734
 1813.08.26_CaledonianMercury	0.053170
@@ -65,5 +65,5 @@
 1813.08.30_CaledonianMercury	0.038926
 1813.08.30_MorningChronicle	0.005775
 1813.08.30_TheTimes	0.024189
+1813.08.31_HullPacket	0.086505
 1813.08.31_TheTimes	0.014653
-1813.08.31_	0.086505
