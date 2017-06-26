@@ -2634,7 +2634,7 @@
 1840	01	10	NewcastleCourant	0007	1840	01	07	NorthWalesChronicle	0002
 1840	01	12	TheCharter	0010	1840	01	07	NorthWalesChronicle	0002
 1840	01	17	BelfastNews-Letter	0001	1840	01	07	NorthWalesChronicle	0004
-1840	01	26		0010	1840	01	07	NorthWalesChronicle	0004
+1840	01	26	SouthernStar	0010	1840	01	07	NorthWalesChronicle	0004
 1840	01	10	Freeman'sJournal	0002	1840	01	07	TheTimes	0003
 1840	01	21	NorthWalesChronicle	0001	1840	01	07	TheTimes	0003
 1840	01	08	Freeman'sJournal	0002	1840	01	07	TheTimes	0004
@@ -2657,7 +2657,7 @@
 1840	01	18	PrestonChronicle	0002	1840	01	07	TheTimes	0004
 1840	01	18	BristolMercury	0003	1840	01	07	TheTimes	0004
 1840	01	18	ManchesterTimes	0003	1840	01	07	TheTimes	0004
-1840	01	19		0013	1840	01	07	TheTimes	0004
+1840	01	19	SouthernStar	0013	1840	01	07	TheTimes	0004
 1840	01	24	HullPacket	0002	1840	01	07	TheTimes	0004
 1840	01	26	Champion	0006	1840	01	07	TheTimes	0004
 1840	01	26	TheEra	0005	1840	01	07	TheTimes	0004
@@ -2868,7 +2868,7 @@
 1840	01	12	TheCharter	0009	1840	01	08	Freeman'sJournal	0004
 1840	01	12	TheEra	0010	1840	01	08	Freeman'sJournal	0004
 1840	01	13	HampshirePortsmouthTelegraph	0001	1840	01	08	Freeman'sJournal	0004
-1840	01	19		0013	1840	01	08	Freeman'sJournal	0004
+1840	01	19	SouthernStar	0013	1840	01	08	Freeman'sJournal	0004
 1840	01	23	TheTimes	0006	1840	01	08	Freeman'sJournal	0004
 1840	01	24	HullPacket	0002	1840	01	08	Freeman'sJournal	0004
 1840	01	24	NewcastleCourant	0006	1840	01	08	Freeman'sJournal	0004
@@ -3676,7 +3676,7 @@
 1840	01	13	CaledonianMercury	0002	1840	01	11	BristolMercury	0005
 1840	01	16	Trewman'sExeterFlyingPost	0002	1840	01	11	BristolMercury	0005
 1840	01	17	NewcastleCourant	0007	1840	01	11	BristolMercury	0005
-1840	01	19		0013	1840	01	11	BristolMercury	0005
+1840	01	19	SouthernStar	0013	1840	01	11	BristolMercury	0005
 1840	01	23	TheTimes	0006	1840	01	11	BristolMercury	0005
 1840	01	24	HullPacket	0002	1840	01	11	BristolMercury	0005
 1840	01	26	Champion	0006	1840	01	11	BristolMercury	0005
@@ -3956,7 +3956,7 @@
 1840	01	18	ManchesterTimes	0001	1840	01	11	Jackson'sOxfordJournal	0004
 1840	01	19	TheEra	0012	1840	01	11	Jackson'sOxfordJournal	0004
 1840	01	19	Examiner	0013	1840	01	11	Jackson'sOxfordJournal	0004
-1840	01	19		0013	1840	01	11	Jackson'sOxfordJournal	0004
+1840	01	19	SouthernStar	0013	1840	01	11	Jackson'sOxfordJournal	0004
 1840	01	20	HampshirePortsmouthTelegraph	0001	1840	01	11	Jackson'sOxfordJournal	0004
 1840	01	21	NorthWalesChronicle	0001	1840	01	11	Jackson'sOxfordJournal	0004
 1840	01	22	DerbyMercury	0001	1840	01	11	Jackson'sOxfordJournal	0004
@@ -4377,7 +4377,7 @@
 1840	02	02	TheCharter	0016	1840	01	12	Champion	0001
 1840	02	02	TheEra	0001	1840	01	12	Champion	0001
 1840	02	02	TheEra	0012	1840	01	12	Champion	0001
-1840	02	02		0016	1840	01	12	Champion	0001
+1840	02	02	SouthernStar	0016	1840	01	12	Champion	0001
 1840	01	12	TheCharter	0014	1840	01	12	Champion	0002
 1840	01	12	TheCharter	0015	1840	01	12	Champion	0002
 1840	01	12	TheEra	0003	1840	01	12	Champion	0002
@@ -4603,11 +4603,11 @@
 1840	01	17	HullPacket	0002	1840	01	12	TheEra	0005
 1840	01	17	NewcastleCourant	0004	1840	01	12	TheEra	0005
 1840	01	18	BristolMercury	0003	1840	01	12	TheEra	0005
-1840	02	02		0004	1840	01	12	TheEra	0005
+1840	02	02	SouthernStar	0004	1840	01	12	TheEra	0005
 1840	01	15	DerbyMercury	0004	1840	01	12	TheEra	0006
 1840	01	19	Champion	0004	1840	01	12	TheEra	0006
 1840	01	19	TheCharter	0012	1840	01	12	TheEra	0006
-1840	01	19		0009	1840	01	12	TheEra	0006
+1840	01	19	SouthernStar	0009	1840	01	12	TheEra	0006
 1840	01	21	NorthWalesChronicle	0004	1840	01	12	TheEra	0006
 1840	01	12	Examiner	0006	1840	01	12	TheEra	0007
 1840	01	13	CaledonianMercury	0002	1840	01	12	TheEra	0007
@@ -5049,12 +5049,12 @@
 1840	01	31	NewcastleCourant	0003	1840	01	14	NorthWalesChronicle	0003
 1840	02	01	BristolMercury	0006	1840	01	14	NorthWalesChronicle	0003
 1840	02	01	BristolMercury	0008	1840	01	14	NorthWalesChronicle	0003
-1840	02	02		0004	1840	01	14	NorthWalesChronicle	0004
+1840	02	02	SouthernStar	0004	1840	01	14	NorthWalesChronicle	0004
 1840	01	18	Jackson'sOxfordJournal	0004	1840	01	14	TheTimes	0003
 1840	01	19	Champion	0003	1840	01	14	TheTimes	0003
 1840	01	19	Champion	0008	1840	01	14	TheTimes	0003
 1840	01	19	Examiner	0003	1840	01	14	TheTimes	0003
-1840	01	19		0014	1840	01	14	TheTimes	0003
+1840	01	19	SouthernStar	0014	1840	01	14	TheTimes	0003
 1840	01	15	Freeman'sJournal	0002	1840	01	14	TheTimes	0004
 1840	01	16	Freeman'sJournal	0002	1840	01	14	TheTimes	0004
 1840	01	16	Trewman'sExeterFlyingPost	0003	1840	01	14	TheTimes	0004
@@ -5090,15 +5090,15 @@
 1840	01	19	TheCharter	0004	1840	01	14	TheTimes	0006
 1840	01	19	TheEra	0005	1840	01	14	TheTimes	0006
 1840	01	19	TheEra	0009	1840	01	14	TheTimes	0006
-1840	01	19		0015	1840	01	14	TheTimes	0006
+1840	01	19	SouthernStar	0015	1840	01	14	TheTimes	0006
 1840	01	21	NorthWalesChronicle	0003	1840	01	14	TheTimes	0006
 1840	01	17	BelfastNews-Letter	0001	1840	01	14	TheTimes	0007
 1840	01	18	PrestonChronicle	0003	1840	01	14	TheTimes	0007
 1840	01	19	Champion	0007	1840	01	14	TheTimes	0007
 1840	01	19	Champion	0008	1840	01	14	TheTimes	0007
 1840	01	19	TheEra	0010	1840	01	14	TheTimes	0007
-1840	01	19		0004	1840	01	14	TheTimes	0007
-1840	01	19		0005	1840	01	14	TheTimes	0007
+1840	01	19	SouthernStar	0004	1840	01	14	TheTimes	0007
+1840	01	19	SouthernStar	0005	1840	01	14	TheTimes	0007
 1840	01	22	DerbyMercury	0002	1840	01	14	TheTimes	0007
 1840	01	15	TheTimes	0002	1840	01	15	AberdeenJournal	0001
 1840	01	16	CaledonianMercury	0001	1840	01	15	AberdeenJournal	0001
@@ -5288,7 +5288,7 @@
 1840	01	24	TheTimes	0006	1840	01	15	Freeman'sJournal	0002
 1840	01	26	Examiner	0011	1840	01	15	Freeman'sJournal	0002
 1840	01	20	MorningChronicle	0003	1840	01	15	Freeman'sJournal	0003
-1840	01	26		0011	1840	01	15	Freeman'sJournal	0003
+1840	01	26	SouthernStar	0011	1840	01	15	Freeman'sJournal	0003
 1840	01	16	CaledonianMercury	0002	1840	01	15	Freeman'sJournal	0004
 1840	01	16	Trewman'sExeterFlyingPost	0004	1840	01	15	Freeman'sJournal	0004
 1840	01	17	BelfastNews-Letter	0004	1840	01	15	Freeman'sJournal	0004
@@ -5310,7 +5310,7 @@
 1840	01	19	TheEra	0005	1840	01	15	MorningChronicle	0002
 1840	01	19	Examiner	0010	1840	01	15	MorningChronicle	0002
 1840	01	19	Examiner	0012	1840	01	15	MorningChronicle	0002
-1840	01	19		0011	1840	01	15	MorningChronicle	0002
+1840	01	19	SouthernStar	0011	1840	01	15	MorningChronicle	0002
 1840	01	23	TheTimes	0006	1840	01	15	MorningChronicle	0002
 1840	01	15	TheTimes	0003	1840	01	15	MorningChronicle	0003
 1840	01	16	Freeman'sJournal	0004	1840	01	15	MorningChronicle	0003
@@ -5389,7 +5389,7 @@
 1840	01	19	TheCharter	0004	1840	01	15	TheTimes	0005
 1840	01	19	TheEra	0005	1840	01	15	TheTimes	0005
 1840	01	19	Examiner	0012	1840	01	15	TheTimes	0005
-1840	01	19		0013	1840	01	15	TheTimes	0005
+1840	01	19	SouthernStar	0013	1840	01	15	TheTimes	0005
 1840	01	22	DerbyMercury	0004	1840	01	15	TheTimes	0005
 1840	01	24	BelfastNews-Letter	0002	1840	01	15	TheTimes	0005
 1840	01	24	HullPacket	0004	1840	01	15	TheTimes	0005
@@ -5403,8 +5403,8 @@
 1840	01	19	TheCharter	0003	1840	01	15	TheTimes	0006
 1840	01	19	TheEra	0004	1840	01	15	TheTimes	0006
 1840	01	19	Examiner	0011	1840	01	15	TheTimes	0006
-1840	01	19		0004	1840	01	15	TheTimes	0006
-1840	01	19		0005	1840	01	15	TheTimes	0006
+1840	01	19	SouthernStar	0004	1840	01	15	TheTimes	0006
+1840	01	19	SouthernStar	0005	1840	01	15	TheTimes	0006
 1840	01	24	HullPacket	0004	1840	01	15	TheTimes	0006
 1840	01	26	TheEra	0009	1840	01	15	TheTimes	0006
 1840	01	18	CaledonianMercury	0001	1840	01	15	TheTimes	0007
@@ -5419,8 +5419,8 @@
 1840	01	19	Examiner	0010	1840	01	15	TheTimes	0007
 1840	01	19	Examiner	0011	1840	01	15	TheTimes	0007
 1840	01	19	Examiner	0015	1840	01	15	TheTimes	0007
-1840	01	19		0006	1840	01	15	TheTimes	0007
-1840	01	19		0014	1840	01	15	TheTimes	0007
+1840	01	19	SouthernStar	0006	1840	01	15	TheTimes	0007
+1840	01	19	SouthernStar	0014	1840	01	15	TheTimes	0007
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	15	TheTimes	0007
 1840	02	01	ManchesterTimes	0001	1840	01	15	TheTimes	0007
 1840	02	02	TheEra	0012	1840	01	15	TheTimes	0007
@@ -5523,7 +5523,7 @@
 1840	01	19	TheCharter	0016	1840	01	16	MorningChronicle	0002
 1840	01	19	TheEra	0009	1840	01	16	MorningChronicle	0002
 1840	01	19	Examiner	0007	1840	01	16	MorningChronicle	0002
-1840	01	19		0002	1840	01	16	MorningChronicle	0002
+1840	01	19	SouthernStar	0002	1840	01	16	MorningChronicle	0002
 1840	01	24	NewcastleCourant	0008	1840	01	16	MorningChronicle	0002
 1840	01	16	TheTimes	0005	1840	01	16	MorningChronicle	0003
 1840	01	17	TheTimes	0007	1840	01	16	MorningChronicle	0003
@@ -5585,15 +5585,15 @@
 1840	01	19	TheEra	0009	1840	01	16	TheTimes	0003
 1840	01	19	Examiner	0007	1840	01	16	TheTimes	0003
 1840	01	19	Examiner	0008	1840	01	16	TheTimes	0003
-1840	01	19		0002	1840	01	16	TheTimes	0003
+1840	01	19	SouthernStar	0002	1840	01	16	TheTimes	0003
 1840	01	22	AberdeenJournal	0003	1840	01	16	TheTimes	0003
 1840	01	24	NewcastleCourant	0008	1840	01	16	TheTimes	0003
 1840	01	26	TheCharter	0008	1840	01	16	TheTimes	0003
-1840	02	02		0011	1840	01	16	TheTimes	0003
+1840	02	02	SouthernStar	0011	1840	01	16	TheTimes	0003
 1840	01	18	Freeman'sJournal	0002	1840	01	16	TheTimes	0004
 1840	01	18	NorthernStar	0005	1840	01	16	TheTimes	0004
 1840	01	19	TheEra	0009	1840	01	16	TheTimes	0004
-1840	01	19		0011	1840	01	16	TheTimes	0004
+1840	01	19	SouthernStar	0011	1840	01	16	TheTimes	0004
 1840	01	24	NewcastleCourant	0008	1840	01	16	TheTimes	0004
 1840	01	18	CaledonianMercury	0002	1840	01	16	TheTimes	0005
 1840	01	18	Freeman'sJournal	0002	1840	01	16	TheTimes	0005
@@ -5606,7 +5606,7 @@
 1840	01	19	TheEra	0003	1840	01	16	TheTimes	0005
 1840	01	19	TheEra	0010	1840	01	16	TheTimes	0005
 1840	01	19	Examiner	0011	1840	01	16	TheTimes	0005
-1840	01	19		0013	1840	01	16	TheTimes	0005
+1840	01	19	SouthernStar	0013	1840	01	16	TheTimes	0005
 1840	01	22	AberdeenJournal	0002	1840	01	16	TheTimes	0005
 1840	01	22	DerbyMercury	0002	1840	01	16	TheTimes	0005
 1840	01	24	HullPacket	0002	1840	01	16	TheTimes	0005
@@ -5625,14 +5625,14 @@
 1840	01	19	TheCharter	0004	1840	01	16	TheTimes	0006
 1840	01	19	TheEra	0005	1840	01	16	TheTimes	0006
 1840	01	19	Examiner	0009	1840	01	16	TheTimes	0006
-1840	01	19		0012	1840	01	16	TheTimes	0006
+1840	01	19	SouthernStar	0012	1840	01	16	TheTimes	0006
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	16	TheTimes	0006
 1840	01	22	DerbyMercury	0002	1840	01	16	TheTimes	0006
 1840	01	24	HullPacket	0004	1840	01	16	TheTimes	0006
 1840	01	17	Freeman'sJournal	0002	1840	01	16	TheTimes	0007
 1840	01	19	Champion	0007	1840	01	16	TheTimes	0007
 1840	01	19	Examiner	0016	1840	01	16	TheTimes	0007
-1840	01	19		0006	1840	01	16	TheTimes	0007
+1840	01	19	SouthernStar	0006	1840	01	16	TheTimes	0007
 1840	01	17	HullPacket	0001	1840	01	16	Trewman'sExeterFlyingPost	0001
 1840	01	17	HullPacket	0002	1840	01	16	Trewman'sExeterFlyingPost	0001
 1840	01	17	NewcastleCourant	0006	1840	01	16	Trewman'sExeterFlyingPost	0001
@@ -5703,7 +5703,7 @@
 1840	01	25	ManchesterTimes	0004	1840	01	17	BelfastNews-Letter	0001
 1840	01	26	TheCharter	0011	1840	01	17	BelfastNews-Letter	0001
 1840	01	26	Examiner	0011	1840	01	17	BelfastNews-Letter	0001
-1840	01	26		0010	1840	01	17	BelfastNews-Letter	0001
+1840	01	26	SouthernStar	0010	1840	01	17	BelfastNews-Letter	0001
 1840	01	27	Freeman'sJournal	0003	1840	01	17	BelfastNews-Letter	0001
 1840	01	28	NorthWalesChronicle	0004	1840	01	17	BelfastNews-Letter	0001
 1840	01	18	CaledonianMercury	0002	1840	01	17	BelfastNews-Letter	0002
@@ -5722,10 +5722,10 @@
 1840	01	19	Examiner	0007	1840	01	17	BelfastNews-Letter	0002
 1840	01	19	Examiner	0008	1840	01	17	BelfastNews-Letter	0002
 1840	01	19	Examiner	0009	1840	01	17	BelfastNews-Letter	0002
-1840	01	19		0002	1840	01	17	BelfastNews-Letter	0002
+1840	01	19	SouthernStar	0002	1840	01	17	BelfastNews-Letter	0002
 1840	01	21	NorthWalesChronicle	0003	1840	01	17	BelfastNews-Letter	0002
 1840	01	24	NewcastleCourant	0008	1840	01	17	BelfastNews-Letter	0002
-1840	02	02		0011	1840	01	17	BelfastNews-Letter	0002
+1840	02	02	SouthernStar	0011	1840	01	17	BelfastNews-Letter	0002
 1840	01	18	BristolMercury	0003	1840	01	17	BelfastNews-Letter	0003
 1840	01	18	LeedsMercury	0003	1840	01	17	BelfastNews-Letter	0003
 1840	01	18	ManchesterTimes	0001	1840	01	17	BelfastNews-Letter	0003
@@ -5817,7 +5817,7 @@
 1840	01	19	TheEra	0005	1840	01	17	Freeman'sJournal	0002
 1840	01	19	TheEra	0009	1840	01	17	Freeman'sJournal	0002
 1840	01	19	Examiner	0007	1840	01	17	Freeman'sJournal	0002
-1840	01	19		0011	1840	01	17	Freeman'sJournal	0002
+1840	01	19	SouthernStar	0011	1840	01	17	Freeman'sJournal	0002
 1840	01	20	CaledonianMercury	0004	1840	01	17	Freeman'sJournal	0002
 1840	01	24	NewcastleCourant	0008	1840	01	17	Freeman'sJournal	0002
 1840	01	17	LiverpoolMercury	0007	1840	01	17	Freeman'sJournal	0004
@@ -5831,11 +5831,11 @@
 1840	01	19	TheCharter	0016	1840	01	17	Freeman'sJournal	0004
 1840	01	19	TheEra	0009	1840	01	17	Freeman'sJournal	0004
 1840	01	19	Examiner	0007	1840	01	17	Freeman'sJournal	0004
-1840	01	19		0002	1840	01	17	Freeman'sJournal	0004
+1840	01	19	SouthernStar	0002	1840	01	17	Freeman'sJournal	0004
 1840	01	22	AberdeenJournal	0003	1840	01	17	Freeman'sJournal	0004
 1840	01	22	DerbyMercury	0002	1840	01	17	Freeman'sJournal	0004
 1840	01	24	NewcastleCourant	0008	1840	01	17	Freeman'sJournal	0004
-1840	02	02		0011	1840	01	17	Freeman'sJournal	0004
+1840	02	02	SouthernStar	0011	1840	01	17	Freeman'sJournal	0004
 1840	01	17	NewcastleCourant	0006	1840	01	17	HullPacket	0001
 1840	01	18	Jackson'sOxfordJournal	0002	1840	01	17	HullPacket	0001
 1840	01	18	PrestonChronicle	0001	1840	01	17	HullPacket	0001
@@ -6031,7 +6031,7 @@
 1840	01	19	TheCharter	0004	1840	01	17	LiverpoolMercury	0002
 1840	01	19	TheEra	0005	1840	01	17	LiverpoolMercury	0002
 1840	01	19	Examiner	0009	1840	01	17	LiverpoolMercury	0002
-1840	01	19		0011	1840	01	17	LiverpoolMercury	0002
+1840	01	19	SouthernStar	0011	1840	01	17	LiverpoolMercury	0002
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	17	LiverpoolMercury	0002
 1840	01	17	BelfastNews-Letter	0004	1840	01	17	LiverpoolMercury	0003
 1840	01	17	HullPacket	0004	1840	01	17	LiverpoolMercury	0003
@@ -6093,9 +6093,9 @@
 1840	01	19	TheCharter	0016	1840	01	17	LiverpoolMercury	0007
 1840	01	19	TheEra	0009	1840	01	17	LiverpoolMercury	0007
 1840	01	19	Examiner	0007	1840	01	17	LiverpoolMercury	0007
-1840	01	19		0002	1840	01	17	LiverpoolMercury	0007
+1840	01	19	SouthernStar	0002	1840	01	17	LiverpoolMercury	0007
 1840	01	24	NewcastleCourant	0008	1840	01	17	LiverpoolMercury	0007
-1840	02	02		0011	1840	01	17	LiverpoolMercury	0007
+1840	02	02	SouthernStar	0011	1840	01	17	LiverpoolMercury	0007
 1840	01	17	BelfastNews-Letter	0002	1840	01	17	LiverpoolMercury	0008
 1840	01	17	MorningChronicle	0002	1840	01	17	LiverpoolMercury	0008
 1840	01	17	NewcastleCourant	0006	1840	01	17	LiverpoolMercury	0008
@@ -6119,7 +6119,7 @@
 1840	01	19	Examiner	0007	1840	01	17	LiverpoolMercury	0008
 1840	01	19	Examiner	0008	1840	01	17	LiverpoolMercury	0008
 1840	01	19	Examiner	0009	1840	01	17	LiverpoolMercury	0008
-1840	01	19		0005	1840	01	17	LiverpoolMercury	0008
+1840	01	19	SouthernStar	0005	1840	01	17	LiverpoolMercury	0008
 1840	01	20	Freeman'sJournal	0001	1840	01	17	LiverpoolMercury	0008
 1840	01	21	NorthWalesChronicle	0002	1840	01	17	LiverpoolMercury	0008
 1840	01	21	BelfastNews-Letter	0001	1840	01	17	LiverpoolMercury	0008
@@ -6132,7 +6132,7 @@
 1840	01	27	HampshirePortsmouthTelegraph	0001	1840	01	17	LiverpoolMercury	0008
 1840	01	29	AberdeenJournal	0002	1840	01	17	LiverpoolMercury	0008
 1840	01	29	DerbyMercury	0001	1840	01	17	LiverpoolMercury	0008
-1840	02	02		0011	1840	01	17	LiverpoolMercury	0008
+1840	02	02	SouthernStar	0011	1840	01	17	LiverpoolMercury	0008
 1840	01	17	TheTimes	0002	1840	01	17	MorningChronicle	0002
 1840	01	18	CaledonianMercury	0003	1840	01	17	MorningChronicle	0002
 1840	01	18	Freeman'sJournal	0002	1840	01	17	MorningChronicle	0002
@@ -6148,7 +6148,7 @@
 1840	01	19	TheEra	0002	1840	01	17	MorningChronicle	0002
 1840	01	19	Examiner	0001	1840	01	17	MorningChronicle	0002
 1840	01	19	Examiner	0005	1840	01	17	MorningChronicle	0002
-1840	01	19		0005	1840	01	17	MorningChronicle	0002
+1840	01	19	SouthernStar	0005	1840	01	17	MorningChronicle	0002
 1840	01	20	CaledonianMercury	0001	1840	01	17	MorningChronicle	0002
 1840	01	20	CaledonianMercury	0002	1840	01	17	MorningChronicle	0002
 1840	01	20	Freeman'sJournal	0002	1840	01	17	MorningChronicle	0002
@@ -6312,7 +6312,7 @@
 1840	01	19	TheCharter	0004	1840	01	17	NewcastleCourant	0007
 1840	01	19	TheEra	0005	1840	01	17	NewcastleCourant	0007
 1840	01	19	Examiner	0009	1840	01	17	NewcastleCourant	0007
-1840	01	19		0011	1840	01	17	NewcastleCourant	0007
+1840	01	19	SouthernStar	0011	1840	01	17	NewcastleCourant	0007
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	17	NewcastleCourant	0007
 1840	01	24	HullPacket	0004	1840	01	17	NewcastleCourant	0007
 1840	01	18	BristolMercury	0003	1840	01	17	NewcastleCourant	0008
@@ -6336,7 +6336,7 @@
 1840	01	19	TheEra	0006	1840	01	17	TheTimes	0002
 1840	01	19	Examiner	0001	1840	01	17	TheTimes	0002
 1840	01	19	Examiner	0005	1840	01	17	TheTimes	0002
-1840	01	19		0005	1840	01	17	TheTimes	0002
+1840	01	19	SouthernStar	0005	1840	01	17	TheTimes	0002
 1840	01	20	CaledonianMercury	0001	1840	01	17	TheTimes	0002
 1840	01	20	CaledonianMercury	0002	1840	01	17	TheTimes	0002
 1840	01	20	Freeman'sJournal	0001	1840	01	17	TheTimes	0002
@@ -6382,7 +6382,7 @@
 1840	01	19	TheEra	0002	1840	01	17	TheTimes	0006
 1840	01	19	TheEra	0009	1840	01	17	TheTimes	0006
 1840	01	19	Examiner	0009	1840	01	17	TheTimes	0006
-1840	01	19		0006	1840	01	17	TheTimes	0006
+1840	01	19	SouthernStar	0006	1840	01	17	TheTimes	0006
 1840	01	20	CaledonianMercury	0004	1840	01	17	TheTimes	0006
 1840	01	21	Freeman'sJournal	0004	1840	01	17	TheTimes	0006
 1840	01	21	NorthWalesChronicle	0003	1840	01	17	TheTimes	0006
@@ -6409,8 +6409,8 @@
 1840	01	19	TheCharter	0008	1840	01	17	TheTimes	0007
 1840	01	19	TheEra	0005	1840	01	17	TheTimes	0007
 1840	01	19	Examiner	0011	1840	01	17	TheTimes	0007
-1840	01	19		0009	1840	01	17	TheTimes	0007
-1840	01	19		0012	1840	01	17	TheTimes	0007
+1840	01	19	SouthernStar	0009	1840	01	17	TheTimes	0007
+1840	01	19	SouthernStar	0012	1840	01	17	TheTimes	0007
 1840	01	20	CaledonianMercury	0004	1840	01	17	TheTimes	0007
 1840	01	22	DerbyMercury	0004	1840	01	17	TheTimes	0007
 1840	01	24	NewcastleCourant	0003	1840	01	17	TheTimes	0007
@@ -6500,8 +6500,8 @@
 1840	01	19	Examiner	0008	1840	01	18	BristolMercury	0004
 1840	01	19	Examiner	0011	1840	01	18	BristolMercury	0004
 1840	01	19	Examiner	0013	1840	01	18	BristolMercury	0004
-1840	01	19		0002	1840	01	18	BristolMercury	0004
-1840	01	19		0005	1840	01	18	BristolMercury	0004
+1840	01	19	SouthernStar	0002	1840	01	18	BristolMercury	0004
+1840	01	19	SouthernStar	0005	1840	01	18	BristolMercury	0004
 1840	01	20	HampshirePortsmouthTelegraph	0001	1840	01	18	BristolMercury	0004
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	BristolMercury	0004
 1840	01	21	BelfastNews-Letter	0001	1840	01	18	BristolMercury	0004
@@ -6524,7 +6524,7 @@
 1840	02	01	PrestonChronicle	0001	1840	01	18	BristolMercury	0004
 1840	02	02	TheEra	0001	1840	01	18	BristolMercury	0004
 1840	02	02	Examiner	0014	1840	01	18	BristolMercury	0004
-1840	02	02		0011	1840	01	18	BristolMercury	0004
+1840	02	02	SouthernStar	0011	1840	01	18	BristolMercury	0004
 1840	02	08	ManchesterTimes	0001	1840	01	18	BristolMercury	0004
 1840	01	18	ManchesterTimes	0002	1840	01	18	BristolMercury	0006
 1840	01	18	NorthernStar	0002	1840	01	18	BristolMercury	0006
@@ -6602,7 +6602,7 @@
 1840	01	19	TheEra	0001	1840	01	18	CaledonianMercury	0001
 1840	01	19	TheEra	0010	1840	01	18	CaledonianMercury	0001
 1840	01	19	Examiner	0009	1840	01	18	CaledonianMercury	0001
-1840	01	19		0014	1840	01	18	CaledonianMercury	0001
+1840	01	19	SouthernStar	0014	1840	01	18	CaledonianMercury	0001
 1840	01	21	BelfastNews-Letter	0001	1840	01	18	CaledonianMercury	0001
 1840	01	21	BelfastNews-Letter	0002	1840	01	18	CaledonianMercury	0001
 1840	01	21	BelfastNews-Letter	0003	1840	01	18	CaledonianMercury	0001
@@ -6669,7 +6669,7 @@
 1840	01	19	TheEra	0003	1840	01	18	Freeman'sJournal	0002
 1840	01	19	Examiner	0005	1840	01	18	Freeman'sJournal	0002
 1840	01	19	Examiner	0010	1840	01	18	Freeman'sJournal	0002
-1840	01	19		0005	1840	01	18	Freeman'sJournal	0002
+1840	01	19	SouthernStar	0005	1840	01	18	Freeman'sJournal	0002
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	Freeman'sJournal	0002
 1840	01	21	BelfastNews-Letter	0001	1840	01	18	Freeman'sJournal	0002
 1840	01	21	BelfastNews-Letter	0002	1840	01	18	Freeman'sJournal	0002
@@ -6751,9 +6751,9 @@
 1840	01	19	TheEra	0012	1840	01	18	IpswichJournal	0003
 1840	01	19	Examiner	0005	1840	01	18	IpswichJournal	0003
 1840	01	19	Examiner	0009	1840	01	18	IpswichJournal	0003
-1840	01	19		0011	1840	01	18	IpswichJournal	0003
-1840	01	19		0012	1840	01	18	IpswichJournal	0003
-1840	01	19		0013	1840	01	18	IpswichJournal	0003
+1840	01	19	SouthernStar	0011	1840	01	18	IpswichJournal	0003
+1840	01	19	SouthernStar	0012	1840	01	18	IpswichJournal	0003
+1840	01	19	SouthernStar	0013	1840	01	18	IpswichJournal	0003
 1840	01	20	CaledonianMercury	0004	1840	01	18	IpswichJournal	0003
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	IpswichJournal	0003
 1840	01	21	Freeman'sJournal	0004	1840	01	18	IpswichJournal	0003
@@ -6820,7 +6820,7 @@
 1840	01	28	BelfastNews-Letter	0003	1840	01	18	Jackson'sOxfordJournal	0001
 1840	01	31	HullPacket	0001	1840	01	18	Jackson'sOxfordJournal	0001
 1840	02	01	IpswichJournal	0002	1840	01	18	Jackson'sOxfordJournal	0001
-1840	02	02		0016	1840	01	18	Jackson'sOxfordJournal	0001
+1840	02	02	SouthernStar	0016	1840	01	18	Jackson'sOxfordJournal	0001
 1840	02	05	DerbyMercury	0001	1840	01	18	Jackson'sOxfordJournal	0001
 1840	02	05	DerbyMercury	0002	1840	01	18	Jackson'sOxfordJournal	0001
 1840	02	07	HullPacket	0001	1840	01	18	Jackson'sOxfordJournal	0001
@@ -6833,8 +6833,8 @@
 1840	01	19	Champion	0007	1840	01	18	Jackson'sOxfordJournal	0002
 1840	01	19	TheEra	0005	1840	01	18	Jackson'sOxfordJournal	0002
 1840	01	19	Examiner	0011	1840	01	18	Jackson'sOxfordJournal	0002
-1840	01	19		0005	1840	01	18	Jackson'sOxfordJournal	0002
-1840	01	19		0011	1840	01	18	Jackson'sOxfordJournal	0002
+1840	01	19	SouthernStar	0005	1840	01	18	Jackson'sOxfordJournal	0002
+1840	01	19	SouthernStar	0011	1840	01	18	Jackson'sOxfordJournal	0002
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	Jackson'sOxfordJournal	0002
 1840	01	21	NorthWalesChronicle	0003	1840	01	18	Jackson'sOxfordJournal	0002
 1840	01	22	Freeman'sJournal	0004	1840	01	18	Jackson'sOxfordJournal	0002
@@ -6866,7 +6866,7 @@
 1840	01	19	TheEra	0011	1840	01	18	Jackson'sOxfordJournal	0003
 1840	01	19	Examiner	0005	1840	01	18	Jackson'sOxfordJournal	0003
 1840	01	19	Examiner	0009	1840	01	18	Jackson'sOxfordJournal	0003
-1840	01	19		0005	1840	01	18	Jackson'sOxfordJournal	0003
+1840	01	19	SouthernStar	0005	1840	01	18	Jackson'sOxfordJournal	0003
 1840	01	20	CaledonianMercury	0004	1840	01	18	Jackson'sOxfordJournal	0003
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	18	Jackson'sOxfordJournal	0003
 1840	01	21	Freeman'sJournal	0004	1840	01	18	Jackson'sOxfordJournal	0003
@@ -6927,7 +6927,7 @@
 1840	01	19	TheEra	0009	1840	01	18	LeedsMercury	0004
 1840	01	19	Examiner	0005	1840	01	18	LeedsMercury	0004
 1840	01	19	Examiner	0009	1840	01	18	LeedsMercury	0004
-1840	01	19		0005	1840	01	18	LeedsMercury	0004
+1840	01	19	SouthernStar	0005	1840	01	18	LeedsMercury	0004
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	LeedsMercury	0004
 1840	01	21	Freeman'sJournal	0004	1840	01	18	LeedsMercury	0004
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	LeedsMercury	0004
@@ -7008,7 +7008,7 @@
 1840	02	01	NorthernStar	0002	1840	01	18	ManchesterTimes	0001
 1840	02	02	TheEra	0012	1840	01	18	ManchesterTimes	0001
 1840	02	02	Examiner	0015	1840	01	18	ManchesterTimes	0001
-1840	02	02		0016	1840	01	18	ManchesterTimes	0001
+1840	02	02	SouthernStar	0016	1840	01	18	ManchesterTimes	0001
 1840	02	04	NorthWalesChronicle	0001	1840	01	18	ManchesterTimes	0001
 1840	02	05	DerbyMercury	0001	1840	01	18	ManchesterTimes	0001
 1840	02	07	Freeman'sJournal	0001	1840	01	18	ManchesterTimes	0001
@@ -7029,8 +7029,8 @@
 1840	01	19	TheEra	0009	1840	01	18	ManchesterTimes	0002
 1840	01	19	Examiner	0005	1840	01	18	ManchesterTimes	0002
 1840	01	19	Examiner	0007	1840	01	18	ManchesterTimes	0002
-1840	01	19		0002	1840	01	18	ManchesterTimes	0002
-1840	01	19		0005	1840	01	18	ManchesterTimes	0002
+1840	01	19	SouthernStar	0002	1840	01	18	ManchesterTimes	0002
+1840	01	19	SouthernStar	0005	1840	01	18	ManchesterTimes	0002
 1840	01	20	TheTimes	0007	1840	01	18	ManchesterTimes	0002
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	ManchesterTimes	0002
 1840	01	21	BelfastNews-Letter	0001	1840	01	18	ManchesterTimes	0002
@@ -7062,7 +7062,7 @@
 1840	01	19	TheCharter	0005	1840	01	18	ManchesterTimes	0003
 1840	01	19	TheEra	0005	1840	01	18	ManchesterTimes	0003
 1840	01	19	Examiner	0009	1840	01	18	ManchesterTimes	0003
-1840	01	19		0012	1840	01	18	ManchesterTimes	0003
+1840	01	19	SouthernStar	0012	1840	01	18	ManchesterTimes	0003
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	ManchesterTimes	0003
 1840	01	22	DerbyMercury	0004	1840	01	18	ManchesterTimes	0003
 1840	01	24	HullPacket	0003	1840	01	18	ManchesterTimes	0003
@@ -7105,8 +7105,8 @@
 1840	01	19	TheCharter	0005	1840	01	18	MorningChronicle	0004
 1840	01	19	TheEra	0005	1840	01	18	MorningChronicle	0004
 1840	01	19	TheEra	0007	1840	01	18	MorningChronicle	0004
-1840	01	19		0012	1840	01	18	MorningChronicle	0004
-1840	01	19		0013	1840	01	18	MorningChronicle	0004
+1840	01	19	SouthernStar	0012	1840	01	18	MorningChronicle	0004
+1840	01	19	SouthernStar	0013	1840	01	18	MorningChronicle	0004
 1840	01	21	Freeman'sJournal	0001	1840	01	18	MorningChronicle	0004
 1840	01	24	HullPacket	0002	1840	01	18	MorningChronicle	0004
 1840	01	24	NewcastleCourant	0003	1840	01	18	MorningChronicle	0004
@@ -7120,8 +7120,8 @@
 1840	01	19	TheEra	0005	1840	01	18	NorthernStar	0001
 1840	01	19	Examiner	0005	1840	01	18	NorthernStar	0001
 1840	01	19	Examiner	0009	1840	01	18	NorthernStar	0001
-1840	01	19		0005	1840	01	18	NorthernStar	0001
-1840	01	19		0012	1840	01	18	NorthernStar	0001
+1840	01	19	SouthernStar	0005	1840	01	18	NorthernStar	0001
+1840	01	19	SouthernStar	0012	1840	01	18	NorthernStar	0001
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	18	NorthernStar	0001
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	NorthernStar	0001
 1840	01	21	BelfastNews-Letter	0001	1840	01	18	NorthernStar	0001
@@ -7166,10 +7166,10 @@
 1840	01	19	TheEra	0005	1840	01	18	NorthernStar	0003
 1840	01	19	Examiner	0009	1840	01	18	NorthernStar	0003
 1840	01	19	Examiner	0011	1840	01	18	NorthernStar	0003
-1840	01	19		0003	1840	01	18	NorthernStar	0003
-1840	01	19		0012	1840	01	18	NorthernStar	0003
+1840	01	19	SouthernStar	0003	1840	01	18	NorthernStar	0003
+1840	01	19	SouthernStar	0012	1840	01	18	NorthernStar	0003
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	NorthernStar	0003
-1840	01	26		0013	1840	01	18	NorthernStar	0004
+1840	01	26	SouthernStar	0013	1840	01	18	NorthernStar	0004
 1840	01	19	Champion	0003	1840	01	18	NorthernStar	0006
 1840	01	19	TheCharter	0010	1840	01	18	NorthernStar	0006
 1840	01	19	TheEra	0002	1840	01	18	NorthernStar	0006
@@ -7316,8 +7316,8 @@
 1840	01	19	TheEra	0005	1840	01	18	PrestonChronicle	0002
 1840	01	19	Examiner	0005	1840	01	18	PrestonChronicle	0002
 1840	01	19	Examiner	0009	1840	01	18	PrestonChronicle	0002
-1840	01	19		0005	1840	01	18	PrestonChronicle	0002
-1840	01	19		0011	1840	01	18	PrestonChronicle	0002
+1840	01	19	SouthernStar	0005	1840	01	18	PrestonChronicle	0002
+1840	01	19	SouthernStar	0011	1840	01	18	PrestonChronicle	0002
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	18	PrestonChronicle	0002
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	18	PrestonChronicle	0002
 1840	01	21	NorthWalesChronicle	0002	1840	01	18	PrestonChronicle	0002
@@ -7330,7 +7330,7 @@
 1840	01	25	BristolMercury	0002	1840	01	18	PrestonChronicle	0002
 1840	02	05	DerbyMercury	0001	1840	01	18	PrestonChronicle	0002
 1840	01	19	TheEra	0010	1840	01	18	PrestonChronicle	0003
-1840	01	19		0004	1840	01	18	PrestonChronicle	0003
+1840	01	19	SouthernStar	0004	1840	01	18	PrestonChronicle	0003
 1840	01	22	DerbyMercury	0002	1840	01	18	PrestonChronicle	0003
 1840	01	18	BristolMercury	0006	1840	01	18	PrestonChronicle	0004
 1840	01	18	IpswichJournal	0001	1840	01	18	PrestonChronicle	0004
@@ -7403,7 +7403,7 @@
 1840	01	19	TheCharter	0015	1840	01	18	TheTimes	0007
 1840	01	19	TheEra	0007	1840	01	18	TheTimes	0007
 1840	01	19	TheEra	0010	1840	01	18	TheTimes	0007
-1840	01	19		0013	1840	01	18	TheTimes	0007
+1840	01	19	SouthernStar	0013	1840	01	18	TheTimes	0007
 1840	01	20	MorningChronicle	0003	1840	01	18	TheTimes	0007
 1840	01	22	Freeman'sJournal	0001	1840	01	18	TheTimes	0007
 1840	01	22	DerbyMercury	0004	1840	01	18	TheTimes	0007
@@ -7419,7 +7419,7 @@
 1840	01	19	TheEra	0001	1840	01	19	Champion	0001
 1840	01	19	TheEra	0003	1840	01	19	Champion	0001
 1840	01	19	Examiner	0012	1840	01	19	Champion	0001
-1840	01	19		0015	1840	01	19	Champion	0001
+1840	01	19	SouthernStar	0015	1840	01	19	Champion	0001
 1840	01	21	BelfastNews-Letter	0003	1840	01	19	Champion	0001
 1840	01	22	DerbyMercury	0002	1840	01	19	Champion	0001
 1840	01	24	HullPacket	0004	1840	01	19	Champion	0001
@@ -7436,16 +7436,16 @@
 1840	01	19	TheEra	0009	1840	01	19	Champion	0002
 1840	01	19	Examiner	0007	1840	01	19	Champion	0002
 1840	01	19	Examiner	0008	1840	01	19	Champion	0002
-1840	01	19		0002	1840	01	19	Champion	0002
+1840	01	19	SouthernStar	0002	1840	01	19	Champion	0002
 1840	01	24	NewcastleCourant	0008	1840	01	19	Champion	0002
 1840	01	26	TheCharter	0008	1840	01	19	Champion	0002
-1840	02	02		0011	1840	01	19	Champion	0002
+1840	02	02	SouthernStar	0011	1840	01	19	Champion	0002
 1840	01	19	TheCharter	0004	1840	01	19	Champion	0003
 1840	01	19	TheCharter	0010	1840	01	19	Champion	0003
 1840	01	19	TheCharter	0011	1840	01	19	Champion	0003
 1840	01	19	TheEra	0002	1840	01	19	Champion	0003
 1840	01	19	Examiner	0009	1840	01	19	Champion	0003
-1840	01	19		0014	1840	01	19	Champion	0003
+1840	01	19	SouthernStar	0014	1840	01	19	Champion	0003
 1840	01	20	CaledonianMercury	0004	1840	01	19	Champion	0003
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	Champion	0003
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	19	Champion	0003
@@ -7462,9 +7462,9 @@
 1840	01	19	TheCharter	0012	1840	01	19	Champion	0004
 1840	01	19	TheEra	0005	1840	01	19	Champion	0004
 1840	01	19	Examiner	0009	1840	01	19	Champion	0004
-1840	01	19		0009	1840	01	19	Champion	0004
-1840	01	19		0011	1840	01	19	Champion	0004
-1840	01	19		0012	1840	01	19	Champion	0004
+1840	01	19	SouthernStar	0009	1840	01	19	Champion	0004
+1840	01	19	SouthernStar	0011	1840	01	19	Champion	0004
+1840	01	19	SouthernStar	0012	1840	01	19	Champion	0004
 1840	01	20	Freeman'sJournal	0003	1840	01	19	Champion	0004
 1840	01	20	Freeman'sJournal	0004	1840	01	19	Champion	0004
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	Champion	0004
@@ -7479,7 +7479,7 @@
 1840	01	19	TheEra	0002	1840	01	19	Champion	0005
 1840	01	19	TheEra	0006	1840	01	19	Champion	0005
 1840	01	19	Examiner	0005	1840	01	19	Champion	0005
-1840	01	19		0005	1840	01	19	Champion	0005
+1840	01	19	SouthernStar	0005	1840	01	19	Champion	0005
 1840	01	20	Freeman'sJournal	0001	1840	01	19	Champion	0005
 1840	01	20	Freeman'sJournal	0002	1840	01	19	Champion	0005
 1840	01	21	NorthWalesChronicle	0002	1840	01	19	Champion	0005
@@ -7517,9 +7517,9 @@
 1840	01	19	TheCharter	0012	1840	01	19	Champion	0007
 1840	01	19	TheEra	0004	1840	01	19	Champion	0007
 1840	01	19	Examiner	0011	1840	01	19	Champion	0007
-1840	01	19		0004	1840	01	19	Champion	0007
-1840	01	19		0005	1840	01	19	Champion	0007
-1840	01	19		0006	1840	01	19	Champion	0007
+1840	01	19	SouthernStar	0004	1840	01	19	Champion	0007
+1840	01	19	SouthernStar	0005	1840	01	19	Champion	0007
+1840	01	19	SouthernStar	0006	1840	01	19	Champion	0007
 1840	01	28	NorthWalesChronicle	0001	1840	01	19	Champion	0007
 1840	01	31	HullPacket	0004	1840	01	19	Champion	0007
 1840	02	01	BristolMercury	0007	1840	01	19	Champion	0007
@@ -7533,7 +7533,7 @@
 1840	01	20	CaledonianMercury	0002	1840	01	19	Examiner	0001
 1840	01	22	DerbyMercury	0004	1840	01	19	Examiner	0001
 1840	02	08	ChartistCircular	0003	1840	01	19	Examiner	0004
-1840	01	19		0005	1840	01	19	Examiner	0005
+1840	01	19	SouthernStar	0005	1840	01	19	Examiner	0005
 1840	01	20	CaledonianMercury	0001	1840	01	19	Examiner	0005
 1840	01	20	CaledonianMercury	0002	1840	01	19	Examiner	0005
 1840	01	20	Freeman'sJournal	0001	1840	01	19	Examiner	0005
@@ -7549,12 +7549,12 @@
 1840	01	24	LiverpoolMercury	0002	1840	01	19	Examiner	0006
 1840	01	24	HullPacket	0004	1840	01	19	Examiner	0006
 1840	01	25	PrestonChronicle	0001	1840	01	19	Examiner	0006
-1840	01	19		0002	1840	01	19	Examiner	0007
+1840	01	19	SouthernStar	0002	1840	01	19	Examiner	0007
 1840	01	24	NewcastleCourant	0008	1840	01	19	Examiner	0007
-1840	02	02		0011	1840	01	19	Examiner	0007
+1840	02	02	SouthernStar	0011	1840	01	19	Examiner	0007
 1840	01	21	BelfastNews-Letter	0001	1840	01	19	Examiner	0008
 1840	01	24	NewcastleCourant	0008	1840	01	19	Examiner	0008
-1840	02	02		0011	1840	01	19	Examiner	0008
+1840	02	02	SouthernStar	0011	1840	01	19	Examiner	0008
 1840	01	20	CaledonianMercury	0004	1840	01	19	Examiner	0009
 1840	01	20	Freeman'sJournal	0003	1840	01	19	Examiner	0009
 1840	01	20	Freeman'sJournal	0004	1840	01	19	Examiner	0009
@@ -7578,8 +7578,8 @@
 1840	01	24	NewcastleCourant	0008	1840	01	19	Examiner	0010
 1840	01	25	PrestonChronicle	0004	1840	01	19	Examiner	0010
 1840	02	02	Champion	0007	1840	01	19	Examiner	0010
-1840	01	19		0005	1840	01	19	Examiner	0011
-1840	01	19		0010	1840	01	19	Examiner	0011
+1840	01	19	SouthernStar	0005	1840	01	19	Examiner	0011
+1840	01	19	SouthernStar	0010	1840	01	19	Examiner	0011
 1840	01	21	NorthWalesChronicle	0004	1840	01	19	Examiner	0011
 1840	01	22	AberdeenJournal	0002	1840	01	19	Examiner	0011
 1840	01	24	LiverpoolMercury	0006	1840	01	19	Examiner	0011
@@ -7604,25 +7604,49 @@
 1840	02	01	ManchesterTimes	0001	1840	01	19	Examiner	0015
 1840	01	20	TheTimes	0007	1840	01	19	Examiner	0016
 1840	01	30	MorningChronicle	0007	1840	01	19	Examiner	0016
+1840	01	24	NewcastleCourant	0008	1840	01	19	SouthernStar	0002
+1840	01	26	Examiner	0009	1840	01	19	SouthernStar	0002
+1840	01	21	NorthWalesChronicle	0002	1840	01	19	SouthernStar	0005
+1840	01	21	BelfastNews-Letter	0001	1840	01	19	SouthernStar	0005
+1840	01	22	DerbyMercury	0004	1840	01	19	SouthernStar	0005
+1840	01	24	HullPacket	0004	1840	01	19	SouthernStar	0005
+1840	01	24	NewcastleCourant	0002	1840	01	19	SouthernStar	0005
+1840	01	20	CaledonianMercury	0004	1840	01	19	SouthernStar	0006
+1840	01	24	NewcastleCourant	0008	1840	01	19	SouthernStar	0006
+1840	01	25	NorthernStar	0002	1840	01	19	SouthernStar	0006
+1840	01	20	CaledonianMercury	0004	1840	01	19	SouthernStar	0009
+1840	01	21	NorthWalesChronicle	0004	1840	01	19	SouthernStar	0009
+1840	01	22	DerbyMercury	0004	1840	01	19	SouthernStar	0009
+1840	01	24	NewcastleCourant	0003	1840	01	19	SouthernStar	0009
+1840	01	25	NorthernStar	0002	1840	01	19	SouthernStar	0009
+1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	SouthernStar	0011
+1840	01	24	NewcastleCourant	0003	1840	01	19	SouthernStar	0012
+1840	01	25	BristolMercury	0007	1840	01	19	SouthernStar	0012
+1840	01	21	Freeman'sJournal	0004	1840	01	19	SouthernStar	0013
+1840	01	23	TheTimes	0006	1840	01	19	SouthernStar	0013
+1840	01	24	HullPacket	0002	1840	01	19	SouthernStar	0013
+1840	01	26	Champion	0006	1840	01	19	SouthernStar	0013
+1840	01	26	TheEra	0005	1840	01	19	SouthernStar	0013
+1840	01	24	HullPacket	0002	1840	01	19	SouthernStar	0014
 1840	01	19	TheEra	0004	1840	01	19	TheCharter	0002
 1840	01	19	Examiner	0011	1840	01	19	TheCharter	0002
-1840	01	19		0004	1840	01	19	TheCharter	0002
+1840	01	19	SouthernStar	0004	1840	01	19	TheCharter	0002
 1840	01	19	TheEra	0004	1840	01	19	TheCharter	0003
 1840	01	19	Examiner	0009	1840	01	19	TheCharter	0003
-1840	01	19		0004	1840	01	19	TheCharter	0003
-1840	01	19		0013	1840	01	19	TheCharter	0003
+1840	01	19	SouthernStar	0004	1840	01	19	TheCharter	0003
+1840	01	19	SouthernStar	0013	1840	01	19	TheCharter	0003
 1840	01	26	Champion	0006	1840	01	19	TheCharter	0003
 1840	01	19	TheEra	0005	1840	01	19	TheCharter	0004
 1840	01	19	Examiner	0009	1840	01	19	TheCharter	0004
-1840	01	19		0011	1840	01	19	TheCharter	0004
-1840	01	19		0013	1840	01	19	TheCharter	0004
+1840	01	19	SouthernStar	0011	1840	01	19	TheCharter	0004
+1840	01	19	SouthernStar	0013	1840	01	19	TheCharter	0004
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	TheCharter	0004
 1840	01	21	NorthWalesChronicle	0003	1840	01	19	TheCharter	0004
 1840	01	24	HullPacket	0002	1840	01	19	TheCharter	0004
 1840	01	19	TheEra	0005	1840	01	19	TheCharter	0005
-1840	01	19		0006	1840	01	19	TheCharter	0005
-1840	01	19		0009	1840	01	19	TheCharter	0005
-1840	01	19		0012	1840	01	19	TheCharter	0005
+1840	01	19	SouthernStar	0006	1840	01	19	TheCharter	0005
+1840	01	19	SouthernStar	0009	1840	01	19	TheCharter	0005
+1840	01	19	SouthernStar	0012	1840	01	19	TheCharter	0005
 1840	01	20	CaledonianMercury	0004	1840	01	19	TheCharter	0005
 1840	01	22	DerbyMercury	0004	1840	01	19	TheCharter	0005
 1840	01	24	NewcastleCourant	0003	1840	01	19	TheCharter	0005
@@ -7631,7 +7655,7 @@
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	19	TheCharter	0005
 1840	01	19	TheEra	0003	1840	01	19	TheCharter	0006
 1840	01	19	Examiner	0005	1840	01	19	TheCharter	0006
-1840	01	19		0005	1840	01	19	TheCharter	0006
+1840	01	19	SouthernStar	0005	1840	01	19	TheCharter	0006
 1840	01	20	CaledonianMercury	0002	1840	01	19	TheCharter	0006
 1840	01	20	Freeman'sJournal	0002	1840	01	19	TheCharter	0006
 1840	01	21	NorthWalesChronicle	0002	1840	01	19	TheCharter	0006
@@ -7649,7 +7673,7 @@
 1840	01	19	TheEra	0010	1840	01	19	TheCharter	0007
 1840	01	19	Examiner	0003	1840	01	19	TheCharter	0007
 1840	01	19	Examiner	0011	1840	01	19	TheCharter	0007
-1840	01	19		0010	1840	01	19	TheCharter	0007
+1840	01	19	SouthernStar	0010	1840	01	19	TheCharter	0007
 1840	01	20	CaledonianMercury	0002	1840	01	19	TheCharter	0007
 1840	01	20	Freeman'sJournal	0003	1840	01	19	TheCharter	0007
 1840	01	20	TheTimes	0007	1840	01	19	TheCharter	0007
@@ -7671,7 +7695,7 @@
 1840	01	19	TheEra	0002	1840	01	19	TheCharter	0011
 1840	01	19	TheEra	0007	1840	01	19	TheCharter	0011
 1840	01	19	Examiner	0009	1840	01	19	TheCharter	0011
-1840	01	19		0014	1840	01	19	TheCharter	0011
+1840	01	19	SouthernStar	0014	1840	01	19	TheCharter	0011
 1840	01	20	CaledonianMercury	0004	1840	01	19	TheCharter	0011
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	19	TheCharter	0011
 1840	01	21	Freeman'sJournal	0004	1840	01	19	TheCharter	0011
@@ -7688,9 +7712,9 @@
 1840	01	25	NorthernStar	0007	1840	01	19	TheCharter	0011
 1840	01	19	TheEra	0010	1840	01	19	TheCharter	0012
 1840	01	19	Examiner	0011	1840	01	19	TheCharter	0012
-1840	01	19		0005	1840	01	19	TheCharter	0012
-1840	01	19		0006	1840	01	19	TheCharter	0012
-1840	01	19		0009	1840	01	19	TheCharter	0012
+1840	01	19	SouthernStar	0005	1840	01	19	TheCharter	0012
+1840	01	19	SouthernStar	0006	1840	01	19	TheCharter	0012
+1840	01	19	SouthernStar	0009	1840	01	19	TheCharter	0012
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	TheCharter	0012
 1840	01	21	NorthWalesChronicle	0004	1840	01	19	TheCharter	0012
 1840	01	22	AberdeenJournal	0002	1840	01	19	TheCharter	0012
@@ -7720,7 +7744,7 @@
 1840	01	19	Examiner	0008	1840	01	19	TheCharter	0016
 1840	01	22	AberdeenJournal	0003	1840	01	19	TheCharter	0016
 1840	01	24	NewcastleCourant	0008	1840	01	19	TheCharter	0016
-1840	02	02		0011	1840	01	19	TheCharter	0016
+1840	02	02	SouthernStar	0011	1840	01	19	TheCharter	0016
 1840	01	19	Examiner	0013	1840	01	19	TheEra	0001
 1840	01	20	HampshirePortsmouthTelegraph	0001	1840	01	19	TheEra	0001
 1840	01	21	BelfastNews-Letter	0003	1840	01	19	TheEra	0001
@@ -7754,7 +7778,7 @@
 1840	01	19	Examiner	0001	1840	01	19	TheEra	0002
 1840	01	19	Examiner	0005	1840	01	19	TheEra	0002
 1840	01	19	Examiner	0009	1840	01	19	TheEra	0002
-1840	01	19		0005	1840	01	19	TheEra	0002
+1840	01	19	SouthernStar	0005	1840	01	19	TheEra	0002
 1840	01	20	CaledonianMercury	0004	1840	01	19	TheEra	0002
 1840	01	20	Freeman'sJournal	0002	1840	01	19	TheEra	0002
 1840	01	20	HampshirePortsmouthTelegraph	0003	1840	01	19	TheEra	0002
@@ -7779,11 +7803,11 @@
 1840	01	24	HullPacket	0004	1840	01	19	TheEra	0003
 1840	01	25	BristolMercury	0002	1840	01	19	TheEra	0003
 1840	01	19	Examiner	0011	1840	01	19	TheEra	0004
-1840	01	19		0004	1840	01	19	TheEra	0004
+1840	01	19	SouthernStar	0004	1840	01	19	TheEra	0004
 1840	01	19	Examiner	0009	1840	01	19	TheEra	0005
-1840	01	19		0011	1840	01	19	TheEra	0005
-1840	01	19		0012	1840	01	19	TheEra	0005
-1840	01	19		0013	1840	01	19	TheEra	0005
+1840	01	19	SouthernStar	0011	1840	01	19	TheEra	0005
+1840	01	19	SouthernStar	0012	1840	01	19	TheEra	0005
+1840	01	19	SouthernStar	0013	1840	01	19	TheEra	0005
 1840	01	20	Freeman'sJournal	0003	1840	01	19	TheEra	0005
 1840	01	20	Freeman'sJournal	0004	1840	01	19	TheEra	0005
 1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19	TheEra	0005
@@ -7871,30 +7895,6 @@
 1840	02	08	PrestonChronicle	0003	1840	01	19	TheEra	0012
 1840	02	08	BristolMercury	0006	1840	01	19	TheEra	0012
 1840	02	08	BristolMercury	0008	1840	01	19	TheEra	0012
-1840	01	24	NewcastleCourant	0008	1840	01	19		0002
-1840	01	26	Examiner	0009	1840	01	19		0002
-1840	01	21	NorthWalesChronicle	0002	1840	01	19		0005
-1840	01	21	BelfastNews-Letter	0001	1840	01	19		0005
-1840	01	22	DerbyMercury	0004	1840	01	19		0005
-1840	01	24	HullPacket	0004	1840	01	19		0005
-1840	01	24	NewcastleCourant	0002	1840	01	19		0005
-1840	01	20	CaledonianMercury	0004	1840	01	19		0006
-1840	01	24	NewcastleCourant	0008	1840	01	19		0006
-1840	01	25	NorthernStar	0002	1840	01	19		0006
-1840	01	20	CaledonianMercury	0004	1840	01	19		0009
-1840	01	21	NorthWalesChronicle	0004	1840	01	19		0009
-1840	01	22	DerbyMercury	0004	1840	01	19		0009
-1840	01	24	NewcastleCourant	0003	1840	01	19		0009
-1840	01	25	NorthernStar	0002	1840	01	19		0009
-1840	01	20	HampshirePortsmouthTelegraph	0002	1840	01	19		0011
-1840	01	24	NewcastleCourant	0003	1840	01	19		0012
-1840	01	25	BristolMercury	0007	1840	01	19		0012
-1840	01	21	Freeman'sJournal	0004	1840	01	19		0013
-1840	01	23	TheTimes	0006	1840	01	19		0013
-1840	01	24	HullPacket	0002	1840	01	19		0013
-1840	01	26	Champion	0006	1840	01	19		0013
-1840	01	26	TheEra	0005	1840	01	19		0013
-1840	01	24	HullPacket	0002	1840	01	19		0014
 1840	01	20	Freeman'sJournal	0001	1840	01	20	CaledonianMercury	0001
 1840	01	21	BelfastNews-Letter	0003	1840	01	20	CaledonianMercury	0001
 1840	01	22	DerbyMercury	0001	1840	01	20	CaledonianMercury	0001
@@ -8346,7 +8346,7 @@
 1840	02	02	Champion	0002	1840	01	22	DerbyMercury	0001
 1840	02	02	TheEra	0012	1840	01	22	DerbyMercury	0001
 1840	02	02	Examiner	0015	1840	01	22	DerbyMercury	0001
-1840	02	02		0016	1840	01	22	DerbyMercury	0001
+1840	02	02	SouthernStar	0016	1840	01	22	DerbyMercury	0001
 1840	02	04	NorthWalesChronicle	0001	1840	01	22	DerbyMercury	0001
 1840	02	05	Freeman'sJournal	0001	1840	01	22	DerbyMercury	0001
 1840	02	05	MorningChronicle	0005	1840	01	22	DerbyMercury	0001
@@ -8374,7 +8374,7 @@
 1840	02	08	ManchesterTimes	0001	1840	01	22	DerbyMercury	0001
 1840	02	08	TheTimes	0001	1840	01	22	DerbyMercury	0001
 1840	02	09	Champion	0001	1840	01	22	DerbyMercury	0001
-1840	02	09		0008	1840	01	22	DerbyMercury	0001
+1840	02	09	SouthernStar	0008	1840	01	22	DerbyMercury	0001
 1840	02	10	Freeman'sJournal	0001	1840	01	22	DerbyMercury	0001
 1840	02	11	Freeman'sJournal	0001	1840	01	22	DerbyMercury	0001
 1840	02	12	Freeman'sJournal	0001	1840	01	22	DerbyMercury	0001
@@ -8602,7 +8602,7 @@
 1840	01	26	TheEra	0004	1840	01	22	MorningChronicle	0006
 1840	01	26	TheEra	0010	1840	01	22	MorningChronicle	0006
 1840	01	26	Examiner	0009	1840	01	22	MorningChronicle	0006
-1840	01	26		0015	1840	01	22	MorningChronicle	0006
+1840	01	26	SouthernStar	0015	1840	01	22	MorningChronicle	0006
 1840	01	27	HampshirePortsmouthTelegraph	0001	1840	01	22	MorningChronicle	0006
 1840	01	31	NewcastleCourant	0007	1840	01	22	MorningChronicle	0006
 1840	01	26	TheCharter	0002	1840	01	22	MorningChronicle	0007
@@ -8636,7 +8636,7 @@
 1840	01	26	TheEra	0004	1840	01	22	TheTimes	0006
 1840	01	26	TheEra	0005	1840	01	22	TheTimes	0006
 1840	01	26	Examiner	0012	1840	01	22	TheTimes	0006
-1840	01	26		0015	1840	01	22	TheTimes	0006
+1840	01	26	SouthernStar	0015	1840	01	22	TheTimes	0006
 1840	01	25	Jackson'sOxfordJournal	0002	1840	01	22	TheTimes	0007
 1840	01	25	IpswichJournal	0003	1840	01	22	TheTimes	0007
 1840	01	25	ManchesterTimes	0001	1840	01	22	TheTimes	0007
@@ -8738,7 +8738,7 @@
 1840	01	26	Champion	0007	1840	01	23	MorningChronicle	0001
 1840	01	26	TheCharter	0012	1840	01	23	MorningChronicle	0001
 1840	01	26	Examiner	0011	1840	01	23	MorningChronicle	0001
-1840	01	26		0015	1840	01	23	MorningChronicle	0001
+1840	01	26	SouthernStar	0015	1840	01	23	MorningChronicle	0001
 1840	01	27	Freeman'sJournal	0003	1840	01	23	MorningChronicle	0001
 1840	01	28	NorthWalesChronicle	0003	1840	01	23	MorningChronicle	0001
 1840	01	23	TheTimes	0002	1840	01	23	MorningChronicle	0002
@@ -8758,7 +8758,7 @@
 1840	01	28	BelfastNews-Letter	0002	1840	01	23	MorningChronicle	0003
 1840	01	31	NewcastleCourant	0002	1840	01	23	MorningChronicle	0003
 1840	01	31	NewcastleCourant	0003	1840	01	23	MorningChronicle	0003
-1840	02	02		0005	1840	01	23	MorningChronicle	0003
+1840	02	02	SouthernStar	0005	1840	01	23	MorningChronicle	0003
 1840	02	07	TheTimes	0003	1840	01	23	MorningChronicle	0003
 1840	01	25	Freeman'sJournal	0004	1840	01	23	MorningChronicle	0004
 1840	01	25	ManchesterTimes	0002	1840	01	23	MorningChronicle	0004
@@ -9041,7 +9041,7 @@
 1840	02	02	Champion	0001	1840	01	24	HullPacket	0001
 1840	02	02	Champion	0002	1840	01	24	HullPacket	0001
 1840	02	02	Examiner	0015	1840	01	24	HullPacket	0001
-1840	02	02		0016	1840	01	24	HullPacket	0001
+1840	02	02	SouthernStar	0016	1840	01	24	HullPacket	0001
 1840	02	04	NorthWalesChronicle	0001	1840	01	24	HullPacket	0001
 1840	02	05	DerbyMercury	0001	1840	01	24	HullPacket	0001
 1840	02	05	DerbyMercury	0002	1840	01	24	HullPacket	0001
@@ -9054,7 +9054,7 @@
 1840	02	08	BristolMercury	0001	1840	01	24	HullPacket	0001
 1840	02	08	BristolMercury	0003	1840	01	24	HullPacket	0001
 1840	02	08	ManchesterTimes	0001	1840	01	24	HullPacket	0001
-1840	02	09		0008	1840	01	24	HullPacket	0001
+1840	02	09	SouthernStar	0008	1840	01	24	HullPacket	0001
 1840	02	11	NorthWalesChronicle	0001	1840	01	24	HullPacket	0001
 1840	02	12	DerbyMercury	0001	1840	01	24	HullPacket	0001
 1840	02	12	DerbyMercury	0002	1840	01	24	HullPacket	0001
@@ -9359,7 +9359,7 @@
 1840	02	01	Jackson'sOxfordJournal	0004	1840	01	24	NewcastleCourant	0006
 1840	02	01	PrestonChronicle	0003	1840	01	24	NewcastleCourant	0006
 1840	02	02	Examiner	0015	1840	01	24	NewcastleCourant	0006
-1840	02	02		0016	1840	01	24	NewcastleCourant	0006
+1840	02	02	SouthernStar	0016	1840	01	24	NewcastleCourant	0006
 1840	02	07	Freeman'sJournal	0001	1840	01	24	NewcastleCourant	0006
 1840	02	07	HullPacket	0002	1840	01	24	NewcastleCourant	0006
 1840	02	08	CaledonianMercury	0001	1840	01	24	NewcastleCourant	0006
@@ -9388,7 +9388,7 @@
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	24	NewcastleCourant	0007
 1840	01	28	NorthWalesChronicle	0002	1840	01	24	NewcastleCourant	0007
 1840	01	31	LiverpoolMercury	0006	1840	01	24	NewcastleCourant	0007
-1840	02	02		0013	1840	01	24	NewcastleCourant	0007
+1840	02	02	SouthernStar	0013	1840	01	24	NewcastleCourant	0007
 1840	02	14	HullPacket	0004	1840	01	24	NewcastleCourant	0007
 1840	01	25	Jackson'sOxfordJournal	0004	1840	01	24	NewcastleCourant	0008
 1840	01	25	BristolMercury	0003	1840	01	24	NewcastleCourant	0008
@@ -9396,7 +9396,7 @@
 1840	01	25	ManchesterTimes	0004	1840	01	24	NewcastleCourant	0008
 1840	01	25	NorthernStar	0002	1840	01	24	NewcastleCourant	0008
 1840	01	26	TheCharter	0008	1840	01	24	NewcastleCourant	0008
-1840	02	02		0011	1840	01	24	NewcastleCourant	0008
+1840	02	02	SouthernStar	0011	1840	01	24	NewcastleCourant	0008
 1840	01	30	CaledonianMercury	0003	1840	01	24	TheTimes	0002
 1840	02	06	CaledonianMercury	0001	1840	01	24	TheTimes	0002
 1840	02	13	CaledonianMercury	0003	1840	01	24	TheTimes	0002
@@ -9423,7 +9423,7 @@
 1840	01	31	NewcastleCourant	0003	1840	01	24	TheTimes	0003
 1840	01	31	NewcastleCourant	0004	1840	01	24	TheTimes	0003
 1840	01	31	NewcastleCourant	0008	1840	01	24	TheTimes	0003
-1840	02	02		0005	1840	01	24	TheTimes	0003
+1840	02	02	SouthernStar	0005	1840	01	24	TheTimes	0003
 1840	01	25	Jackson'sOxfordJournal	0003	1840	01	24	TheTimes	0004
 1840	01	25	BristolMercury	0008	1840	01	24	TheTimes	0004
 1840	01	25	IpswichJournal	0003	1840	01	24	TheTimes	0004
@@ -9467,7 +9467,7 @@
 1840	01	29	DerbyMercury	0004	1840	01	24	TheTimes	0006
 1840	01	31	HullPacket	0004	1840	01	24	TheTimes	0006
 1840	01	31	NewcastleCourant	0003	1840	01	24	TheTimes	0006
-1840	02	02		0013	1840	01	24	TheTimes	0006
+1840	02	02	SouthernStar	0013	1840	01	24	TheTimes	0006
 1840	02	05	DerbyMercury	0001	1840	01	24	TheTimes	0006
 1840	01	25	Jackson'sOxfordJournal	0003	1840	01	24	TheTimes	0007
 1840	01	26	Champion	0007	1840	01	24	TheTimes	0007
@@ -9673,7 +9673,7 @@
 1840	01	31	HullPacket	0004	1840	01	25	CaledonianMercury	0003
 1840	01	31	NewcastleCourant	0003	1840	01	25	CaledonianMercury	0003
 1840	02	02	Champion	0009	1840	01	25	CaledonianMercury	0003
-1840	02	02		0013	1840	01	25	CaledonianMercury	0003
+1840	02	02	SouthernStar	0013	1840	01	25	CaledonianMercury	0003
 1840	02	08	PrestonChronicle	0004	1840	01	25	CaledonianMercury	0003
 1840	02	08	NorthernStar	0005	1840	01	25	CaledonianMercury	0003
 1840	01	25	ManchesterTimes	0004	1840	01	25	CaledonianMercury	0004
@@ -9839,8 +9839,8 @@
 1840	02	01	IpswichJournal	0003	1840	01	25	Jackson'sOxfordJournal	0003
 1840	02	01	LeedsMercury	0007	1840	01	25	Jackson'sOxfordJournal	0003
 1840	02	01	ManchesterTimes	0003	1840	01	25	Jackson'sOxfordJournal	0003
-1840	02	02		0005	1840	01	25	Jackson'sOxfordJournal	0003
-1840	02	02		0013	1840	01	25	Jackson'sOxfordJournal	0003
+1840	02	02	SouthernStar	0005	1840	01	25	Jackson'sOxfordJournal	0003
+1840	02	02	SouthernStar	0013	1840	01	25	Jackson'sOxfordJournal	0003
 1840	02	04	BelfastNews-Letter	0004	1840	01	25	Jackson'sOxfordJournal	0003
 1840	02	05	DerbyMercury	0004	1840	01	25	Jackson'sOxfordJournal	0003
 1840	02	09	Examiner	0010	1840	01	25	Jackson'sOxfordJournal	0003
@@ -9853,7 +9853,7 @@
 1840	01	26	Champion	0009	1840	01	25	Jackson'sOxfordJournal	0004
 1840	01	26	TheCharter	0012	1840	01	25	Jackson'sOxfordJournal	0004
 1840	01	26	TheEra	0005	1840	01	25	Jackson'sOxfordJournal	0004
-1840	01	26		0016	1840	01	25	Jackson'sOxfordJournal	0004
+1840	01	26	SouthernStar	0016	1840	01	25	Jackson'sOxfordJournal	0004
 1840	01	27	HampshirePortsmouthTelegraph	0001	1840	01	25	Jackson'sOxfordJournal	0004
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	25	Jackson'sOxfordJournal	0004
 1840	01	28	BelfastNews-Letter	0003	1840	01	25	Jackson'sOxfordJournal	0004
@@ -9940,7 +9940,7 @@
 1840	01	26	TheEra	0001	1840	01	25	ManchesterTimes	0002
 1840	01	26	TheEra	0002	1840	01	25	ManchesterTimes	0002
 1840	01	26	Examiner	0006	1840	01	25	ManchesterTimes	0002
-1840	01	26		0015	1840	01	25	ManchesterTimes	0002
+1840	01	26	SouthernStar	0015	1840	01	25	ManchesterTimes	0002
 1840	01	27	CaledonianMercury	0001	1840	01	25	ManchesterTimes	0002
 1840	01	27	CaledonianMercury	0002	1840	01	25	ManchesterTimes	0002
 1840	01	27	Freeman'sJournal	0001	1840	01	25	ManchesterTimes	0002
@@ -9986,7 +9986,7 @@
 1840	01	29	DerbyMercury	0004	1840	01	25	ManchesterTimes	0003
 1840	01	31	HullPacket	0004	1840	01	25	ManchesterTimes	0003
 1840	01	31	NewcastleCourant	0004	1840	01	25	ManchesterTimes	0003
-1840	02	02		0005	1840	01	25	ManchesterTimes	0003
+1840	02	02	SouthernStar	0005	1840	01	25	ManchesterTimes	0003
 1840	01	25	NorthernStar	0001	1840	01	25	ManchesterTimes	0004
 1840	01	25	NorthernStar	0003	1840	01	25	ManchesterTimes	0004
 1840	01	26	Champion	0005	1840	01	25	ManchesterTimes	0004
@@ -10046,7 +10046,7 @@
 1840	01	31	HullPacket	0004	1840	01	25	NorthernStar	0001
 1840	01	31	NewcastleCourant	0004	1840	01	25	NorthernStar	0001
 1840	01	31	NewcastleCourant	0008	1840	01	25	NorthernStar	0001
-1840	02	02		0005	1840	01	25	NorthernStar	0001
+1840	02	02	SouthernStar	0005	1840	01	25	NorthernStar	0001
 1840	01	26	Champion	0001	1840	01	25	NorthernStar	0002
 1840	01	26	Examiner	0014	1840	01	25	NorthernStar	0002
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	25	NorthernStar	0002
@@ -10071,7 +10071,7 @@
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	25	NorthernStar	0004
 1840	01	28	NorthWalesChronicle	0002	1840	01	25	NorthernStar	0004
 1840	01	26	TheEra	0004	1840	01	25	NorthernStar	0005
-1840	02	02		0011	1840	01	25	NorthernStar	0005
+1840	02	02	SouthernStar	0011	1840	01	25	NorthernStar	0005
 1840	01	25	TheTimes	0002	1840	01	25	NorthernStar	0007
 1840	01	26	Champion	0006	1840	01	25	NorthernStar	0007
 1840	01	31	Freeman'sJournal	0001	1840	01	25	NorthernStar	0007
@@ -10120,11 +10120,11 @@
 1840	02	01	NorthernStar	0002	1840	01	25	PrestonChronicle	0001
 1840	02	02	Champion	0002	1840	01	25	PrestonChronicle	0001
 1840	02	02	TheEra	0012	1840	01	25	PrestonChronicle	0001
-1840	02	02		0016	1840	01	25	PrestonChronicle	0001
+1840	02	02	SouthernStar	0016	1840	01	25	PrestonChronicle	0001
 1840	02	07	LiverpoolMercury	0005	1840	01	25	PrestonChronicle	0001
 1840	02	07	NewcastleCourant	0005	1840	01	25	PrestonChronicle	0001
 1840	02	08	ManchesterTimes	0001	1840	01	25	PrestonChronicle	0001
-1840	02	09		0008	1840	01	25	PrestonChronicle	0001
+1840	02	09	SouthernStar	0008	1840	01	25	PrestonChronicle	0001
 1840	02	14	HullPacket	0001	1840	01	25	PrestonChronicle	0001
 1840	02	14	HullPacket	0002	1840	01	25	PrestonChronicle	0001
 1840	02	15	LeedsMercury	0002	1840	01	25	PrestonChronicle	0001
@@ -10144,7 +10144,7 @@
 1840	02	01	NorthernStar	0002	1840	01	25	PrestonChronicle	0002
 1840	02	02	Champion	0001	1840	01	25	PrestonChronicle	0002
 1840	02	02	Champion	0002	1840	01	25	PrestonChronicle	0002
-1840	02	02		0013	1840	01	25	PrestonChronicle	0002
+1840	02	02	SouthernStar	0013	1840	01	25	PrestonChronicle	0002
 1840	01	25	ManchesterTimes	0003	1840	01	25	PrestonChronicle	0003
 1840	01	28	MorningChronicle	0004	1840	01	25	PrestonChronicle	0003
 1840	01	29	AberdeenJournal	0004	1840	01	25	PrestonChronicle	0003
@@ -10211,7 +10211,7 @@
 1840	01	31	HullPacket	0002	1840	01	25	TheTimes	0004
 1840	02	01	IpswichJournal	0004	1840	01	25	TheTimes	0004
 1840	02	01	NorthernStar	0004	1840	01	25	TheTimes	0004
-1840	02	02		0004	1840	01	25	TheTimes	0004
+1840	02	02	SouthernStar	0004	1840	01	25	TheTimes	0004
 1840	02	05	AberdeenJournal	0004	1840	01	25	TheTimes	0004
 1840	01	26	Champion	0005	1840	01	25	TheTimes	0005
 1840	01	26	TheCharter	0001	1840	01	25	TheTimes	0005
@@ -10219,7 +10219,7 @@
 1840	01	27	Freeman'sJournal	0001	1840	01	25	TheTimes	0005
 1840	01	27	Freeman'sJournal	0002	1840	01	25	TheTimes	0005
 1840	01	31	HullPacket	0002	1840	01	25	TheTimes	0005
-1840	02	02		0008	1840	01	25	TheTimes	0005
+1840	02	02	SouthernStar	0008	1840	01	25	TheTimes	0005
 1840	01	26	TheEra	0010	1840	01	25	TheTimes	0006
 1840	01	26	Examiner	0010	1840	01	25	TheTimes	0006
 1840	01	27	MorningChronicle	0002	1840	01	25	TheTimes	0006
@@ -10274,7 +10274,7 @@
 1840	01	26	TheCharter	0012	1840	01	26	Champion	0003
 1840	01	26	TheCharter	0015	1840	01	26	Champion	0003
 1840	01	26	TheEra	0010	1840	01	26	Champion	0003
-1840	01	26		0014	1840	01	26	Champion	0003
+1840	01	26	SouthernStar	0014	1840	01	26	Champion	0003
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	26	Champion	0003
 1840	01	27	TheTimes	0004	1840	01	26	Champion	0003
 1840	01	29	Freeman'sJournal	0002	1840	01	26	Champion	0003
@@ -10293,7 +10293,7 @@
 1840	01	29	Freeman'sJournal	0004	1840	01	26	Champion	0005
 1840	01	31	BelfastNews-Letter	0001	1840	01	26	Champion	0005
 1840	01	31	HullPacket	0002	1840	01	26	Champion	0005
-1840	02	02		0005	1840	01	26	Champion	0005
+1840	02	02	SouthernStar	0005	1840	01	26	Champion	0005
 1840	01	26	TheCharter	0002	1840	01	26	Champion	0006
 1840	01	26	TheCharter	0014	1840	01	26	Champion	0006
 1840	01	26	TheEra	0004	1840	01	26	Champion	0006
@@ -10306,8 +10306,8 @@
 1840	01	31	NewcastleCourant	0004	1840	01	26	Champion	0006
 1840	02	01	NorthernStar	0002	1840	01	26	Champion	0006
 1840	02	02	TheCharter	0012	1840	01	26	Champion	0006
-1840	02	02		0003	1840	01	26	Champion	0006
-1840	02	02		0005	1840	01	26	Champion	0006
+1840	02	02	SouthernStar	0003	1840	01	26	Champion	0006
+1840	02	02	SouthernStar	0005	1840	01	26	Champion	0006
 1840	01	26	TheCharter	0011	1840	01	26	Champion	0007
 1840	01	26	TheCharter	0012	1840	01	26	Champion	0007
 1840	01	26	TheEra	0004	1840	01	26	Champion	0007
@@ -10315,15 +10315,15 @@
 1840	01	26	Examiner	0003	1840	01	26	Champion	0007
 1840	01	26	Examiner	0010	1840	01	26	Champion	0007
 1840	01	26	Examiner	0011	1840	01	26	Champion	0007
-1840	01	26		0003	1840	01	26	Champion	0007
-1840	01	26		0015	1840	01	26	Champion	0007
+1840	01	26	SouthernStar	0003	1840	01	26	Champion	0007
+1840	01	26	SouthernStar	0015	1840	01	26	Champion	0007
 1840	01	28	NorthWalesChronicle	0003	1840	01	26	Champion	0007
 1840	01	28	BelfastNews-Letter	0002	1840	01	26	Champion	0007
 1840	02	02	TheEra	0005	1840	01	26	Champion	0007
 1840	02	10	HampshirePortsmouthTelegraph	0001	1840	01	26	Champion	0007
 1840	01	26	TheEra	0007	1840	01	26	Champion	0008
 1840	01	26	Examiner	0013	1840	01	26	Champion	0008
-1840	01	26		0016	1840	01	26	Champion	0008
+1840	01	26	SouthernStar	0016	1840	01	26	Champion	0008
 1840	01	27	Freeman'sJournal	0003	1840	01	26	Champion	0008
 1840	01	27	MorningChronicle	0003	1840	01	26	Champion	0008
 1840	01	27	TheTimes	0005	1840	01	26	Champion	0008
@@ -10334,11 +10334,11 @@
 1840	02	01	NorthernStar	0006	1840	01	26	Champion	0008
 1840	02	01	NorthernStar	0007	1840	01	26	Champion	0008
 1840	02	02	TheCharter	0014	1840	01	26	Champion	0008
-1840	02	02		0012	1840	01	26	Champion	0008
+1840	02	02	SouthernStar	0012	1840	01	26	Champion	0008
 1840	01	26	TheEra	0007	1840	01	26	Champion	0009
 1840	01	26	TheEra	0012	1840	01	26	Champion	0009
 1840	01	26	Examiner	0013	1840	01	26	Champion	0009
-1840	01	26		0016	1840	01	26	Champion	0009
+1840	01	26	SouthernStar	0016	1840	01	26	Champion	0009
 1840	01	27	Freeman'sJournal	0003	1840	01	26	Champion	0009
 1840	01	27	MorningChronicle	0003	1840	01	26	Champion	0009
 1840	01	27	TheTimes	0005	1840	01	26	Champion	0009
@@ -10349,7 +10349,7 @@
 1840	02	01	NorthernStar	0006	1840	01	26	Champion	0009
 1840	02	01	NorthernStar	0007	1840	01	26	Champion	0009
 1840	02	02	TheCharter	0014	1840	01	26	Champion	0009
-1840	02	02		0012	1840	01	26	Champion	0009
+1840	02	02	SouthernStar	0012	1840	01	26	Champion	0009
 1840	01	29	Freeman'sJournal	0004	1840	01	26	Examiner	0001
 1840	01	31	LiverpoolMercury	0008	1840	01	26	Examiner	0001
 1840	02	06	CaledonianMercury	0004	1840	01	26	Examiner	0002
@@ -10385,7 +10385,7 @@
 1840	01	29	DerbyMercury	0002	1840	01	26	Examiner	0010
 1840	02	01	BristolMercury	0003	1840	01	26	Examiner	0010
 1840	02	01	ManchesterTimes	0004	1840	01	26	Examiner	0010
-1840	02	02		0012	1840	01	26	Examiner	0010
+1840	02	02	SouthernStar	0012	1840	01	26	Examiner	0010
 1840	01	27	Freeman'sJournal	0003	1840	01	26	Examiner	0011
 1840	01	27	Freeman'sJournal	0004	1840	01	26	Examiner	0011
 1840	01	28	NorthWalesChronicle	0003	1840	01	26	Examiner	0011
@@ -10422,6 +10422,10 @@
 1840	01	31	HullPacket	0002	1840	01	26	Examiner	0016
 1840	02	01	TheTimes	0008	1840	01	26	Examiner	0016
 1840	02	03	MorningChronicle	0001	1840	01	26	Examiner	0016
+1840	01	31	HullPacket	0004	1840	01	26	SouthernStar	0014
+1840	01	31	NewcastleCourant	0003	1840	01	26	SouthernStar	0014
+1840	01	28	NorthWalesChronicle	0003	1840	01	26	SouthernStar	0015
+1840	01	31	NewcastleCourant	0007	1840	01	26	SouthernStar	0015
 1840	01	26	TheEra	0005	1840	01	26	TheCharter	0001
 1840	01	26	Examiner	0009	1840	01	26	TheCharter	0001
 1840	01	27	Freeman'sJournal	0002	1840	01	26	TheCharter	0001
@@ -10433,13 +10437,13 @@
 1840	02	01	PrestonChronicle	0004	1840	01	26	TheCharter	0001
 1840	02	01	BristolMercury	0003	1840	01	26	TheCharter	0001
 1840	02	02	Champion	0007	1840	01	26	TheCharter	0001
-1840	02	02		0005	1840	01	26	TheCharter	0001
+1840	02	02	SouthernStar	0005	1840	01	26	TheCharter	0001
 1840	01	26	TheEra	0004	1840	01	26	TheCharter	0002
 1840	01	26	Examiner	0011	1840	01	26	TheCharter	0002
 1840	01	26	TheEra	0004	1840	01	26	TheCharter	0003
 1840	01	26	TheEra	0010	1840	01	26	TheCharter	0003
-1840	01	26		0011	1840	01	26	TheCharter	0003
-1840	02	02		0012	1840	01	26	TheCharter	0004
+1840	01	26	SouthernStar	0011	1840	01	26	TheCharter	0003
+1840	02	02	SouthernStar	0012	1840	01	26	TheCharter	0004
 1840	01	26	TheEra	0002	1840	01	26	TheCharter	0005
 1840	01	28	NorthWalesChronicle	0002	1840	01	26	TheCharter	0005
 1840	01	26	TheEra	0002	1840	01	26	TheCharter	0006
@@ -10463,15 +10467,15 @@
 1840	02	01	BristolMercury	0007	1840	01	26	TheCharter	0007
 1840	02	01	ManchesterTimes	0004	1840	01	26	TheCharter	0007
 1840	02	02	Champion	0004	1840	01	26	TheCharter	0007
-1840	02	02		0004	1840	01	26	TheCharter	0007
+1840	02	02	SouthernStar	0004	1840	01	26	TheCharter	0007
 1840	02	05	AberdeenJournal	0004	1840	01	26	TheCharter	0007
 1840	02	09	Champion	0001	1840	01	26	TheCharter	0008
 1840	02	16	TheEra	0001	1840	01	26	TheCharter	0008
-1840	01	26		0014	1840	01	26	TheCharter	0009
+1840	01	26	SouthernStar	0014	1840	01	26	TheCharter	0009
 1840	01	29	DerbyMercury	0004	1840	01	26	TheCharter	0009
 1840	01	31	HullPacket	0004	1840	01	26	TheCharter	0009
 1840	01	31	NewcastleCourant	0003	1840	01	26	TheCharter	0009
-1840	02	02		0013	1840	01	26	TheCharter	0009
+1840	02	02	SouthernStar	0013	1840	01	26	TheCharter	0009
 1840	02	04	BelfastNews-Letter	0004	1840	01	26	TheCharter	0009
 1840	01	26	Examiner	0008	1840	01	26	TheCharter	0010
 1840	01	26	TheEra	0010	1840	01	26	TheCharter	0011
@@ -10481,9 +10485,9 @@
 1840	01	28	BelfastNews-Letter	0004	1840	01	26	TheCharter	0011
 1840	01	31	NewcastleCourant	0003	1840	01	26	TheCharter	0011
 1840	02	01	BristolMercury	0003	1840	01	26	TheCharter	0011
-1840	02	02		0004	1840	01	26	TheCharter	0011
+1840	02	02	SouthernStar	0004	1840	01	26	TheCharter	0011
 1840	01	26	TheEra	0004	1840	01	26	TheCharter	0012
-1840	01	26		0015	1840	01	26	TheCharter	0012
+1840	01	26	SouthernStar	0015	1840	01	26	TheCharter	0012
 1840	01	27	HampshirePortsmouthTelegraph	0001	1840	01	26	TheCharter	0012
 1840	01	27	HampshirePortsmouthTelegraph	0004	1840	01	26	TheCharter	0012
 1840	01	28	NorthWalesChronicle	0003	1840	01	26	TheCharter	0012
@@ -10493,18 +10497,18 @@
 1840	01	31	LiverpoolMercury	0002	1840	01	26	TheCharter	0012
 1840	01	31	HullPacket	0004	1840	01	26	TheCharter	0012
 1840	01	31	NewcastleCourant	0004	1840	01	26	TheCharter	0012
-1840	02	02		0005	1840	01	26	TheCharter	0012
+1840	02	02	SouthernStar	0005	1840	01	26	TheCharter	0012
 1840	01	26	Examiner	0012	1840	01	26	TheCharter	0013
 1840	01	26	TheEra	0005	1840	01	26	TheCharter	0014
-1840	01	26		0012	1840	01	26	TheCharter	0014
+1840	01	26	SouthernStar	0012	1840	01	26	TheCharter	0014
 1840	01	29	DerbyMercury	0004	1840	01	26	TheCharter	0014
 1840	02	01	PrestonChronicle	0004	1840	01	26	TheCharter	0014
 1840	02	01	NorthernStar	0002	1840	01	26	TheCharter	0014
-1840	02	02		0005	1840	01	26	TheCharter	0014
+1840	02	02	SouthernStar	0005	1840	01	26	TheCharter	0014
 1840	01	26	TheEra	0005	1840	01	26	TheCharter	0015
 1840	01	26	TheEra	0010	1840	01	26	TheCharter	0015
 1840	01	26	Examiner	0012	1840	01	26	TheCharter	0015
-1840	01	26		0011	1840	01	26	TheCharter	0015
+1840	01	26	SouthernStar	0011	1840	01	26	TheCharter	0015
 1840	01	28	NorthWalesChronicle	0004	1840	01	26	TheCharter	0016
 1840	01	29	TheTimes	0007	1840	01	26	TheCharter	0016
 1840	01	26	Examiner	0014	1840	01	26	TheEra	0001
@@ -10552,7 +10556,7 @@
 1840	01	31	NewcastleCourant	0002	1840	01	26	TheEra	0002
 1840	01	31	NewcastleCourant	0008	1840	01	26	TheEra	0002
 1840	02	01	BristolMercury	0007	1840	01	26	TheEra	0002
-1840	02	02		0004	1840	01	26	TheEra	0002
+1840	02	02	SouthernStar	0004	1840	01	26	TheEra	0002
 1840	02	05	AberdeenJournal	0004	1840	01	26	TheEra	0002
 1840	02	14	TheTimes	0003	1840	01	26	TheEra	0002
 1840	01	27	CaledonianMercury	0002	1840	01	26	TheEra	0003
@@ -10569,12 +10573,12 @@
 1840	02	09	Examiner	0010	1840	01	26	TheEra	0003
 1840	02	15	CaledonianMercury	0004	1840	01	26	TheEra	0003
 1840	01	26	Examiner	0003	1840	01	26	TheEra	0004
-1840	01	26		0015	1840	01	26	TheEra	0004
+1840	01	26	SouthernStar	0015	1840	01	26	TheEra	0004
 1840	01	27	Freeman'sJournal	0003	1840	01	26	TheEra	0004
 1840	01	31	LiverpoolMercury	0002	1840	01	26	TheEra	0004
 1840	01	31	NewcastleCourant	0007	1840	01	26	TheEra	0004
-1840	01	26		0012	1840	01	26	TheEra	0005
-1840	01	26		0015	1840	01	26	TheEra	0005
+1840	01	26	SouthernStar	0012	1840	01	26	TheEra	0005
+1840	01	26	SouthernStar	0015	1840	01	26	TheEra	0005
 1840	01	27	CaledonianMercury	0003	1840	01	26	TheEra	0005
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	26	TheEra	0005
 1840	01	28	BelfastNews-Letter	0002	1840	01	26	TheEra	0005
@@ -10585,10 +10589,10 @@
 1840	01	31	NewcastleCourant	0003	1840	01	26	TheEra	0005
 1840	02	01	PrestonChronicle	0004	1840	01	26	TheEra	0005
 1840	02	01	NorthernStar	0002	1840	01	26	TheEra	0005
-1840	02	02		0005	1840	01	26	TheEra	0005
+1840	02	02	SouthernStar	0005	1840	01	26	TheEra	0005
 1840	02	04	NorthWalesChronicle	0004	1840	01	26	TheEra	0006
 1840	01	27	TheTimes	0005	1840	01	26	TheEra	0007
-1840	02	02		0010	1840	01	26	TheEra	0008
+1840	02	02	SouthernStar	0010	1840	01	26	TheEra	0008
 1840	01	26	Examiner	0008	1840	01	26	TheEra	0009
 1840	01	27	HampshirePortsmouthTelegraph	0001	1840	01	26	TheEra	0009
 1840	01	27	TheTimes	0001	1840	01	26	TheEra	0009
@@ -10604,7 +10608,7 @@
 1840	01	31	NewcastleCourant	0008	1840	01	26	TheEra	0010
 1840	02	01	NorthernStar	0002	1840	01	26	TheEra	0010
 1840	02	01	TheTimes	0002	1840	01	26	TheEra	0010
-1840	02	02		0005	1840	01	26	TheEra	0010
+1840	02	02	SouthernStar	0005	1840	01	26	TheEra	0010
 1840	01	26	Examiner	0013	1840	01	26	TheEra	0012
 1840	01	27	HampshirePortsmouthTelegraph	0002	1840	01	26	TheEra	0012
 1840	01	28	NorthWalesChronicle	0002	1840	01	26	TheEra	0012
@@ -10617,10 +10621,6 @@
 1840	02	14	MorningChronicle	0004	1840	01	26	TheEra	0012
 1840	02	14	NewcastleCourant	0008	1840	01	26	TheEra	0012
 1840	02	15	Jackson'sOxfordJournal	0004	1840	01	26	TheEra	0012
-1840	01	31	HullPacket	0004	1840	01	26		0014
-1840	01	31	NewcastleCourant	0003	1840	01	26		0014
-1840	01	28	NorthWalesChronicle	0003	1840	01	26		0015
-1840	01	31	NewcastleCourant	0007	1840	01	26		0015
 1840	01	28	NorthWalesChronicle	0002	1840	01	27	CaledonianMercury	0001
 1840	01	31	NewcastleCourant	0005	1840	01	27	CaledonianMercury	0001
 1840	01	31	NewcastleCourant	0008	1840	01	27	CaledonianMercury	0001
@@ -10644,7 +10644,7 @@
 1840	02	01	LeedsMercury	0007	1840	01	27	CaledonianMercury	0002
 1840	02	01	ManchesterTimes	0003	1840	01	27	CaledonianMercury	0002
 1840	02	01	NorthernStar	0004	1840	01	27	CaledonianMercury	0002
-1840	02	02		0004	1840	01	27	CaledonianMercury	0002
+1840	02	02	SouthernStar	0004	1840	01	27	CaledonianMercury	0002
 1840	02	05	AberdeenJournal	0004	1840	01	27	CaledonianMercury	0002
 1840	02	05	DerbyMercury	0004	1840	01	27	CaledonianMercury	0002
 1840	02	09	Examiner	0010	1840	01	27	CaledonianMercury	0002
@@ -10664,7 +10664,7 @@
 1840	02	01	IpswichJournal	0003	1840	01	27	Freeman'sJournal	0002
 1840	02	01	LeedsMercury	0007	1840	01	27	Freeman'sJournal	0002
 1840	02	01	ManchesterTimes	0003	1840	01	27	Freeman'sJournal	0002
-1840	02	02		0004	1840	01	27	Freeman'sJournal	0002
+1840	02	02	SouthernStar	0004	1840	01	27	Freeman'sJournal	0002
 1840	02	05	DerbyMercury	0004	1840	01	27	Freeman'sJournal	0002
 1840	02	09	Examiner	0010	1840	01	27	Freeman'sJournal	0002
 1840	02	15	CaledonianMercury	0004	1840	01	27	Freeman'sJournal	0002
@@ -10683,7 +10683,7 @@
 1840	02	01	BristolMercury	0007	1840	01	27	Freeman'sJournal	0004
 1840	02	01	ManchesterTimes	0004	1840	01	27	Freeman'sJournal	0004
 1840	02	02	Champion	0004	1840	01	27	Freeman'sJournal	0004
-1840	02	02		0004	1840	01	27	Freeman'sJournal	0004
+1840	02	02	SouthernStar	0004	1840	01	27	Freeman'sJournal	0004
 1840	02	05	AberdeenJournal	0004	1840	01	27	Freeman'sJournal	0004
 1840	01	28	BelfastNews-Letter	0002	1840	01	27	HampshirePortsmouthTelegraph	0001
 1840	01	29	DerbyMercury	0001	1840	01	27	HampshirePortsmouthTelegraph	0001
@@ -10778,8 +10778,8 @@
 1840	02	01	NorthernStar	0007	1840	01	27	TheTimes	0005
 1840	02	02	TheCharter	0014	1840	01	27	TheTimes	0005
 1840	02	02	TheEra	0009	1840	01	27	TheTimes	0005
-1840	02	02		0008	1840	01	27	TheTimes	0005
-1840	02	02		0012	1840	01	27	TheTimes	0005
+1840	02	02	SouthernStar	0008	1840	01	27	TheTimes	0005
+1840	02	02	SouthernStar	0012	1840	01	27	TheTimes	0005
 1840	01	29	Freeman'sJournal	0004	1840	01	27	TheTimes	0007
 1840	02	17	HampshirePortsmouthTelegraph	0001	1840	01	27	TheTimes	0008
 1840	01	29	AberdeenJournal	0004	1840	01	28	BelfastNews-Letter	0001
@@ -10795,8 +10795,8 @@
 1840	02	01	BristolMercury	0007	1840	01	28	BelfastNews-Letter	0002
 1840	02	01	IpswichJournal	0004	1840	01	28	BelfastNews-Letter	0002
 1840	02	02	Champion	0004	1840	01	28	BelfastNews-Letter	0002
-1840	02	02		0004	1840	01	28	BelfastNews-Letter	0002
-1840	02	02		0005	1840	01	28	BelfastNews-Letter	0002
+1840	02	02	SouthernStar	0004	1840	01	28	BelfastNews-Letter	0002
+1840	02	02	SouthernStar	0005	1840	01	28	BelfastNews-Letter	0002
 1840	02	05	AberdeenJournal	0004	1840	01	28	BelfastNews-Letter	0002
 1840	01	31	Freeman'sJournal	0003	1840	01	28	BelfastNews-Letter	0003
 1840	01	31	NewcastleCourant	0002	1840	01	28	BelfastNews-Letter	0003
@@ -10809,7 +10809,7 @@
 1840	02	09	Champion	0001	1840	01	28	BelfastNews-Letter	0003
 1840	02	09	TheCharter	0008	1840	01	28	BelfastNews-Letter	0003
 1840	02	09	TheEra	0001	1840	01	28	BelfastNews-Letter	0003
-1840	02	09		0008	1840	01	28	BelfastNews-Letter	0003
+1840	02	09	SouthernStar	0008	1840	01	28	BelfastNews-Letter	0003
 1840	02	15	Jackson'sOxfordJournal	0004	1840	01	28	BelfastNews-Letter	0003
 1840	02	15	LeedsMercury	0003	1840	01	28	BelfastNews-Letter	0003
 1840	02	15	ManchesterTimes	0001	1840	01	28	BelfastNews-Letter	0003
@@ -10837,7 +10837,7 @@
 1840	02	01	Jackson'sOxfordJournal	0002	1840	01	28	Freeman'sJournal	0004
 1840	02	01	ManchesterTimes	0004	1840	01	28	Freeman'sJournal	0004
 1840	02	02	Examiner	0010	1840	01	28	Freeman'sJournal	0004
-1840	02	02		0012	1840	01	28	Freeman'sJournal	0004
+1840	02	02	SouthernStar	0012	1840	01	28	Freeman'sJournal	0004
 1840	02	04	TheTimes	0006	1840	01	28	Freeman'sJournal	0004
 1840	02	02	Examiner	0014	1840	01	28	MorningChronicle	0001
 1840	02	05	TheTimes	0002	1840	01	28	MorningChronicle	0001
@@ -10847,7 +10847,7 @@
 1840	01	31	LiverpoolMercury	0007	1840	01	28	MorningChronicle	0002
 1840	01	31	BelfastNews-Letter	0001	1840	01	28	MorningChronicle	0002
 1840	02	01	BristolMercury	0007	1840	01	28	MorningChronicle	0002
-1840	02	02		0015	1840	01	28	MorningChronicle	0002
+1840	02	02	SouthernStar	0015	1840	01	28	MorningChronicle	0002
 1840	01	30	Freeman'sJournal	0003	1840	01	28	MorningChronicle	0003
 1840	01	30	Freeman'sJournal	0004	1840	01	28	MorningChronicle	0003
 1840	01	31	LiverpoolMercury	0007	1840	01	28	MorningChronicle	0003
@@ -10913,7 +10913,7 @@
 1840	02	15	PrestonChronicle	0003	1840	01	28	MorningChronicle	0005
 1840	02	15	BristolMercury	0008	1840	01	28	MorningChronicle	0005
 1840	02	16	TheEra	0003	1840	01	28	MorningChronicle	0005
-1840	02	16		0006	1840	01	28	MorningChronicle	0005
+1840	02	16	SouthernStar	0006	1840	01	28	MorningChronicle	0005
 1840	01	29	Freeman'sJournal	0002	1840	01	28	MorningChronicle	0006
 1840	01	29	DerbyMercury	0002	1840	01	28	MorningChronicle	0006
 1840	01	29	TheTimes	0007	1840	01	28	MorningChronicle	0006
@@ -10922,9 +10922,9 @@
 1840	02	02	Champion	0008	1840	01	28	MorningChronicle	0006
 1840	02	02	Examiner	0011	1840	01	28	MorningChronicle	0006
 1840	02	02	Examiner	0012	1840	01	28	MorningChronicle	0006
-1840	02	02		0004	1840	01	28	MorningChronicle	0006
-1840	02	02		0005	1840	01	28	MorningChronicle	0006
-1840	02	02		0014	1840	01	28	MorningChronicle	0006
+1840	02	02	SouthernStar	0004	1840	01	28	MorningChronicle	0006
+1840	02	02	SouthernStar	0005	1840	01	28	MorningChronicle	0006
+1840	02	02	SouthernStar	0014	1840	01	28	MorningChronicle	0006
 1840	01	28	TheTimes	0006	1840	01	28	MorningChronicle	0007
 1840	01	28	TheTimes	0007	1840	01	28	MorningChronicle	0007
 1840	01	30	CaledonianMercury	0004	1840	01	28	MorningChronicle	0007
@@ -10932,7 +10932,7 @@
 1840	02	01	TheTimes	0008	1840	01	28	MorningChronicle	0007
 1840	02	02	TheEra	0010	1840	01	28	MorningChronicle	0007
 1840	02	02	Examiner	0016	1840	01	28	MorningChronicle	0007
-1840	02	02		0014	1840	01	28	MorningChronicle	0007
+1840	02	02	SouthernStar	0014	1840	01	28	MorningChronicle	0007
 1840	02	03	TheTimes	0007	1840	01	28	MorningChronicle	0007
 1840	02	07	LiverpoolMercury	0005	1840	01	28	NorthWalesChronicle	0001
 1840	01	31	HullPacket	0002	1840	01	28	NorthWalesChronicle	0002
@@ -10964,7 +10964,7 @@
 1840	02	02	TheCharter	0004	1840	01	28	TheTimes	0003
 1840	02	02	TheEra	0002	1840	01	28	TheTimes	0003
 1840	02	02	Examiner	0005	1840	01	28	TheTimes	0003
-1840	02	02		0006	1840	01	28	TheTimes	0003
+1840	02	02	SouthernStar	0006	1840	01	28	TheTimes	0003
 1840	01	29	Freeman'sJournal	0002	1840	01	28	TheTimes	0005
 1840	01	30	CaledonianMercury	0002	1840	01	28	TheTimes	0005
 1840	01	31	BelfastNews-Letter	0001	1840	01	28	TheTimes	0005
@@ -10984,8 +10984,8 @@
 1840	02	02	Examiner	0003	1840	01	28	TheTimes	0005
 1840	02	02	Examiner	0009	1840	01	28	TheTimes	0005
 1840	02	02	Examiner	0012	1840	01	28	TheTimes	0005
-1840	02	02		0006	1840	01	28	TheTimes	0005
-1840	02	02		0007	1840	01	28	TheTimes	0005
+1840	02	02	SouthernStar	0006	1840	01	28	TheTimes	0005
+1840	02	02	SouthernStar	0007	1840	01	28	TheTimes	0005
 1840	02	05	AberdeenJournal	0004	1840	01	28	TheTimes	0005
 1840	01	30	Freeman'sJournal	0002	1840	01	28	TheTimes	0006
 1840	01	31	HullPacket	0003	1840	01	28	TheTimes	0006
@@ -11002,7 +11002,7 @@
 1840	02	02	TheEra	0009	1840	01	28	TheTimes	0006
 1840	02	02	TheEra	0010	1840	01	28	TheTimes	0006
 1840	02	02	Examiner	0010	1840	01	28	TheTimes	0006
-1840	02	02		0007	1840	01	28	TheTimes	0006
+1840	02	02	SouthernStar	0007	1840	01	28	TheTimes	0006
 1840	02	14	LiverpoolMercury	0006	1840	01	28	TheTimes	0006
 1840	01	30	CaledonianMercury	0004	1840	01	28	TheTimes	0007
 1840	01	30	Freeman'sJournal	0003	1840	01	28	TheTimes	0007
@@ -11013,9 +11013,9 @@
 1840	02	02	TheCharter	0003	1840	01	28	TheTimes	0007
 1840	02	02	TheEra	0004	1840	01	28	TheTimes	0007
 1840	02	02	Examiner	0012	1840	01	28	TheTimes	0007
-1840	02	02		0010	1840	01	28	TheTimes	0007
-1840	02	02		0014	1840	01	28	TheTimes	0007
-1840	02	09		0006	1840	01	28	TheTimes	0007
+1840	02	02	SouthernStar	0010	1840	01	28	TheTimes	0007
+1840	02	02	SouthernStar	0014	1840	01	28	TheTimes	0007
+1840	02	09	SouthernStar	0006	1840	01	28	TheTimes	0007
 1840	01	29	DerbyMercury	0001	1840	01	29	AberdeenJournal	0001
 1840	01	30	CaledonianMercury	0003	1840	01	29	AberdeenJournal	0001
 1840	01	31	NewcastleCourant	0005	1840	01	29	AberdeenJournal	0001
@@ -11099,7 +11099,7 @@
 1840	02	02	TheEra	0001	1840	01	29	DerbyMercury	0001
 1840	02	02	TheEra	0012	1840	01	29	DerbyMercury	0001
 1840	02	02	Examiner	0014	1840	01	29	DerbyMercury	0001
-1840	02	02		0016	1840	01	29	DerbyMercury	0001
+1840	02	02	SouthernStar	0016	1840	01	29	DerbyMercury	0001
 1840	02	04	NorthWalesChronicle	0001	1840	01	29	DerbyMercury	0001
 1840	02	07	LiverpoolMercury	0005	1840	01	29	DerbyMercury	0001
 1840	02	07	LiverpoolMercury	0006	1840	01	29	DerbyMercury	0001
@@ -11117,7 +11117,7 @@
 1840	02	09	Champion	0001	1840	01	29	DerbyMercury	0001
 1840	02	09	TheEra	0001	1840	01	29	DerbyMercury	0001
 1840	02	09	TheEra	0006	1840	01	29	DerbyMercury	0001
-1840	02	09		0008	1840	01	29	DerbyMercury	0001
+1840	02	09	SouthernStar	0008	1840	01	29	DerbyMercury	0001
 1840	02	10	Freeman'sJournal	0001	1840	01	29	DerbyMercury	0001
 1840	02	11	NorthWalesChronicle	0001	1840	01	29	DerbyMercury	0001
 1840	02	13	Freeman'sJournal	0001	1840	01	29	DerbyMercury	0001
@@ -11141,7 +11141,7 @@
 1840	02	16	TheEra	0001	1840	01	29	DerbyMercury	0001
 1840	02	16	TheEra	0012	1840	01	29	DerbyMercury	0001
 1840	02	16	Examiner	0015	1840	01	29	DerbyMercury	0001
-1840	02	16		0016	1840	01	29	DerbyMercury	0001
+1840	02	16	SouthernStar	0016	1840	01	29	DerbyMercury	0001
 1840	02	17	Freeman'sJournal	0001	1840	01	29	DerbyMercury	0001
 1840	02	18	NorthWalesChronicle	0002	1840	01	29	DerbyMercury	0001
 1840	02	19	Freeman'sJournal	0001	1840	01	29	DerbyMercury	0001
@@ -11166,7 +11166,7 @@
 1840	02	02	Champion	0001	1840	01	29	DerbyMercury	0002
 1840	02	02	Champion	0002	1840	01	29	DerbyMercury	0002
 1840	02	02	TheEra	0002	1840	01	29	DerbyMercury	0002
-1840	02	02		0006	1840	01	29	DerbyMercury	0002
+1840	02	02	SouthernStar	0006	1840	01	29	DerbyMercury	0002
 1840	02	05	AberdeenJournal	0004	1840	01	29	DerbyMercury	0002
 1840	02	07	LiverpoolMercury	0006	1840	01	29	DerbyMercury	0002
 1840	02	07	BelfastNews-Letter	0004	1840	01	29	DerbyMercury	0002
@@ -11216,8 +11216,8 @@
 1840	02	01	NorthernStar	0002	1840	01	29	DerbyMercury	0004
 1840	02	01	NorthernStar	0004	1840	01	29	DerbyMercury	0004
 1840	02	02	TheCharter	0014	1840	01	29	DerbyMercury	0004
-1840	02	02		0005	1840	01	29	DerbyMercury	0004
-1840	02	02		0013	1840	01	29	DerbyMercury	0004
+1840	02	02	SouthernStar	0005	1840	01	29	DerbyMercury	0004
+1840	02	02	SouthernStar	0013	1840	01	29	DerbyMercury	0004
 1840	02	04	NorthWalesChronicle	0002	1840	01	29	DerbyMercury	0004
 1840	02	04	NorthWalesChronicle	0004	1840	01	29	DerbyMercury	0004
 1840	02	05	AberdeenJournal	0004	1840	01	29	DerbyMercury	0004
@@ -11304,7 +11304,7 @@
 1840	02	01	NorthernStar	0007	1840	01	29	MorningChronicle	0004
 1840	02	01	NorthernStar	0008	1840	01	29	MorningChronicle	0004
 1840	02	02	TheCharter	0014	1840	01	29	MorningChronicle	0004
-1840	02	02		0015	1840	01	29	MorningChronicle	0004
+1840	02	02	SouthernStar	0015	1840	01	29	MorningChronicle	0004
 1840	01	31	Freeman'sJournal	0002	1840	01	29	TheTimes	0002
 1840	01	31	LiverpoolMercury	0008	1840	01	29	TheTimes	0002
 1840	01	31	NewcastleCourant	0007	1840	01	29	TheTimes	0002
@@ -11331,15 +11331,15 @@
 1840	02	05	DerbyMercury	0004	1840	01	29	TheTimes	0005
 1840	02	01	Jackson'sOxfordJournal	0002	1840	01	29	TheTimes	0006
 1840	02	02	TheEra	0012	1840	01	29	TheTimes	0006
-1840	02	02		0002	1840	01	29	TheTimes	0006
-1840	02	02		0008	1840	01	29	TheTimes	0006
-1840	02	02		0012	1840	01	29	TheTimes	0006
+1840	02	02	SouthernStar	0002	1840	01	29	TheTimes	0006
+1840	02	02	SouthernStar	0008	1840	01	29	TheTimes	0006
+1840	02	02	SouthernStar	0012	1840	01	29	TheTimes	0006
 1840	02	08	CaledonianMercury	0001	1840	01	29	TheTimes	0006
 1840	01	31	HullPacket	0003	1840	01	29	TheTimes	0007
 1840	02	02	Champion	0008	1840	01	29	TheTimes	0007
 1840	02	02	TheEra	0005	1840	01	29	TheTimes	0007
 1840	02	02	Examiner	0012	1840	01	29	TheTimes	0007
-1840	02	02		0004	1840	01	29	TheTimes	0007
+1840	02	02	SouthernStar	0004	1840	01	29	TheTimes	0007
 1840	01	31	NewcastleCourant	0006	1840	01	30	CaledonianMercury	0001
 1840	02	01	IpswichJournal	0002	1840	01	30	CaledonianMercury	0001
 1840	02	04	TheTimes	0002	1840	01	30	CaledonianMercury	0001
@@ -11357,7 +11357,7 @@
 1840	02	01	ManchesterTimes	0004	1840	01	30	CaledonianMercury	0002
 1840	02	02	TheCharter	0004	1840	01	30	CaledonianMercury	0002
 1840	02	02	Examiner	0009	1840	01	30	CaledonianMercury	0002
-1840	02	02		0006	1840	01	30	CaledonianMercury	0002
+1840	02	02	SouthernStar	0006	1840	01	30	CaledonianMercury	0002
 1840	02	03	HampshirePortsmouthTelegraph	0002	1840	01	30	CaledonianMercury	0002
 1840	02	03	MorningChronicle	0002	1840	01	30	CaledonianMercury	0002
 1840	02	05	AberdeenJournal	0004	1840	01	30	CaledonianMercury	0002
@@ -11369,7 +11369,7 @@
 1840	02	08	PrestonChronicle	0002	1840	01	30	CaledonianMercury	0003
 1840	02	08	NorthernStar	0002	1840	01	30	CaledonianMercury	0003
 1840	02	09	TheEra	0012	1840	01	30	CaledonianMercury	0003
-1840	02	16		0015	1840	01	30	CaledonianMercury	0003
+1840	02	16	SouthernStar	0015	1840	01	30	CaledonianMercury	0003
 1840	01	31	BelfastNews-Letter	0004	1840	01	30	CaledonianMercury	0004
 1840	01	31	NewcastleCourant	0003	1840	01	30	CaledonianMercury	0004
 1840	02	02	Champion	0009	1840	01	30	CaledonianMercury	0004
@@ -11418,7 +11418,7 @@
 1840	02	02	TheCharter	0005	1840	01	30	Freeman'sJournal	0004
 1840	02	02	TheEra	0002	1840	01	30	Freeman'sJournal	0004
 1840	02	02	Examiner	0005	1840	01	30	Freeman'sJournal	0004
-1840	02	02		0006	1840	01	30	Freeman'sJournal	0004
+1840	02	02	SouthernStar	0006	1840	01	30	Freeman'sJournal	0004
 1840	02	05	AberdeenJournal	0004	1840	01	30	Freeman'sJournal	0004
 1840	02	05	DerbyMercury	0004	1840	01	30	Freeman'sJournal	0004
 1840	02	07	BelfastNews-Letter	0004	1840	01	30	Freeman'sJournal	0004
@@ -11486,7 +11486,7 @@
 1840	02	02	TheCharter	0013	1840	01	30	MorningChronicle	0006
 1840	02	02	TheEra	0010	1840	01	30	MorningChronicle	0006
 1840	02	02	Examiner	0012	1840	01	30	MorningChronicle	0006
-1840	02	02		0015	1840	01	30	MorningChronicle	0006
+1840	02	02	SouthernStar	0015	1840	01	30	MorningChronicle	0006
 1840	02	03	Freeman'sJournal	0003	1840	01	30	MorningChronicle	0006
 1840	02	07	NewcastleCourant	0008	1840	01	30	MorningChronicle	0006
 1840	01	30	TheTimes	0008	1840	01	30	MorningChronicle	0007
@@ -11496,7 +11496,7 @@
 1840	02	02	TheCharter	0002	1840	01	30	MorningChronicle	0007
 1840	02	02	TheEra	0004	1840	01	30	MorningChronicle	0007
 1840	02	02	Examiner	0016	1840	01	30	MorningChronicle	0007
-1840	02	02		0003	1840	01	30	MorningChronicle	0007
+1840	02	02	SouthernStar	0003	1840	01	30	MorningChronicle	0007
 1840	02	02	Champion	0006	1840	01	30	TheTimes	0002
 1840	02	02	Examiner	0014	1840	01	30	TheTimes	0002
 1840	01	31	Freeman'sJournal	0002	1840	01	30	TheTimes	0003
@@ -11541,13 +11541,13 @@
 1840	02	02	TheEra	0010	1840	01	30	TheTimes	0007
 1840	02	02	TheEra	0012	1840	01	30	TheTimes	0007
 1840	02	02	Examiner	0010	1840	01	30	TheTimes	0007
-1840	02	02		0003	1840	01	30	TheTimes	0007
-1840	02	02		0004	1840	01	30	TheTimes	0007
+1840	02	02	SouthernStar	0003	1840	01	30	TheTimes	0007
+1840	02	02	SouthernStar	0004	1840	01	30	TheTimes	0007
 1840	02	07	HullPacket	0003	1840	01	30	TheTimes	0007
 1840	02	01	CaledonianMercury	0004	1840	01	30	TheTimes	0008
 1840	02	02	TheCharter	0012	1840	01	30	TheTimes	0008
 1840	02	02	TheEra	0001	1840	01	30	TheTimes	0008
-1840	02	02		0013	1840	01	30	TheTimes	0008
+1840	02	02	SouthernStar	0013	1840	01	30	TheTimes	0008
 1840	02	08	NorthernStar	0002	1840	01	30	TheTimes	0008
 1840	01	31	LiverpoolMercury	0007	1840	01	30	Trewman'sExeterFlyingPost	0003
 1840	01	31	HullPacket	0001	1840	01	30	Trewman'sExeterFlyingPost	0003
@@ -11586,7 +11586,7 @@
 1840	02	02	TheCharter	0004	1840	01	31	BelfastNews-Letter	0002
 1840	02	02	TheEra	0002	1840	01	31	BelfastNews-Letter	0002
 1840	02	02	Examiner	0005	1840	01	31	BelfastNews-Letter	0002
-1840	02	02		0006	1840	01	31	BelfastNews-Letter	0002
+1840	02	02	SouthernStar	0006	1840	01	31	BelfastNews-Letter	0002
 1840	02	05	AberdeenJournal	0004	1840	01	31	BelfastNews-Letter	0002
 1840	02	09	TheEra	0003	1840	01	31	BelfastNews-Letter	0002
 1840	02	01	BristolMercury	0003	1840	01	31	BelfastNews-Letter	0003
@@ -11594,7 +11594,7 @@
 1840	02	01	NorthernStar	0002	1840	01	31	BelfastNews-Letter	0003
 1840	02	02	TheEra	0001	1840	01	31	BelfastNews-Letter	0003
 1840	02	02	Examiner	0015	1840	01	31	BelfastNews-Letter	0003
-1840	02	02		0016	1840	01	31	BelfastNews-Letter	0003
+1840	02	02	SouthernStar	0016	1840	01	31	BelfastNews-Letter	0003
 1840	02	04	NorthWalesChronicle	0001	1840	01	31	BelfastNews-Letter	0003
 1840	02	07	Freeman'sJournal	0001	1840	01	31	BelfastNews-Letter	0003
 1840	02	08	CaledonianMercury	0001	1840	01	31	BelfastNews-Letter	0003
@@ -11659,7 +11659,7 @@
 1840	02	02	TheCharter	0005	1840	01	31	Freeman'sJournal	0002
 1840	02	02	TheEra	0002	1840	01	31	Freeman'sJournal	0002
 1840	02	02	Examiner	0007	1840	01	31	Freeman'sJournal	0002
-1840	02	02		0007	1840	01	31	Freeman'sJournal	0002
+1840	02	02	SouthernStar	0007	1840	01	31	Freeman'sJournal	0002
 1840	02	04	BelfastNews-Letter	0004	1840	01	31	Freeman'sJournal	0002
 1840	02	08	MorningChronicle	0004	1840	01	31	Freeman'sJournal	0002
 1840	01	31	NewcastleCourant	0004	1840	01	31	Freeman'sJournal	0003
@@ -11729,7 +11729,7 @@
 1840	02	01	ManchesterTimes	0002	1840	01	31	HullPacket	0002
 1840	02	01	NorthernStar	0004	1840	01	31	HullPacket	0002
 1840	02	02	Examiner	0015	1840	01	31	HullPacket	0002
-1840	02	02		0004	1840	01	31	HullPacket	0002
+1840	02	02	SouthernStar	0004	1840	01	31	HullPacket	0002
 1840	02	05	Freeman'sJournal	0002	1840	01	31	HullPacket	0002
 1840	02	05	AberdeenJournal	0004	1840	01	31	HullPacket	0002
 1840	02	05	DerbyMercury	0001	1840	01	31	HullPacket	0002
@@ -11758,7 +11758,7 @@
 1840	02	01	LeedsMercury	0008	1840	01	31	HullPacket	0004
 1840	02	02	Champion	0009	1840	01	31	HullPacket	0004
 1840	02	02	TheCharter	0014	1840	01	31	HullPacket	0004
-1840	02	02		0013	1840	01	31	HullPacket	0004
+1840	02	02	SouthernStar	0013	1840	01	31	HullPacket	0004
 1840	02	03	HampshirePortsmouthTelegraph	0001	1840	01	31	HullPacket	0004
 1840	02	04	NorthWalesChronicle	0002	1840	01	31	HullPacket	0004
 1840	02	05	AberdeenJournal	0004	1840	01	31	HullPacket	0004
@@ -11868,7 +11868,7 @@
 1840	02	02	TheCharter	0015	1840	01	31	LiverpoolMercury	0007
 1840	02	02	TheEra	0010	1840	01	31	LiverpoolMercury	0007
 1840	02	02	Examiner	0005	1840	01	31	LiverpoolMercury	0007
-1840	02	02		0003	1840	01	31	LiverpoolMercury	0007
+1840	02	02	SouthernStar	0003	1840	01	31	LiverpoolMercury	0007
 1840	02	04	NorthWalesChronicle	0002	1840	01	31	LiverpoolMercury	0007
 1840	01	31	HullPacket	0001	1840	01	31	LiverpoolMercury	0008
 1840	02	01	PrestonChronicle	0002	1840	01	31	LiverpoolMercury	0008
@@ -11912,8 +11912,8 @@
 1840	02	02	TheCharter	0004	1840	01	31	NewcastleCourant	0002
 1840	02	02	TheEra	0002	1840	01	31	NewcastleCourant	0002
 1840	02	02	Examiner	0005	1840	01	31	NewcastleCourant	0002
-1840	02	02		0004	1840	01	31	NewcastleCourant	0002
-1840	02	02		0006	1840	01	31	NewcastleCourant	0002
+1840	02	02	SouthernStar	0004	1840	01	31	NewcastleCourant	0002
+1840	02	02	SouthernStar	0006	1840	01	31	NewcastleCourant	0002
 1840	02	05	AberdeenJournal	0004	1840	01	31	NewcastleCourant	0002
 1840	02	08	TheTimes	0002	1840	01	31	NewcastleCourant	0002
 1840	02	15	LeedsMercury	0003	1840	01	31	NewcastleCourant	0002
@@ -11931,8 +11931,8 @@
 1840	02	02	TheEra	0012	1840	01	31	NewcastleCourant	0003
 1840	02	02	Examiner	0010	1840	01	31	NewcastleCourant	0003
 1840	02	02	Examiner	0013	1840	01	31	NewcastleCourant	0003
-1840	02	02		0005	1840	01	31	NewcastleCourant	0003
-1840	02	02		0013	1840	01	31	NewcastleCourant	0003
+1840	02	02	SouthernStar	0005	1840	01	31	NewcastleCourant	0003
+1840	02	02	SouthernStar	0013	1840	01	31	NewcastleCourant	0003
 1840	02	04	BelfastNews-Letter	0004	1840	01	31	NewcastleCourant	0003
 1840	02	05	AberdeenJournal	0004	1840	01	31	NewcastleCourant	0003
 1840	02	05	DerbyMercury	0002	1840	01	31	NewcastleCourant	0003
@@ -11977,7 +11977,7 @@
 1840	02	01	IpswichJournal	0003	1840	01	31	NewcastleCourant	0004
 1840	02	01	LeedsMercury	0007	1840	01	31	NewcastleCourant	0004
 1840	02	01	ManchesterTimes	0003	1840	01	31	NewcastleCourant	0004
-1840	02	02		0005	1840	01	31	NewcastleCourant	0004
+1840	02	02	SouthernStar	0005	1840	01	31	NewcastleCourant	0004
 1840	02	05	DerbyMercury	0004	1840	01	31	NewcastleCourant	0004
 1840	02	07	HullPacket	0004	1840	01	31	NewcastleCourant	0004
 1840	02	08	CaledonianMercury	0004	1840	01	31	NewcastleCourant	0004
@@ -11991,7 +11991,7 @@
 1840	02	02	TheEra	0001	1840	01	31	NewcastleCourant	0005
 1840	02	02	TheEra	0012	1840	01	31	NewcastleCourant	0005
 1840	02	02	Examiner	0015	1840	01	31	NewcastleCourant	0005
-1840	02	02		0016	1840	01	31	NewcastleCourant	0005
+1840	02	02	SouthernStar	0016	1840	01	31	NewcastleCourant	0005
 1840	02	07	HullPacket	0001	1840	01	31	NewcastleCourant	0005
 1840	02	07	TheTimes	0008	1840	01	31	NewcastleCourant	0005
 1840	02	08	Jackson'sOxfordJournal	0004	1840	01	31	NewcastleCourant	0005
@@ -11999,7 +11999,7 @@
 1840	02	08	BristolMercury	0003	1840	01	31	NewcastleCourant	0005
 1840	02	08	ManchesterTimes	0001	1840	01	31	NewcastleCourant	0005
 1840	02	09	TheEra	0001	1840	01	31	NewcastleCourant	0005
-1840	02	09		0008	1840	01	31	NewcastleCourant	0005
+1840	02	09	SouthernStar	0008	1840	01	31	NewcastleCourant	0005
 1840	02	12	AberdeenJournal	0001	1840	01	31	NewcastleCourant	0005
 1840	02	12	DerbyMercury	0001	1840	01	31	NewcastleCourant	0005
 1840	02	14	HullPacket	0001	1840	01	31	NewcastleCourant	0005
@@ -12011,7 +12011,7 @@
 1840	02	15	TheTimes	0002	1840	01	31	NewcastleCourant	0005
 1840	02	16	TheEra	0001	1840	01	31	NewcastleCourant	0005
 1840	02	16	Examiner	0015	1840	01	31	NewcastleCourant	0005
-1840	02	16		0016	1840	01	31	NewcastleCourant	0005
+1840	02	16	SouthernStar	0016	1840	01	31	NewcastleCourant	0005
 1840	02	17	CaledonianMercury	0001	1840	01	31	NewcastleCourant	0005
 1840	02	19	DerbyMercury	0001	1840	01	31	NewcastleCourant	0005
 1840	02	20	TheTimes	0008	1840	01	31	NewcastleCourant	0005
@@ -12063,7 +12063,7 @@
 1840	02	02	Champion	0004	1840	01	31	NewcastleCourant	0008
 1840	02	02	TheCharter	0004	1840	01	31	NewcastleCourant	0008
 1840	02	02	TheEra	0002	1840	01	31	NewcastleCourant	0008
-1840	02	02		0006	1840	01	31	NewcastleCourant	0008
+1840	02	02	SouthernStar	0006	1840	01	31	NewcastleCourant	0008
 1840	02	03	HampshirePortsmouthTelegraph	0002	1840	01	31	NewcastleCourant	0008
 1840	02	07	HullPacket	0004	1840	01	31	NewcastleCourant	0008
 1840	02	14	TheTimes	0003	1840	01	31	NewcastleCourant	0008
@@ -12090,7 +12090,7 @@
 1840	02	02	TheCharter	0012	1840	01	31	TheTimes	0006
 1840	02	02	TheEra	0009	1840	01	31	TheTimes	0006
 1840	02	02	TheEra	0010	1840	01	31	TheTimes	0006
-1840	02	02		0003	1840	01	31	TheTimes	0006
+1840	02	02	SouthernStar	0003	1840	01	31	TheTimes	0006
 1840	02	03	MorningChronicle	0003	1840	01	31	TheTimes	0006
 1840	02	08	NorthernStar	0002	1840	01	31	TheTimes	0006
 1840	02	08	NorthernStar	0005	1840	01	31	TheTimes	0006

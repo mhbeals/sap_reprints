@@ -1,7 +1,7 @@
 # Scissors and Paste Database
-## A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.1.0
+## A Map of Reprinting and Reuse in the Anglophone Newspaper Press v.1.1.1
 
-Version 1.1.0 currently maps reprinting and re-use in the following collections:
+Version 1.1.1 currently maps reprinting and re-use in the following collections:
 
 1. British Library 19th Century Newspapers, Part 1 (JISC)
 2. Times Digital Archive (GALE CENGAGE)
