@@ -1,4 +1,4 @@
-# Scissors and Paste Database Changegog
+# Scissors and Paste Database Changelog
 
 ## v.1.1.1
 25 June 2017
