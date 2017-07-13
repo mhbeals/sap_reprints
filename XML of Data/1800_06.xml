@@ -4,6 +4,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -114,6 +115,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -169,7 +171,7 @@
 		<day>22</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -187,7 +189,7 @@
 		<day>24</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -223,7 +225,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -232,7 +234,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -251,6 +253,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -352,6 +355,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -399,6 +403,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -419,6 +424,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -429,7 +435,7 @@
 		<day>17</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -455,8 +461,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -519,7 +525,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -538,6 +544,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -576,6 +583,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -595,7 +603,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -613,7 +621,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<subsequent>
@@ -641,6 +649,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -660,7 +669,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -688,6 +697,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -708,6 +718,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -718,7 +729,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -764,6 +775,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -784,6 +796,7 @@
 	<monthno>06</monthno>
 	<day>3</day>
 	<dayno>03</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -803,7 +816,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -812,7 +825,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -857,7 +870,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -866,7 +879,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -930,6 +943,7 @@
 	<monthno>06</monthno>
 	<day>3</day>
 	<dayno>03</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -1013,6 +1027,7 @@
 	<monthno>06</monthno>
 	<day>3</day>
 	<dayno>03</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -1059,7 +1074,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -1076,8 +1091,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1123,6 +1138,7 @@
 	<monthno>06</monthno>
 	<day>3</day>
 	<dayno>03</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -1133,7 +1149,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -1152,6 +1168,7 @@
 	<monthno>06</monthno>
 	<day>3</day>
 	<dayno>03</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -1170,8 +1187,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -1189,7 +1206,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -1198,7 +1215,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -1208,6 +1225,7 @@
 	<monthno>06</monthno>
 	<day>4</day>
 	<dayno>04</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -1217,8 +1235,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -1236,7 +1254,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -1282,6 +1300,7 @@
 	<monthno>06</monthno>
 	<day>4</day>
 	<dayno>04</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -1320,6 +1339,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -1356,8 +1376,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</same>
 	<subsequent>
@@ -1366,7 +1386,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1430,6 +1450,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -1448,8 +1469,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -1458,7 +1479,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1522,6 +1543,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -1587,6 +1609,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -1606,7 +1629,7 @@
 		<day>17</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -1641,8 +1664,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1688,6 +1711,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -1733,8 +1757,8 @@
 		<month>June</month>
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -1743,7 +1767,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1807,6 +1831,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -1862,7 +1887,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -1908,6 +1933,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -1918,7 +1944,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<subsequent>
@@ -1927,7 +1953,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1962,8 +1988,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -1971,8 +1997,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -1998,8 +2024,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -2009,6 +2035,7 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -2029,9 +2056,10 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -2048,7 +2076,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<same>
@@ -2075,7 +2103,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -2121,9 +2149,10 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>3</pageno>
 	<previous>
 		<year>1800</year>
@@ -2158,7 +2187,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -2167,7 +2196,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -2176,7 +2205,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -2240,9 +2269,10 @@
 	<monthno>06</monthno>
 	<day>5</day>
 	<dayno>05</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -2250,7 +2280,7 @@
 		<day>17</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -2313,7 +2343,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -2322,7 +2352,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -2422,6 +2452,7 @@
 	<monthno>06</monthno>
 	<day>6</day>
 	<dayno>06</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -2431,8 +2462,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -2442,6 +2473,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -2470,7 +2502,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<same>
@@ -2479,7 +2511,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</same>
 	<same>
@@ -2488,7 +2520,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -2561,6 +2593,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -2608,6 +2641,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -2655,6 +2689,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -2665,7 +2700,7 @@
 		<day>17</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -2701,7 +2736,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -2781,8 +2816,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -2792,6 +2827,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -2811,7 +2847,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</same>
 	<subsequent>
@@ -2848,6 +2884,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -2912,7 +2949,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -2921,7 +2958,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<same>
@@ -2930,7 +2967,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</same>
 	<subsequent>
@@ -2994,9 +3031,10 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -3031,7 +3069,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -3040,7 +3078,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -3075,8 +3113,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -3084,8 +3122,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -3095,9 +3133,10 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -3114,7 +3153,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<same>
@@ -3176,8 +3215,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -3196,9 +3235,10 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>3</pageno>
 	<same>
 		<year>1800</year>
@@ -3225,9 +3265,10 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -3289,7 +3330,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -3298,7 +3339,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -3307,7 +3348,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -3398,6 +3439,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -3418,6 +3460,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -3510,6 +3553,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -3574,7 +3618,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -3583,7 +3627,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -3601,7 +3645,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -3629,6 +3673,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -3711,7 +3756,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -3739,6 +3784,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -3777,6 +3823,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -3796,7 +3843,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<subsequent>
@@ -3822,8 +3869,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -3831,8 +3878,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -3842,6 +3889,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -3870,7 +3918,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -3914,8 +3962,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -3942,7 +3990,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -3997,6 +4045,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -4061,7 +4110,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -4142,7 +4191,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4204,8 +4253,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4214,7 +4263,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4242,6 +4291,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -4261,7 +4311,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -4297,7 +4347,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -4306,7 +4356,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -4332,8 +4382,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -4342,7 +4392,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4370,6 +4420,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -4416,7 +4467,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -4425,7 +4476,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -4452,7 +4503,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -4461,7 +4512,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -4516,6 +4567,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -4553,7 +4605,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4572,6 +4624,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -4590,8 +4643,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -4619,6 +4672,7 @@
 	<monthno>06</monthno>
 	<day>10</day>
 	<dayno>10</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -4638,7 +4692,7 @@
 		<day>24</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -4656,7 +4710,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -4683,7 +4737,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -4692,7 +4746,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -4718,8 +4772,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4747,6 +4801,7 @@
 	<monthno>06</monthno>
 	<day>10</day>
 	<dayno>10</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -4757,7 +4812,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -4783,8 +4838,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4793,7 +4848,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -4819,8 +4874,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4855,8 +4910,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4884,6 +4939,7 @@
 	<monthno>06</monthno>
 	<day>10</day>
 	<dayno>10</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -4903,7 +4959,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -4956,8 +5012,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -4966,7 +5022,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -4985,6 +5041,7 @@
 	<monthno>06</monthno>
 	<day>10</day>
 	<dayno>10</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -5085,7 +5142,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -5094,7 +5151,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -5139,7 +5196,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -5148,7 +5205,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -5211,7 +5268,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5255,8 +5312,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5284,6 +5341,7 @@
 	<monthno>06</monthno>
 	<day>10</day>
 	<dayno>10</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -5302,8 +5360,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -5312,7 +5370,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -5322,6 +5380,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -5360,6 +5419,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -5414,8 +5474,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</same>
 	<subsequent>
@@ -5424,7 +5484,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5452,6 +5512,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -5480,7 +5541,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -5499,6 +5560,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -5555,6 +5617,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -5574,7 +5637,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -5600,8 +5663,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -5610,7 +5673,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -5636,8 +5699,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5646,7 +5709,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -5656,6 +5719,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -5729,7 +5793,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -5738,7 +5802,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -5774,7 +5838,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -5783,7 +5847,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -5863,8 +5927,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -5873,7 +5937,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5918,7 +5982,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5962,8 +6026,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -5972,7 +6036,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -6018,6 +6082,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -6028,7 +6093,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -6073,7 +6138,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -6082,7 +6147,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -6091,7 +6156,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -6108,8 +6173,8 @@
 		<month>June</month>
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</same>
 	<subsequent>
@@ -6118,7 +6183,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -6144,8 +6209,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -6171,8 +6236,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -6198,8 +6263,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -6209,6 +6274,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -6228,7 +6294,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -6265,6 +6331,7 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -6294,9 +6361,10 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -6359,9 +6427,10 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>3</pageno>
 	<previous>
 		<year>1800</year>
@@ -6405,7 +6474,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -6442,9 +6511,10 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -6488,7 +6558,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -6533,7 +6603,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -6542,7 +6612,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -6623,7 +6693,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -6651,6 +6721,7 @@
 	<monthno>06</monthno>
 	<day>13</day>
 	<dayno>13</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -6660,8 +6731,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 </page>
@@ -6671,6 +6742,7 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -6700,6 +6772,7 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -6728,7 +6801,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<same>
@@ -6737,7 +6810,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -6772,8 +6845,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -6792,6 +6865,7 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -6830,6 +6904,7 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -6912,7 +6987,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -6922,9 +6997,10 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -6950,7 +7026,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -6959,7 +7035,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -7003,8 +7079,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -7014,9 +7090,10 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -7051,7 +7128,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -7115,9 +7192,10 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>3</pageno>
 	<subsequent>
 		<year>1800</year>
@@ -7144,9 +7222,10 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -7218,6 +7297,7 @@
 	<monthno>06</monthno>
 	<day>14</day>
 	<dayno>14</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -7238,6 +7318,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -7339,6 +7420,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -7439,7 +7521,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -7448,7 +7530,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -7520,7 +7602,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -7557,6 +7639,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -7586,6 +7669,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -7605,7 +7689,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<same>
@@ -7651,6 +7735,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -7680,6 +7765,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -7808,6 +7894,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -7845,7 +7932,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<subsequent>
@@ -7898,8 +7985,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -7918,6 +8005,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -7946,7 +8034,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<subsequent>
@@ -7954,8 +8042,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -7965,6 +8053,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -7992,8 +8081,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -8012,6 +8101,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -8058,7 +8148,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -8121,7 +8211,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -8130,7 +8220,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<same>
@@ -8184,7 +8274,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -8247,7 +8337,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -8293,6 +8383,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -8311,8 +8402,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -8321,7 +8412,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -8340,6 +8431,7 @@
 	<monthno>06</monthno>
 	<day>17</day>
 	<dayno>17</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -8350,7 +8442,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -8386,7 +8478,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -8404,7 +8496,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -8459,6 +8551,7 @@
 	<monthno>06</monthno>
 	<day>17</day>
 	<dayno>17</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -8478,7 +8571,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -8505,7 +8598,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8524,6 +8617,7 @@
 	<monthno>06</monthno>
 	<day>17</day>
 	<dayno>17</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -8562,6 +8656,7 @@
 	<monthno>06</monthno>
 	<day>17</day>
 	<dayno>17</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -8572,7 +8667,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8591,6 +8686,7 @@
 	<monthno>06</monthno>
 	<day>18</day>
 	<dayno>18</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -8618,8 +8714,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -8629,6 +8725,7 @@
 	<monthno>06</monthno>
 	<day>18</day>
 	<dayno>18</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -8658,6 +8755,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -8705,6 +8803,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -8759,8 +8858,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -8770,6 +8869,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -8790,6 +8890,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -8800,7 +8901,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -8844,8 +8945,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</same>
 	<subsequent>
@@ -8854,7 +8955,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8871,8 +8972,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8881,7 +8982,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8908,7 +9009,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -8927,6 +9028,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -9001,6 +9103,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -9029,7 +9132,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -9092,7 +9195,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -9101,7 +9204,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -9110,7 +9213,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -9163,8 +9266,8 @@
 		<month>June</month>
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</same>
 	<subsequent>
@@ -9173,7 +9276,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -9226,8 +9329,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -9236,7 +9339,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -9309,6 +9412,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -9329,9 +9433,10 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -9366,7 +9471,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9384,7 +9489,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9420,7 +9525,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9439,9 +9544,10 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>3</pageno>
 	<previous>
 		<year>1800</year>
@@ -9486,9 +9592,10 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -9505,7 +9612,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -9569,6 +9676,7 @@
 	<monthno>06</monthno>
 	<day>20</day>
 	<dayno>20</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -9589,6 +9697,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -9599,7 +9708,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<subsequent>
@@ -9626,7 +9735,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9670,8 +9779,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9680,7 +9789,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -9699,6 +9808,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -9718,7 +9828,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -9736,7 +9846,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -9762,8 +9872,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -9782,6 +9892,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -9802,6 +9913,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -9822,6 +9934,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -9841,7 +9954,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -9860,6 +9973,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -9888,7 +10002,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -9897,7 +10011,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -9932,8 +10046,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -9960,7 +10074,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -9970,9 +10084,10 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -10007,7 +10122,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<subsequent>
@@ -10024,8 +10139,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10053,9 +10168,10 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>2</pageno>
 	<same>
 		<year>1800</year>
@@ -10091,9 +10207,10 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -10228,6 +10345,7 @@
 	<monthno>06</monthno>
 	<day>21</day>
 	<dayno>21</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -10248,6 +10366,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -10312,7 +10431,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<subsequent>
@@ -10340,6 +10459,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -10476,7 +10596,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10531,6 +10651,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -10596,6 +10717,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -10605,8 +10727,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10625,6 +10747,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -10663,6 +10786,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -10737,6 +10861,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -10773,8 +10898,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10800,8 +10925,8 @@
 		<month>July</month>
 		<day>10</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10810,7 +10935,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -10820,6 +10945,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -10838,8 +10964,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -10849,6 +10975,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -10894,8 +11021,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -10904,7 +11031,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -10923,6 +11050,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -11014,7 +11142,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -11023,7 +11151,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<same>
@@ -11077,7 +11205,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11114,6 +11242,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -11141,8 +11270,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -11161,6 +11290,7 @@
 	<monthno>06</monthno>
 	<day>24</day>
 	<dayno>24</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -11207,7 +11337,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -11225,7 +11355,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -11261,7 +11391,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -11287,8 +11417,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11306,7 +11436,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -11351,7 +11481,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -11395,8 +11525,8 @@
 		<month>July</month>
 		<day>10</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11405,7 +11535,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -11433,6 +11563,7 @@
 	<monthno>06</monthno>
 	<day>24</day>
 	<dayno>24</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -11470,7 +11601,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -11479,7 +11610,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -11488,7 +11619,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -11533,7 +11664,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -11542,7 +11673,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -11578,7 +11709,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11642,6 +11773,7 @@
 	<monthno>06</monthno>
 	<day>25</day>
 	<dayno>25</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -11662,6 +11794,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -11690,7 +11823,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -11709,6 +11842,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -11754,8 +11888,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -11764,7 +11898,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11792,6 +11926,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -11830,6 +11965,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -11850,6 +11986,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -11887,7 +12024,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -11896,7 +12033,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</subsequent>
 	<subsequent>
@@ -11940,8 +12077,8 @@
 		<month>July</month>
 		<day>10</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -11950,7 +12087,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -11959,7 +12096,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -11987,6 +12124,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -11997,7 +12135,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -12042,7 +12180,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -12096,7 +12234,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -12140,8 +12278,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -12150,7 +12288,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -12195,7 +12333,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -12221,8 +12359,8 @@
 		<month>July</month>
 		<day>10</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -12231,7 +12369,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -12248,8 +12386,8 @@
 		<month>July</month>
 		<day>17</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -12259,6 +12397,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -12296,7 +12435,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -12376,8 +12515,8 @@
 		<month>June</month>
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</same>
 	<subsequent>
@@ -12386,7 +12525,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -12440,7 +12579,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -12475,8 +12614,8 @@
 		<month>July</month>
 		<day>17</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -12486,6 +12625,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -12505,7 +12645,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -12524,9 +12664,10 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -12561,7 +12702,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -12580,9 +12721,10 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -12645,9 +12787,10 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>3</pageno>
 	<subsequent>
 		<year>1800</year>
@@ -12665,9 +12808,10 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
 	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-	<titledash>Trewman's-Exeter-Flying-Post</titledash>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -12792,7 +12936,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -12874,6 +13018,7 @@
 	<monthno>06</monthno>
 	<day>27</day>
 	<dayno>27</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -12903,6 +13048,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -12932,6 +13078,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -12970,6 +13117,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -12998,7 +13146,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</same>
 	<subsequent>
@@ -13026,6 +13174,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -13045,7 +13194,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -13055,6 +13204,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -13155,7 +13305,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -13173,7 +13323,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -13236,7 +13386,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>3</pageno>
 	</same>
 	<subsequent>
@@ -13289,8 +13439,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -13299,7 +13449,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -13335,7 +13485,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -13344,7 +13494,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -13372,9 +13522,10 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -13400,7 +13551,7 @@
 		<day>19</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -13455,9 +13606,10 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -13465,7 +13617,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -13527,8 +13679,8 @@
 		<month>July</month>
 		<day>10</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -13554,8 +13706,8 @@
 		<month>July</month>
 		<day>17</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -13565,9 +13717,10 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>3</pageno>
 	<previous>
 		<year>1800</year>
@@ -13630,9 +13783,10 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Jacksons Oxford Journal</wp_author>
 	<title>Jackson'sOxfordJournal</title>
 	<titlenormal>Jackson's Oxford Journal</titlenormal>
-	<titledash>Jackson's-Oxford-Journal</titledash>
+	<titledash>Jacksons-Oxford-Journal</titledash>
 	<pageno>4</pageno>
 	<previous>
 		<year>1800</year>
@@ -13821,6 +13975,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -13859,6 +14014,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -13986,7 +14142,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 	<subsequent>
@@ -13995,7 +14151,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -14013,7 +14169,7 @@
 		<day>19</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</subsequent>
 </page>
@@ -14023,6 +14179,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -14177,7 +14334,7 @@
 		<day>26</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -14186,7 +14343,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -14232,6 +14389,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -14261,6 +14419,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -14308,6 +14467,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -14328,6 +14488,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -14346,8 +14507,8 @@
 		<month>July</month>
 		<day>3</day>
 		<title>Trewman'sExeterFlyingPost</title>
-		<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-		<titledash>Trewman's-ExeterFlying-Post</titledash>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>2</pageno>
 	</subsequent>
 	<subsequent>
@@ -14356,7 +14517,7 @@
 		<day>5</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 </page>
@@ -14366,6 +14527,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -14439,7 +14601,7 @@
 		<day>21</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -14493,7 +14655,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<same>
@@ -14547,7 +14709,7 @@
 		<day>12</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</subsequent>
 	<subsequent>
@@ -14602,6 +14764,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -14622,6 +14785,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -14651,6 +14815,7 @@
 	<monthno>06</monthno>
 	<day>2</day>
 	<dayno>02</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -14706,7 +14871,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 </page>
@@ -14716,6 +14881,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -14744,7 +14910,7 @@
 		<day>29</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -14780,7 +14946,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -14789,7 +14955,7 @@
 		<day>31</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>4</pageno>
 	</previous>
 	<previous>
@@ -14844,6 +15010,7 @@
 	<monthno>06</monthno>
 	<day>9</day>
 	<dayno>09</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -14918,6 +15085,7 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -14965,6 +15133,7 @@
 	<monthno>06</monthno>
 	<day>7</day>
 	<dayno>07</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -14985,6 +15154,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -15022,7 +15192,7 @@
 		<day>5</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -15058,7 +15228,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -15113,9 +15283,10 @@
 	<monthno>06</monthno>
 	<day>12</day>
 	<dayno>12</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
-	<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-	<titledash>Trewman's-ExeterFlying-Post</titledash>
+	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>1</pageno>
 	<previous>
 		<year>1800</year>
@@ -15123,7 +15294,7 @@
 		<day>7</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 	<previous>
@@ -15142,6 +15313,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -15180,6 +15352,7 @@
 	<monthno>06</monthno>
 	<day>26</day>
 	<dayno>26</dayno>
+	<wp_author>Derby Mercury</wp_author>
 	<title>DerbyMercury</title>
 	<titlenormal>Derby Mercury</titlenormal>
 	<titledash>Derby-Mercury</titledash>
@@ -15200,6 +15373,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Caledonian Mercury</wp_author>
 	<title>CaledonianMercury</title>
 	<titlenormal>Caledonian Mercury</titlenormal>
 	<titledash>Caledonian-Mercury</titledash>
@@ -15220,6 +15394,7 @@
 	<monthno>06</monthno>
 	<day>23</day>
 	<dayno>23</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -15239,7 +15414,7 @@
 		<day>12</day>
 		<title>Trewman'sExeterFlyingPost</title>
 		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
-		<titledash>Trewman's-Exeter-Flying-Post</titledash>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
 		<pageno>3</pageno>
 	</previous>
 	<previous>
@@ -15257,7 +15432,7 @@
 		<day>14</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<previous>
@@ -15294,9 +15469,10 @@
 	<monthno>06</monthno>
 	<day>19</day>
 	<dayno>19</dayno>
+	<wp_author>Trewmans Exeter Flying Post</wp_author>
 	<title>Trewman'sExeterFlyingPost</title>
-	<titlenormal>Trewman's ExeterFlying Post</titlenormal>
-	<titledash>Trewman's-ExeterFlying-Post</titledash>
+	<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+	<titledash>Trewmans-Exeter-Flying-Post</titledash>
 	<pageno>2</pageno>
 	<previous>
 		<year>1800</year>
@@ -15314,6 +15490,7 @@
 	<monthno>06</monthno>
 	<day>16</day>
 	<dayno>16</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -15334,6 +15511,7 @@
 	<monthno>06</monthno>
 	<day>20</day>
 	<dayno>20</dayno>
+	<wp_author>The Times</wp_author>
 	<title>TheTimes</title>
 	<titlenormal>The Times</titlenormal>
 	<titledash>The-Times</titledash>
@@ -15354,6 +15532,7 @@
 	<monthno>06</monthno>
 	<day>24</day>
 	<dayno>24</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -15383,6 +15562,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -15430,6 +15610,7 @@
 	<monthno>06</monthno>
 	<day>24</day>
 	<dayno>24</dayno>
+	<wp_author>Hull Packet</wp_author>
 	<title>HullPacket</title>
 	<titlenormal>Hull Packet</titlenormal>
 	<titledash>Hull-Packet</titledash>
@@ -15450,6 +15631,7 @@
 	<monthno>06</monthno>
 	<day>28</day>
 	<dayno>28</dayno>
+	<wp_author>Ipswich Journal</wp_author>
 	<title>IpswichJournal</title>
 	<titlenormal>Ipswich Journal</titlenormal>
 	<titledash>Ipswich-Journal</titledash>
@@ -15470,6 +15652,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Aberdeen Journal</wp_author>
 	<title>AberdeenJournal</title>
 	<titlenormal>Aberdeen Journal</titlenormal>
 	<titledash>Aberdeen-Journal</titledash>
@@ -15498,7 +15681,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>1</pageno>
 	</previous>
 </page>
@@ -15508,6 +15691,7 @@
 	<monthno>06</monthno>
 	<day>30</day>
 	<dayno>30</dayno>
+	<wp_author>Hampshire Portsmouth Telegraph</wp_author>
 	<title>HampshirePortsmouthTelegraph</title>
 	<titlenormal>Hampshire Portsmouth Telegraph</titlenormal>
 	<titledash>Hampshire-Portsmouth-Telegraph</titledash>
@@ -15554,7 +15738,7 @@
 		<day>28</day>
 		<title>Jackson'sOxfordJournal</title>
 		<titlenormal>Jackson's Oxford Journal</titlenormal>
-		<titledash>Jackson's-Oxford-Journal</titledash>
+		<titledash>Jacksons-Oxford-Journal</titledash>
 		<pageno>2</pageno>
 	</previous>
 	<same>

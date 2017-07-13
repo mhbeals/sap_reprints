@@ -1,0 +1,933 @@
+<page>
+	<year>1859</year>
+	<month>December</month>
+	<monthno>12</monthno>
+	<day>1</day>
+	<dayno>1</dayno>
+	<wp_author>Daily News</wp_author>
+	<title>DailyNews</title>
+	<titlenormal>Daily News</titlenormal>
+	<titledash>Daily-News</titledash>
+	<pageno>7</pageno>
+	<same>
+		<year>1859</year>
+		<month>December</month>
+		<day>1</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>3</pageno>
+	</same>
+	<same>
+		<year>1859</year>
+		<month>December</month>
+		<day>1</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>4</pageno>
+	</same>
+	<same>
+		<year>1859</year>
+		<month>December</month>
+		<day>1</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>3</pageno>
+	</same>
+	<same>
+		<year>1859</year>
+		<month>December</month>
+		<day>1</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</same>
+	<same>
+		<year>1859</year>
+		<month>December</month>
+		<day>1</day>
+		<title>TheTimes</title>
+		<titlenormal>The Times</titlenormal>
+		<titledash>The-Times</titledash>
+		<pageno>4</pageno>
+	</same>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>5</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>NewcastleCourant</title>
+		<titlenormal>Newcastle Courant</titlenormal>
+		<titledash>Newcastle-Courant</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>NorthWalesChronicle</title>
+		<titlenormal>NorthWales Chronicle</titlenormal>
+		<titledash>NorthWales-Chronicle</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>Examiner</title>
+		<titlenormal>Examiner</titlenormal>
+		<titledash>Examiner</titledash>
+		<pageno>12</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>LeedsMercury</title>
+		<titlenormal>Leeds Mercury</titlenormal>
+		<titledash>Leeds-Mercury</titledash>
+		<pageno>8</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>5</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>5</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>5</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>5</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>6</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>7</day>
+		<title>AberdeenJournal</title>
+		<titlenormal>Aberdeen Journal</titlenormal>
+		<titledash>Aberdeen-Journal</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>7</day>
+		<title>DerbyMercury</title>
+		<titlenormal>Derby Mercury</titlenormal>
+		<titledash>Derby-Mercury</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>7</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>LeedsMercury</title>
+		<titlenormal>Leeds Mercury</titlenormal>
+		<titledash>Leeds-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>Trewman'sExeterFlyingPost</title>
+		<titlenormal>Trewman's Exeter Flying Post</titlenormal>
+		<titledash>Trewmans-Exeter-Flying-Post</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>9</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>9</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>9</day>
+		<title>NewcastleCourant</title>
+		<titlenormal>Newcastle Courant</titlenormal>
+		<titledash>Newcastle-Courant</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>Jackson'sOxfordJournal</title>
+		<titlenormal>Jackson's Oxford Journal</titlenormal>
+		<titledash>Jacksons-Oxford-Journal</titledash>
+		<pageno>6</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>Examiner</title>
+		<titlenormal>Examiner</titlenormal>
+		<titledash>Examiner</titledash>
+		<pageno>13</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>LeedsMercury</title>
+		<titlenormal>Leeds Mercury</titlenormal>
+		<titledash>Leeds-Mercury</titledash>
+		<pageno>8</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>PrestonChronicle</title>
+		<titlenormal>Preston Chronicle</titlenormal>
+		<titledash>Preston-Chronicle</titledash>
+		<pageno>8</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>11</day>
+		<title>Reynold'sNewspaper</title>
+		<titlenormal>Reynold's Newspaper</titlenormal>
+		<titledash>Reynolds-Newspaper</titledash>
+		<pageno>5</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>12</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>12</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>12</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>13</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>13</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>14</day>
+		<title>AberdeenJournal</title>
+		<titlenormal>Aberdeen Journal</titlenormal>
+		<titledash>Aberdeen-Journal</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>14</day>
+		<title>DerbyMercury</title>
+		<titlenormal>Derby Mercury</titlenormal>
+		<titledash>Derby-Mercury</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>14</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>15</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>15</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>1</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>15</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>15</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>HullPacket</title>
+		<titlenormal>Hull Packet</titlenormal>
+		<titledash>Hull-Packet</titledash>
+		<pageno>8</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>NewcastleCourant</title>
+		<titlenormal>Newcastle Courant</titlenormal>
+		<titledash>Newcastle-Courant</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>BelfastNews-Letter</title>
+		<titlenormal>Belfast News-Letter</titlenormal>
+		<titledash>Belfast-News-Letter</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>18</day>
+		<title>Lloyd'sIllustratedNewspaper</title>
+		<titlenormal>Lloyd's Illustrated Newspaper</titlenormal>
+		<titledash>Lloyds-Illustrated-Newspaper</titledash>
+		<pageno>12</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>18</day>
+		<title>Reynold'sNewspaper</title>
+		<titlenormal>Reynold's Newspaper</titlenormal>
+		<titledash>Reynolds-Newspaper</titledash>
+		<pageno>5</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>19</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>19</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>19</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>19</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>20</day>
+		<title>BirminghamDailyPost</title>
+		<titlenormal>Birmingham Daily Post</titlenormal>
+		<titledash>Birmingham-Daily-Post</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>20</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>20</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>AberdeenJournal</title>
+		<titlenormal>Aberdeen Journal</titlenormal>
+		<titledash>Aberdeen-Journal</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>DerbyMercury</title>
+		<titlenormal>Derby Mercury</titlenormal>
+		<titledash>Derby-Mercury</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>22</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>22</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+</page>
+<page>
+	<year>1859</year>
+	<month>December</month>
+	<monthno>12</monthno>
+	<day>1</day>
+	<dayno>1</dayno>
+	<wp_author>Freemans Journal</wp_author>
+	<title>Freeman'sJournal</title>
+	<titlenormal>Freeman's Journal</titlenormal>
+	<titledash>Freemans-Journal</titledash>
+	<pageno>2</pageno>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>2</day>
+		<title>TheTimes</title>
+		<titlenormal>The Times</titlenormal>
+		<titledash>The-Times</titledash>
+		<pageno>12</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>3</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>3</day>
+		<title>Examiner</title>
+		<titlenormal>Examiner</titlenormal>
+		<titledash>Examiner</titledash>
+		<pageno>12</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>5</day>
+		<title>GlasgowHerald</title>
+		<titlenormal>Glasgow Herald</titlenormal>
+		<titledash>Glasgow-Herald</titledash>
+		<pageno>7</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>6</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>7</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>BelfastNews-Letter</title>
+		<titlenormal>Belfast News-Letter</titlenormal>
+		<titledash>Belfast-News-Letter</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>8</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>9</day>
+		<title>MorningChronicle</title>
+		<titlenormal>Morning Chronicle</titlenormal>
+		<titledash>Morning-Chronicle</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>LiverpoolMercury</title>
+		<titlenormal>Liverpool Mercury</titlenormal>
+		<titledash>Liverpool-Mercury</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>BelfastNews-Letter</title>
+		<titlenormal>Belfast News-Letter</titlenormal>
+		<titledash>Belfast-News-Letter</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>10</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>15</day>
+		<title>BelfastNews-Letter</title>
+		<titlenormal>Belfast News-Letter</titlenormal>
+		<titledash>Belfast-News-Letter</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>16</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>BelfastNews-Letter</title>
+		<titlenormal>Belfast News-Letter</titlenormal>
+		<titledash>Belfast-News-Letter</titledash>
+		<pageno>2</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>17</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>20</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>21</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+	<subsequent>
+		<year>1859</year>
+		<month>December</month>
+		<day>22</day>
+		<title>CaledonianMercury</title>
+		<titlenormal>Caledonian Mercury</titlenormal>
+		<titledash>Caledonian-Mercury</titledash>
+		<pageno>4</pageno>
+	</subsequent>
+</page>
